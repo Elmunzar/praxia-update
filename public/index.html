@@ -82,14 +82,19 @@
     <h2>Get the daily digest</h2>
 
     <h3 class="digest-h">📅 In your calendar</h3>
-    <p class="digest-p">Subscribe once — each day's issue shows up as an event linking that day's PDF,
-       kept up to date automatically.</p>
+    <p class="digest-p">Subscribe once and each day's issue appears as an event — kept up to date automatically.</p>
+    <div class="digest-actions">
+      <a id="addCal" class="btn btn-accent" href="#">➕ Add to calendar</a>
+      <a id="addGcal" class="btn" href="#" target="_blank" rel="noopener">Add to Google Calendar</a>
+    </div>
+    <p class="digest-hint">Or paste this address into your calendar app (Outlook, etc.):</p>
     <div class="copy-row">
       <input id="icsUrl" type="text" readonly />
       <button class="btn btn-accent" id="copyIcs">Copy</button>
     </div>
-    <p class="digest-hint">Apple Calendar: File → New Calendar Subscription &nbsp;·&nbsp;
-       Google: Other calendars → From URL &nbsp;·&nbsp; Outlook: Add calendar → Subscribe from web.</p>
+    <p class="digest-hint"><strong>Want it by email too?</strong> After subscribing, open that calendar's
+       settings and switch its notifications to <strong>Email</strong>. In Google Calendar: the calendar →
+       <em>Event notifications</em> → <em>Email</em>. Your calendar then emails you each morning.</p>
 
     <hr class="digest-sep" />
 

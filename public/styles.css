@@ -185,6 +185,8 @@ main { padding: 22px 20px 40px; }
 .digest-p { margin: 0; font-size: 13px; color: var(--muted); }
 .digest-hint { margin: 7px 0 0; font-size: 11.5px; color: var(--muted); }
 .digest-sep { border: none; border-top: 1px solid var(--line); margin: 18px 0 0; }
+.digest-actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 10px; }
+.digest-actions .btn { text-decoration: none; }
 
 @media (max-width: 560px) {
   .masthead h1 { font-size: 24px; }

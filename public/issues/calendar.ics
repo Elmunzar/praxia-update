@@ -10,412 +10,412 @@ X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:praxia-update-2026-06-13@praxia
-DTSTAMP:20260613T195931Z
+DTSTAMP:20260613T215033Z
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
 SUMMARY:Praxia Update — 49 new articles
 DESCRIPTION:49 newly indexed orthopaedic articles across 10 journals.\n\n
- 📄 Open the full issue (PDF): https://elmunzarr.github.io/praxia-updat
- e/issues/2026-06-13.pdf\n🔗 Browse in the app: https://elmunzarr.githu
- b.io/praxia-update/?date=2026-06-13\n\n— American Journal of Sports Me
- dicine (1) —\n• Partial Tenotomy and Reattachment for Chronic Proxim
- al Hamstring Tendinopathy: Functional Outcomes\, Return to Sport\, and P
- atient Satisfaction.\n  Lefèvre N\, Moussa MK\, Valentin E\, Hadjam T\,
-  Gerometta A\, Grimaud O et al.\n  PubMed https://pubmed.ncbi.nlm.nih.go
- v/42281221/  DOI https://doi.org/10.1177/03635465261453077\n  BACKGROUND
- : Chronic proximal hamstring tendinopathy (PHT) can cause significant pa
- in and functional impairment\, particularly in active individuals. While
-  nonoperative management is the first-line treatment\, some patients wit
- h persistent symptoms may require surgical intervention. PURPOSE: To eva
- luate the functional […]\n\n— Clinical Orthopaedics & Related Resear
- ch (6) —\n• Long-term Oncologic Outcomes After Unplanned Soft Tissue
-  Sarcoma Surgery: Implications for Surveillance Strategies.\n  Jahn J\, 
- Dean KK\, Travis LM\, Daftari M\, Costello JP\, Shloush M et al.\n  PubM
- ed https://pubmed.ncbi.nlm.nih.gov/42284494/  DOI https://doi.org/10.109
- 7/CORR.0000000000004026\n  BACKGROUND: Unplanned excision refers to the 
- resection of soft tissue sarcomas without appropriate preoperative imagi
- ng\, histologic confirmation\, or oncologic planning. Although the short
- -term oncologic risks of unplanned excisions are well described\, data o
- n long-term outcomes remain limited. QUESTIONS/PURPOSES: […]\n• Lett
- er to the Editor: Editorial: AAOS Orthobiologics Registry-Sometimes\, Mo
- re is Less.\n  Wang X\, Shen W\n  PubMed https://pubmed.ncbi.nlm.nih.gov
- /42284481/  DOI https://doi.org/10.1097/CORR.0000000000004028\n• Does 
- Liposomal Bupivacaine Provide Superior Postoperative Analgesia Compared 
- With Ropivacaine With Dexamethasone in Suprainguinal Fascia Iliaca Compa
- rtment Block for THA? A Randomized Controlled Trial.\n  Wu W\, Hu X\, Ya
- ng C\, Sun Y\, Li J\, Wang L\n  PubMed https://pubmed.ncbi.nlm.nih.gov/4
- 2284069/  DOI https://doi.org/10.1097/CORR.0000000000003907\n  BACKGROUN
- D: Choosing the most effective pain management is important for enhancin
- g functional recovery after surgery. The fascia iliaca compartment block
-  (FICB) is recommended for analgesia after THA\, but whether liposomal b
- upivacaine is more effective for this application remains uncertain. QUE
- STIONS/PURPOSES: (1) […]\n• Is Neighborhood Socioeconomic Deprivatio
- n Associated With Outcomes Following Primary THA and TKA? A Systematic R
- eview Utilizing the Area Deprivation Index.\n  Furyes AR\, Elmenawi KA\,
-  Hackett L\, Deren ME\, Piuzzi NS\n  PubMed https://pubmed.ncbi.nlm.nih.
- gov/42275670/  DOI https://doi.org/10.1097/CORR.0000000000004018\n  BACK
- GROUND: Socioeconomic disadvantage is increasingly recognized as an impo
- rtant factor associated with outcomes after total joint arthroplasty (TJ
- A). The Area Deprivation Index (ADI) has emerged as a validated measure 
- of socioeconomic disadvantage that specifically captures individual neig
- hborhood levels of […]\n• Editor's Spotlight/Take 5: How Does Trauma
- tic Hand Injury Impact Patients in a Safety-net Healthcare System? A Mix
- ed Methods Study.\n  Wongworawat MD\n  PubMed https://pubmed.ncbi.nlm.ni
- h.gov/42275649/  DOI https://doi.org/10.1097/CORR.0000000000004020\n• 
- Letter to the Editor: Guest Editorial: Recalling a Recall.\n  Doyle TR\,
-  Hennessy O\, Keogh CJ\, Hughes AJ\, Kenny PJ\, Sheridan GA et al.\n  Pu
- bMed https://pubmed.ncbi.nlm.nih.gov/42269720/  DOI https://doi.org/10.1
- 097/CORR.0000000000004019\n\n— JBJS (American) (3) —\n• A System i
- n Motion: The Evolution of Orthopaedic Care in Romania.\n  Dragosloveanu
-  S\, Nedelea DG\, Scheau C\n  PubMed https://pubmed.ncbi.nlm.nih.gov/422
- 84371/  DOI https://doi.org/10.2106/JBJS.26.00188\n  ➢ Romanian orthop
- aedic practice has demonstrated a growing uptake of digital infrastructu
- re\, including the implementation of robotic-assisted surgical workflows
-  and emerging applications of artificial intelligence.➢ Romania ranks 
- among the European countries with the highest hospital bed capacity per 
- capita\, […]\n• Comparative Analysis of Immune Cell-Type Abundances 
- in Periprosthetic Tissues Across Arthroplasty Failure Etiologies: Use of
-  Transcriptomic Deconvolution.\n  Li Y\, Wang F\, Li Y\, Mu W\, Ji B\, Z
- hang X et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42275484/  DOI h
- ttps://doi.org/10.2106/JBJS.25.01505\n  BACKGROUND: Although cellularity
-  is traditionally evaluated morphologically\, an emerging transcriptome-
- sequencing-based algorithm enables simultaneous inference of cellular in
- formation. We studied whether cellularity profiles predicted using CIBER
- SORTx would (1) depict immune cell-type abundances in periprosthetic [
- …]\n• Minimal Movement Restrictions Do Not Increase Hip Dislocations
-  Following Total Hip Arthroplasty: A Before-and-After Study of 10\,357 P
- atients.\n  Klaassen AD\, Willigenburg NW\, Musters JWQ\, Jager J\, Pool
- man RW\, Santeon Hip Osteoarthritis Group\n  PubMed https://pubmed.ncbi.
- nlm.nih.gov/42274751/  DOI https://doi.org/10.2106/JBJS.25.00121\n  BACK
- GROUND: Hip dislocation is the most common reason for early revision aft
- er total hip arthroplasty (THA). To prevent dislocation\, patients are o
- ften prescribed movement restrictions following THA\; however\, these re
- strictions can be uncomfortable and limiting for patients and may delay 
- a return to daily activities. […]\n\n— The Journal of Arthroplasty (
- 14) —\n• Propensity Score-Matched Comparison of Patient-Reported Out
- comes Between Crowe I Developmental Dysplasia of the Hip and Primary Ost
- eoarthritis Following Total Hip Arthroplasty.\n  Saluja A\, Eschert J\, 
- Ren R\, Wong Z\, Su E\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42285326
- /  DOI https://doi.org/10.1016/j.arth.2026.06.023\n  BACKGROUND: Total h
- ip arthroplasty (THA) is commonly performed for Crowe I developmental dy
- splasia of the hip (DDH) and primary osteoarthritis (OA)\, but comparati
- ve survivorship and patient-reported outcome measure (PROM) data remain 
- limited with mixed findings. This study aimed to compare PROMs\, revisio
- n rates\, and […]\n• What Factors Increase the Risk of Dislocation a
- fter Primary Total Hip Arthroplasty Using the Direct Anterior Approach?.
- \n  Murphy MP\, Forti CR\, Ho H\, Hopper RH\, Hamilton WG\n  PubMed http
- s://pubmed.ncbi.nlm.nih.gov/42285325/  DOI https://doi.org/10.1016/j.art
- h.2026.06.017\n  BACKGROUND: While the direct anterior approach (DAA) fo
- r total hip arthroplasty (THA) is associated with a lower risk of disloc
- ation\, this complication has not been eliminated and can be acutely dis
- abling when it occurs. This study aimed to identify patient\, surgical\,
-  and radiographic factors that contribute to […]\n• Robotic Total Hi
- p Arthroplasty in Atypical Hip Anatomy: Accuracy of Component Positionin
- g and Clinical Outcomes in 192 Complex Cases.\n  Kayani B\, Enson J\, Do
- naldson J\, Miles J\, Newman S\, Jayadev C et al.\n  PubMed https://pubm
- ed.ncbi.nlm.nih.gov/42285324/  DOI https://doi.org/10.1016/j.arth.2026.0
- 6.014\n  BACKGROUND: The objectives of this study were to determine the 
- accuracy of component positioning\, patient satisfaction\, functional ou
- tcomes\, component survivorship\, and complications of robotic total hip
-  arthroplasty (THA) in patients who have atypical hip anatomy. METHODS: 
- This study included 192 robotic THAs […]\n• Social Determinants of H
- ealth Z-Codes are Associated with Low Compliance with Patient-Reported O
- utcome Measures after Total Hip Arthroplasty.\n  Parry M\, Ozdag Y\, Klo
- c A\, Salvato J\, Mercuri JJ\n  PubMed https://pubmed.ncbi.nlm.nih.gov/4
- 2285323/  DOI https://doi.org/10.1016/j.arth.2026.06.022\n  INTRODUCTION
- : There is limited literature on compliance rates for completing patient
- -reported outcome measures (PROMs) after elective total hip arthroplasty
-  (THA). Social Determinants of Health (SDOH) refers to social factors th
- at are not classifiable elsewhere that can have major impact on healthca
- re outcomes. The […]\n• Differences Between Inpatient and Outpatient
-  Medicare Total Knee Arthroplasty: Substantial Clinical Benefit Threshol
- ds on Knee Injury and Osteoarthritis Outcome Score for Joint Replacement
- .\n  Patel SV\, Pasqualini I\, Khan ST\, Elmenawi KA\, Zhang C\, Piuzzi 
- NS et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42285322/  DOI https
- ://doi.org/10.1016/j.arth.2026.06.019\n  BACKGROUND: The Centers for Med
- icare & Medicaid Services (CMS) Patient-Reported Outcome-Based Performan
- ce Measure (PRO-PM) mandates collection of patient-reported outcome meas
- ures (PROMs) after total knee arthroplasty (TKA) and defines success as 
- achieving substantial clinical benefit (SCB) on the Knee injury and […
- ]\n• Risk and Benefit Profile with Concurrent Nonsteroidal Anti-Inflam
- matory Drugs and Direct Oral Anticoagulants Following Total Knee Arthrop
- lasty.\n  Paul BR\, Verhey JT\, Haak GM\, Braithwaite CL\, Tarabichi S\,
-  Christopher ZK et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/4228532
- 1/  DOI https://doi.org/10.1016/j.arth.2026.06.016\n  BACKGROUND: Nonste
- roidal anti-inflammatory drugs (NSAIDs) are commonly prescribed after to
- tal knee arthroplasty (TKA) for analgesia and inflammation control in co
- njunction with direct oral anticoagulants (DOACs) for venous thromboembo
- lism (VTE) prophylaxis in high-risk patients. In non-orthopaedic populat
- ions\, […]\n• Complications of Ceramic-on-Ceramic Total Hip Arthropl
- asty with Large Heads: 10-Year Minimum Follow-Up.\n  Lee DH\, Park JW\, 
- Jung WH\, Kim TY\, Ha YC\, Koo KH et al.\n  PubMed https://pubmed.ncbi.n
- lm.nih.gov/42285320/  DOI https://doi.org/10.1016/j.arth.2026.06.015\n  
- BACKGROUND: The fourth-generation ceramic bearings allow the use of larg
- er femoral heads\, but inevitably create thinner liners\, raising concer
- ns regarding liner fracture and long-term biological responses. We exten
- ded our study to evaluate late dislocation\, ceramic-related complicatio
- ns\, and long-term clinical and […]\n• Disparities in Preoperative W
- eight Loss and Obesity Treatment Before Total Joint Arthroplasty.\n  Sew
- ard MW\, Grimm JA\, Bedard NA\, Hannon CP\, Berry DJ\, Abdel MP\n  PubMe
- d https://pubmed.ncbi.nlm.nih.gov/42285319/  DOI https://doi.org/10.1016
- /j.arth.2026.06.021\n  BACKGROUND: Institutions often implement body mas
- s index (BMI) cutoffs for offering total hip (THA) and knee (TKA) arthro
- plasty. The goals of this study were to determine disparities in preoper
- ative obesity prevalence\, obesity treatment utilization\, and weight lo
- ss efficacy. METHODS: Among 21\,038 primary THAs and […]\n• A Propos
- ed Alternative Sampling Strategy for Centers for Medicare & Medicaid Ser
- vices Arthroplasty Patient-Reported Outcome Performance Measure Complian
- ce.\n  Lyman S\, Chin A\, Alschuler DM\, Brill CO\, Fontana M\, MacLean 
- C et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42269953/  DOI https:
- //doi.org/10.1016/j.arth.2026.06.003\n  INTRODUCTION: The Centers for Me
- dicare & Medicaid Services (CMS) mandate reporting of Hip disability and
-  Osteoarthritis Outcome Score for Joint Replacement (HOOS\, JR.) and Kne
- e injury and Osteoarthritis Outcome Score for Joint Replacement (KOOS\, 
- JR.) to support a hospital-level patient-reported outcome performance [
- …]\n• First Revision Total Hip Arthroplasty for Instability: 10-Year
-  Outcomes and Risk Factors Associated with Re-Revision.\n  Yapp LZ\, How
- ard LC\, Greidanus NV\, Garbuz DS\, Masri BA\, Neufeld ME\n  PubMed http
- s://pubmed.ncbi.nlm.nih.gov/42269952/  DOI https://doi.org/10.1016/j.art
- h.2026.06.002\n  BACKGROUND: Recurrent instability remains a leading cau
- se of failure after revision total hip arthroplasty (rTHA). This study a
- ssessed the 10-year survivorship of the first rTHA when undertaken for i
- nstability and identified factors associated with failure. METHODS: We r
- etrospectively identified all consecutive rTHA […]\n• Jumbo Femoral 
- Heads in Total Hip Arthroplasty: Improved Early Stability Without Added 
- Complications.\n  Kim BI\, Cheng R\, Grabov E\, Debbi EM\, Vigdorchik JM
- \, Mayman DJ et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42269951/ 
-  DOI https://doi.org/10.1016/j.arth.2026.06.007\n  BACKGROUND: Larger fe
- moral heads have been proposed to reduce dislocation risk following tota
- l hip arthroplasty (THA). While the benefit of increasing head size from
-  28 or 32 mm to ≥ 36 mm is well established\, it remains unclear wheth
- er jumbo (40 or 44 mm) femoral heads confer additional stability over tr
- aditional […]\n• Dogma Under the Knife: Challenging the Status Quo i
- n Primary Total Knee Arthroplasty.\n  Padgett BM\, Terhune EB\, Chalmers
-  BP\, Pagnano MW\, Hannon CP\n  PubMed https://pubmed.ncbi.nlm.nih.gov/4
- 2269950/  DOI https://doi.org/10.1016/j.arth.2026.05.077\n  INTRODUCTION
- : Primary total knee arthroplasty (TKA) is among the most successful pro
- cedures in orthopaedic surgery\, reliably providing pain relief\, functi
- onal improvement\, and durable implant survivorship. Despite these achie
- vements\, approximately 10 to 20% of patients report persistent dissatis
- faction following […]\n• Revision Total Joint Arthroplasty at the Am
- bulatory Surgery Center: A Single Institutional Experience.\n  Acuña AJ
- \, Potluri AS\, Yadav AS\, Alfonsi S\, Forlenza EM\, Della Valle CJ\n  P
- ubMed https://pubmed.ncbi.nlm.nih.gov/42269949/  DOI https://doi.org/10.
- 1016/j.arth.2026.06.009\n  INTRODUCTION: The safety and efficacy of outp
- atient primary total joint arthroplasty (TJA) in appropriately selected 
- patients have been established. As rates of revision TJA (rTJA) continue
-  to increase\, there is growing interest regarding the complications and
-  revision incidence among procedures performed in the […]\n• The "Di
- stal Femoral Replacement Downgrade": Technique of Using Bicondylar Femor
- al Cones with a Hinge Total Knee Arthroplasty Revision in Patients Who H
- ave Massive Distal Femoral Bone Loss as an Alternative.\n  Chalmers BP\,
-  Afzal S\, Bhatti P\, Anatone AJ\, Blevins JL\, Debbi EM et al.\n  PubMe
- d https://pubmed.ncbi.nlm.nih.gov/42269948/  DOI https://doi.org/10.1016
- /j.arth.2026.05.076\n  BACKGROUND: Massive femoral bone loss with collat
- eral insufficiency in revision total knee arthroplasty (TKA) is often ma
- naged with distal femoral replacement (DFR)\, but this procedure sacrifi
- ces bone stock and carries notable risks. We described outcomes of a bon
- e-preserving alternative (the "DFR downgrade") that […]\n\n— Journal
-  of Orthopaedics & Traumatology (1) —\n• Does the surgical sequence 
- of lumbar spine fusion and total hip arthroplasty affect the dislocation
-  and revision risk? A meta‑analysis and systematic review.\n  Liu F\, 
- Jia C\, Wu X\, Zhou Y\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42283757
- /  DOI https://doi.org/10.1186/s10195-026-00943-5\n  BACKGROUND: Patient
- s who underwent primary total hip arthroplasty (THA) after lumbar spine 
- fusion (LSF) had a higher incidence of complications compared with those
-  who had not previously undergone LSF. This study aimed to determine whe
- ther the timing of THA before or after LSF impacts the incidence of THA 
- […]\n\n— Journal of Orthopaedic Trauma (4) —\n• Letter to the Ed
- itor Regarding "Proton Pump Inhibitors Are Associated With Increased Ris
- k of Site-Specific Nonunion After Open Reduction Internal Fixation".\n  
- Ayas O\, Acar A\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42283431/  DOI
-  https://doi.org/10.1097/BOT.0000000000003171\n• Response to "Competin
- g-Risks Re-estimation of Five-Year Second Hip Fracture Risk: Accounting 
- for Death as a Competing Event".\n  Konda SR\n  PubMed https://pubmed.nc
- bi.nlm.nih.gov/42283430/  DOI https://doi.org/10.1097/BOT.00000000000031
- 69\n• Response Letter to the Editor Regarding Article "Orthopaedic Tra
- uma Association Annual Meetings Consistently Provide Academic Value for 
- Attendees".\n  Greenhill DA\, Lundy D\, Imam N\, Jain N\n  PubMed https:
- //pubmed.ncbi.nlm.nih.gov/42274352/  DOI https://doi.org/10.1097/BOT.000
- 0000000003233\n• Letter to the Editor Regarding Article "Orthopaedic T
- rauma Association Annual Meetings Consistently Provide Academic Value fo
- r Attendees.".\n  Blomberg JR\n  PubMed https://pubmed.ncbi.nlm.nih.gov/
- 42274327/  DOI https://doi.org/10.1097/BOT.0000000000003234\n\n— Archi
- ves of Orthopaedic & Trauma Surgery (4) —\n• Does the tendon retract
-  in flexor hallucis longus muscle laceration? A cadaveric study.\n  Ayd
- ın M\, Şahin Y\, Yağar H\, Çiçek F\, Ceranoğlu FG\, Mert A et al.\
- n  PubMed https://pubmed.ncbi.nlm.nih.gov/42286366/  DOI https://doi.org
- /10.1007/s00402-026-06378-1\n  INTRODUCTION: Flexor hallucis longus (FHL
- ) tendon injuries are common\, particularly in open injuries caused by s
- harp objects. However\, data regarding FHL tendon retraction following h
- allux-level FHL tendon lacerations remain limited. This study investigat
- ed the retraction and shortening of the FHL tendon using […]\n• Earl
- y-onset rice body synovitis of the knee in children under three years: a
-  case series and review of the literature.\n  Zhu L\, Liu C\, Liu Y\, Ma
- o B\, Huang Y\, Wen J et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/4
- 2283947/  DOI https://doi.org/10.1007/s00402-026-06373-6\n  OBJECTIVE: R
- ice body synovitis reports have been rarely reported in children under t
- hree years of age. We aimed to explore the clinical characteristics and 
- treatment experience of rice body-like synovitis in children's knees. ME
- THODS: We retrospectively analyzed the clinical and imaging data of 4 ca
- ses (5 knees) of […]\n• Extravertebral temperature exposure during s
- pinal radiofrequency ablation: an experimental surrogate assessment of n
- eural injury risk.\n  Weigert A\, Hoffmann RT\, Büttner A\, Zaccaria R\
- , Wegener V\, Holzapfel BM et al.\n  PubMed https://pubmed.ncbi.nlm.nih.
- gov/42283904/  DOI https://doi.org/10.1007/s00402-026-06359-4\n  BACKGRO
- UND: Radiofrequency ablation (RFA) has become an important minimally inv
- asive option for the treatment of painful spinal tumors and benign bone 
- lesions. While its effectiveness within the vertebral body is well estab
- lished\, there is ongoing concern about unintended heat exposure of near
- by neural structures. […]\n• Giant cell tumor of bone: exploring Htr
- A1 as a potential predictor of recurrence.\n  Mirioglu A\, Dalkir KA\, G
- okmen MY\, Bagir M\, Ates KE\, Deveci MA et al.\n  PubMed https://pubmed
- .ncbi.nlm.nih.gov/42283760/  DOI https://doi.org/10.1007/s00402-026-0637
- 4-5\n  INTRODUCTION: Giant cell tumor of bone (GCTB) is a locally aggres
- sive tumor with a considerable risk of recurrence\, but reliable predict
- ive markers are limited. High-temperature requirement A serine peptidase
-  1 (HtrA1) has been implicated in the progression of several cancers and
-  may also play a role in GCTB […]\n\n— Injury (11) —\n• More tha
- n meets the eye: the continuing importance of tertiary trauma survey eve
- n in moderate (ISS 9-15) trauma.\n  Knight C\, Burke JR\, Hind S\, Smith
-  SR\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42285813/  DOI https://doi
- .org/10.1016/j.injury.2026.113370\n  INTRODUCTION: Tertiary Trauma Surve
- ys (TTS) are designed to identify injuries which are not recognised duri
- ng the primary and secondary surveys. These injuries occur in up to 40% 
- of patients and are commonly referred to in the literature as "missed"\,
-  we prefer the term "unrecognised" as this term does not infer the […]
- \n• CTA-detected incidence and descriptive fracture patterns of arteri
- al injury in 539 surgically treated tibial plateau fractures.\n  Valderr
- ama J\, Narváez F\, Cancino J\, Raffo JF\, Bosselin R\, Zamora F et al.
- \n  PubMed https://pubmed.ncbi.nlm.nih.gov/42285812/  DOI https://doi.or
- g/10.1016/j.injury.2026.113403\n  BACKGROUND: Tibial plateau fractures (
- TPF) are complex injuries associated with significant soft tissue and pe
- riarticular complications. Although vascular injuries are well described
-  in lower limb trauma\, their incidence in tibial plateau fractures has 
- not been clearly established. METHODS: Retrospective cohort study […]\
- n• Diagnostic value of serum troponin in stable patients at risk for b
- lunt cardiac injury.\n  Cleary HL\, Bernard MD\, Davenport DL\, Bernard 
- AC\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42285811/  DOI https://doi.
- org/10.1016/j.injury.2026.113448\n  INTRODUCTION: There are no gold stan
- dard criteria for diagnosing blunt cardiac injury (BCI). While the combi
- nation of electrocardiogram (ECG) and serum troponin is considered the m
- ost sensitive screening method for those being considered for discharge\
- , little evidence exists regarding the diagnostic value and clinical [
- …]\n• Risk Factors for Failure of Repair of Diaphyseal Tibial Nonuni
- ons: A Retrospective Cohort Study of 108 Patients.\n  Fan S\, Wagner RK\
- , Lehle CH\, Musick AN\, Gregg AT\, Janssen SJ et al.\n  PubMed https://
- pubmed.ncbi.nlm.nih.gov/42284799/  DOI https://doi.org/10.1016/j.injury.
- 2026.113421\n  OBJECTIVES: To determine rates and risk factors for addit
- ional nonunion surgery and final radiographic healing following diaphyse
- al tibial nonunion repair. METHODS: All consecutive patients aged ≥18 
- years who underwent diaphyseal (AO/OTA 42) tibial nonunion repair with (
- exchange) intramedullary nailing (IMN) or open […]\n• Superior survi
- val\, hemodynamics\, and metabolic recovery using PEG-20k-based low vol
- ume resuscitation in a polytrauma hemorrhagic shock model in rats.\n  Kh
- oraki J\, Payne C\, Lust D\, Mangino MJ\, Liebrecht LK\n  PubMed https:/
- /pubmed.ncbi.nlm.nih.gov/42284798/  DOI https://doi.org/10.1016/j.injury
- .2026.113379\n  BACKGROUND: Hemorrhagic shock is a major cause of preven
- table civilian and military trauma death. Although whole blood and blood
-  products remain the standard of care\, field‑stable alternatives are 
- needed for resource‑limited environments and supply‑chain disruption
- s. Blood‑based resuscitation may also fail to […]\n• The forequart
- er lateral implosion injury: A diagnostic paradigm and Ch-Sh (chɛ-shɑ)
-  classification.\n  George A\, Paull TZ\, Winter JD\, Levine J\, Cole PA
- \n  PubMed https://pubmed.ncbi.nlm.nih.gov/42275819/  DOI https://doi.or
- g/10.1016/j.injury.2026.113373\n  BACKGROUND: The lateral impaction forc
- e against the shoulder often causes multiple lesions to the forequarter 
- including the chest wall. The purpose of this study is to describe the i
- njury patterns and associated pathology in patients with combined chest 
- wall and shoulder girdle injuries- forequarter lateral implosion […]\n
- • The fate of stage I Masquelet cement spacers in long bone reconstruc
- tion for acute fractures.\n  Dekle JK\, Sisk CK\, Litten RM\, Alcaide DM
- \, McIlwain RN\, Wilson AL et al.\n  PubMed https://pubmed.ncbi.nlm.nih.
- gov/42275818/  DOI https://doi.org/10.1016/j.injury.2026.113423\n  INTRO
- DUCTION: The Masquelet technique is widely used for reconstruction of se
- gmental long bone defects following acute fractures\; however\, not all 
- patients progress to the second-stage bone grafting procedure. The purpo
- se of this study was to characterize Stage II completion following Stage
-  I Masquelet cement spacer […]\n• Rethinking the Lisfranc injury: Ra
- tionale for and development of a new classification system for Lisfranc 
- injuries.\n  Cawley WCF\, Hwang P\, Mittal R\, Zochowski Y\, Darwish I\,
-  O'Keefe R et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42275817/  D
- OI https://doi.org/10.1016/j.injury.2026.113422\n  BACKGROUND: The Lisfr
- anc joint comprises the articulations between the cuneiforms and bases o
- f the metatarsals and is susceptible to a variety of complex injuries wh
- ich are frequently missed or diagnosed late. This can result in morbidit
- y with poor outcomes\, and renders it challenging to standardise managem
- ent and […]\n• Injury and trauma care training in global health: A s
- coping review of costs and cost-effectiveness across resource settings.\
- n  Phan HT\, Nguyen BT\, Zhao T\, Phung LT\, Keakabetse TR\, Dinh TTN et
-  al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42269563/  DOI https://do
- i.org/10.1016/j.injury.2026.113433\n  INTRODUCTION: Injury is a leading 
- cause of death and disability worldwide\, with a disproportionate burden
-  in low- and middle-income countries\, where health resources are constr
- ained and funding decisions are highly cost-sensitive. Injury and trauma
-  care training programs have demonstrated their effectiveness in […]\n
- • Do reduced screws have a significant impact on fixation in medial op
- en wedge high tibial osteotomy? A comparative fatigue and stability anal
- ysis.\n  Özkaya M\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42269562/  
- DOI https://doi.org/10.1016/j.injury.2026.113430\n  INTRODUCTION: Medial
-  opening wedge high tibial osteotomy generally employs T-shaped plates w
- ith three or more proximal screws to ensure stabilization. This study ai
- ms to evaluate the biomechanical necessity of the standard three screw p
- roximal configuration of the T-shaped plates and investigates whether fi
- xations […]\n• Moving beyond mortality measurements after road traff
- ic injuries: Ten-year death risk after road traffic injuries.\n  Cherchi
- glia ML\, Mougin V\, Gray A\, Wool EE\, Malta DC\, Melo APS et al.\n  Pu
- bMed https://pubmed.ncbi.nlm.nih.gov/42269561/  DOI https://doi.org/10.1
- 016/j.injury.2026.113378\n  Road traffic injuries (RTIs) represent a sig
- nificant global public health issue\, particularly in low- and middle-in
- come countries like Brazil. Despite the high mortality rates and associa
- ted costs\, there is limited comprehensive literature addressing long-te
- rm mortality resulting from RTIs. Most research tends to […]\n\n— Eu
- ropean Journal of Trauma & Emergency Surgery (4) —\n• Denis pattern-
- dependent biomechanical behavior of posterior trans-iliac plate fixation
-  compared with bilateral triangular osteosynthesis in unilateral sacral 
- fractures: a finite element study.\n  Yang J\, Böker KO\, Li C\, Schill
- ing AF\, Ritter Z\, Acharya M et al.\n  PubMed https://pubmed.ncbi.nlm.n
- ih.gov/42283813/  DOI https://doi.org/10.1007/s00068-026-03238-w\n  OBJE
- CTIVE: Posterior trans-iliac plate osteosynthesis (TPO) is commonly used
-  for the stabilization of unilateral vertically unstable sacral fracture
- s. However\, its biomechanical performance across different Denis fractu
- re patterns remains unclear. This study aimed to investigate the fractur
- e pattern-dependent […]\n• Factors associated with in-hospital morta
- lity in necrotising soft tissue infections. a multicentre retrospective 
- cohort study.\n  Podda M\, Ceresoli M\, Virdis F\, Rosa F\, Pilia T\, Mu
- rzi V et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42283768/  DOI ht
- tps://doi.org/10.1007/s00068-026-03242-0\n  PURPOSE: Necrotising soft ti
- ssue infections (NSTIs) are rare but life-threatening conditions associa
- ted with high mortality rates. This multicentre study aimed to identify 
- admission variables associated with in-hospital mortality. METHODS: This
-  retrospective study included adult patients with surgically confirmed [
- …]\n• Influence of frailty on short-term mortality in older patients
-  with multiple trauma in the emergency department.\n  Çelik Ş\, Toker 
- A\, Biçer S\, Cebecioğlu İK\n  PubMed https://pubmed.ncbi.nlm.nih.gov
- /42274738/  DOI https://doi.org/10.1007/s00068-026-03214-4\n  PURPOSE: T
- o investigate the association between frailty and 28-day mortality in ol
- der patients presenting to the emergency department with multiple trauma
-  and to assess the discriminative performance of PRISMA-7 and the Trauma
- -Specific Frailty Index (TSFI) in frailty assessment in relation to comm
- only used trauma […]\n• Mortality prediction in older adults with ea
- rthquake-related trauma: a model combining MEWS and laboratory biomarker
- s.\n  Ozen A\, Acehan S\, Satar S\, Bulut EA\, Gulen M\, Nıgız K et al
- .\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42271044/  DOI https://doi.o
- rg/10.1007/s00068-026-03232-2\n  PURPOSE: This study aimed to identify l
- aboratory parameters and clinical scores that can predict in-hospital mo
- rtality among patients aged 65 years and older who presented to the emer
- gency department (ED) with earthquake-related trauma following the Febru
- ary 6 and 20\, 2023 earthquakes. METHODS: In this retrospective […]\n\
- n— Arthroplasty Today (1) —\n• Impact of Preoperative Osteoporotic
-  Medications on Total Hip Arthroplasty Outcomes.\n  Antonioli SS\, Ruff 
- G\, Leung N\, Patel A\, Schwarzkopf R\, Cohen-Rosenblum A\n  PubMed http
- s://pubmed.ncbi.nlm.nih.gov/42281841/  DOI https://doi.org/10.1016/j.art
- d.2026.102026\n  BACKGROUND: Osteoporosis (OP) is a common comorbidity i
- n patients undergoing total hip arthroplasty (THA) and is a known risk f
- actor for poor postoperative outcomes such as periprosthetic fracture (P
- PF). The impact of preoperative OP medications in patients with OP under
- going THA remains unclear. This study aimed to […]
-URL:https://elmunzarr.github.io/praxia-update/issues/2026-06-13.pdf
+ 📄 Open the full issue (PDF): https://elmunzar.github.io/praxia-update
+ /issues/2026-06-13.pdf\n🔗 Browse in the app: https://elmunzar.github.
+ io/praxia-update/?date=2026-06-13\n\n— American Journal of Sports Medi
+ cine (1) —\n• Partial Tenotomy and Reattachment for Chronic Proximal
+  Hamstring Tendinopathy: Functional Outcomes\, Return to Sport\, and Pat
+ ient Satisfaction.\n  Lefèvre N\, Moussa MK\, Valentin E\, Hadjam T\, G
+ erometta A\, Grimaud O et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/
+ 42281221/  DOI https://doi.org/10.1177/03635465261453077\n  BACKGROUND: 
+ Chronic proximal hamstring tendinopathy (PHT) can cause significant pain
+  and functional impairment\, particularly in active individuals. While n
+ onoperative management is the first-line treatment\, some patients with 
+ persistent symptoms may require surgical intervention. PURPOSE: To evalu
+ ate the functional […]\n\n— Clinical Orthopaedics & Related Research
+  (6) —\n• Long-term Oncologic Outcomes After Unplanned Soft Tissue S
+ arcoma Surgery: Implications for Surveillance Strategies.\n  Jahn J\, De
+ an KK\, Travis LM\, Daftari M\, Costello JP\, Shloush M et al.\n  PubMed
+  https://pubmed.ncbi.nlm.nih.gov/42284494/  DOI https://doi.org/10.1097/
+ CORR.0000000000004026\n  BACKGROUND: Unplanned excision refers to the re
+ section of soft tissue sarcomas without appropriate preoperative imaging
+ \, histologic confirmation\, or oncologic planning. Although the short-t
+ erm oncologic risks of unplanned excisions are well described\, data on 
+ long-term outcomes remain limited. QUESTIONS/PURPOSES: […]\n• Letter
+  to the Editor: Editorial: AAOS Orthobiologics Registry-Sometimes\, More
+  is Less.\n  Wang X\, Shen W\n  PubMed https://pubmed.ncbi.nlm.nih.gov/4
+ 2284481/  DOI https://doi.org/10.1097/CORR.0000000000004028\n• Does Li
+ posomal Bupivacaine Provide Superior Postoperative Analgesia Compared Wi
+ th Ropivacaine With Dexamethasone in Suprainguinal Fascia Iliaca Compart
+ ment Block for THA? A Randomized Controlled Trial.\n  Wu W\, Hu X\, Yang
+  C\, Sun Y\, Li J\, Wang L\n  PubMed https://pubmed.ncbi.nlm.nih.gov/422
+ 84069/  DOI https://doi.org/10.1097/CORR.0000000000003907\n  BACKGROUND:
+  Choosing the most effective pain management is important for enhancing 
+ functional recovery after surgery. The fascia iliaca compartment block (
+ FICB) is recommended for analgesia after THA\, but whether liposomal bup
+ ivacaine is more effective for this application remains uncertain. QUEST
+ IONS/PURPOSES: (1) […]\n• Is Neighborhood Socioeconomic Deprivation 
+ Associated With Outcomes Following Primary THA and TKA? A Systematic Rev
+ iew Utilizing the Area Deprivation Index.\n  Furyes AR\, Elmenawi KA\, H
+ ackett L\, Deren ME\, Piuzzi NS\n  PubMed https://pubmed.ncbi.nlm.nih.go
+ v/42275670/  DOI https://doi.org/10.1097/CORR.0000000000004018\n  BACKGR
+ OUND: Socioeconomic disadvantage is increasingly recognized as an import
+ ant factor associated with outcomes after total joint arthroplasty (TJA)
+ . The Area Deprivation Index (ADI) has emerged as a validated measure of
+  socioeconomic disadvantage that specifically captures individual neighb
+ orhood levels of […]\n• Editor's Spotlight/Take 5: How Does Traumati
+ c Hand Injury Impact Patients in a Safety-net Healthcare System? A Mixed
+  Methods Study.\n  Wongworawat MD\n  PubMed https://pubmed.ncbi.nlm.nih.
+ gov/42275649/  DOI https://doi.org/10.1097/CORR.0000000000004020\n• Le
+ tter to the Editor: Guest Editorial: Recalling a Recall.\n  Doyle TR\, H
+ ennessy O\, Keogh CJ\, Hughes AJ\, Kenny PJ\, Sheridan GA et al.\n  PubM
+ ed https://pubmed.ncbi.nlm.nih.gov/42269720/  DOI https://doi.org/10.109
+ 7/CORR.0000000000004019\n\n— JBJS (American) (3) —\n• A System in 
+ Motion: The Evolution of Orthopaedic Care in Romania.\n  Dragosloveanu S
+ \, Nedelea DG\, Scheau C\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42284
+ 371/  DOI https://doi.org/10.2106/JBJS.26.00188\n  ➢ Romanian orthopae
+ dic practice has demonstrated a growing uptake of digital infrastructure
+ \, including the implementation of robotic-assisted surgical workflows a
+ nd emerging applications of artificial intelligence.➢ Romania ranks am
+ ong the European countries with the highest hospital bed capacity per ca
+ pita\, […]\n• Comparative Analysis of Immune Cell-Type Abundances in
+  Periprosthetic Tissues Across Arthroplasty Failure Etiologies: Use of T
+ ranscriptomic Deconvolution.\n  Li Y\, Wang F\, Li Y\, Mu W\, Ji B\, Zha
+ ng X et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42275484/  DOI htt
+ ps://doi.org/10.2106/JBJS.25.01505\n  BACKGROUND: Although cellularity i
+ s traditionally evaluated morphologically\, an emerging transcriptome-se
+ quencing-based algorithm enables simultaneous inference of cellular info
+ rmation. We studied whether cellularity profiles predicted using CIBERSO
+ RTx would (1) depict immune cell-type abundances in periprosthetic […]
+ \n• Minimal Movement Restrictions Do Not Increase Hip Dislocations Fol
+ lowing Total Hip Arthroplasty: A Before-and-After Study of 10\,357 Patie
+ nts.\n  Klaassen AD\, Willigenburg NW\, Musters JWQ\, Jager J\, Poolman 
+ RW\, Santeon Hip Osteoarthritis Group\n  PubMed https://pubmed.ncbi.nlm.
+ nih.gov/42274751/  DOI https://doi.org/10.2106/JBJS.25.00121\n  BACKGROU
+ ND: Hip dislocation is the most common reason for early revision after t
+ otal hip arthroplasty (THA). To prevent dislocation\, patients are often
+  prescribed movement restrictions following THA\; however\, these restri
+ ctions can be uncomfortable and limiting for patients and may delay a re
+ turn to daily activities. […]\n\n— The Journal of Arthroplasty (14) 
+ —\n• Propensity Score-Matched Comparison of Patient-Reported Outcome
+ s Between Crowe I Developmental Dysplasia of the Hip and Primary Osteoar
+ thritis Following Total Hip Arthroplasty.\n  Saluja A\, Eschert J\, Ren 
+ R\, Wong Z\, Su E\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42285326/  D
+ OI https://doi.org/10.1016/j.arth.2026.06.023\n  BACKGROUND: Total hip a
+ rthroplasty (THA) is commonly performed for Crowe I developmental dyspla
+ sia of the hip (DDH) and primary osteoarthritis (OA)\, but comparative s
+ urvivorship and patient-reported outcome measure (PROM) data remain limi
+ ted with mixed findings. This study aimed to compare PROMs\, revision ra
+ tes\, and […]\n• What Factors Increase the Risk of Dislocation after
+  Primary Total Hip Arthroplasty Using the Direct Anterior Approach?.\n  
+ Murphy MP\, Forti CR\, Ho H\, Hopper RH\, Hamilton WG\n  PubMed https://
+ pubmed.ncbi.nlm.nih.gov/42285325/  DOI https://doi.org/10.1016/j.arth.20
+ 26.06.017\n  BACKGROUND: While the direct anterior approach (DAA) for to
+ tal hip arthroplasty (THA) is associated with a lower risk of dislocatio
+ n\, this complication has not been eliminated and can be acutely disabli
+ ng when it occurs. This study aimed to identify patient\, surgical\, and
+  radiographic factors that contribute to […]\n• Robotic Total Hip Ar
+ throplasty in Atypical Hip Anatomy: Accuracy of Component Positioning an
+ d Clinical Outcomes in 192 Complex Cases.\n  Kayani B\, Enson J\, Donald
+ son J\, Miles J\, Newman S\, Jayadev C et al.\n  PubMed https://pubmed.n
+ cbi.nlm.nih.gov/42285324/  DOI https://doi.org/10.1016/j.arth.2026.06.01
+ 4\n  BACKGROUND: The objectives of this study were to determine the accu
+ racy of component positioning\, patient satisfaction\, functional outcom
+ es\, component survivorship\, and complications of robotic total hip art
+ hroplasty (THA) in patients who have atypical hip anatomy. METHODS: This
+  study included 192 robotic THAs […]\n• Social Determinants of Healt
+ h Z-Codes are Associated with Low Compliance with Patient-Reported Outco
+ me Measures after Total Hip Arthroplasty.\n  Parry M\, Ozdag Y\, Kloc A\
+ , Salvato J\, Mercuri JJ\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42285
+ 323/  DOI https://doi.org/10.1016/j.arth.2026.06.022\n  INTRODUCTION: Th
+ ere is limited literature on compliance rates for completing patient-rep
+ orted outcome measures (PROMs) after elective total hip arthroplasty (TH
+ A). Social Determinants of Health (SDOH) refers to social factors that a
+ re not classifiable elsewhere that can have major impact on healthcare o
+ utcomes. The […]\n• Differences Between Inpatient and Outpatient Med
+ icare Total Knee Arthroplasty: Substantial Clinical Benefit Thresholds o
+ n Knee Injury and Osteoarthritis Outcome Score for Joint Replacement.\n 
+  Patel SV\, Pasqualini I\, Khan ST\, Elmenawi KA\, Zhang C\, Piuzzi NS e
+ t al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42285322/  DOI https://d
+ oi.org/10.1016/j.arth.2026.06.019\n  BACKGROUND: The Centers for Medicar
+ e & Medicaid Services (CMS) Patient-Reported Outcome-Based Performance M
+ easure (PRO-PM) mandates collection of patient-reported outcome measures
+  (PROMs) after total knee arthroplasty (TKA) and defines success as achi
+ eving substantial clinical benefit (SCB) on the Knee injury and […]\n
+ • Risk and Benefit Profile with Concurrent Nonsteroidal Anti-Inflammat
+ ory Drugs and Direct Oral Anticoagulants Following Total Knee Arthroplas
+ ty.\n  Paul BR\, Verhey JT\, Haak GM\, Braithwaite CL\, Tarabichi S\, Ch
+ ristopher ZK et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42285321/ 
+  DOI https://doi.org/10.1016/j.arth.2026.06.016\n  BACKGROUND: Nonsteroi
+ dal anti-inflammatory drugs (NSAIDs) are commonly prescribed after total
+  knee arthroplasty (TKA) for analgesia and inflammation control in conju
+ nction with direct oral anticoagulants (DOACs) for venous thromboembolis
+ m (VTE) prophylaxis in high-risk patients. In non-orthopaedic population
+ s\, […]\n• Complications of Ceramic-on-Ceramic Total Hip Arthroplast
+ y with Large Heads: 10-Year Minimum Follow-Up.\n  Lee DH\, Park JW\, Jun
+ g WH\, Kim TY\, Ha YC\, Koo KH et al.\n  PubMed https://pubmed.ncbi.nlm.
+ nih.gov/42285320/  DOI https://doi.org/10.1016/j.arth.2026.06.015\n  BAC
+ KGROUND: The fourth-generation ceramic bearings allow the use of larger 
+ femoral heads\, but inevitably create thinner liners\, raising concerns 
+ regarding liner fracture and long-term biological responses. We extended
+  our study to evaluate late dislocation\, ceramic-related complications\
+ , and long-term clinical and […]\n• Disparities in Preoperative Weig
+ ht Loss and Obesity Treatment Before Total Joint Arthroplasty.\n  Seward
+  MW\, Grimm JA\, Bedard NA\, Hannon CP\, Berry DJ\, Abdel MP\n  PubMed h
+ ttps://pubmed.ncbi.nlm.nih.gov/42285319/  DOI https://doi.org/10.1016/j.
+ arth.2026.06.021\n  BACKGROUND: Institutions often implement body mass i
+ ndex (BMI) cutoffs for offering total hip (THA) and knee (TKA) arthropla
+ sty. The goals of this study were to determine disparities in preoperati
+ ve obesity prevalence\, obesity treatment utilization\, and weight loss 
+ efficacy. METHODS: Among 21\,038 primary THAs and […]\n• A Proposed 
+ Alternative Sampling Strategy for Centers for Medicare & Medicaid Servic
+ es Arthroplasty Patient-Reported Outcome Performance Measure Compliance.
+ \n  Lyman S\, Chin A\, Alschuler DM\, Brill CO\, Fontana M\, MacLean C e
+ t al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42269953/  DOI https://d
+ oi.org/10.1016/j.arth.2026.06.003\n  INTRODUCTION: The Centers for Medic
+ are & Medicaid Services (CMS) mandate reporting of Hip disability and Os
+ teoarthritis Outcome Score for Joint Replacement (HOOS\, JR.) and Knee i
+ njury and Osteoarthritis Outcome Score for Joint Replacement (KOOS\, JR.
+ ) to support a hospital-level patient-reported outcome performance […]
+ \n• First Revision Total Hip Arthroplasty for Instability: 10-Year Out
+ comes and Risk Factors Associated with Re-Revision.\n  Yapp LZ\, Howard 
+ LC\, Greidanus NV\, Garbuz DS\, Masri BA\, Neufeld ME\n  PubMed https://
+ pubmed.ncbi.nlm.nih.gov/42269952/  DOI https://doi.org/10.1016/j.arth.20
+ 26.06.002\n  BACKGROUND: Recurrent instability remains a leading cause o
+ f failure after revision total hip arthroplasty (rTHA). This study asses
+ sed the 10-year survivorship of the first rTHA when undertaken for insta
+ bility and identified factors associated with failure. METHODS: We retro
+ spectively identified all consecutive rTHA […]\n• Jumbo Femoral Head
+ s in Total Hip Arthroplasty: Improved Early Stability Without Added Comp
+ lications.\n  Kim BI\, Cheng R\, Grabov E\, Debbi EM\, Vigdorchik JM\, M
+ ayman DJ et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42269951/  DOI
+  https://doi.org/10.1016/j.arth.2026.06.007\n  BACKGROUND: Larger femora
+ l heads have been proposed to reduce dislocation risk following total hi
+ p arthroplasty (THA). While the benefit of increasing head size from 28 
+ or 32 mm to ≥ 36 mm is well established\, it remains unclear whether j
+ umbo (40 or 44 mm) femoral heads confer additional stability over tradit
+ ional […]\n• Dogma Under the Knife: Challenging the Status Quo in Pr
+ imary Total Knee Arthroplasty.\n  Padgett BM\, Terhune EB\, Chalmers BP\
+ , Pagnano MW\, Hannon CP\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42269
+ 950/  DOI https://doi.org/10.1016/j.arth.2026.05.077\n  INTRODUCTION: Pr
+ imary total knee arthroplasty (TKA) is among the most successful procedu
+ res in orthopaedic surgery\, reliably providing pain relief\, functional
+  improvement\, and durable implant survivorship. Despite these achieveme
+ nts\, approximately 10 to 20% of patients report persistent dissatisfact
+ ion following […]\n• Revision Total Joint Arthroplasty at the Ambula
+ tory Surgery Center: A Single Institutional Experience.\n  Acuña AJ\, P
+ otluri AS\, Yadav AS\, Alfonsi S\, Forlenza EM\, Della Valle CJ\n  PubMe
+ d https://pubmed.ncbi.nlm.nih.gov/42269949/  DOI https://doi.org/10.1016
+ /j.arth.2026.06.009\n  INTRODUCTION: The safety and efficacy of outpatie
+ nt primary total joint arthroplasty (TJA) in appropriately selected pati
+ ents have been established. As rates of revision TJA (rTJA) continue to 
+ increase\, there is growing interest regarding the complications and rev
+ ision incidence among procedures performed in the […]\n• The "Distal
+  Femoral Replacement Downgrade": Technique of Using Bicondylar Femoral C
+ ones with a Hinge Total Knee Arthroplasty Revision in Patients Who Have 
+ Massive Distal Femoral Bone Loss as an Alternative.\n  Chalmers BP\, Afz
+ al S\, Bhatti P\, Anatone AJ\, Blevins JL\, Debbi EM et al.\n  PubMed ht
+ tps://pubmed.ncbi.nlm.nih.gov/42269948/  DOI https://doi.org/10.1016/j.a
+ rth.2026.05.076\n  BACKGROUND: Massive femoral bone loss with collateral
+  insufficiency in revision total knee arthroplasty (TKA) is often manage
+ d with distal femoral replacement (DFR)\, but this procedure sacrifices 
+ bone stock and carries notable risks. We described outcomes of a bone-pr
+ eserving alternative (the "DFR downgrade") that […]\n\n— Journal of 
+ Orthopaedics & Traumatology (1) —\n• Does the surgical sequence of l
+ umbar spine fusion and total hip arthroplasty affect the dislocation and
+  revision risk? A meta‑analysis and systematic review.\n  Liu F\, Jia 
+ C\, Wu X\, Zhou Y\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42283757/  D
+ OI https://doi.org/10.1186/s10195-026-00943-5\n  BACKGROUND: Patients wh
+ o underwent primary total hip arthroplasty (THA) after lumbar spine fusi
+ on (LSF) had a higher incidence of complications compared with those who
+  had not previously undergone LSF. This study aimed to determine whether
+  the timing of THA before or after LSF impacts the incidence of THA […
+ ]\n\n— Journal of Orthopaedic Trauma (4) —\n• Letter to the Editor
+  Regarding "Proton Pump Inhibitors Are Associated With Increased Risk of
+  Site-Specific Nonunion After Open Reduction Internal Fixation".\n  Ayas
+  O\, Acar A\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42283431/  DOI htt
+ ps://doi.org/10.1097/BOT.0000000000003171\n• Response to "Competing-Ri
+ sks Re-estimation of Five-Year Second Hip Fracture Risk: Accounting for 
+ Death as a Competing Event".\n  Konda SR\n  PubMed https://pubmed.ncbi.n
+ lm.nih.gov/42283430/  DOI https://doi.org/10.1097/BOT.0000000000003169\n
+ • Response Letter to the Editor Regarding Article "Orthopaedic Trauma 
+ Association Annual Meetings Consistently Provide Academic Value for Atte
+ ndees".\n  Greenhill DA\, Lundy D\, Imam N\, Jain N\n  PubMed https://pu
+ bmed.ncbi.nlm.nih.gov/42274352/  DOI https://doi.org/10.1097/BOT.0000000
+ 000003233\n• Letter to the Editor Regarding Article "Orthopaedic Traum
+ a Association Annual Meetings Consistently Provide Academic Value for At
+ tendees.".\n  Blomberg JR\n  PubMed https://pubmed.ncbi.nlm.nih.gov/4227
+ 4327/  DOI https://doi.org/10.1097/BOT.0000000000003234\n\n— Archives 
+ of Orthopaedic & Trauma Surgery (4) —\n• Does the tendon retract in 
+ flexor hallucis longus muscle laceration? A cadaveric study.\n  Aydın M
+ \, Şahin Y\, Yağar H\, Çiçek F\, Ceranoğlu FG\, Mert A et al.\n  Pu
+ bMed https://pubmed.ncbi.nlm.nih.gov/42286366/  DOI https://doi.org/10.1
+ 007/s00402-026-06378-1\n  INTRODUCTION: Flexor hallucis longus (FHL) ten
+ don injuries are common\, particularly in open injuries caused by sharp 
+ objects. However\, data regarding FHL tendon retraction following hallux
+ -level FHL tendon lacerations remain limited. This study investigated th
+ e retraction and shortening of the FHL tendon using […]\n• Early-ons
+ et rice body synovitis of the knee in children under three years: a case
+  series and review of the literature.\n  Zhu L\, Liu C\, Liu Y\, Mao B\,
+  Huang Y\, Wen J et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/422839
+ 47/  DOI https://doi.org/10.1007/s00402-026-06373-6\n  OBJECTIVE: Rice b
+ ody synovitis reports have been rarely reported in children under three 
+ years of age. We aimed to explore the clinical characteristics and treat
+ ment experience of rice body-like synovitis in children's knees. METHODS
+ : We retrospectively analyzed the clinical and imaging data of 4 cases (
+ 5 knees) of […]\n• Extravertebral temperature exposure during spinal
+  radiofrequency ablation: an experimental surrogate assessment of neural
+  injury risk.\n  Weigert A\, Hoffmann RT\, Büttner A\, Zaccaria R\, Weg
+ ener V\, Holzapfel BM et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/4
+ 2283904/  DOI https://doi.org/10.1007/s00402-026-06359-4\n  BACKGROUND: 
+ Radiofrequency ablation (RFA) has become an important minimally invasive
+  option for the treatment of painful spinal tumors and benign bone lesio
+ ns. While its effectiveness within the vertebral body is well establishe
+ d\, there is ongoing concern about unintended heat exposure of nearby ne
+ ural structures. […]\n• Giant cell tumor of bone: exploring HtrA1 as
+  a potential predictor of recurrence.\n  Mirioglu A\, Dalkir KA\, Gokmen
+  MY\, Bagir M\, Ates KE\, Deveci MA et al.\n  PubMed https://pubmed.ncbi
+ .nlm.nih.gov/42283760/  DOI https://doi.org/10.1007/s00402-026-06374-5\n
+   INTRODUCTION: Giant cell tumor of bone (GCTB) is a locally aggressive 
+ tumor with a considerable risk of recurrence\, but reliable predictive m
+ arkers are limited. High-temperature requirement A serine peptidase 1 (H
+ trA1) has been implicated in the progression of several cancers and may 
+ also play a role in GCTB […]\n\n— Injury (11) —\n• More than mee
+ ts the eye: the continuing importance of tertiary trauma survey even in 
+ moderate (ISS 9-15) trauma.\n  Knight C\, Burke JR\, Hind S\, Smith SR\n
+   PubMed https://pubmed.ncbi.nlm.nih.gov/42285813/  DOI https://doi.org/
+ 10.1016/j.injury.2026.113370\n  INTRODUCTION: Tertiary Trauma Surveys (T
+ TS) are designed to identify injuries which are not recognised during th
+ e primary and secondary surveys. These injuries occur in up to 40% of pa
+ tients and are commonly referred to in the literature as "missed"\, we p
+ refer the term "unrecognised" as this term does not infer the […]\n•
+  CTA-detected incidence and descriptive fracture patterns of arterial in
+ jury in 539 surgically treated tibial plateau fractures.\n  Valderrama J
+ \, Narváez F\, Cancino J\, Raffo JF\, Bosselin R\, Zamora F et al.\n  P
+ ubMed https://pubmed.ncbi.nlm.nih.gov/42285812/  DOI https://doi.org/10.
+ 1016/j.injury.2026.113403\n  BACKGROUND: Tibial plateau fractures (TPF) 
+ are complex injuries associated with significant soft tissue and periart
+ icular complications. Although vascular injuries are well described in l
+ ower limb trauma\, their incidence in tibial plateau fractures has not b
+ een clearly established. METHODS: Retrospective cohort study […]\n• 
+ Diagnostic value of serum troponin in stable patients at risk for blunt 
+ cardiac injury.\n  Cleary HL\, Bernard MD\, Davenport DL\, Bernard AC\n 
+  PubMed https://pubmed.ncbi.nlm.nih.gov/42285811/  DOI https://doi.org/1
+ 0.1016/j.injury.2026.113448\n  INTRODUCTION: There are no gold standard 
+ criteria for diagnosing blunt cardiac injury (BCI). While the combinatio
+ n of electrocardiogram (ECG) and serum troponin is considered the most s
+ ensitive screening method for those being considered for discharge\, lit
+ tle evidence exists regarding the diagnostic value and clinical […]\n
+ • Risk Factors for Failure of Repair of Diaphyseal Tibial Nonunions: A
+  Retrospective Cohort Study of 108 Patients.\n  Fan S\, Wagner RK\, Lehl
+ e CH\, Musick AN\, Gregg AT\, Janssen SJ et al.\n  PubMed https://pubmed
+ .ncbi.nlm.nih.gov/42284799/  DOI https://doi.org/10.1016/j.injury.2026.1
+ 13421\n  OBJECTIVES: To determine rates and risk factors for additional 
+ nonunion surgery and final radiographic healing following diaphyseal tib
+ ial nonunion repair. METHODS: All consecutive patients aged ≥18 years 
+ who underwent diaphyseal (AO/OTA 42) tibial nonunion repair with (exchan
+ ge) intramedullary nailing (IMN) or open […]\n• Superior survival\, 
+ hemodynamics\, and metabolic recovery using PEG-20k-based low volume re
+ suscitation in a polytrauma hemorrhagic shock model in rats.\n  Khoraki 
+ J\, Payne C\, Lust D\, Mangino MJ\, Liebrecht LK\n  PubMed https://pubme
+ d.ncbi.nlm.nih.gov/42284798/  DOI https://doi.org/10.1016/j.injury.2026.
+ 113379\n  BACKGROUND: Hemorrhagic shock is a major cause of preventable 
+ civilian and military trauma death. Although whole blood and blood produ
+ cts remain the standard of care\, field‑stable alternatives are needed
+  for resource‑limited environments and supply‑chain disruptions. Blo
+ od‑based resuscitation may also fail to […]\n• The forequarter lat
+ eral implosion injury: A diagnostic paradigm and Ch-Sh (chɛ-shɑ) class
+ ification.\n  George A\, Paull TZ\, Winter JD\, Levine J\, Cole PA\n  Pu
+ bMed https://pubmed.ncbi.nlm.nih.gov/42275819/  DOI https://doi.org/10.1
+ 016/j.injury.2026.113373\n  BACKGROUND: The lateral impaction force agai
+ nst the shoulder often causes multiple lesions to the forequarter includ
+ ing the chest wall. The purpose of this study is to describe the injury 
+ patterns and associated pathology in patients with combined chest wall a
+ nd shoulder girdle injuries- forequarter lateral implosion […]\n• Th
+ e fate of stage I Masquelet cement spacers in long bone reconstruction f
+ or acute fractures.\n  Dekle JK\, Sisk CK\, Litten RM\, Alcaide DM\, McI
+ lwain RN\, Wilson AL et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42
+ 275818/  DOI https://doi.org/10.1016/j.injury.2026.113423\n  INTRODUCTIO
+ N: The Masquelet technique is widely used for reconstruction of segmenta
+ l long bone defects following acute fractures\; however\, not all patien
+ ts progress to the second-stage bone grafting procedure. The purpose of 
+ this study was to characterize Stage II completion following Stage I Mas
+ quelet cement spacer […]\n• Rethinking the Lisfranc injury: Rational
+ e for and development of a new classification system for Lisfranc injuri
+ es.\n  Cawley WCF\, Hwang P\, Mittal R\, Zochowski Y\, Darwish I\, O'Kee
+ fe R et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42275817/  DOI htt
+ ps://doi.org/10.1016/j.injury.2026.113422\n  BACKGROUND: The Lisfranc jo
+ int comprises the articulations between the cuneiforms and bases of the 
+ metatarsals and is susceptible to a variety of complex injuries which ar
+ e frequently missed or diagnosed late. This can result in morbidity with
+  poor outcomes\, and renders it challenging to standardise management an
+ d […]\n• Injury and trauma care training in global health: A scoping
+  review of costs and cost-effectiveness across resource settings.\n  Pha
+ n HT\, Nguyen BT\, Zhao T\, Phung LT\, Keakabetse TR\, Dinh TTN et al.\n
+   PubMed https://pubmed.ncbi.nlm.nih.gov/42269563/  DOI https://doi.org/
+ 10.1016/j.injury.2026.113433\n  INTRODUCTION: Injury is a leading cause 
+ of death and disability worldwide\, with a disproportionate burden in lo
+ w- and middle-income countries\, where health resources are constrained 
+ and funding decisions are highly cost-sensitive. Injury and trauma care 
+ training programs have demonstrated their effectiveness in […]\n• Do
+  reduced screws have a significant impact on fixation in medial open wed
+ ge high tibial osteotomy? A comparative fatigue and stability analysis.\
+ n  Özkaya M\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42269562/  DOI ht
+ tps://doi.org/10.1016/j.injury.2026.113430\n  INTRODUCTION: Medial openi
+ ng wedge high tibial osteotomy generally employs T-shaped plates with th
+ ree or more proximal screws to ensure stabilization. This study aims to 
+ evaluate the biomechanical necessity of the standard three screw proxima
+ l configuration of the T-shaped plates and investigates whether fixation
+ s […]\n• Moving beyond mortality measurements after road traffic inj
+ uries: Ten-year death risk after road traffic injuries.\n  Cherchiglia M
+ L\, Mougin V\, Gray A\, Wool EE\, Malta DC\, Melo APS et al.\n  PubMed h
+ ttps://pubmed.ncbi.nlm.nih.gov/42269561/  DOI https://doi.org/10.1016/j.
+ injury.2026.113378\n  Road traffic injuries (RTIs) represent a significa
+ nt global public health issue\, particularly in low- and middle-income c
+ ountries like Brazil. Despite the high mortality rates and associated co
+ sts\, there is limited comprehensive literature addressing long-term mor
+ tality resulting from RTIs. Most research tends to […]\n\n— European
+  Journal of Trauma & Emergency Surgery (4) —\n• Denis pattern-depend
+ ent biomechanical behavior of posterior trans-iliac plate fixation compa
+ red with bilateral triangular osteosynthesis in unilateral sacral fractu
+ res: a finite element study.\n  Yang J\, Böker KO\, Li C\, Schilling AF
+ \, Ritter Z\, Acharya M et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov
+ /42283813/  DOI https://doi.org/10.1007/s00068-026-03238-w\n  OBJECTIVE:
+  Posterior trans-iliac plate osteosynthesis (TPO) is commonly used for t
+ he stabilization of unilateral vertically unstable sacral fractures. How
+ ever\, its biomechanical performance across different Denis fracture pat
+ terns remains unclear. This study aimed to investigate the fracture patt
+ ern-dependent […]\n• Factors associated with in-hospital mortality i
+ n necrotising soft tissue infections. a multicentre retrospective cohort
+  study.\n  Podda M\, Ceresoli M\, Virdis F\, Rosa F\, Pilia T\, Murzi V 
+ et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42283768/  DOI https://
+ doi.org/10.1007/s00068-026-03242-0\n  PURPOSE: Necrotising soft tissue i
+ nfections (NSTIs) are rare but life-threatening conditions associated wi
+ th high mortality rates. This multicentre study aimed to identify admiss
+ ion variables associated with in-hospital mortality. METHODS: This retro
+ spective study included adult patients with surgically confirmed […]\n
+ • Influence of frailty on short-term mortality in older patients with 
+ multiple trauma in the emergency department.\n  Çelik Ş\, Toker A\, Bi
+ çer S\, Cebecioğlu İK\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42274
+ 738/  DOI https://doi.org/10.1007/s00068-026-03214-4\n  PURPOSE: To inve
+ stigate the association between frailty and 28-day mortality in older pa
+ tients presenting to the emergency department with multiple trauma and t
+ o assess the discriminative performance of PRISMA-7 and the Trauma-Speci
+ fic Frailty Index (TSFI) in frailty assessment in relation to commonly u
+ sed trauma […]\n• Mortality prediction in older adults with earthqua
+ ke-related trauma: a model combining MEWS and laboratory biomarkers.\n  
+ Ozen A\, Acehan S\, Satar S\, Bulut EA\, Gulen M\, Nıgız K et al.\n  P
+ ubMed https://pubmed.ncbi.nlm.nih.gov/42271044/  DOI https://doi.org/10.
+ 1007/s00068-026-03232-2\n  PURPOSE: This study aimed to identify laborat
+ ory parameters and clinical scores that can predict in-hospital mortalit
+ y among patients aged 65 years and older who presented to the emergency 
+ department (ED) with earthquake-related trauma following the February 6 
+ and 20\, 2023 earthquakes. METHODS: In this retrospective […]\n\n— A
+ rthroplasty Today (1) —\n• Impact of Preoperative Osteoporotic Medic
+ ations on Total Hip Arthroplasty Outcomes.\n  Antonioli SS\, Ruff G\, Le
+ ung N\, Patel A\, Schwarzkopf R\, Cohen-Rosenblum A\n  PubMed https://pu
+ bmed.ncbi.nlm.nih.gov/42281841/  DOI https://doi.org/10.1016/j.artd.2026
+ .102026\n  BACKGROUND: Osteoporosis (OP) is a common comorbidity in pati
+ ents undergoing total hip arthroplasty (THA) and is a known risk factor 
+ for poor postoperative outcomes such as periprosthetic fracture (PPF). T
+ he impact of preoperative OP medications in patients with OP undergoing 
+ THA remains unclear. This study aimed to […]
+URL:https://elmunzar.github.io/praxia-update/issues/2026-06-13.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -425,64 +425,64 @@ DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Praxia Update — 57 new articles
 DESCRIPTION:57 newly indexed orthopaedic articles across 10 journals.\n\n
- 📄 Open the full issue (PDF): https://elmunzarr.github.io/praxia-updat
- e/issues/2026-06-12.pdf\n🔗 Browse in the app: https://elmunzarr.githu
- b.io/praxia-update/?date=2026-06-12\n\n— American Journal of Sports Me
- dicine (4) —\n• Partial Tenotomy and Reattachment for Chronic Proxim
- al Hamstring Tendinopathy: Functional Outcomes\, Return to Sport\, and P
- atient Satisfaction.\n  Lefèvre N\, Moussa MK\, Valentin E\, Hadjam T\,
-  Gerometta A\, Grimaud O et al.\n  PubMed https://pubmed.ncbi.nlm.nih.go
- v/42281221/  DOI https://doi.org/10.1177/03635465261453077\n  BACKGROUND
- : Chronic proximal hamstring tendinopathy (PHT) can cause significant pa
- in and functional impairment\, particularly in active individuals. While
-  nonoperative management is the first-line treatment\, some patients wit
- h persistent symptoms may require surgical intervention. PURPOSE: To eva
- luate the functional […]\n• Revascularization of Transcortical Vesse
- ls Improves Tendon-to-Bone Healing for Rotator Cuff Repair.\n  Xia W\, S
- hi Z\, Wang X\, Wu H\, Lu J\, Yu X et al.\n  PubMed https://pubmed.ncbi.
- nlm.nih.gov/42267400/  DOI https://doi.org/10.1177/03635465261453033\n  
- BACKGROUND: Rotator cuff tear is a prevalent musculoskeletal disorder wi
- th a high postoperative retear rate. Transcortical vessels (TCVs) are ca
- pillaries that cross cortical bone and represent key elements of bone mi
- crocirculation. However\, the possible intervention and influence of TCV
- s for rotator cuff repair (RCR) […]\n• The Effect of Preoperative Sy
- mptom Duration on 10-Year Outcomes After Hip Arthroscopy for Femoroaceta
- bular Impingement Syndrome: A Matched Analysis.\n  Hu EY\, Bi AS\, Cerva
- ntes JE\, Nho SJ\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42267387/  DO
- I https://doi.org/10.1177/03635465261449800\n  BACKGROUND: Patients with
-  femoroacetabular impingement syndrome (FAIS) experiencing >2 years of p
- ain before hip arthroscopy have been linked with worse short-term and mi
- dterm outcomes. PURPOSE: To examine the effect of preoperative pain dura
- tion on patient-reported outcomes (PROs)\, clinically significant outcom
- es\, and […]\n• Contralateral ACL Rupture as an Indicator of Intrins
- ic Risk for Graft Failure After ACL Reconstruction: A Cohort Study of 77
- 18 Patients From the SANTI Study Group.\n  Santamaria F\, Culebras Almei
- da LA\, Carrozzo A\, Campos JP\, Saithna A\, Vieira TD et al.\n  PubMed 
- https://pubmed.ncbi.nlm.nih.gov/42266073/  DOI https://doi.org/10.1177/0
- 3635465261448200\n  BACKGROUND: Graft failure after anterior cruciate li
- gament (ACL) reconstruction (ACLR) may be influenced by both extrinsic e
- xposure and intrinsic patient susceptibility. A contralateral ACL ruptur
- e could reflect an inherent predisposition to ligament injury. PURPOSE: 
- To determine whether a history of bilateral native […]\n\n— Clinical
-  Orthopaedics & Related Research (7) —\n• Does Liposomal Bupivacaine
-  Provide Superior Postoperative Analgesia Compared With Ropivacaine With
-  Dexamethasone in Suprainguinal Fascia Iliaca Compartment Block for THA?
-  A Randomized Controlled Trial.\n  Wu W\, Hu X\, Yang C\, Sun Y\, Li J\,
-  Wang L\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42284069/  DOI https:/
- /doi.org/10.1097/CORR.0000000000003907\n  BACKGROUND: Choosing the most 
- effective pain management is important for enhancing functional recovery
-  after surgery. The fascia iliaca compartment block (FICB) is recommende
- d for analgesia after THA\, but whether liposomal bupivacaine is more ef
- fective for this application remains uncertain. QUESTIONS/PURPOSES: (1) 
- […]\n• Is Neighborhood Socioeconomic Deprivation Associated With Out
- comes Following Primary THA and TKA? A Systematic Review Utilizing the A
- rea Deprivation Index.\n  Furyes AR\, Elmenawi KA\, Hackett L\, Deren ME
- \, Piuzzi NS\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42275670/  DOI ht
- tps://doi.org/10.1097/CORR.0000000000004018\n  BACKGROUND: Socioeconomic
-  disadvantage is increasingly recognized as an important factor associat
- ed with outcomes after total joint arthroplasty (TJA). The Area Deprivat
- ion Index (ADI) has emerged as a validated measure of socioeconomic disa
- dvantage that specifically captures individual neighborhood levels of [
+ 📄 Open the full issue (PDF): https://elmunzar.github.io/praxia-update
+ /issues/2026-06-12.pdf\n🔗 Browse in the app: https://elmunzar.github.
+ io/praxia-update/?date=2026-06-12\n\n— American Journal of Sports Medi
+ cine (4) —\n• Partial Tenotomy and Reattachment for Chronic Proximal
+  Hamstring Tendinopathy: Functional Outcomes\, Return to Sport\, and Pat
+ ient Satisfaction.\n  Lefèvre N\, Moussa MK\, Valentin E\, Hadjam T\, G
+ erometta A\, Grimaud O et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/
+ 42281221/  DOI https://doi.org/10.1177/03635465261453077\n  BACKGROUND: 
+ Chronic proximal hamstring tendinopathy (PHT) can cause significant pain
+  and functional impairment\, particularly in active individuals. While n
+ onoperative management is the first-line treatment\, some patients with 
+ persistent symptoms may require surgical intervention. PURPOSE: To evalu
+ ate the functional […]\n• Revascularization of Transcortical Vessels
+  Improves Tendon-to-Bone Healing for Rotator Cuff Repair.\n  Xia W\, Shi
+  Z\, Wang X\, Wu H\, Lu J\, Yu X et al.\n  PubMed https://pubmed.ncbi.nl
+ m.nih.gov/42267400/  DOI https://doi.org/10.1177/03635465261453033\n  BA
+ CKGROUND: Rotator cuff tear is a prevalent musculoskeletal disorder with
+  a high postoperative retear rate. Transcortical vessels (TCVs) are capi
+ llaries that cross cortical bone and represent key elements of bone micr
+ ocirculation. However\, the possible intervention and influence of TCVs 
+ for rotator cuff repair (RCR) […]\n• The Effect of Preoperative Symp
+ tom Duration on 10-Year Outcomes After Hip Arthroscopy for Femoroacetabu
+ lar Impingement Syndrome: A Matched Analysis.\n  Hu EY\, Bi AS\, Cervant
+ es JE\, Nho SJ\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42267387/  DOI 
+ https://doi.org/10.1177/03635465261449800\n  BACKGROUND: Patients with f
+ emoroacetabular impingement syndrome (FAIS) experiencing >2 years of pai
+ n before hip arthroscopy have been linked with worse short-term and midt
+ erm outcomes. PURPOSE: To examine the effect of preoperative pain durati
+ on on patient-reported outcomes (PROs)\, clinically significant outcomes
+ \, and […]\n• Contralateral ACL Rupture as an Indicator of Intrinsic
+  Risk for Graft Failure After ACL Reconstruction: A Cohort Study of 7718
+  Patients From the SANTI Study Group.\n  Santamaria F\, Culebras Almeida
+  LA\, Carrozzo A\, Campos JP\, Saithna A\, Vieira TD et al.\n  PubMed ht
+ tps://pubmed.ncbi.nlm.nih.gov/42266073/  DOI https://doi.org/10.1177/036
+ 35465261448200\n  BACKGROUND: Graft failure after anterior cruciate liga
+ ment (ACL) reconstruction (ACLR) may be influenced by both extrinsic exp
+ osure and intrinsic patient susceptibility. A contralateral ACL rupture 
+ could reflect an inherent predisposition to ligament injury. PURPOSE: To
+  determine whether a history of bilateral native […]\n\n— Clinical O
+ rthopaedics & Related Research (7) —\n• Does Liposomal Bupivacaine P
+ rovide Superior Postoperative Analgesia Compared With Ropivacaine With D
+ examethasone in Suprainguinal Fascia Iliaca Compartment Block for THA? A
+  Randomized Controlled Trial.\n  Wu W\, Hu X\, Yang C\, Sun Y\, Li J\, W
+ ang L\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42284069/  DOI https://d
+ oi.org/10.1097/CORR.0000000000003907\n  BACKGROUND: Choosing the most ef
+ fective pain management is important for enhancing functional recovery a
+ fter surgery. The fascia iliaca compartment block (FICB) is recommended 
+ for analgesia after THA\, but whether liposomal bupivacaine is more effe
+ ctive for this application remains uncertain. QUESTIONS/PURPOSES: (1) [
+ …]\n• Is Neighborhood Socioeconomic Deprivation Associated With Outc
+ omes Following Primary THA and TKA? A Systematic Review Utilizing the Ar
+ ea Deprivation Index.\n  Furyes AR\, Elmenawi KA\, Hackett L\, Deren ME\
+ , Piuzzi NS\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42275670/  DOI htt
+ ps://doi.org/10.1097/CORR.0000000000004018\n  BACKGROUND: Socioeconomic 
+ disadvantage is increasingly recognized as an important factor associate
+ d with outcomes after total joint arthroplasty (TJA). The Area Deprivati
+ on Index (ADI) has emerged as a validated measure of socioeconomic disad
+ vantage that specifically captures individual neighborhood levels of [
  …]\n• Editor's Spotlight/Take 5: How Does Traumatic Hand Injury Impa
  ct Patients in a Safety-net Healthcare System? A Mixed Methods Study.\n 
   Wongworawat MD\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42275649/  DOI
@@ -878,7 +878,7 @@ DESCRIPTION:57 newly indexed orthopaedic articles across 10 journals.\n\n
   risk factor for poor postoperative outcomes such as periprosthetic frac
  ture (PPF). The impact of preoperative OP medications in patients with O
  P undergoing THA remains unclear. This study aimed to […]
-URL:https://elmunzarr.github.io/praxia-update/issues/2026-06-12.pdf
+URL:https://elmunzar.github.io/praxia-update/issues/2026-06-12.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

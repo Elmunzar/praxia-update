@@ -24,6 +24,7 @@ const els = {
   subsHelp: $("subsHelp"), revertSubs: $("revertSubs"),
   calendarBtn: $("calendarBtn"), calendarModal: $("calendarModal"),
   calendarClose: $("calendarClose"), icsUrl: $("icsUrl"), copyIcs: $("copyIcs"),
+  addCal: $("addCal"), addGcal: $("addGcal"),
   emailInput: $("emailInput"), emailBtn: $("emailBtn"), emailMsg: $("emailMsg"),
 };
 
@@ -422,8 +423,12 @@ function bindEvents() {
   els.revertSubs.addEventListener("click", () => { state.pendingAdd = []; state.pendingRemove = []; lsSet(LS.add, []); lsSet(LS.remove, []); renderJournalPicker(); updateSyncBanner(); render(); });
 }
 function setupCalendarModal() {
-  const icsUrl = `${state.baseUrl.replace(/\/$/, "")}/issues/calendar.ics`;
+  const base = state.baseUrl.replace(/\/$/, "");
+  const icsUrl = `${base}/issues/calendar.ics`;
+  const icsWebcal = icsUrl.replace(/^https?:/, "webcal:");
   els.icsUrl.value = icsUrl;
+  if (els.addCal) els.addCal.href = icsWebcal;   // one-tap subscribe (Apple / default calendar)
+  if (els.addGcal) els.addGcal.href = "https://calendar.google.com/calendar/r?cid=" + encodeURIComponent(icsWebcal);
   const open = () => (els.calendarModal.hidden = false), close = () => (els.calendarModal.hidden = true);
   els.calendarBtn.addEventListener("click", open);
   els.calendarClose.addEventListener("click", close);
