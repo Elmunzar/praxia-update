@@ -24,7 +24,7 @@ const els = {
   subsHelp: $("subsHelp"), revertSubs: $("revertSubs"),
   calendarBtn: $("calendarBtn"), calendarModal: $("calendarModal"),
   calendarClose: $("calendarClose"), icsUrl: $("icsUrl"), copyIcs: $("copyIcs"),
-  addCal: $("addCal"), addGcal: $("addGcal"),
+  addCal: $("addCal"), addGcal: $("addGcal"), addOutlook: $("addOutlook"),
   emailInput: $("emailInput"), emailBtn: $("emailBtn"), emailMsg: $("emailMsg"),
 };
 
@@ -429,6 +429,8 @@ function setupCalendarModal() {
   els.icsUrl.value = icsUrl;
   if (els.addCal) els.addCal.href = icsWebcal;   // one-tap subscribe (Apple / default calendar)
   if (els.addGcal) els.addGcal.href = "https://calendar.google.com/calendar/r?cid=" + encodeURIComponent(icsWebcal);
+  if (els.addOutlook) els.addOutlook.href =
+    "https://outlook.live.com/calendar/0/addfromweb?url=" + encodeURIComponent(icsUrl) + "&name=" + encodeURIComponent("Praxia Update");
   const open = () => (els.calendarModal.hidden = false), close = () => (els.calendarModal.hidden = true);
   els.calendarBtn.addEventListener("click", open);
   els.calendarClose.addEventListener("click", close);
