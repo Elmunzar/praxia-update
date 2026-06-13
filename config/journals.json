@@ -1,0 +1,60 @@
+{
+  "_comment": "Your subscribed journals — the daily build fetches each one. Add by name in the app, or run: python3 manage_journals.py --add \"Journal name or URL\". 'ta' must be the exact PubMed [TA] abbreviation.",
+  "journals": [
+    {
+      "key": "ajsm",
+      "name": "American Journal of Sports Medicine",
+      "ta": "Am J Sports Med"
+    },
+    {
+      "key": "bjj",
+      "name": "The Bone & Joint Journal",
+      "ta": "Bone Joint J"
+    },
+    {
+      "key": "corr",
+      "name": "Clinical Orthopaedics & Related Research",
+      "ta": "Clin Orthop Relat Res"
+    },
+    {
+      "key": "jbjs",
+      "name": "JBJS (American)",
+      "ta": "J Bone Joint Surg Am"
+    },
+    {
+      "key": "arthro",
+      "name": "The Journal of Arthroplasty",
+      "ta": "J Arthroplasty"
+    },
+    {
+      "key": "jot_trauma",
+      "name": "Journal of Orthopaedics & Traumatology",
+      "ta": "J Orthop Traumatol"
+    },
+    {
+      "key": "jorthotr",
+      "name": "Journal of Orthopaedic Trauma",
+      "ta": "J Orthop Trauma"
+    },
+    {
+      "key": "aots",
+      "name": "Archives of Orthopaedic & Trauma Surgery",
+      "ta": "Arch Orthop Trauma Surg"
+    },
+    {
+      "key": "injury",
+      "name": "Injury",
+      "ta": "Injury"
+    },
+    {
+      "key": "ejtes",
+      "name": "European Journal of Trauma & Emergency Surgery",
+      "ta": "Eur J Trauma Emerg Surg"
+    },
+    {
+      "key": "arthrotoday",
+      "name": "Arthroplasty Today",
+      "ta": "Arthroplast Today"
+    }
+  ]
+}

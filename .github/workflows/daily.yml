@@ -1,0 +1,74 @@
+name: Praxia Update — daily issue
+
+on:
+  schedule:
+    - cron: "0 7 * * *"      # 07:00 UTC every day (PubMed has indexed overnight)
+  workflow_dispatch:          # manual "Run workflow" button
+    inputs:
+      back:
+        description: "Indexing window size in days (catch PubMed lag)"
+        default: "1"
+
+permissions:
+  contents: write             # commit the day's issue back to the repo (archive)
+  pages: write                # deploy to GitHub Pages
+  id-token: write
+
+concurrency:
+  group: praxia-update
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      # Public base URL used in PDF / JSON / ICS links. Defaults to this repo's
+      # project Pages URL; override by setting a repo variable PRAXIA_BASE_URL.
+      BASE_URL: ${{ vars.PRAXIA_BASE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+      PUBMED_API_KEY: ${{ secrets.PUBMED_API_KEY }}   # optional, raises rate limit
+      PUBMED_EMAIL: ${{ vars.PUBMED_EMAIL }}          # optional, polite contact
+      RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}   # set this to email subscribers
+      PRAXIA_BASE_URL: ${{ vars.PRAXIA_BASE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Build today's issue
+        run: |
+          python3 build_issue.py --back "${{ github.event.inputs.back || '1' }}" --base-url "$BASE_URL"
+
+      - name: Email the issue to subscribers (if Resend key is set)
+        if: ${{ env.RESEND_API_KEY != '' }}
+        run: python3 mail_issue.py --send
+
+      - name: Commit issue to the archive
+        run: |
+          git config user.name  "praxia-update[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/issues public/subscriptions.json
+          if git diff --cached --quiet; then
+            echo "No new content today."
+          else
+            git commit -m "Issue ${{ github.run_id }} ($(date -u +%F))"
+            git push
+          fi
+
+      - name: Upload site as Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Praxia Update — Daily Orthopaedic Digest</title>
+<meta name="description" content="A daily digest of newly indexed orthopaedic literature from 11 leading journals." />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<header class="masthead">
+  <div class="wrap">
+    <div class="brand">
+      <h1>Praxia&nbsp;Update</h1>
+      <p class="tagline">Daily orthopaedic literature digest</p>
+    </div>
+    <div class="issue-meta" id="issueMeta"></div>
+  </div>
+</header>
+
+<nav class="toolbar">
+  <div class="wrap toolbar-inner">
+    <label class="field">
+      <span>Issue</span>
+      <select id="dateSelect" aria-label="Choose issue date"></select>
+    </label>
+    <input id="search" type="search" placeholder="Search journals & articles…"
+           aria-label="Search journals and articles" />
+    <button id="journalsBtn" class="btn" aria-expanded="false">Journals</button>
+    <a id="pdfLink" class="btn" href="#" target="_blank" rel="noopener">Open&nbsp;PDF</a>
+    <button id="shareBtn" class="btn btn-accent" hidden>Share</button>
+    <button id="downloadBtn" class="btn">Download</button>
+    <button id="calendarBtn" class="btn">Get&nbsp;digest</button>
+  </div>
+
+  <div class="wrap journals-panel" id="journalsPanel" hidden>
+    <div class="journals-add">
+      <label for="journalSearch"><strong>Add a journal</strong>
+        <span class="muted">— search by name or paste a URL; covers every PubMed-indexed journal</span></label>
+      <div class="add-row">
+        <input id="journalSearch" type="search" autocomplete="off"
+               placeholder="e.g. Foot &amp; Ankle International, or https://…" />
+        <button class="btn" id="journalSearchBtn">Search</button>
+      </div>
+      <div id="journalResults" class="journal-results"></div>
+    </div>
+
+    <div class="journals-head">
+      <strong>Your journals</strong>
+      <span>
+        <button class="link" id="allJournals">Show all</button> ·
+        <button class="link" id="noneJournals">Hide all</button>
+      </span>
+    </div>
+    <div class="journals-grid" id="journalsGrid"></div>
+
+    <div class="subs-sync" id="subsSync" hidden>
+      <p><strong>Subscription changes pending.</strong> Your daily PDF &amp; calendar update
+         once these journals are in your subscription file.</p>
+      <div class="copy-row">
+        <button class="btn btn-accent" id="copySubs">Copy subscription file</button>
+        <button class="btn" id="syncHelp">How to apply</button>
+        <button class="link" id="revertSubs">Revert</button>
+      </div>
+      <pre id="subsHelp" hidden></pre>
+    </div>
+  </div>
+</nav>
+
+<main class="wrap" id="content">
+  <p class="status" id="status">Loading the current issue…</p>
+</main>
+
+<footer class="wrap site-footer">
+  <p>Data via the U.S. National Library of Medicine (PubMed). Indexing can lag publication by 1–2 days.
+     Praxia Update is an alerting aid, not a substitute for primary sources.</p>
+</footer>
+
+<div class="modal" id="calendarModal" hidden>
+  <div class="modal-card">
+    <button class="modal-close" id="calendarClose" aria-label="Close">×</button>
+    <h2>Get the daily digest</h2>
+
+    <h3 class="digest-h">📅 In your calendar</h3>
+    <p class="digest-p">Subscribe once — each day's issue shows up as an event linking that day's PDF,
+       kept up to date automatically.</p>
+    <div class="copy-row">
+      <input id="icsUrl" type="text" readonly />
+      <button class="btn btn-accent" id="copyIcs">Copy</button>
+    </div>
+    <p class="digest-hint">Apple Calendar: File → New Calendar Subscription &nbsp;·&nbsp;
+       Google: Other calendars → From URL &nbsp;·&nbsp; Outlook: Add calendar → Subscribe from web.</p>
+
+    <hr class="digest-sep" />
+
+    <h3 class="digest-h">✉️ By email</h3>
+    <p class="digest-p">Get the digest in your inbox each morning.</p>
+    <div class="copy-row">
+      <input id="emailInput" type="email" placeholder="you@example.com" autocomplete="email" />
+      <button class="btn btn-accent" id="emailBtn">Notify me</button>
+    </div>
+    <p class="digest-hint" id="emailMsg"></p>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

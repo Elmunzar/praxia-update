@@ -1,0 +1,6 @@
+{
+  "_comment": "Email recipients for the daily digest. Add yours with: python3 mail_issue.py --add you@example.com. The daily build emails everyone here via Resend when RESEND_API_KEY is set. No passwords — just addresses.",
+  "from_name": "Praxia Update",
+  "from_email": "updates@example.com",
+  "subscribers": []
+}

@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS / editor / local dev
+.DS_Store
+.claude/
+
+# Local scratch
+/tmp/
+
+# Email dry-run artifacts
+public/issues/email-*.html
