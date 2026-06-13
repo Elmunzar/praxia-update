@@ -1,12 +1,12 @@
 {
   "date": "2026-06-13",
-  "generated_at": "2026-06-13T21:50:33Z",
+  "generated_at": "2026-06-13T21:52:27Z",
   "window": {
-    "mindate": "2026/06/11",
+    "mindate": "2026/06/12",
     "maxdate": "2026/06/13"
   },
   "counts": {
-    "articles": 49,
+    "articles": 31,
     "journals_with_articles": 10,
     "journals_searched": 11
   },
@@ -61,7 +61,7 @@
       "key": "corr",
       "journal": "Clinical Orthopaedics & Related Research",
       "ta": "Clin Orthop Relat Res",
-      "count": 6,
+      "count": 3,
       "articles": [
         {
           "pmid": "42284494",
@@ -143,82 +143,6 @@
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42284069/",
           "doi_url": "https://doi.org/10.1097/CORR.0000000000003907",
           "journal_key": "corr"
-        },
-        {
-          "pmid": "42275670",
-          "title": "Is Neighborhood Socioeconomic Deprivation Associated With Outcomes Following Primary THA and TKA? A Systematic Review Utilizing the Area Deprivation Index.",
-          "authors": [
-            "Furyes AR",
-            "Elmenawi KA",
-            "Hackett L",
-            "Deren ME",
-            "Piuzzi NS"
-          ],
-          "abstract": "BACKGROUND: Socioeconomic disadvantage is increasingly recognized as an important factor associated with outcomes after total joint arthroplasty (TJA). The Area Deprivation Index (ADI) has emerged as a validated measure of socioeconomic disadvantage that specifically captures individual neighborhood levels of structural and material deprivation based on income, education, employment, and housing characteristics. Prior research has demonstrated ADI to be associated with surgical outcomes; however, its relationship to postoperative outcomes after THA and TKA, procedures in which outcomes depend highly on institutional and structural support, home environment, and accessible postacute care resources, has not been well synthesized. Prior studies provide a broad overview of heterogeneous measures of socioeconomic disadvantage that are not directly comparable.\n\nQUESTIONS/PURPOSES: (1) Is a higher ADI associated with increased postoperative healthcare utilization after primary THA and TKA? (2) Is a higher ADI associated with differences in patient-reported outcome measures (PROMs)? (3) Is a higher ADI associated with increased postoperative complications? (4) Is ADI associated with differences in implant survivorship after TJA?\n\nMETHODS: A systematic review of four databases-Ovid Medline, Embase, Cochrane Library, and Web of Science Core Collection-was performed from their inception to March 27, 2025. Each database was last searched on March 27, 2025. In all, 128 records were available. Studies were included if they evaluated patients receiving primary THA or TKA and examined ADI in the Results section of the manuscript in terms of any of the following: 90-day outcomes, healthcare utilization, complications, reoperations, revisions, cost, or PROMs. Studies were excluded if they examined revision hip or knee arthroplasty, hemiarthroplasty, or arthroplasty of any other joint; did not evaluate outcomes in association with ADI; or were case reports, systematic reviews, conference abstracts, editorials, or narrative reviews. Sixteen studies were included for final review. Two reviewers independently screened studies, extracted data, and assessed methodological quality using the Newcastle-Ottawa Scale (NOS), which has a maximum quality score of nine stars. Included studies had a median (range) NOS score of 8 stars (7 to 9), suggesting that most were of good quality with a low risk of bias. Results were synthesized qualitatively; meta-analyses were not performed because of the heterogeneity of included studies.\n\nRESULTS: A higher ADI was consistently associated with greater healthcare utilization, including prolonged length of stay, increased likelihood of nonhome discharge, and increased odds of emergency department visits. PROMs demonstrated worse absolute postoperative scores and lower likelihood of achieving patient acceptable symptom states among patients who live in high ADI neighborhoods despite comparable levels of improvement across all groups. Overall, ADI was not associated with reaching the standard minimum clinically important difference (MCID). All groups achieved the MCID on all domains of the Hip Disability and Osteoarthritis Outcome Score, Knee Injury and Osteoarthritis Outcome Score, and Patient-Reported Outcomes Measurement Information System short forms regardless of ADI. A higher ADI was associated with increased odds of medical complications such as infection, venous thromboembolism, cardiopulmonary events, and acute kidney injury. Evidence on implant survivorship was limited but suggested increased odds of reoperation and periprosthetic joint infection within 90 days and increased odds of aseptic revision beyond 90 days in populations with more severe levels of deprivation as measured by the ADI.\n\nCONCLUSION: Higher neighborhood socioeconomic deprivation was independently associated with worse postoperative outcomes, greater resource utilization, and signals of inferior early implant survivorship after THA and TKA. The ADI provides meaningful insight into neighborhood-level social risk beyond traditional clinical factors and individual patient demographics and may help identify patients who may benefit from interventions such as more intensive preoperative medical management of comorbidities, tailored perioperative support, easily accessible rehabilitation, or closer postoperative follow-up. Incorporating the ADI into risk-adjustment models and care pathways may help clinicians better anticipate possible barriers to recovery and may help ensure that patients from less affluent communities achieve the results they seek after lower extremity arthroplasty.\n\nLEVEL OF EVIDENCE: Level III, therapeutic study.",
-          "doi": "10.1097/CORR.0000000000004018",
-          "journal_ta": "Clin Orthop Relat Res",
-          "volume": "",
-          "issue": "",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42275670/",
-          "doi_url": "https://doi.org/10.1097/CORR.0000000000004018",
-          "journal_key": "corr"
-        },
-        {
-          "pmid": "42275649",
-          "title": "Editor's Spotlight/Take 5: How Does Traumatic Hand Injury Impact Patients in a Safety-net Healthcare System? A Mixed Methods Study.",
-          "authors": [
-            "Wongworawat MD"
-          ],
-          "abstract": "",
-          "doi": "10.1097/CORR.0000000000004020",
-          "journal_ta": "Clin Orthop Relat Res",
-          "volume": "",
-          "issue": "",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42275649/",
-          "doi_url": "https://doi.org/10.1097/CORR.0000000000004020",
-          "journal_key": "corr"
-        },
-        {
-          "pmid": "42269720",
-          "title": "Letter to the Editor: Guest Editorial: Recalling a Recall.",
-          "authors": [
-            "Doyle TR",
-            "Hennessy O",
-            "Keogh CJ",
-            "Hughes AJ",
-            "Kenny PJ",
-            "Sheridan GA",
-            "Murphy CG"
-          ],
-          "abstract": "",
-          "doi": "10.1097/CORR.0000000000004019",
-          "journal_ta": "Clin Orthop Relat Res",
-          "volume": "",
-          "issue": "",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42269720/",
-          "doi_url": "https://doi.org/10.1097/CORR.0000000000004019",
-          "journal_key": "corr"
         }
       ]
     },
@@ -226,7 +150,7 @@
       "key": "jbjs",
       "journal": "JBJS (American)",
       "ta": "J Bone Joint Surg Am",
-      "count": 3,
+      "count": 1,
       "articles": [
         {
           "pmid": "42284371",
@@ -251,61 +175,6 @@
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42284371/",
           "doi_url": "https://doi.org/10.2106/JBJS.26.00188",
           "journal_key": "jbjs"
-        },
-        {
-          "pmid": "42275484",
-          "title": "Comparative Analysis of Immune Cell-Type Abundances in Periprosthetic Tissues Across Arthroplasty Failure Etiologies: Use of Transcriptomic Deconvolution.",
-          "authors": [
-            "Li Y",
-            "Wang F",
-            "Li Y",
-            "Mu W",
-            "Ji B",
-            "Zhang X",
-            "Cao L"
-          ],
-          "abstract": "BACKGROUND: Although cellularity is traditionally evaluated morphologically, an emerging transcriptome-sequencing-based algorithm enables simultaneous inference of cellular information. We studied whether cellularity profiles predicted using CIBERSORTx would (1) depict immune cell-type abundances in periprosthetic tissues across arthroplasty failure etiologies, and (2) provide prognostic value for identifying cases of periprosthetic joint infection (PJI).\n\nMETHODS: CIBERSORTx-derived cellularity profiles were evaluated in 185 periprosthetic tissue samples, including 135 from patients with PJI (64 males; median age, 66 years) and 50 from those with aseptic failure (AF) (36 males; median age, 62.5 years), that had been subjected to bulk RNA sequencing. Kaplan-Meier survival analysis was performed to assess prognostic outcomes in PJI.\n\nRESULTS: Of the 22 evaluated cell types, 5 were significantly elevated in PJI cases: plasma cells, resting memory CD4+ T cells, CD8+ T cells, activated mast cells, and M1 macrophages (all p < 0.05 after Benjamini-Hochberg [BH] correction). Conversely, 3 cell types were significantly elevated in AF cases: gamma delta T cells, M0 macrophages, and M2 macrophages (all p < 0.05 after BH correction). Of the combined immune cell populations, total B cells, total T cells, and natural killer cells were significantly elevated in PJI cases, while total macrophages/monocytes were significantly elevated in AF cases (all p < 0.05 after BH correction). Patients with PJI who had a CD8+/regulatory T cell (Treg) ratio above the median had a significantly lower rate of infection recurrence than those below the median (log-rank p = 0.0252).\n\nCONCLUSIONS: CIBERSORTx analysis of samples from periprosthetic tissues predicted distinct immune cell profiles that differed between PJI and aseptic arthroplasty failure modes, and also identified a high CD8+/Treg ratio as a potential prognostic marker. This transcriptomic approach provides a novel, single-assay strategy for evaluating local immune cell responses across arthroplasty failure etiologies.\n\nCLINICAL RELEVANCE: The comparative analysis of immune cell-type abundances in periprosthetic tissues across arthroplasty failure etiologies revealed distinct immune microenvironment signatures that differentiate PJI from AF. Additionally, the finding that a higher CD8+/Treg cell ratio is associated with a lower rate of infection recurrence offers a potential prognostic marker to help identify patients with PJI who are at a lower risk for treatment failure.",
-          "doi": "10.2106/JBJS.25.01505",
-          "journal_ta": "J Bone Joint Surg Am",
-          "volume": "",
-          "issue": "",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42275484/",
-          "doi_url": "https://doi.org/10.2106/JBJS.25.01505",
-          "journal_key": "jbjs"
-        },
-        {
-          "pmid": "42274751",
-          "title": "Minimal Movement Restrictions Do Not Increase Hip Dislocations Following Total Hip Arthroplasty: A Before-and-After Study of 10,357 Patients.",
-          "authors": [
-            "Klaassen AD",
-            "Willigenburg NW",
-            "Musters JWQ",
-            "Jager J",
-            "Poolman RW",
-            "Santeon Hip Osteoarthritis Group"
-          ],
-          "abstract": "BACKGROUND: Hip dislocation is the most common reason for early revision after total hip arthroplasty (THA). To prevent dislocation, patients are often prescribed movement restrictions following THA; however, these restrictions can be uncomfortable and limiting for patients and may delay a return to daily activities. The present study aimed to investigate whether a protocol with reduced movement restrictions following THA would lead to an increased incidence of early hip dislocations.\n\nMETHODS: In this uncontrolled, multicenter, before-and-after study, 2 groups were retrospectively compared. Patients who underwent a THA between January 1, 2015, and March 31, 2020, were included. Patients in the first group (n = 7,666) were prescribed strict movement restrictions following THA, and patients in the second group (n = 2,691) were prescribed minimal movement restrictions. Patient and prosthesis characteristics were collected, as well as data regarding hip dislocations within 90 days postoperatively as the primary outcome.\n\nRESULTS: The incidence of early hip dislocations was not significantly different between movement groups, with 112 (1.46%) of 7,661 hips in the restricted group and 52 (1.93%) of 2,691 hips in the minimally restricted group experiencing a dislocation (p = 0.093).\n\nCONCLUSIONS: The use of a protocol with minimal movement restrictions following THA did not increase the incidence of early hip dislocations.\n\nLEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
-          "doi": "10.2106/JBJS.25.00121",
-          "journal_ta": "J Bone Joint Surg Am",
-          "volume": "",
-          "issue": "",
-          "pub_year": "2026",
-          "pub_month": "Feb",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42274751/",
-          "doi_url": "https://doi.org/10.2106/JBJS.25.00121",
-          "journal_key": "jbjs"
         }
       ]
     },
@@ -313,7 +182,7 @@
       "key": "arthro",
       "journal": "The Journal of Arthroplasty",
       "ta": "J Arthroplasty",
-      "count": 14,
+      "count": 8,
       "articles": [
         {
           "pmid": "42285326",
@@ -533,171 +402,6 @@
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42285319/",
           "doi_url": "https://doi.org/10.1016/j.arth.2026.06.021",
           "journal_key": "arthro"
-        },
-        {
-          "pmid": "42269953",
-          "title": "A Proposed Alternative Sampling Strategy for Centers for Medicare & Medicaid Services Arthroplasty Patient-Reported Outcome Performance Measure Compliance.",
-          "authors": [
-            "Lyman S",
-            "Chin A",
-            "Alschuler DM",
-            "Brill CO",
-            "Fontana M",
-            "MacLean C",
-            "McLawhorn A"
-          ],
-          "abstract": "INTRODUCTION: The Centers for Medicare & Medicaid Services (CMS) mandate reporting of Hip disability and Osteoarthritis Outcome Score for Joint Replacement (HOOS, JR.) and Knee injury and Osteoarthritis Outcome Score for Joint Replacement (KOOS, JR.) to support a hospital-level patient-reported outcome performance measure (PRO-PM). The current CMS requires matched pre- and postoperative PROMs for ≥ 50.0% of all eligible patients, regardless of hospital volume. This may yield unreliable performance estimates for low-volume centers and potentially biased and unnecessarily large estimates for large hospitals. The purpose of this study was to determine the smallest sample required to produce statistically valid PRO-PM estimates.\n\nMETHODS: We calculated the minimum number of completed PROMs needed in order to achieve a 95% confidence interval (CI) width 10.0% (± 5.0%) for hospitals with five, 50, 500, and 5,000 eligible total hip arthroplasty (THA) and total knee arthroplasty (TKA) cases annually, assuming a conservative substantial clinical benefit (SCB) achievement of 50.0%. These values were compared with current CMS requirements. Sensitivity analyses explored the effects of confidence interval width, hospital volume, and frequency of SCB attainment on required sample sizes.\n\nRESULTS: The CMS's volume-proportional rule requires three, 25, 250, and 2,500 patients for hospitals with five, 50, 500, and 5,000 annual cases, respectively. In contrast, a statistically grounded random sampling strategy would require five, 45, 218, and 357 patients, respectively. Sensitivity analyses confirmed that random sampling reduces required sample sizes for high-volume hospitals.\n\nCONCLUSION: The current CMS reporting rule may produce unreliable performance estimates for low-volume hospitals while imposing excessive reporting burdens and potentially biased results for high-volume hospitals. A random sampling strategy may provide more precise and valid estimates while substantially reducing hospital burden, especially among the hospitals performing 500 or more THA and TKAs per year, which comprise approximately 35.0% of all THAs and TKAs annually.",
-          "doi": "10.1016/j.arth.2026.06.003",
-          "journal_ta": "J Arthroplasty",
-          "volume": "",
-          "issue": "",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42269953/",
-          "doi_url": "https://doi.org/10.1016/j.arth.2026.06.003",
-          "journal_key": "arthro"
-        },
-        {
-          "pmid": "42269952",
-          "title": "First Revision Total Hip Arthroplasty for Instability: 10-Year Outcomes and Risk Factors Associated with Re-Revision.",
-          "authors": [
-            "Yapp LZ",
-            "Howard LC",
-            "Greidanus NV",
-            "Garbuz DS",
-            "Masri BA",
-            "Neufeld ME"
-          ],
-          "abstract": "BACKGROUND: Recurrent instability remains a leading cause of failure after revision total hip arthroplasty (rTHA). This study assessed the 10-year survivorship of the first rTHA when undertaken for instability and identified factors associated with failure.\n\nMETHODS: We retrospectively identified all consecutive rTHA performed for instability at our institution between 2000 and 2022. Of the 678 rTHA identified, 284 (41.9%) were the first rTHA and included in the study. Re-revisions and oncology cases were excluded. The mean age at revision was 65 years, and 63.2% were women. The mean follow-up was 11.4 years (range, two to 22). A total of 84 (29.6%) hips underwent at least one re-revision. Survival free from instability-related and all-cause re-revision at 10 years was calculated using Kaplan-Meier analysis. Multivariable Cox proportional hazard regression modeling was used to assess factors associated with 10-year survival.\n\nRESULTS: The 10-year survivorship was 82.2% for instability and 73.6% for all-cause re-revision. Dual mobility (DM) components had higher 10-year instability-free survival than both standard bearings and constrained liners (P = 0.04). However, when considering 'large' (≥ 36 mm) femoral heads, there was no difference in the revision rate when compared to DM components (P = 0.59). Constrained liners were associated with a higher risk of revision for instability (HR [hazard ratio] 2.7, 95% CI [confidence interval] 1.05 to 6.8, P = 0.01). Younger age at surgery (P = 0.002), elevated body mass index (BMI) (P = 0.01), abductor deficiency (P = 0.03), and using a constrained liner (P = 0.04) were significantly associated with all-cause re-revision.\n\nCONCLUSIONS: In patients undergoing first-time rTHA for instability, nearly 20% will have recurrent instability, and 30% will undergo further revision within 10 years. The DM and large femoral heads demonstrate 10-year survivorship. Several patient and implant-related factors are associated with instability-specific and all-cause re-revision.",
-          "doi": "10.1016/j.arth.2026.06.002",
-          "journal_ta": "J Arthroplasty",
-          "volume": "",
-          "issue": "",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42269952/",
-          "doi_url": "https://doi.org/10.1016/j.arth.2026.06.002",
-          "journal_key": "arthro"
-        },
-        {
-          "pmid": "42269951",
-          "title": "Jumbo Femoral Heads in Total Hip Arthroplasty: Improved Early Stability Without Added Complications.",
-          "authors": [
-            "Kim BI",
-            "Cheng R",
-            "Grabov E",
-            "Debbi EM",
-            "Vigdorchik JM",
-            "Mayman DJ",
-            "Shen TS"
-          ],
-          "abstract": "BACKGROUND: Larger femoral heads have been proposed to reduce dislocation risk following total hip arthroplasty (THA). While the benefit of increasing head size from 28 or 32 mm to ≥ 36 mm is well established, it remains unclear whether jumbo (40 or 44 mm) femoral heads confer additional stability over traditional large (36 mm) heads. This study aimed to determine whether jumbo heads improve stability or alter early complication rates.\n\nMETHODS: We identified 6,413 primary THAs with large-diameter femoral heads (36-, 40-, or 44-mm) implanted at a single institution between February 1, 2016, and December 31, 2022. Cases were stratified by femoral head diameter into the traditional large-head (36 mm, n = 5,897) and jumbo-head (40 or 44 mm, n = 516) groups. The median follow-up was 2.4 years (range, 0.1 to 9.8; interquartile range [IQR], 1.3 to 4.1). The primary outcome was prosthetic hip dislocation at the last clinical follow-up. Time-to-event analyses were performed using multivariable Cox models with surgeon-level random effects, adjusting for patient-specific factors, year of surgery, surgical approach, and robotic assistance.\n\nRESULTS: In the full follow-up period, jumbo heads were not associated with a lower adjusted dislocation risk (hazard ratio (HR): 0.55 [95% confidence interval (CI): 0.13 to 2.34], P = 0.139) when compared with 36 mm heads. When analysis was truncated to the first postoperative year, 40 or 44 mm heads were associated with a lower dislocation risk compared with 36 mm heads (HR: 0.20 [95% CI: 0.05 to 0.79], P = 0.032). There were no significant differences in dislocation risk observed at 90 days. Rates of postoperative complications (periprosthetic joint infection and fracture) were similar between groups at 90 days, one year, and last follow-up.\n\nCONCLUSION: Compared with traditional large heads (36 mm), jumbo heads (40 or 44 mm) provided a modest, transient reduction in dislocation risk during the first postoperative year, most evident following the posterior approach THA, but did not confer additional long-term protection. Jumbo heads were not associated with increased rates of early surgical complications. Longer-term studies are warranted to address historical concerns.",
-          "doi": "10.1016/j.arth.2026.06.007",
-          "journal_ta": "J Arthroplasty",
-          "volume": "",
-          "issue": "",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42269951/",
-          "doi_url": "https://doi.org/10.1016/j.arth.2026.06.007",
-          "journal_key": "arthro"
-        },
-        {
-          "pmid": "42269950",
-          "title": "Dogma Under the Knife: Challenging the Status Quo in Primary Total Knee Arthroplasty.",
-          "authors": [
-            "Padgett BM",
-            "Terhune EB",
-            "Chalmers BP",
-            "Pagnano MW",
-            "Hannon CP"
-          ],
-          "abstract": "INTRODUCTION: Primary total knee arthroplasty (TKA) is among the most successful procedures in orthopaedic surgery, reliably providing pain relief, functional improvement, and durable implant survivorship. Despite these achievements, approximately 10 to 20% of patients report persistent dissatisfaction following primary TKA, even in the absence of technical failure. This disconnect between implant longevity and patient-perceived success has prompted renewed examination of the foundational principles that have historically guided TKA practice. Advances in implant design, biomaterials, surgical technology, and a changing patient population have challenged long-standing dogma related to alignment philosophy, fixation strategy, bearing surface selection, and patellar resurfacing.\n\nMETHODS: This symposium manuscript reviews contemporary evidence addressing the evolving paradigms in primary TKA, with a focus on individualized alignment strategies, the growing role of cementless fixation, expanded bearing design options, and selective approaches to patellar resurfacing.\n\nRESULTS: In each of these areas, the goal is not to promote a single new standard, but rather to provide an evidence-based framework to support thoughtful, patient-specific decision-making.\n\nCONCLUSION: As the field continues to evolve, moving beyond rigid dogma toward personalized reconstruction strategies may represent a critical step in improving patient satisfaction while preserving the excellent survivorship that defines modern total knee arthroplasty.",
-          "doi": "10.1016/j.arth.2026.05.077",
-          "journal_ta": "J Arthroplasty",
-          "volume": "",
-          "issue": "",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42269950/",
-          "doi_url": "https://doi.org/10.1016/j.arth.2026.05.077",
-          "journal_key": "arthro"
-        },
-        {
-          "pmid": "42269949",
-          "title": "Revision Total Joint Arthroplasty at the Ambulatory Surgery Center: A Single Institutional Experience.",
-          "authors": [
-            "Acuña AJ",
-            "Potluri AS",
-            "Yadav AS",
-            "Alfonsi S",
-            "Forlenza EM",
-            "Della Valle CJ"
-          ],
-          "abstract": "INTRODUCTION: The safety and efficacy of outpatient primary total joint arthroplasty (TJA) in appropriately selected patients have been established. As rates of revision TJA (rTJA) continue to increase, there is growing interest regarding the complications and revision incidence among procedures performed in the outpatient setting. The purpose of this study was to report outcomes of revision TJA procedures performed at an ambulatory surgery center (ASC).\n\nMETHODS: A retrospective case series review of 181 patients undergoing aseptic rTJA at a free-standing ASC between January 1, 2017, and July 1, 2024, at a single large academic referral center was performed. Patients who did not have a minimum 1-year follow-up were excluded (n = 28). Our primary outcome was the incidence of complications within 90 days of rTJA, with our secondary outcome as the incidence of re-revision at final follow-up. A majority of patients underwent modular component exchanges (75.7%), with instability being the most common revision etiology (71.8%). The mean follow-up was 3.4 years (range, 1.1 to 8.6). A Kaplan-Meier survival analysis was performed to identify survivorship free of all-cause re-revision at two and five years postoperatively.\n\nRESULTS: There was one patient (0.6%) who developed a DVT within 90 days postoperatively. There were no other medical complications seen among included patients. There were five patients (2.8%) who required reoperation in the initial 90 days due to PJI (n = 3) and wound complications (n = 2). Wound complications were the most common surgical complication (n = 9.5%). A total of 20 patients (11%) experienced any complication within 90 days. Survivorship free from all-cause re-revision was 96.7% (95% CI [Confidence Interval]: 92.7 to 98.5) at two years and 94.1% (95% CI: 87.9 to 97.2) at five years.\n\nCONCLUSION: Our study found that patients undergoing outpatient rTJA had a low rate of various complications in the immediate postoperative period as well as low rates of re-revision at short-term follow-up. These findings suggest that with careful patient and procedure selection, revision TJA may safely be performed at an ASC.",
-          "doi": "10.1016/j.arth.2026.06.009",
-          "journal_ta": "J Arthroplasty",
-          "volume": "",
-          "issue": "",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42269949/",
-          "doi_url": "https://doi.org/10.1016/j.arth.2026.06.009",
-          "journal_key": "arthro"
-        },
-        {
-          "pmid": "42269948",
-          "title": "The \"Distal Femoral Replacement Downgrade\": Technique of Using Bicondylar Femoral Cones with a Hinge Total Knee Arthroplasty Revision in Patients Who Have Massive Distal Femoral Bone Loss as an Alternative.",
-          "authors": [
-            "Chalmers BP",
-            "Afzal S",
-            "Bhatti P",
-            "Anatone AJ",
-            "Blevins JL",
-            "Debbi EM",
-            "Sculco PK",
-            "Gausden EB"
-          ],
-          "abstract": "BACKGROUND: Massive femoral bone loss with collateral insufficiency in revision total knee arthroplasty (TKA) is often managed with distal femoral replacement (DFR), but this procedure sacrifices bone stock and carries notable risks. We described outcomes of a bone-preserving alternative (the \"DFR downgrade\") that pairs bicondylar, metadiaphyseal-engaging femoral cones with a hinge construct.\n\nMETHODS: We performed a retrospective review of consecutive patients who underwent revision TKA using a \"DFR downgrade\" technique for severe femoral bone loss between February 2016 and July 2024. There were twenty patients (mean age, 69 years (range, 58 to 86); 65% men) included, with a mean follow-up of 14.5 months (range, 0.9 to 43.7). Indications were aseptic loosening in 75%, infection in 10%, ligamentous instability in 10%, and arthrofibrosis in 5%. Demographics, Anderson Orthopaedic Research Institute (AORI) classification, operative details, postoperative complications, and clinical and radiographic outcomes were collected. The Kaplan-Meier method was used to estimate reoperation-free and re-revision-free survivorship. Femoral bone loss was classified as AORI IIA in 10%, IIB in 30%, and III in 60% of cases.\n\nRESULTS: Survivorship free from revision for aseptic loosening was 100% at one and two years. Survivorship free from any re-revision was 85.1% at one and two years. Survivorship free from any reoperation was also 85.1% at one and two years. There were three knees that required reoperation: one for a periprosthetic femoral fracture revised to a DFR; one for infection treated with two-stage revision and reimplantation of a DFR downgrade construct; and one for patellar button exchange after an implant recall.\n\nCONCLUSIONS: In patients who have severe femoral bone loss and condylar compromise, a \"DFR downgrade\" consisting of a bicondylar cone-hinge construct achieved favorable survivorship. While further study is warranted, this appears to be a pragmatic, bone-preserving alternative to DFR.",
-          "doi": "10.1016/j.arth.2026.05.076",
-          "journal_ta": "J Arthroplasty",
-          "volume": "",
-          "issue": "",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42269948/",
-          "doi_url": "https://doi.org/10.1016/j.arth.2026.05.076",
-          "journal_key": "arthro"
         }
       ]
     },
@@ -739,7 +443,7 @@
       "key": "jorthotr",
       "journal": "Journal of Orthopaedic Trauma",
       "ta": "J Orthop Trauma",
-      "count": 4,
+      "count": 2,
       "articles": [
         {
           "pmid": "42283431",
@@ -784,53 +488,6 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42283430/",
           "doi_url": "https://doi.org/10.1097/BOT.0000000000003169",
-          "journal_key": "jorthotr"
-        },
-        {
-          "pmid": "42274352",
-          "title": "Response Letter to the Editor Regarding Article \"Orthopaedic Trauma Association Annual Meetings Consistently Provide Academic Value for Attendees\".",
-          "authors": [
-            "Greenhill DA",
-            "Lundy D",
-            "Imam N",
-            "Jain N"
-          ],
-          "abstract": "",
-          "doi": "10.1097/BOT.0000000000003233",
-          "journal_ta": "J Orthop Trauma",
-          "volume": "",
-          "issue": "",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42274352/",
-          "doi_url": "https://doi.org/10.1097/BOT.0000000000003233",
-          "journal_key": "jorthotr"
-        },
-        {
-          "pmid": "42274327",
-          "title": "Letter to the Editor Regarding Article \"Orthopaedic Trauma Association Annual Meetings Consistently Provide Academic Value for Attendees.\".",
-          "authors": [
-            "Blomberg JR"
-          ],
-          "abstract": "",
-          "doi": "10.1097/BOT.0000000000003234",
-          "journal_ta": "J Orthop Trauma",
-          "volume": "",
-          "issue": "",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42274327/",
-          "doi_url": "https://doi.org/10.1097/BOT.0000000000003234",
           "journal_key": "jorthotr"
         }
       ]
@@ -961,7 +618,7 @@
       "key": "injury",
       "journal": "Injury",
       "ta": "Injury",
-      "count": 11,
+      "count": 8,
       "articles": [
         {
           "pmid": "42285813",
@@ -1187,91 +844,6 @@
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42275817/",
           "doi_url": "https://doi.org/10.1016/j.injury.2026.113422",
           "journal_key": "injury"
-        },
-        {
-          "pmid": "42269563",
-          "title": "Injury and trauma care training in global health: A scoping review of costs and cost-effectiveness across resource settings.",
-          "authors": [
-            "Phan HT",
-            "Nguyen BT",
-            "Zhao T",
-            "Phung LT",
-            "Keakabetse TR",
-            "Dinh TTN",
-            "Nelson MR",
-            "Skinner M",
-            "Perndt H",
-            "Palmer AJ"
-          ],
-          "abstract": "INTRODUCTION: Injury is a leading cause of death and disability worldwide, with a disproportionate burden in low- and middle-income countries, where health resources are constrained and funding decisions are highly cost-sensitive. Injury and trauma care training programs have demonstrated their effectiveness in enhancing the capacity of care providers to treat injured patients, but evidence on their costs and cost-effectiveness remains limited and fragmented. This scoping review aims to map and summarise current literature on costs and cost-effectiveness of injury and trauma care training across different resource settings.\n\nMETHODS: We conducted a systematic search on PubMed, MEDLINE Complete, Embase via Ovid, Web of Science, EconLit and Emcare. Papers published in English that reported implementation costs or cost-effectiveness of trauma care training programs were included. Cost data were converted and presented as USD 2024.\n\nRESULTS: Twenty-eight studies were included, predominantly in low- and middle-income countries. Implementation costs varied considerably, starting from USD 3.70 (Lay-First-Responder) to USD 1433.5 (Advanced Trauma Life Support). Foreign instructor involvement was a particularly significant cost driver, accounting for 38-85% of total implementation costs in some programmes. Training-of-trainers and cascading models were effective in reducing costs, with savings of up to 28% per participant without compromising training quality. Most economic evaluations demonstrated favourable cost-effectiveness, though the evidence base was limited and disparate.\n\nCONCLUSIONS: Several programs were proved cost-effective, and training-of-trainers and cascading models offer promising strategies to reduce costs and improve sustainability. However, included studies revealed notable inconsistencies and methodological weaknesses. Future research should prioritise more rigorous and standardised economic evaluations, particularly in high-burden regions, such as Southeast Asia and the Eastern Mediterranean, where evidence remains scarce.",
-          "doi": "10.1016/j.injury.2026.113433",
-          "journal_ta": "Injury",
-          "volume": "57",
-          "issue": "8",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Review"
-          ],
-          "section": "Review",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42269563/",
-          "doi_url": "https://doi.org/10.1016/j.injury.2026.113433",
-          "journal_key": "injury"
-        },
-        {
-          "pmid": "42269562",
-          "title": "Do reduced screws have a significant impact on fixation in medial open wedge high tibial osteotomy? A comparative fatigue and stability analysis.",
-          "authors": [
-            "Özkaya M"
-          ],
-          "abstract": "INTRODUCTION: Medial opening wedge high tibial osteotomy generally employs T-shaped plates with three or more proximal screws to ensure stabilization. This study aims to evaluate the biomechanical necessity of the standard three screw proximal configuration of the T-shaped plates and investigates whether fixations with a reduced number of proximal screws provide sufficient stability and fatigue life under diverse loading scenarios using finite element analysis.\n\nMATERIALS AND METHODS: Three fixation models were analyzed, a standard T-shaped plate with three proximal screws in the first row and two modified models with two proximal screws in the first row with or without an empty hole. Models were subjected to physiological axial loading, centrically, anteriorly, or posteriorly applied in the sagittal plane, to measure total deformation, displacement of the tibial plateau, fixation stiffness, and von-Mises stress. Furthermore, a fatigue analysis was conducted to evaluate the endurance of fixations under these varying loading conditions.\n\nRESULTS: The reduction in proximal screws resulted in a marginal stiffness decrease of less than 2%, with values remaining above 7700 N/mm under centric loading. Total deformation and tibial plateau displacement showed negligible differences between two screw and three screw configurations. In addition, all peak stresses remained well below the material's yield strength, maintaining a robust static safety margin across all configurations. The fatigue results indicated that while all models achieved infinite life (26.185 million cycles) under centric and anterior loading, the posterior loading emerged as a critical scenario, in which the standard model reached 1.08 million cycles, whereas two screw models reached approximately 0.74-0.78 million cycles.\n\nDISCUSSION AND CONCLUSION: The findings demonstrate that T-shaped high tibial osteotomy plates with two proximal screws in first row offer biomechanical stability comparable to traditional three screw designs. While the reduced fatigue life under posterior loading suggests a need for plate optimization, the two screw configuration remains a viable surgical alternative that preserves bone stock for younger patients, reduces the risk of tissue damage and infection, and lowered the operative time and effort. Future studies focusing on hardware optimizations is needed to further enhance the long-term endurance of this promising fixation protocol.",
-          "doi": "10.1016/j.injury.2026.113430",
-          "journal_ta": "Injury",
-          "volume": "57",
-          "issue": "8",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42269562/",
-          "doi_url": "https://doi.org/10.1016/j.injury.2026.113430",
-          "journal_key": "injury"
-        },
-        {
-          "pmid": "42269561",
-          "title": "Moving beyond mortality measurements after road traffic injuries: Ten-year death risk after road traffic injuries.",
-          "authors": [
-            "Cherchiglia ML",
-            "Mougin V",
-            "Gray A",
-            "Wool EE",
-            "Malta DC",
-            "Melo APS",
-            "de Assis Acúrcio F",
-            "Junior AAG",
-            "Weaver ND",
-            "Naghavi M"
-          ],
-          "abstract": "Road traffic injuries (RTIs) represent a significant global public health issue, particularly in low- and middle-income countries like Brazil. Despite the high mortality rates and associated costs, there is limited comprehensive literature addressing long-term mortality resulting from RTIs. Most research tends to focus on rates and hospitalization figures while neglecting the connection between hospitalizations and causes of death, partly due to the challenges of follow-up studies. This study employed record-linkage methodology to create a database that includes both hospitalization and mortality records. The aim was to estimate all-cause and cause-specific relative risks (RR) of death among inpatients due to road traffic accidents, compared to those hospitalized for other reasons, over a time span of three months to ten years. A retrospective cohort study examined hospitalization data for RTIs and mortality from 2000 to 2015 using Brazil's Unified Health System (Sistema Único de Saúde - SUS in Portuguese), excluding any obstetrics-related admissions and deaths, and calculated RR stratified by sex and age over 15 years old. The findings indicated a significantly higher mortality risk of 3.23 (95% Uncertainty Interval: 3.08- 3.39) for individuals previously hospitalized for RTIs compared to others during follow-up. Males aged 15- 29 and 30- 59, especially those with motorcycle, vehicle, or pedestrian injuries, exhibited an elevated mortality risk compared to other inpatients. Furthermore, individuals with prior RTIs experienced increased mortality risks from substance use disorders, violence, and suicide. This research may enhance our understanding of the complex factors associated with road traffic injuries, underscoring the importance of recognizing how RTIs contribute to long-term mortality to inform better prevention strategies and policies.",
-          "doi": "10.1016/j.injury.2026.113378",
-          "journal_ta": "Injury",
-          "volume": "57",
-          "issue": "8",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42269561/",
-          "doi_url": "https://doi.org/10.1016/j.injury.2026.113378",
-          "journal_key": "injury"
         }
       ]
     },
@@ -1279,7 +851,7 @@
       "key": "ejtes",
       "journal": "European Journal of Trauma & Emergency Surgery",
       "ta": "Eur J Trauma Emerg Surg",
-      "count": 4,
+      "count": 2,
       "articles": [
         {
           "pmid": "42283813",
@@ -1345,62 +917,6 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42283768/",
           "doi_url": "https://doi.org/10.1007/s00068-026-03242-0",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42274738",
-          "title": "Influence of frailty on short-term mortality in older patients with multiple trauma in the emergency department.",
-          "authors": [
-            "Çelik Ş",
-            "Toker A",
-            "Biçer S",
-            "Cebecioğlu İK"
-          ],
-          "abstract": "PURPOSE: To investigate the association between frailty and 28-day mortality in older patients presenting to the emergency department with multiple trauma and to assess the discriminative performance of PRISMA-7 and the Trauma-Specific Frailty Index (TSFI) in frailty assessment in relation to commonly used trauma severity scores.\n\nMETHODS: This prospective observational study included patients aged ≥ 65 years with multiple trauma admitted to the emergency department between July 1 and August 31, 2024. Frailty was assessed using PRISMA-7 and TSFI. Patients were stratified into frail and non-frail groups and further categorized according to age groups (65-74, 75-84, and ≥ 85 years). Clinical characteristics, trauma severity scores, and outcomes, including 28-day mortality, were compared. Receiver operating characteristic (ROC) analysis was used to evaluate discriminative performance, and logistic regression analysis was performed to assess the association between scores and mortality.\n\nRESULTS: A total of 144 patients were included. Frailty was significantly associated with increased 28-day mortality, higher ICU admission rates, and longer hospital stays (p < 0.001). Mortality increased with age, reaching 30.0% in patients aged ≥ 85 years (p = 0.006). Frailty scores (PRISMA-7 and TSFI) increased significantly with age, whereas ISS did not differ significantly across age groups. ROC analysis demonstrated comparable discriminative performance among scoring systems, with PRISMA-7 showing balanced sensitivity and specificity. In logistic regression analysis, all scores were significantly associated with mortality, and frailty identified by PRISMA-7 was associated with a higher mortality risk.\n\nCONCLUSION: Frailty is significantly associated with adverse outcomes, including increased mortality, in older trauma patients. Frailty assessment using simple screening tools such as PRISMA-7 may complement traditional trauma severity scores and help identify high-risk patients in emergency settings.",
-          "doi": "10.1007/s00068-026-03214-4",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Observational Study"
-          ],
-          "section": "Observational Study",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42274738/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03214-4",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42271044",
-          "title": "Mortality prediction in older adults with earthquake-related trauma: a model combining MEWS and laboratory biomarkers.",
-          "authors": [
-            "Ozen A",
-            "Acehan S",
-            "Satar S",
-            "Bulut EA",
-            "Gulen M",
-            "Nıgız K",
-            "Sevdımbas S",
-            "Sonmez GO",
-            "Gorur M"
-          ],
-          "abstract": "PURPOSE: This study aimed to identify laboratory parameters and clinical scores that can predict in-hospital mortality among patients aged 65 years and older who presented to the emergency department (ED) with earthquake-related trauma following the February 6 and 20, 2023 earthquakes.\n\nMETHODS: In this retrospective observational study, 362 patients with earthquake-related trauma between February 6-21, 2023, were included. Demographic characteristics, laboratory results, and clinical scores such as the Modified Early Warning Score (MEWS), Injury Severity Score (ISS), and Shock Index (SI) were analyzed.\n\nRESULTS: Of the included patients, 53.9% (n = 195) were female, and the median age was 73 years (IQR: 69-80). The overall mortality rate was 9.4%. Multivariable logistic regression analysis identified MEWS (OR: 3.535; 95% CI: 2.397-5.212; p < 0.001), urea (OR: 1.009; 95% CI: 1.002-1.015; p = 0.008), and hs-Troponin I (OR: 1.001; 95% CI: 1.000-1.002; p = 0.016) as independent predictors of mortality. Receiver operating characteristic (ROC) analysis demonstrated an AUC of 0.936 for the combined model including MEWS, urea, and hs-Troponin I (95% CI: 0.875-0.996; p < 0.001). Among the variables, MEWS showed the highest AUC (0.903; 95% CI: 0.829-0.976). The optimal cutoff value for MEWS was determined as 1.5, with a sensitivity of 70.6% and a specificity of 97.6%.\n\nCONCLUSIONS: In older adults with earthquake-related trauma, integrating laboratory parameters-particularly urea and hs-Troponin I-with MEWS substantially improves mortality prediction. These findings underscore the importance of early laboratory-based evaluation for accurate risk stratification in disaster settings.",
-          "doi": "10.1007/s00068-026-03232-2",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42271044/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03232-2",
           "journal_key": "ejtes"
         }
       ]

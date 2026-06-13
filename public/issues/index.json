@@ -1,23 +1,23 @@
 {
-  "base_url": "https://elmunzar.github.io/praxia-update",
+  "base_url": "https://Elmunzar.github.io/praxia-update",
   "issues": [
     {
       "date": "2026-06-13",
-      "generated_at": "2026-06-13T21:50:33Z",
-      "count": 49,
+      "generated_at": "2026-06-13T21:52:27Z",
+      "count": 31,
       "journals_with_articles": 10,
-      "pdf_url": "https://elmunzar.github.io/praxia-update/issues/2026-06-13.pdf",
-      "json_url": "https://elmunzar.github.io/praxia-update/issues/2026-06-13.json",
-      "app_url": "https://elmunzar.github.io/praxia-update/?date=2026-06-13"
+      "pdf_url": "https://Elmunzar.github.io/praxia-update/issues/2026-06-13.pdf",
+      "json_url": "https://Elmunzar.github.io/praxia-update/issues/2026-06-13.json",
+      "app_url": "https://Elmunzar.github.io/praxia-update/?date=2026-06-13"
     },
     {
       "date": "2026-06-12",
       "generated_at": "2026-06-12T20:26:10Z",
       "count": 57,
       "journals_with_articles": 10,
-      "pdf_url": "https://elmunzar.github.io/praxia-update/issues/2026-06-12.pdf",
-      "json_url": "https://elmunzar.github.io/praxia-update/issues/2026-06-12.json",
-      "app_url": "https://elmunzar.github.io/praxia-update/?date=2026-06-12"
+      "pdf_url": "https://Elmunzar.github.io/praxia-update/issues/2026-06-12.pdf",
+      "json_url": "https://Elmunzar.github.io/praxia-update/issues/2026-06-12.json",
+      "app_url": "https://Elmunzar.github.io/praxia-update/?date=2026-06-12"
     }
   ]
 }
