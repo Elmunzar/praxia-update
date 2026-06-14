@@ -134,7 +134,7 @@ async function init() {
   }
 
   els.dateSelect.innerHTML = state.index.map(e =>
-    `<option value="${e.date}">${prettyDate(e.date)} — ${e.count} new</option>`).join("");
+    `<option value="${e.date}">${prettyDate(e.date)} — ${e.count} article${e.count !== 1 ? "s" : ""}</option>`).join("");
   const wanted = new URLSearchParams(location.search).get("date");
   const start = state.index.find(e => e.date === wanted)?.date || state.index[0].date;
   els.dateSelect.value = start;
@@ -180,8 +180,9 @@ function setMeta(html) { els.issueMeta.innerHTML = html; }
 /* ---------- newsstand ---------- */
 function renderNewsstand() {
   const groups = visibleGroups();
-  const total = groups.reduce((n, g) => n + g.count, 0);
-  setMeta(`<strong>${prettyDate(state.issue.date)}</strong><br>${total} new article${total !== 1 ? "s" : ""} · ${groups.filter(g => g.count).length} journal${groups.filter(g => g.count).length !== 1 ? "s" : ""}`);
+  const live = groups.filter(g => g.count > 0).length;
+  const fresh = groups.filter(g => g.is_new).length;
+  setMeta(`<strong>${live} journal${live !== 1 ? "s" : ""}</strong><br>${fresh ? `${fresh} new issue${fresh !== 1 ? "s" : ""} · ` : ""}${prettyDate(state.issue.date)}`);
 
   const q = norm(state.query);
   const shown = q ? groups.filter(g => norm(g.journal).includes(q)) : groups;
@@ -200,7 +201,7 @@ function renderNewsstand() {
         ${badgeHtml(g, accent)}
         <span class="jcard-body">
           <span class="jcard-name">${esc(g.journal)}</span>
-          <span class="jcard-edition">${clickable ? esc(editionLabel(g)) : "No new articles"}</span>
+          <span class="jcard-edition">${clickable ? esc(editionLabel(g)) + (g.is_new ? " · new" : "") : "No current issue"}</span>
         </span>
         <span class="jcard-count" style="--a:${accent}">${g.count || "—"}</span>
       </button>`;
@@ -209,7 +210,7 @@ function renderNewsstand() {
   els.content.innerHTML =
     `<p class="summary-line">Your journals — ${prettyDate(state.issue.date)}</p>
      <div class="newsstand">${withNew.map(card).join("")}</div>
-     ${noNew.length ? `<p class="muted nostand-sep">Nothing new today</p><div class="newsstand dim">${noNew.map(card).join("")}</div>` : ""}
+     ${noNew.length ? `<p class="muted nostand-sep">No current issue</p><div class="newsstand dim">${noNew.map(card).join("")}</div>` : ""}
      ${q && !shown.length ? `<div class="empty">No journals match “${esc(state.query)}”.</div>` : ""}`;
 
   els.content.querySelectorAll(".jcard[data-open]").forEach(b =>
@@ -233,7 +234,7 @@ function renderJournalContents() {
   const head = `<div class="toc-head">
       <button class="back" id="backBtn">‹ Journals</button>
       <div class="toc-title">${badgeHtml(g, accent)}
-        <span><span class="toc-journal">${esc(g.journal)}</span><span class="toc-edition">${esc(editionLabel(g))} · ${g.count} new</span></span>
+        <span><span class="toc-journal">${esc(g.journal)}</span><span class="toc-edition">${esc(editionLabel(g))} · ${g.count} article${g.count !== 1 ? "s" : ""}</span></span>
       </div>
     </div>`;
 

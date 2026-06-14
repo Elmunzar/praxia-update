@@ -23,6 +23,10 @@ EMAIL = os.environ.get("PUBMED_EMAIL", "elmunzarr@gmail.com")
 
 # Be polite to NCBI: 3 req/s without a key, 10 with one.
 _MIN_INTERVAL = 0.11 if API_KEY else 0.34
+
+# Max articles kept per journal issue (bounds continuous-publication journals
+# whose "issue" accumulates all year; real monthly issues are well under this).
+ISSUE_ARTICLE_CAP = 120
 _last_call = [0.0]
 
 
@@ -78,6 +82,71 @@ def esearch_ids(ta, mindate, maxdate, retmax=200):
     }
     raw = _get("esearch.fcgi", params)
     return json.loads(raw)["esearchresult"].get("idlist", [])
+
+
+_MONTHS = {m.lower(): i for i, m in enumerate(
+    ["", "jan", "feb", "mar", "apr", "may", "jun",
+     "jul", "aug", "sep", "oct", "nov", "dec"])}
+_SEASONS = {"spring": 4, "summer": 7, "fall": 10, "autumn": 10, "winter": 1}
+
+
+def _month_num(s):
+    s = (s or "").strip().lower()
+    if not s:
+        return 0
+    if s.isdigit():
+        return int(s)
+    if s[:3] in _MONTHS:
+        return _MONTHS[s[:3]]
+    return _SEASONS.get(s, 0)
+
+
+def _lead_int(s):
+    """Leading integer of a volume/issue string ('108-B' -> 108, '6' -> 6)."""
+    m = re.match(r"\d+", (s or "").strip())
+    return int(m.group()) if m else 0
+
+
+def current_issue_ids(ta, sample=120):
+    """Identify a journal's most recent published issue and return its full ToC.
+
+    Journals publish ~monthly with nothing added between issues, so we track the
+    *current issue* rather than a daily diff. Two steps:
+      1. Sample recent articles (sorted newest-first) to find the latest
+         (volume, issue) that has a real issue number.
+      2. Query that exact volume+issue to get every PMID in it — the complete
+         table of contents, independent of the sample size.
+
+    Returns (volume, issue, pub_year, pub_month, [pmids]). Ahead-of-print
+    records (no issue number) are skipped when picking the current issue.
+    """
+    recent = json.loads(_get("esearch.fcgi", {
+        "db": "pubmed", "retmode": "json", "retmax": str(sample),
+        "sort": "pub_date", "term": f'"{ta}"[TA]',
+    }))["esearchresult"].get("idlist", [])
+    if not recent:
+        return "", "", "", "", []
+
+    best = None  # (sortkey, volume, issue, year, month)
+    for a in efetch_articles(recent):
+        if not a["issue"] or not a["volume"]:
+            continue
+        key = (_lead_int(a["pub_year"]), _month_num(a["pub_month"]),
+               _lead_int(a["volume"]), _lead_int(a["issue"]))
+        if best is None or key > best[0]:
+            best = (key, a["volume"], a["issue"], a["pub_year"], a["pub_month"])
+    if best is None:
+        return "", "", "", "", []
+
+    _, volume, issue, year, month = best
+    full = json.loads(_get("esearch.fcgi", {
+        "db": "pubmed", "retmode": "json", "retmax": "300", "sort": "pub_date",
+        "term": f'"{ta}"[TA] AND {volume}[VI] AND {issue}[IP]',
+    }))["esearchresult"].get("idlist", [])
+    # Cap: real monthly issues are well under this; the ceiling only trims
+    # continuous-publication journals whose "issue" accumulates all year.
+    ids = (full or recent[:1])[:ISSUE_ARTICLE_CAP]
+    return volume, issue, year, month, ids
 
 
 def _text(el):

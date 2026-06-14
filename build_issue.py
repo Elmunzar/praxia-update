@@ -13,6 +13,7 @@ Outputs under public/issues/:
 """
 
 import os
+import re
 import sys
 import json
 import glob
@@ -36,37 +37,65 @@ def write_subscriptions(base_url):
         json.dump(out, f, ensure_ascii=False, indent=2)
 
 
-def build_issue(date, back_days, selected_keys):
-    """Fetch all selected journals for the indexing window ending on `date`."""
-    end = datetime.date.fromisoformat(date)
-    start = end - datetime.timedelta(days=back_days)
-    mindate, maxdate = start.strftime("%Y/%m/%d"), end.strftime("%Y/%m/%d")
+def _page_sort(pages):
+    """Sort key from a page string ('739-746' -> 739) for table-of-contents order."""
+    m = re.match(r"[A-Za-z]?(\d+)", pages or "")
+    return int(m.group(1)) if m else 10 ** 9
 
+
+def _prev_issue_map():
+    """{journal key: (volume, issue)} from the last snapshot, to detect new issues."""
+    try:
+        with open(os.path.join(ISSUES_DIR, "latest.json"), encoding="utf-8") as f:
+            prev = json.load(f)
+        return {g["key"]: (g.get("volume", ""), g.get("issue", ""))
+                for g in prev.get("groups", [])}
+    except Exception:  # noqa: BLE001 - first run / missing file
+        return {}
+
+
+def build_issue(date, back_days, selected_keys):
+    """Snapshot each subscribed journal's *current full issue* (its table of contents).
+
+    Journals publish ~monthly with nothing added between issues, so we track the
+    current issue rather than a daily diff. A journal is flagged `is_new` when its
+    (volume, issue) differs from the previous snapshot. `back_days` is unused now
+    (kept for CLI compatibility).
+    """
     subscribed = journals.load()
-    groups, total = [], 0
+    prev = _prev_issue_map()
+    groups, total, new_issues = [], 0, 0
+
     for j in subscribed:
         if selected_keys is not None and j["key"] not in selected_keys:
             continue
-        ids = pubmed.esearch_ids(j["ta"], mindate, maxdate)
+        volume, issue, year, month, ids = pubmed.current_issue_ids(j["ta"])
         articles = pubmed.efetch_articles(ids) if ids else []
-        # Keep PubMed's newest-first order; tag each with the journal key.
         for a in articles:
             a["journal_key"] = j["key"]
+        articles.sort(key=lambda a: _page_sort(a.get("pages")))  # table-of-contents order
+
+        prev_vi = prev.get(j["key"])
+        is_new = bool(issue) and prev_vi is not None and prev_vi != (volume, issue)
+        new_issues += 1 if is_new else 0
         total += len(articles)
         groups.append({
             "key": j["key"], "journal": j["name"], "ta": j["ta"],
+            "volume": volume, "issue": issue, "pub_year": year, "pub_month": month,
+            "is_new": is_new,
             "count": len(articles), "articles": articles,
         })
-        print(f"  {j['name']:<48} {len(articles):>3} article(s)")
+        tag = "NEW" if is_new else "   "
+        print(f"  {tag} {j['name']:<44} Vol {volume or '?'} Iss {issue or '?'}: "
+              f"{len(articles):>3} article(s)")
 
     journals_with = sum(1 for g in groups if g["count"] > 0)
     return {
         "date": date,
         "generated_at": datetime.datetime.now(datetime.timezone.utc)
                                  .strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "window": {"mindate": mindate, "maxdate": maxdate},
         "counts": {"articles": total, "journals_with_articles": journals_with,
-                   "journals_searched": len(groups)},
+                   "journals_searched": len(groups), "new_issues": new_issues},
         "groups": groups,
     }
 
