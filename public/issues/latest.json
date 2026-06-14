@@ -1,11 +1,11 @@
 {
   "date": "2026-06-14",
-  "generated_at": "2026-06-14T08:47:15Z",
+  "generated_at": "2026-06-14T10:18:14Z",
   "counts": {
     "articles": 483,
     "journals_with_articles": 11,
     "journals_searched": 11,
-    "new_issues": 11
+    "new_issues": 0
   },
   "groups": [
     {
@@ -16,7 +16,7 @@
       "issue": "7",
       "pub_year": "2026",
       "pub_month": "Jun",
-      "is_new": true,
+      "is_new": false,
       "count": 30,
       "articles": [
         {
@@ -869,7 +869,7 @@
       "issue": "6",
       "pub_year": "2026",
       "pub_month": "Jun",
-      "is_new": true,
+      "is_new": false,
       "count": 14,
       "articles": [
         {
@@ -1721,7 +1721,7 @@
       "issue": "6",
       "pub_year": "2026",
       "pub_month": "Jun",
-      "is_new": true,
+      "is_new": false,
       "count": 39,
       "articles": [
         {
@@ -2667,7 +2667,7 @@
       "issue": "11",
       "pub_year": "2026",
       "pub_month": "Jun",
-      "is_new": true,
+      "is_new": false,
       "count": 20,
       "articles": [
         {
@@ -3202,7 +3202,7 @@
       "issue": "7",
       "pub_year": "2026",
       "pub_month": "Jul",
-      "is_new": true,
+      "is_new": false,
       "count": 48,
       "articles": [
         {
@@ -4515,7 +4515,7 @@
       "issue": "1",
       "pub_year": "2026",
       "pub_month": "May",
-      "is_new": true,
+      "is_new": false,
       "count": 29,
       "articles": [
         {
@@ -5370,7 +5370,7 @@
       "issue": "7",
       "pub_year": "2026",
       "pub_month": "Jul",
-      "is_new": true,
+      "is_new": false,
       "count": 15,
       "articles": [
         {
@@ -5780,7 +5780,7 @@
       "issue": "1",
       "pub_year": "2026",
       "pub_month": "Jun",
-      "is_new": true,
+      "is_new": false,
       "count": 120,
       "articles": [
         {
@@ -9127,7 +9127,7 @@
       "issue": "7",
       "pub_year": "2026",
       "pub_month": "Jul",
-      "is_new": true,
+      "is_new": false,
       "count": 35,
       "articles": [
         {
@@ -10072,7 +10072,7 @@
       "issue": "1",
       "pub_year": "2026",
       "pub_month": "Jun",
-      "is_new": true,
+      "is_new": false,
       "count": 120,
       "articles": [
         {
@@ -13494,7 +13494,7 @@
       "issue": "Suppl",
       "pub_year": "2026",
       "pub_month": "Feb",
-      "is_new": true,
+      "is_new": false,
       "count": 13,
       "articles": [
         {
