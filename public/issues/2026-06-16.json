@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-17",
-  "generated_at": "2026-06-17T11:25:39Z",
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T11:59:37Z",
   "counts": {
     "articles": 483,
     "journals_with_articles": 11,
@@ -10082,151 +10082,6 @@
       "count": 120,
       "articles": [
         {
-          "pmid": "42301409",
-          "title": "Prehospital endotracheal intubation and 30-day survival in severe trauma: a matched cohort study from Navarra, Spain.",
-          "authors": [
-            "Zulet Murillo D",
-            "Ferraz Torres M",
-            "Fortún Moral M",
-            "Belzunegui Otano T",
-            "Tamayo Rodríguez I"
-          ],
-          "abstract": "PURPOSE: Prehospital endotracheal intubation (ETI) is frequently used in major trauma, but its association with 30-day survival remains debated. We evaluated the association between prehospital ETI and 30-day survival and assessed whether sex modifies the age-related increase in mortality risk.\n\nMETHODS: We conducted a retrospective cohort study using the Navarra Major Trauma Registry (2010-2019). Patients aged ≥15 years with New Injury Severity Score (NISS) ≥15 were included; patients who died before hospital admission or had incomplete records were excluded. To mitigate confounding by indication, intubated and non-intubated patients were matched 1:1 using prehospital Glasgow Coma Scale (GCS), respiratory distress, and prehospital cardiac arrest as matching variables. Because the proportional hazards assumption for Cox regression was not met, parametric Weibull survival models were fitted, including a sex-by-age interaction term.\n\nRESULTS: Overall, 1,909 patients were included; 212 (11.1%) underwent prehospital ETI. Matching yielded 190 pairs (n=380). In the matched cohort, prehospital ETI was not independently associated with 30-day survival (adjusted HR 0.91, 95% CI 0.65-1.27). Mortality risk was independently associated with lower GCS (per 1-point increase: HR 0.86, 95% CI 0.82-0.91) and respiratory distress (HR 7.63, 95% CI 4.34-13.4). A significant sex-by-age interaction was observed (HR 1.02, 95% CI 1.01-1.04).\n\nCONCLUSION: In this matched registry cohort, prehospital ETI was not independently associated with improved 30-day survival. Sex- and age-related heterogeneity supports the incorporation of sex-informed analyses when evaluating trauma outcomes and prehospital airway management.",
-          "doi": "10.1007/s00068-026-03234-0",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42301409/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03234-0",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42301408",
-          "title": "Mechanical and manual cardiopulmonary resuscitation in traumatic cardiac arrest: a retrospective observational study.",
-          "authors": [
-            "El-Menyar A",
-            "Ahmed K",
-            "Howland IR",
-            "Mollazehi M",
-            "Mekkodathil A",
-            "Rizoli S",
-            "Cameron P",
-            "de Oliveira Manoel AL",
-            "Al-Thani H"
-          ],
-          "abstract": "BACKGROUND: Prehospital Traumatic cardiac arrest has a high fatality rate despite advances in trauma systems and resuscitation strategies. Mechanical chest compression devices have been increasingly adopted to optimize cardiopulmonary resuscitation (CPR) during Emergency Medical Services (EMS) transportation. We aimed to evaluate the impact of CPR (mechanical during transportation versus manual CPR only at the scene) on survival among trauma patients.\n\nMETHODS: A retrospective analysis was conducted for patients who received CPR at the scene and during transportation to the hospital between 2016 and 2024.\n\nRESULTS: A total of 610 patients sustaining blunt traumatic cardiac arrest were included. The mean age was 34 ± 12.6 years; 94.6% were male, and 5.4% were female patients. Two hundred twenty (36.1%) received mechanical CPR during transportation to the hospital, and 390 (63.9%) received manual CPR only at the scene. Compared with the manual CPR group, the mechanical CPR group had higher rates of primary chest injury (30.5% vs. 20.5%; p = 0.006), bystander CPR (15.9% vs. 6.7%; p = 0.001), adrenaline administrations (95% vs. 26.4%; p = 0.001), and initial non-shockable rhythm (80% vs. 27.2%; p = 0.001). The two groups were comparable in median Injury Severity Score (ISS), head Abbreviated Injury Score (AIS), and total transport time. Mechanical CPR was associated with a markedly higher survival to hospital arrival (98.6% vs. 38.5%, p = 0.001), however, the rate of return of spontaneous circulation (ROSC) on arrival to the hospital remained low in both groups (10.5% with mechanical CPR vs. 5.9% with manual CPR, p = 0.041), and the overall 30-day survival rate for the entire cohort was just 0.7% (n = 4/610). The first 24-hour in-hospital survival rate was significantly higher in the mechanical CPR group than in the manual CPR group (93.1% vs. 89.3%). Among survivors to hospital arrival, the 30-day survival rate was 1.1% (n = 4/367) overall, 2.7% (n = 4/150), in the manual CPR group, and 0% (n = 0/217) in the mechanical CPR group. Age-gender-adjusted predictors for ROSC at handover were ISS (aOR 0.97; 95% confidence interval (CI) 0.95-0.99, p = 0.03) and thoracentesis (aOR 3.9; 95% CI 1.50-9.98, p = 0.005).\n\nCONCLUSIONS: Mechanical CPR in prehospital blunt traumatic cardiac arrest was associated with improved survival to hospital arrival compared with manual CPR; however, in-hospital mortality remained extremely high. These findings suggest that mechanical CPR may facilitate transport of patients in traumatic cardiac arrest without substantially improving overall outcomes. While mechanical devices can provide continuous chest compressions during transport, their impact on meaningful survival in the trauma setting appears limited. The effect of potential iatrogenic injuries associated with the CPR process itself was lacking in this study. Further studies are needed to clarify the role and indication of prehospital mechanical CPR in traumatic cardiac arrest.\n\nCLINICAL TRIAL NUMBER: Not applicable for this retrospective study.",
-          "doi": "10.1007/s00068-026-03233-1",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Observational Study"
-          ],
-          "section": "Observational Study",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42301408/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03233-1",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42301328",
-          "title": "Cervical spine clearance in pediatric trauma patients - Consensus algorithm of the Pediatric Spinal Trauma Group of the Spine Section of the German Society for Orthopedic and Trauma Surgery (DGOU).",
-          "authors": [
-            "Bolte J",
-            "Rüther H",
-            "Brecht P",
-            "Wiersbicki DW",
-            "Youssef Y",
-            "Jarvers JS",
-            "Disch AC"
-          ],
-          "abstract": "PURPOSE: Although cervical spine injuries in pediatric patients are rare, clinical and radiological examinations are clinical routine. Currently, no standardized decision algorithm does exist for detection of these injuries in the European region. The proposed algorithm is aiming to safely identify significant injuries through consistent diagnostics while minimizing immobilization and radiation exposure at the same time.\n\nMETHODS: The Pediatric Spinal Trauma Group of the Spine Section of the German Society for Orthopedic and Trauma Surgery (DGOU) developed an algorithm based on own scientific investigations and considering primary and secondary literature. The algorithm was developed through a formal consensus process and thereby aligns with international recommendations.\n\nRESULTS: The algorithm uses the initial pediatric Glasgow Coma Scale (pGCS) to group patients to three treatment pathways. Resulting recommendations for imaging, clinical re-assessment, and further management include the child's age, trauma mechanism, and clinical evaluations.\n\nCONCLUSION: Despite their rarity, potential cervical spine injury in children requires accurate diagnosis. Clinical examinations can be challenging, especially in children with compromised consciousness. Increased radiation exposure from X-rays and computer tomography (CT) scans must be considered, particularly as magnetic resonance imaging (MRI) availability is sometimes limited and often requires more resources as sedation or anesthesia in younger children. The introduced algorithm uses standardized pathways for the diagnosis of pediatric cervical spine injuries aiming to reduce the number of missed injuries as well as diagnostic delays, minimize unnecessary radiation exposure, and optimize healthcare resource utilization. Spine Section of the German Society for Orthopedics and Trauma Surgery (DGOU).",
-          "doi": "10.1007/s00068-026-03088-6",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Consensus Statement",
-            "Letter"
-          ],
-          "section": "Letter",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42301328/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03088-6",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42301298",
-          "title": "Development of a low-cost external fixation system: an off-label solution for resource-limited settings.",
-          "authors": [
-            "Seiser M",
-            "Deininger C",
-            "Fierlbeck J",
-            "Hollensteiner M",
-            "Coles P",
-            "Reuter C",
-            "Tempfer H",
-            "Traweger A",
-            "Wichlas F"
-          ],
-          "abstract": "PURPOSE: External fixators are essential for the surgical management of long-bone fractures, particularly in resource-limited settings where access to commercial systems is often restricted by cost and logistics. This study aimed to develop a low-cost external fixation concept using widely available construction materials and evaluate its biomechanical performance under axial loading.\n\nMETHODS: An external fixator composed of M10 threaded rods, washers, and nuts was developed. Five configurations were tested: SP (Steinmann pins), KT (threaded K-wires), KS (smooth K-wires), and BKS (bilaterally applied, smooth K-wires). A commercial external fixator served as control (CG). Juvenile bovine ulnae with a standardized fracture gap were subjected to cyclic axial loading. Construct stiffness, elastic deformation, and plastic deformation were assessed.\n\nRESULTS: CG showed the highest stiffness (107.80 ± 14.12 N/mm), followed by SP (87.73 ± 17.92 N/mm), BKS (83.81 ± 10.01 N/mm), KS (49.84 ± 3.80 N/mm), and KT (46.66 ± 2.39 N/mm). Post-hoc analyses showed no significant differences between CG vs. SP and CG vs. BKS, whereas KT and KS were significantly less stiff. Elastic deformation followed a similar pattern. Plastic deformation was greatest in CG, while SP and BKS showed significantly lower values.\n\nCONCLUSIONS: The threaded-rod fixator provides relevant mechanical stability at extremely low material cost. As a first biomechanical proof-of-concept, this approach may offer a practical and immediately deployable stabilization method for resource-limited settings when standard external fixators are unavailable. It could serve either as a definitive treatment or as part of a damage control strategy prior to transfer. Further biomechanical, cadaveric, and clinical studies are required before clinical application can be considered.",
-          "doi": "10.1007/s00068-026-03246-w",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42301298/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03246-w",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42301294",
-          "title": "Supplementary fixation in multifragmentary midshaft clavicle fractures: do interfragmentary screws or suture cerclage improve outcomes compared with plate-only fixation?",
-          "authors": [
-            "Barthel C",
-            "Hinkelmann MA",
-            "Schibler D",
-            "Frei F",
-            "Pape HC",
-            "Allemann F"
-          ],
-          "abstract": "BACKGROUND: Clavicle fractures are common injuries. As displaced or multifragmentary midshaft patterns carry a substantial risk of malunion and nonunion with nonoperative treatment, they have contributed to the increasing use of surgical fixation. Modern operative techniques include plate fixation, intramedullary devices, and hybrid strategies to address comminution and improve fragment stability. Supplementary interfragmentary screws and cerclage constructs have been proposed to enhance fragment control and optimize load transfer in multifragmentary fracture patterns. This study aimed to compare three fixation strategies for operatively treated midshaft clavicle fractures managed with plate osteosynthesis: Group IS (interfragmentary screw), Group CA (cerclage augmentation), and Group POF (plate-only fixation), with respect to operative time, complication rates, and potential biological and mechanical differences.\n\nMETHODS: This retrospective study included patients aged ≥ 16 years who underwent plate fixation for multifragmentary clavicle fractures between 2016 and 2024. Patients were categorized into three groups: Group IS (supplementary interfragmentary screw), Group CA (suture cerclage augmentation), and Group POF (plate-only fixation). Demographic, surgical, and radiographic data were collected. Callus formation was assessed by three independent observers. Statistical analyses were performed with a significance level of p < 0.05.\n\nRESULTS: A total of 246 patients (mean age 44.5 ± 15.7 years; 89% male) were included. The overall complication rate was 6.9%. Fracture complexity differed significantly between groups (p = 0.0083), with Group IS and Group CA including more complex fracture patterns. Operative time was longest in Group CA (101.1 min), followed by Group IS (90.1 min) and Group POF (82.4 min; p < 0.001). Group IS and Group CA demonstrated lower complication rates (6.0% and 5.5%, respectively) compared with Group POF (16.3%, p = 0.0444). Mechanical complications were absent in Group CA (p = 0.035). Differences in callus formation were observed between groups (p = 0.0059). Refracture rates after implant removal were highest in Group CA (16.0%), with no refractures observed in Group POF (p = 0.064).\n\nCONCLUSION: While the choice between interfragmentary screws and cerclage is primarily dictated by fracture morphology, our findings suggest that supplementary fixation may be beneficial in multifragmentary fractures. Both strategies were associated with lower complication rates compared with plate-only fixation; however, refracture rates after implant removal may be higher and require cautious interpretation. Further studies are needed to clarify the long-term clinical impact of these strategies.\n\nLEVEL OF EVIDENCE: Level III, Retrospective cohort study.",
-          "doi": "10.1007/s00068-026-03248-8",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Comparative Study"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42301294/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03248-8",
-          "journal_key": "ejtes"
-        },
-        {
           "pmid": "42295429",
           "title": "Cerebral glycerol during haemorrhagic shock in normal and raised intracranial pressure resuscitated with total REBOA: an experimental porcine study.",
           "authors": [
@@ -13458,6 +13313,184 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41774202/",
           "doi_url": "https://doi.org/10.1007/s00068-026-03091-x",
+          "journal_key": "ejtes"
+        },
+        {
+          "pmid": "41774162",
+          "title": "Arthroscopically assisted refixation of bony ACL tears with accompanying posteraleral tibial plateau (\"apple bite\") fractures - a minimally invasive treatment approach.",
+          "authors": [
+            "Rosteius T",
+            "Somberg O",
+            "Bernstorff M",
+            "Lotzien S",
+            "Gessmann J",
+            "Schildhauer TA",
+            "Königshausen M"
+          ],
+          "abstract": "PURPOSE: Combined fractures involving bony avulsion of the anterior cruciate ligament (ACL) with a concomitant impression fracture of the posterolateral tibial plateau are rare injuries, with limited data available in the literature. Therefore, the aim of this study was to evaluate the functional and clinical outcomes of arthroscopically assisted treatment for these osteoligamentous injuries. METHODS: We retrospectively reviewed 16 patients after a mean follow-up of 24.3 ± 10.6 months (12–45 months) who underwent arthroscopically assisted treatment for these named injuries. The fixation of the ACL avulsion was carried out either with two crossed, cannulated 2.7 mm screws or using transosseous sutures (12 and 4 patients, respectively). The reduction and fixation of the tibial plateau fracture with an articular step-off greater than 2 mm was performed arthroscopically assisted by screw osteosyntheses (9 patients). Primary outcome parameters were the Lysholm score, Knee Injury and Osteoarthritis Outcome Score (KOOS), Numeric Rating Scale (NRS) Pain Score, and International Knee Documentation Committee (IKDC) score. Secondary outcome parameters included bony consolidation, complications, and surgical revisions. RESULTS: The mean Lysholm score, KOOS and IKDC score were 84 ± 13, 81 ± 14%, and 78 ± 11, respectively. The NRS score had a median of 1.6, the median Tegner activity score was 4.5. Complete bony healing was achieved in all patients. Neither perioperative complications nor surgical revisions occurred. During follow-up, 6 patients showed persistent 1° laxity of the ACL in a side-to-side comparison without rotational instability. Two patients had a 5° extension deficit on the affected side. CONCLUSION: Arthroscopically assisted fixation of combined bony ACL tears and posterolateral tibial plateau fractures as a minimally invasive procedure results in good functional outcomes with sufficient joint stability. It offers the advantage of useful visualization of the joint surface, which helps to avoid residual intraarticular step-offs and posterolateral malalignment. ACL avulsion fixation is possible both through crossed screw osteosynthesis and transosseous sutures techniques in an arthroscopic setting.",
+          "doi": "10.1007/s00068-026-03122-7",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Mar",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41774162/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03122-7",
+          "journal_key": "ejtes"
+        },
+        {
+          "pmid": "41774094",
+          "title": "3D guided large osteochondral allograft reconstructions for post-traumatic osteoarticular bone loss of the knee: a technical note.",
+          "authors": [
+            "Assink N",
+            "van der Veen HC",
+            "Doornberg JN",
+            "Pijpker PAJ",
+            "IJpma FFA"
+          ],
+          "abstract": "PURPOSE: Post-traumatic osteoarticular bone loss of the knee remains challenging to treat. Allograft reconstruction can yield favourable outcomes, and 3D virtual surgical planning may further improve results by enabling precise templating, optimal graft selection, and accurate fixation. This study aimed to introduce and evaluate 3D-assisted planning for knee allograft reconstruction. METHODS: In two patients with severe post-traumatic knee osteoarticular bone loss—one in the medial distal femur and one in the proximal tibial plateau—3D-assisted resection and allograft reconstruction were performed. An allograft was matched to the affected condyle, after which cutting planes were defined and patient-specific guides were designed. Postoperative CT-scans were obtained to assess accuracy, and patient-reported outcomes were evaluated with the Lower Extremity Functional scale(LEFS) questionnaire. RESULTS: Both surgical procedures went uneventful. In the lateral plateau case, 3D analysis of the postoperative CT scan showed a maximum translational deviation from the plan of 2.2 mm and a maximum rotational deviation of 3.2°. In the medial distal femur case, postoperative 3D assessment revealed a maximum translational deviation of 2.5 mm and a maximum rotational error of 3.5°. Functional outcomes (> 1 year postop) were favourable, with LEFS scores improving from 29/100 to 78/100 in the lateral plateau case and from 22/100 to 81/100 in the medial distal femur case. CONCLUSION: In conclusion, this technical note demonstrates the feasibility and accuracy of 3D-assisted planning for knee allograft reconstruction. The approach enables precise allograft placement and anatomical restoration.",
+          "doi": "10.1007/s00068-026-03133-4",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Mar",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41774094/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03133-4",
+          "journal_key": "ejtes"
+        },
+        {
+          "pmid": "41770340",
+          "title": "Epidemiology and histopathological spectrum of appendiceal pathologies in 40.286 adults: a multicenter study from Turkey (2017-2025).",
+          "authors": [
+            "Özel HP",
+            "Ertenlice A",
+            "Er S",
+            "Anatolian Appendicitis Study Group-16",
+            "Akgül Ö",
+            "Akın T",
+            "Çetinkaya E",
+            "Bal Ş",
+            "Satıroğlu M",
+            "Birben B",
+            "Değirmencioğlu G",
+            "Özden S",
+            "Yıldız Ü",
+            "Demir A",
+            "Eryılmaz MA",
+            "Sevim Y",
+            "Şimşek EÖ",
+            "Yalçın H",
+            "Yüksel C",
+            "Doğan İ",
+            "Topçu R",
+            "Canal K",
+            "Kaymak T",
+            "Tutan MB",
+            "Göktaş A",
+            "Ordu M",
+            "Çalık V",
+            "Sözen İ",
+            "Çelik G",
+            "Turan B",
+            "Peksöz R",
+            "Albayrak Y",
+            "Bingöl F",
+            "Temiz A",
+            "Fakirullahoğlu M",
+            "Özdemir DB",
+            "Senol S",
+            "Bakır H",
+            "Tarım İA",
+            "Derebey M",
+            "Güngör BB",
+            "Aydoğdu YE",
+            "Pehlivanlı F",
+            "Aydın O",
+            "Özdemir M",
+            "Özkul T",
+            "Bozdoğan AF",
+            "Er BK",
+            "Öksüz P",
+            "Tez M"
+          ],
+          "abstract": "PURPOSE: Acute appendicitis is one of the most common causes of emergency abdominal surgery, and routine histopathological examination of appendectomy specimens is critical for the detection of incidental neoplasms and non-neoplastic lesions. There is no large-scale, multicenter study on this subject in our country. This study aims to analyze the frequency, distribution, and clinico-demographic relationships of histopathological findings in appendectomy specimens.\n\nMETHODS: This multicentre retrospective study analysed adult appendectomy cases from fifteen Turkish hospitals (2017-2025). Histopathology was classified into five categories, and demographic patterns and temporal trends were evaluated. The primary outcome was the distribution of appendiceal pathologies, with emphasis on the incidence of incidental neoplasms.\n\nRESULTS: The study included a total of 40,286 adult patients. The average age was 36.01 ± 14.87 years, with 40.2% of patients being female (n = 16,186) and 59.8% being male (n = 24,100). Histopathological distribution: appendicitis 86.7% (n = 34,910, 74.8% uncomplicated, 11.4% complicated), no significant findings 4.8%, non-neoplastic lesions 6.8%, neoplasia 1.7%, other rare findings 0.1%. The neoplasia rate increased significantly with age (Spearman rho = 1.00, p < 0.001); it was 0.8% in the 20s and reached 14% in those aged ≥ 80. Mucinous neoplasms (0.7%) were the most common neoplastic lesions, followed by neuroendocrine tumors (0.5%). Neoplasia was more common in women (2.0%) than in men (1.4%) (p < 0.001).\n\nCONCLUSION: This study is the largest series of appendectomies in Turkey and demonstrates that histopathological examination is indispensable in the detection of incidental neoplasms, especially in elderly patients. These findings support routine histopathological examination and suggest heightened neoplasm awareness, particularly in elderly patients.",
+          "doi": "10.1007/s00068-025-03062-8",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Mar",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Multicenter Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41770340/",
+          "doi_url": "https://doi.org/10.1007/s00068-025-03062-8",
+          "journal_key": "ejtes"
+        },
+        {
+          "pmid": "41770318",
+          "title": "Thoracic vascular injury remains the leading cause of death in traumatic haemorrhage: Analysis of injury patterns and time to death.",
+          "authors": [
+            "Wannberg M",
+            "Lindén H",
+            "Hassan MU",
+            "Ghorbani P",
+            "Strömmer L",
+            "Wahlgren CM"
+          ],
+          "abstract": "PURPOSE: Understanding injury patterns and temporal dynamics of traumatic haemorrhagic death is essential for developing targeted interventions. This study characterized anatomic bleeding locations, specific vascular injuries, and survival times in patients who died from traumatic haemorrhage.\n\nMETHODS: Retrospective single centre study of trauma patients who died in hospital from traumatic haemorrhage during index admission between 2007 and 2023. Data were extracted from systematic mortality reviews, trauma registries, medical records, and autopsy reports. Survival times were analyzed in relation to bleeding location and specific vascular injuries.\n\nRESULTS: In the overall cohort (n = 226), the median age was 33 years (IQR 23-51); male patients 85% (191/226). Penetrating trauma (58%, 130/226) dominated over blunt trauma (42%, 96/226) (p = 0.013). Thorax (n = 94, 42%) was the most common region for haemorrhage death followed by multiple locations (n = 89, 39%), abdomen (n = 33, 15%), extremities (n = 6, 2.7%), and neck (n = 4, 1.8%). Time-to-death categorization revealed that most deaths (40%) occurred between 60 and 120 min after injury, with 21% dying within the first 60 min. Thoracic fatal haemorrhage caused the shortest survival times (median 77 min, IQR 55-197), while abdominal haemorrhage had the longest survival time (127 min, IQR 93-251). The survival probability after 90 min for abdominal bleeding region was OR 3.89, 95% CI 1.27-11.9, p = 0.018. Thoracic aorta was the most frequent (42%, 47/113) identified vascular injury with the shortest survival (75 min, IQR 55-189).\n\nCONCLUSIONS: Thoracic haemorrhage, particularly when involving major vessels, represented the most lethal bleeding source with the shortest survival duration; in contrast, abdominal haemorrhage was associated with a comparatively longer survival window. These findings emphasize the critical importance of minimizing time to definitive haemorrhage control through expeditious surgical management strategies.",
+          "doi": "10.1007/s00068-026-03131-6",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Mar",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41770318/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03131-6",
+          "journal_key": "ejtes"
+        },
+        {
+          "pmid": "41770246",
+          "title": "Multicenter survey on viscoelastic assays access and use in trauma in Swiss emergency departments.",
+          "authors": [
+            "Lyon M",
+            "De Valence T",
+            "Fehlmann CA"
+          ],
+          "abstract": "PURPOSE: Trauma is a global cause of morbidity and mortality, with early deaths frequently resulting from hemorrhage and traumatic brain injury. Prompt assessment and targeted management of bleeding and trauma-induced coagulopathy are essential in this context. Viscoelastic tests (VETs), such as TEG and ROTEM, offer advantages over conventional coagulation. Therefore, we wanted to evaluate their availability and use in Swiss emergency departments (EDs).\n\nMETHODS: A 16-item online survey assessing access, use, and training related to VET, as well as the use of massive hemorrhage protocols, was distributed to 52 EDs recognized by the Swiss Society of Emergency and Rescue Medicine. Twelve were level-1 trauma centers, five of which were university hospitals.\n\nRESULTS: The response rate was 86.5% (45/52). Access to VET was reported by 44.4% of centers, while routine use in major trauma was noted in 26.7%. Most users were trauma centers. Devices were predominantly located outside the ED (e.g., laboratories or operating rooms). Over half of the centers with access to VET reported no formal training. Additionally, 51.1% of respondents indicated the absence of a dedicated massive hemorrhage protocol. Among those with protocols, most used conventional coagulation tests, and fewer included VET.\n\nCONCLUSION: The use of VET in Swiss EDs is limited, mainly to trauma centers, with restricted point-of-care access and heterogeneous training. Massive hemorrhage protocols are inconsistently implemented and often lack integration of VET. Key areas for improvement include expanding access beyond specialized centers, standardizing protocols and interpretation algorithms, optimizing device placement, and introducing structured training programs.",
+          "doi": "10.1007/s00068-026-03092-w",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Mar",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Multicenter Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41770246/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03092-w",
           "journal_key": "ejtes"
         }
       ]
