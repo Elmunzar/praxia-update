@@ -45,12 +45,12 @@ def _common(params):
     return params
 
 
-def _get(endpoint, params, retries=3):
+def _get(endpoint, params, retries=5):
     url = BASE + endpoint + "?" + urllib.parse.urlencode(_common(params))
     return _request(url, None, retries)
 
 
-def _post(endpoint, params, retries=3):
+def _post(endpoint, params, retries=5):
     data = urllib.parse.urlencode(_common(params)).encode()
     return _request(BASE + endpoint, data, retries)
 
@@ -63,9 +63,9 @@ def _request(url, data, retries):
             req = urllib.request.Request(url, data=data, headers={"User-Agent": TOOL})
             with urllib.request.urlopen(req, timeout=45) as resp:
                 return resp.read().decode("utf-8", "replace")
-        except Exception as e:  # noqa: BLE001 - retry on any transient network error
+        except Exception as e:  # noqa: BLE001 - retry on any transient network error (incl. HTTP 5xx)
             last = e
-            time.sleep(1.5 * (attempt + 1))
+            time.sleep(min(8.0, 1.5 * (attempt + 1)))
     raise RuntimeError(f"PubMed request failed after {retries} tries: {last}")
 
 

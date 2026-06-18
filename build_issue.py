@@ -43,13 +43,13 @@ def _page_sort(pages):
     return int(m.group(1)) if m else 10 ** 9
 
 
-def _prev_issue_map():
-    """{journal key: (volume, issue)} from the last snapshot, to detect new issues."""
+def _prev_groups():
+    """{journal key: full group dict} from the last snapshot — for new-issue
+    detection and as a fallback when a journal can't be fetched this run."""
     try:
         with open(os.path.join(ISSUES_DIR, "latest.json"), encoding="utf-8") as f:
             prev = json.load(f)
-        return {g["key"]: (g.get("volume", ""), g.get("issue", ""))
-                for g in prev.get("groups", [])}
+        return {g["key"]: g for g in prev.get("groups", [])}
     except Exception:  # noqa: BLE001 - first run / missing file
         return {}
 
@@ -59,23 +59,39 @@ def build_issue(date, back_days, selected_keys):
 
     Journals publish ~monthly with nothing added between issues, so we track the
     current issue rather than a daily diff. A journal is flagged `is_new` when its
-    (volume, issue) differs from the previous snapshot. `back_days` is unused now
-    (kept for CLI compatibility).
+    (volume, issue) differs from the previous snapshot. A transient PubMed error
+    for one journal keeps its previous issue rather than failing the whole build.
+    `back_days` is unused now (kept for CLI compatibility).
     """
     subscribed = journals.load()
-    prev = _prev_issue_map()
+    prev = _prev_groups()
     groups, total, new_issues = [], 0, 0
 
     for j in subscribed:
         if selected_keys is not None and j["key"] not in selected_keys:
             continue
-        volume, issue, year, month, ids = pubmed.current_issue_ids(j["ta"])
-        articles = pubmed.efetch_articles(ids) if ids else []
+        try:
+            volume, issue, year, month, ids = pubmed.current_issue_ids(j["ta"])
+            articles = pubmed.efetch_articles(ids) if ids else []
+        except Exception as e:  # noqa: BLE001 - one journal's hiccup must not kill the build
+            pg = prev.get(j["key"])
+            if pg:
+                pg = dict(pg); pg["is_new"] = False
+                groups.append(pg); total += pg.get("count", 0)
+                print(f"  ..  {j['name']:<44} kept previous issue ({type(e).__name__})")
+            else:
+                groups.append({"key": j["key"], "journal": j["name"], "ta": j["ta"],
+                               "volume": "", "issue": "", "pub_year": "", "pub_month": "",
+                               "is_new": False, "count": 0, "articles": []})
+                print(f"  ..  {j['name']:<44} unavailable ({type(e).__name__})")
+            continue
+
         for a in articles:
             a["journal_key"] = j["key"]
         articles.sort(key=lambda a: _page_sort(a.get("pages")))  # table-of-contents order
 
-        prev_vi = prev.get(j["key"])
+        pv = prev.get(j["key"])
+        prev_vi = (pv.get("volume", ""), pv.get("issue", "")) if pv else None
         is_new = bool(issue) and prev_vi is not None and prev_vi != (volume, issue)
         new_issues += 1 if is_new else 0
         total += len(articles)
