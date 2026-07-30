@@ -9,6 +9,472 @@ X-WR-CALDESC:Daily orthopaedic literature digest. Each event lists the da
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:praxia-update-2026-07-30@praxia
+DTSTAMP:20260730T092409Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:Praxia Update — 512 new articles
+DESCRIPTION:512 newly indexed orthopaedic articles across 10 journals.\n\
+ n📄 Open the full issue (PDF): https://Elmunzar.github.io/praxia-updat
+ e/issues/2026-07-30.pdf\n🔗 Browse in the app: https://Elmunzar.github
+ .io/praxia-update/?date=2026-07-30\n\n— American Journal of Sports Med
+ icine (26) —\n• Comparison of Isolated ACL and Combined ACL/MCL Inju
+ ries in Professional Soccer and Rugby Players: Return to Play and Career
+  Longevity Outcomes.\n  Abdul W\, Jones M\, Haslhofer D\, Motesharei A\,
+  Ball S\, Williams A\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42212766/
+   DOI https://doi.org/10.1177/03635465261448236\n  BACKGROUND: Combined 
+ injury of the anterior cruciate ligament (ACL) and medial collateral lig
+ ament (MCL) is the most common combined knee ligament injury. However\, 
+ there is only limited evidence\, and no clear consensus\, on the optimum
+  management of these injuries. PURPOSE: To determine the return-to-play 
+ (RTP) rate […]\n• ACL Reconstruction for Combined ACL/MCL Injuries i
+ n Professional Soccer and Rugby Players: No Difference in Career Longevi
+ ty Compared to Uninjured Matched Controls.\n  Jones M\, Motesharei A\, A
+ bdul W\, Haslhofer D\, Ball S\, Williams A\n  PubMed https://pubmed.ncbi
+ .nlm.nih.gov/42200652/  DOI https://doi.org/10.1177/03635465261448234\n 
+  BACKGROUND: Combined anterior cruciate ligament (ACL) and medial collat
+ eral ligament (MCL) injuries are common in professional sport\, but ther
+ e is little evidence available regarding the long-term impact of them on
+  players' sporting careers. PURPOSE: To determine the effect on return t
+ o play (RTP)\, career longevity\, […]\n• Patient-Reported Knee Funct
+ ion and Return-to-Sport Rates After Nonsurgical and Surgical Treatment o
+ f an Acute Anterior Cruciate Ligament Injury: Results From the NACOX Pro
+ spective Cohort Study.\n  Croné A\, Gauffin H\, Hedevik H\, Fältström
+  A\, Kvist J\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42252903/  DOI ht
+ tps://doi.org/10.1177/03635465261451698\n  BACKGROUND: The best treatmen
+ t for acute anterior cruciate ligament (ACL) injuries (surgical or nonsu
+ rgical) remains uncertain\, particularly regarding return to sport (RTS)
+  and knee function. PURPOSE: To compare patient-reported knee function (
+ International Knee Documentation Committee Subjective Knee Form [IKDC-SK
+ F]) […]\n• Restoration of Anterior Tibial Translation Is Achievable 
+ With an Anterior Cruciate Ligament Reconstruction and Ramp Repair With I
+ ncreasing Posterior Tibial Slope While Medial Meniscus Deficiency Requir
+ es Concomitant Slope-Correcting Osteotomy.\n  Rasmussen MT\, Wilebski BJ
+ \, Tollefson LV\, Carlson MR\, Lee DR\, Behnke RA et al.\n  PubMed https
+ ://pubmed.ncbi.nlm.nih.gov/42237853/  DOI https://doi.org/10.1177/036354
+ 65261448522\n  BACKGROUND: Previous studies have demonstrated that as po
+ sterior tibial slope (PTS) increases\, increased force is transmitted th
+ rough anterior cruciate ligament (ACL) grafts\, but limited literature a
+ ssesses PTS effects on anterior tibial translation (ATT) with concomitan
+ t medial meniscus (MM) pathology. PURPOSE: To […]\n• In Vitro Evalua
+ tion of Tibiofemoral Contact Stress and Graft Loading After Modified Mac
+ Intosh Anterior Cruciate Ligament Reconstruction.\n  Bram JT\, Shamritsk
+ y DZ\, Mange TR\, Bae LE\, Beber SA\, Imhauser CW et al.\n  PubMed https
+ ://pubmed.ncbi.nlm.nih.gov/42246498/  DOI https://doi.org/10.1177/036354
+ 65261449796\n  BACKGROUND: The modified MacIntosh anterior cruciate liga
+ ment reconstruction (ACLR) consists of a combined intra- and extra-artic
+ ular construct using iliotibial band autograft. It is used in skeletally
+  immature patients to avoid physeal injury. However\, its effect on arti
+ cular cartilage contact mechanics\, rotational […]\n• Reliability an
+ d Clinical Validity of a Morphology-Based Classification System for Radi
+ al Meniscal Tears: A Multicenter Observer Study.\n  Rivarola H\, Chahla 
+ J\, Endara Urresta F\, Ackermann J\, Rivarola B\n  PubMed https://pubmed
+ .ncbi.nlm.nih.gov/42400149/  DOI https://doi.org/10.1177/036354652614530
+ 85\n  BACKGROUND: Radial meniscal tears (RMTs) interrupt circumferential
+  collagen fibers\, disrupt hoop stress transmission\, and accelerate com
+ partmental cartilage wear. Despite their clinical and biomechanical impo
+ rtance\, reporting remains inconsistent because widely used taxonomies a
+ re heterogeneous and often assessed with […]\n• Impact of the Poster
+ ior Tibial Slope on Medial Meniscus Posterior Root Tear Healing Based on
+  Second-Look Arthroscopy.\n  Kim JS\, Hwang UJ\, Park SH\, Choi CH\, Chu
+ ng KS\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42290611/  DOI https://d
+ oi.org/10.1177/03635465261451725\n  BACKGROUND: Although a steep posteri
+ or tibial slope (PTS) has been reported to cause medial meniscus root te
+ ars\, few studies have investigated whether the PTS affects healing outc
+ omesPurpose/Hypothesis:This study aimed to investigate the influence of 
+ PTS on the healing status of repaired medial meniscus posterior […]\n
+ • Clinical Outcomes and Return to Sport After Hip Arthroscopy in Ice H
+ ockey Players: Minimum 2-Year Results With Mid- and Long-term Subanalysi
+ s.\n  Barda SR\, Quesada-Jimenez R\, Moore WM\, Sandler DZ\, Kahana-Rojk
+ ind AH\, Sugarman EP et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42
+ 212758/  DOI https://doi.org/10.1177/03635465261448492\n  BACKGROUND: Ic
+ e hockey places high demands on the hip\, predisposing athletes to femor
+ oacetabular impingement (FAI)\, although long-term outcomes after hip ar
+ throscopy remain poorly defined. PURPOSE: To evaluate the outcomes and r
+ eturn-to-sport (RTS) rates of ice hockey players undergoing hip arthrosc
+ opy for […]\n• Treatment of Patients With Femoroacetabular Impingeme
+ nt Syndrome Using a Pelvic Tilt-Focused Exercise Program: A Prospective 
+ Cohort.\n  Hoit G\, Whelan DB\, Dwyer T\, Hogg-Johnson S\, Chahal J\, Da
+ vis AM\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42311003/  DOI https://
+ doi.org/10.1177/03635465261454648\n  BACKGROUND: The rates of hip arthro
+ scopy are increasing worldwide for femoroacetabular impingement syndrome
+  (FAIS). There is a lack of literature examining outcomes of modern nono
+ perative treatment of patients with FAIS. PURPOSE: To develop and assess
+  the effectiveness of a pelvic tilt-focused exercise program for […]\n
+ • The Effect of Preoperative Symptom Duration on 10-Year Outcomes Afte
+ r Hip Arthroscopy for Femoroacetabular Impingement Syndrome: A Matched A
+ nalysis.\n  Hu EY\, Bi AS\, Cervantes JE\, Nho SJ\n  PubMed https://pubm
+ ed.ncbi.nlm.nih.gov/42267387/  DOI https://doi.org/10.1177/0363546526144
+ 9800\n  BACKGROUND: Patients with femoroacetabular impingement syndrome 
+ (FAIS) experiencing >2 years of pain before hip arthroscopy have been li
+ nked with worse short-term and midterm outcomes. PURPOSE: To examine the
+  effect of preoperative pain duration on patient-reported outcomes (PROs
+ )\, clinically significant outcomes\, and […]\n• Primary Arthroscopi
+ c Labral Repair in Acetabular Overcoverage: PROMs and Arthroplasty Rates
+  at Midterm Follow-up.\n  Iyer S\, Ina J\, Kang L\, Cabarcas B\, Okoroha
+  KR\, Levy BA et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42237869/
+   DOI https://doi.org/10.1177/03635465261453067\n  BACKGROUND: Acetabula
+ r overcoverage (pincer morphology) has been suggested to be both a sourc
+ e of pain and dysfunction and potentially protective against osteoarthri
+ tic change. PURPOSE: To compare the minimum 5-year clinical outcomes of 
+ patients undergoing primary hip arthroscopic labral repair with a latera
+ l center […]\n• Long-term Outcomes of Hip Arthroscopy in Workers' Co
+ mpensation Patients Compared to Non-workers' Compensation Patients: A Pr
+ opensity-Matched Study at Minimum 10-Year Follow-up.\n  Sparks CA\, Mont
+ y TL\, Brinkman JC\, Barton KI\, Nho SJ\n  PubMed https://pubmed.ncbi.nl
+ m.nih.gov/42220230/  DOI https://doi.org/10.1177/03635465261449801\n  BA
+ CKGROUND: Workers' compensation (WC) patients often experience inferior 
+ outcomes compared with non-workers' compensation (non-WC) patients after
+  orthopaedic procedures. Long-term outcomes for contemporary hip arthros
+ copy in this group remain unclear. PURPOSE: To compare patient-reported 
+ outcomes (PROs)\, achievement […]\n• Two-Year Outcomes of the Proxim
+ al Hamstring Avulsion Rehabilitation Regimes: Longitudinal Versus Accele
+ rated Protocol (PHARRLAP) Study: A Randomized Controlled Trial.\n  Ebert
+  JR\, Edwards PK\, Cecchi S\, Malik SS\, Aujla RS\, Ricciardo B et al.\n
+   PubMed https://pubmed.ncbi.nlm.nih.gov/42324766/  DOI https://doi.org/
+ 10.1177/03635465261452818\n  BACKGROUND: Significant variation has been 
+ reported within published postoperative rehabilitation protocols after p
+ roximal hamstring tendon repair undertaken for acute tendon avulsion inj
+ uries\, particularly with respect to bracing and the restriction and pro
+ gression of weightbearing. PURPOSE: To investigate clinical […]\n• P
+ artial Tenotomy and Reattachment for Chronic Proximal Hamstring Tendinop
+ athy: Functional Outcomes\, Return to Sport\, and Patient Satisfaction.\
+ n  Lefèvre N\, Moussa MK\, Valentin E\, Hadjam T\, Gerometta A\, Grimau
+ d O et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42281221/  DOI http
+ s://doi.org/10.1177/03635465261453077\n  BACKGROUND: Chronic proximal ha
+ mstring tendinopathy (PHT) can cause significant pain and functional imp
+ airment\, particularly in active individuals. While nonoperative managem
+ ent is the first-line treatment\, some patients with persistent symptoms
+  may require surgical intervention. PURPOSE: To evaluate the functional 
+ […]\n• Video Analysis of Achilles Tendon Ruptures in the National Fo
+ otball League: Situational Patterns\, Injury Mechanisms\, and Paths for 
+ Injury Prevention.\n  Teater RH\, Gepner B\, O'Cain CM\, Schmitt LC\, Bu
+ tcher R\, Weir N et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/422276
+ 47/  DOI https://doi.org/10.1177/03635465261444016\n  BACKGROUND: Achill
+ es tendon ruptures (ATRs) are rare but severe injuries for players in th
+ e National Football League (NFL). Systematic video analysis of these inj
+ uries\, combined with player tracking data and epidemiological analysis\
+ , can provide critical insight into the circumstances surrounding ATRs i
+ n the NFL and […]\n• Cost-effectiveness of Adding Remplissage to Ban
+ kart Repair for On-track Hill-Sachs Lesions: A Markov Decision Analysis.
+ \n  Frederickson M\, Kou M\, Cullinane D\, Menendez ME\n  PubMed https:/
+ /pubmed.ncbi.nlm.nih.gov/42220245/  DOI https://doi.org/10.1177/03635465
+ 261444008\n  BACKGROUND: Remplissage decreases recurrence after arthrosc
+ opic Bankart repair for anterior shoulder instability but has historical
+ ly been reserved for off-track Hill-Sachs lesions. The addition of rempl
+ issage for patients with on-track lesions remains controversial because 
+ of concerns about added operative costs and […]\n• AI-Assisted MRI I
+ nterpretation in Diagnosing Bankart and Reverse Bankart Lesions.\n  Seth
+ i S\, Reddy S\, Sakarvadia M\, Serotte J\, Nwaudo D\, Ho S et al.\n  Pub
+ Med https://pubmed.ncbi.nlm.nih.gov/42200663/  DOI https://doi.org/10.11
+ 77/03635465261449797\n  BACKGROUND: Accurate detection of glenoid labral
+  tears remains challenging\; however\, it is essential for guiding treat
+ ment and return-to-play decisions in athletes. Magnetic resonance arthro
+ graphy (MRA) improves diagnostic performance over noncontrast magnetic r
+ esonance imaging (MRI) but is invasive and more costly. […]\n• Minim
+ um 15-Year Outcomes and Return to Activity After Linked Tape Bridging Kn
+ otless Double-Row Rotator Cuff Repair.\n  Fritsch L\, Mitchell BC\, Noce
+ k M\, Horan MP\, Wollenman CC\, Herrmann CB et al.\n  PubMed https://pub
+ med.ncbi.nlm.nih.gov/42220233/  DOI https://doi.org/10.1177/036354652614
+ 50185\n  BACKGROUND: Rotator cuff tears are common in older adults\, and
+  double-row repair is favored for its biomechanical strength and clinica
+ l outcomes. Although short-term and midterm results of linked tape bridg
+ ing (LTB) knotless double-row repair are well established\, data on long
+ -term single-technique outcomes remain […]\n• Yoda1 Promotes Tendon-
+ to-Bone Healing by Regulating M1/M2 Macrophage Polarization in a Rat Mod
+ el of Rotator Cuff Repair.\n  Xie D\, Sun Y\, Liu Z\, Li X\, Teng F\, Ch
+ en Y et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42367036/  DOI htt
+ ps://doi.org/10.1177/03635465261449799\n  BACKGROUND: Rotator cuff tears
+  lead to bone loss because of reduced mechanical loading at the tendon-b
+ one interface\, which results in poor healing after rotator cuff repair 
+ (RCR). Whether Yoda1\, the specific Piezo1 agonist\, can counteract bone
+  loss and promote rotator cuff healing has not yet been explored. […]\
+ n• Revascularization of Transcortical Vessels Improves Tendon-to-Bone 
+ Healing for Rotator Cuff Repair.\n  Xia W\, Shi Z\, Wang X\, Wu H\, Lu J
+ \, Yu X et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42267400/  DOI 
+ https://doi.org/10.1177/03635465261453033\n  BACKGROUND: Rotator cuff te
+ ar is a prevalent musculoskeletal disorder with a high postoperative ret
+ ear rate. Transcortical vessels (TCVs) are capillaries that cross cortic
+ al bone and represent key elements of bone microcirculation. However\, t
+ he possible intervention and influence of TCVs for rotator cuff repair (
+ RCR) […]\n• Nerve Growth Factor Gene Delivery via Nanosphere-Hydroge
+ l Composites and Tendon-Bone Interface Healing in a Rat Rotator Cuff Tea
+ r Model.\n  Yuan Y\, Zhao Y\, Cheng J\, Lu J\, Feng H\, Zhang F et al.\n
+   PubMed https://pubmed.ncbi.nlm.nih.gov/42415384/  DOI https://doi.org/
+ 10.1177/03635465261449709\n  BACKGROUND: Rotator cuff repair (RCR) often
+  fails because of poor tendon-bone interface (TBI) healing. Nerve growth
+  factor (NGF) has been shown to regulate tenocyte function and promote r
+ egeneration\, but it lacks sufficient systematic research\, limiting its
+  clinical translation. PURPOSE: To evaluate the therapeutic […]\n• G
+ raft Failure Rates in Bone-Patellar Tendon-Bone\, Hamstring\, and Quadri
+ ceps Tendon Autografts in Patients Younger Than 25 Years: A Meta-analysi
+ s.\n  Petit CB\, Hussain ZB\, Read PJ\, McPherson AL\, Pradip K\, Petush
+ ek EJ et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/41733021/  DOI ht
+ tps://doi.org/10.1177/03635465261415842\n  BACKGROUND: Anterior cruciate
+  ligament reconstruction (ACLR) is being increasingly performed in part 
+ because of higher injury rates among young athletes (≤25 years). High 
+ allograft failure rates support the use of autograft for ACLR in young p
+ atients. However\, data examining the failure rates of the different [
+ …]\n• Does Spine Pathology Influence Hip Arthroscopy Outcomes? A Sys
+ tematic Review and Meta-analysis.\n  Thamrongskulsiri N\, Moews LD\, Mor
+ gan JT\, Casanova F\, Vega TF\, Pérez Lloveras GO et al.\n  PubMed http
+ s://pubmed.ncbi.nlm.nih.gov/41823270/  DOI https://doi.org/10.1177/03635
+ 465261426561\n  BACKGROUND: Hip arthroscopy is increasingly used for fem
+ oroacetabular impingement\, but outcomes may be influenced by coexisting
+  spine pathology due to altered spinopelvic mechanics. Understanding thi
+ s relationship is critical for patient counseling and surgical planning.
+  PURPOSE: To systematically review and […]\n• The Effect of Sagittal
+  Spinopelvic Parameters and Kinematics on the Morphology and Symptomatol
+ ogy of Femoroacetabular Impingement: A Systematic Review and Meta-analys
+ is.\n  Maurice C\, Bourgeault-Gagnon Y\, Keogh JAJ\, Keng I\, Dinis J\, 
+ Nijjar M et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/41673942/  DOI
+  https://doi.org/10.1177/03635465251410956\n  BACKGROUND: Femoroacetabul
+ ar impingement (FAI) morphology is common in asymptomatic adults. Spinop
+ elvic alignment modulates hip mechanics and influences hip range of moti
+ on. Specific spinopelvic parameters\, such as pelvic incidence and dynam
+ ic parameters\, have been inconsistently associated with FAI. Yet\, thei
+ r […]\n• Outcomes Following Arthroscopic Suprapectoral and Open Subp
+ ectoral Biceps Tenodesis at Short- to Midterm Follow-up: A Systematic Re
+ view.\n  Lee TY\, Touhey DC\, Perugini JM\, Brophy RH\, Matava MJ\, Smit
+ h MV et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/41797305/  DOI htt
+ ps://doi.org/10.1177/03635465261426560\n  BACKGROUND: Biceps tenodesis (
+ BT) is performed to address symptomatic tendinopathy\, partial tears\, a
+ nd instability of the long head of the biceps tendon to provide pain rel
+ ief and improve function. Debate persists regarding which technique is o
+ ptimal: arthroscopic suprapectoral BT (ASPBT) or open subpectoral BT [
+ …]\n• Risk Factors for Infection After Ankle\, Knee\, Hip\, Shoulder
+ \, or Elbow Arthroscopy: A Systematic Review and Meta-analysis.\n  Saraf
+  A\, Iwamoto S\, Krishna S\, Young VG\, Bowman EN\n  PubMed https://pubm
+ ed.ncbi.nlm.nih.gov/41923655/  DOI https://doi.org/10.1177/0363546526142
+ 9468\n  BACKGROUND: Arthroscopy is a commonly performed orthopaedic proc
+ edure with postoperative infection risk factors including male sex\, tob
+ acco use\, and preoperative steroid injections. However\, studies focusi
+ ng on risk factors are limited to single joints with limited numbers of 
+ patients\; therefore\, inconsistencies […]\n\n— The Bone & Joint Jou
+ rnal (17) —\n• Interesting data\, but further corroborative studies 
+ are often needed.\n  Haddad FS\n  PubMed https://pubmed.ncbi.nlm.nih.gov
+ /42379574/  DOI https://doi.org/10.1302/0301-620X.108B7.BJJ-2026-0731\n
+ • Missing not at random : how much missing patient-reported outcome me
+ asure data is too much?.\n  Williamson TR\, Clement ND\, Yapp LZ\, Duckw
+ orth AD\, Haddad FS\, Scott CEH\n  PubMed https://pubmed.ncbi.nlm.nih.go
+ v/42379572/  DOI https://doi.org/10.1302/0301-620X.108B7.BJJ-2026-0357.R
+ 1\n• From surgical backlog to opioid burden : the case for opioid stew
+ ardship in arthroplasty pathways.\n  Jamal N\, Clement ND\, Duckworth AD
+ \, Collinson CV\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42379571/  DOI
+  https://doi.org/10.1302/0301-620X.108B7.BJJ-2025-1765.R1\n  The prolong
+ ed waiting times for hip and knee arthroplasty have resulted in numerous
+  negative effects for patients being reported\, with none more important
+  than increasing opioid reliance due to chronic musculoskeletal pain. Op
+ ioid use prior to surgery is a factor associated with prolonged use post
+ operatively\, and […]\n• The management of distal humeral fractures 
+ in older patients.\n  Yoong AWH\, Super JT\, Tan GJS\, Watts AC\, Ollive
+ re BJ\, Duckworth AD\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42379563/
+   DOI https://doi.org/10.1302/0301-620X.108B7.BJJ-2026-0141.R1\n  The nu
+ mber of fractures of the distal humerus in older adults is rising due to
+  an ageing population and an increasing incidence of fragility fractures
+ . The management is based on the patient's preference\, the pattern of t
+ he fracture\, the quality of the bone and soft-tissue\, the patient's co
+ morbidities and potential […]\n• The importance of axial rotation of
+  the lower limb : a systematic review of measurement methods.\n  Favier 
+ B\, Acker A\, Miles J\, de Cesar Netto C\, Burssens A\, Goldberg A\n  Pu
+ bMed https://pubmed.ncbi.nlm.nih.gov/42379582/  DOI https://doi.org/10.1
+ 302/0301-620X.108B7.BJJ-2025-0854.R2\n  AIMS: Assessment of lower limb a
+ lignment is a cornerstone of orthopaedics. Few studies look at rotationa
+ l alignment in the axial plane as measured by femoral version (FV) and t
+ ibial torsion (TT)\, both of which have implications for hip\, knee\, an
+ d ankle pathology. This review provides an overview of the axial rotatio
+ n […]\n• Primary total hip arthroplasty after prior osteosynthesis v
+ ersus osteotomy : distinct risk profiles and the modifying effect of fem
+ oral fixation.\n  Wagener N\, Wu Y\, Perka C\, Hardt S\n  PubMed https:/
+ /pubmed.ncbi.nlm.nih.gov/42379573/  DOI https://doi.org/10.1302/0301-620
+ X.108B7.BJJ-2025-1635.R1\n  AIMS: To compare outcomes after primary tota
+ l hip arthroplasty (THA) following prior ipsilateral osteosynthesis with
+  prior ipsilateral osteotomy\, and to assess whether femoral fixation mo
+ difies risk. METHODS: Using the German Arthroplasty Registry (EPRD\; 201
+ 2 to 2024)\, two 1:1 matched analyses were performed: prior […]\n• C
+ oronal alignment parameters of the knee predict osteoarthritis developme
+ nt : a Coronal Plane Alignment of the Knee classification-based analysis
+  using the Multicenter Osteoarthritis Study data.\n  Kim JS\, MacDessi S
+ J\, Lee DW\, Ro DH\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42379578/  
+ DOI https://doi.org/10.1302/0301-620X.108B7.BJJ-2025-0687.R2\n  AIMS: Me
+ chanical varus or valgus alignment measures have been demonstrated to be
+  closely related to knee osteoarthritis (KOA) development\, but few atte
+ mpts have been made to correlate the Coronal Plane Alignment of the Knee
+  (CPAK) classification and disease development. This study hypothesized 
+ that certain CPAK types […]\n• Robotic arm-assisted bi-unicompartmen
+ tal knee arthroplasty compared with conventional total knee arthroplasty
+  : five-year clinical outcomes of a randomized controlled trial.\n  Foxc
+ roft WD\, Doonan J\, MacLean AD\, Jones BG\, Rowe P\, Blyth MJG\n  PubMe
+ d https://pubmed.ncbi.nlm.nih.gov/42379553/  DOI https://doi.org/10.1302
+ /0301-620X.108B7.BJJ-2025-0359.R3\n  AIMS: The aim of this study was to 
+ compare the outcomes between constitutionally aligned\, robotic arm-assi
+ sted bi-unicompartmental knee arthroplasty (RA-bi-UKA) and conventional\
+ , mechanically aligned total knee arthroplasty (TKA) at five years' foll
+ ow-up. The results at one-year follow-up have previously been […]\n•
+  Lower septic revision rates following cementless compared with cemented
+  robotic-assisted total knee arthroplasty using a single implant design 
+ : a five-year survivorship analysis.\n  Burgio C\, Salmons HI\, Zepeda K
+ E\, Quevedo Gonzalez FJ\, Mayman DJ\, Jerabek SA et al.\n  PubMed https:
+ //pubmed.ncbi.nlm.nih.gov/42379575/  DOI https://doi.org/10.1302/0301-62
+ 0X.108B7.BJJ-2025-1654.R1\n  AIMS: The choice of fixation for total knee
+  arthroplasty (TKA) remains controversial. Cementless designs incorporat
+ ing highly porous titanium surfaces may achieve durable biological fixat
+ ion and mitigate cement-related complications. However\, little has been
+  written comparing the methods of fixation for […]\n• Single-use sur
+ gical gowns are associated with an increased rate of periprosthetic join
+ t infection : analysis of 9\,239 primary hip and knee arthroplasties fro
+ m a single centre.\n  Firth AM\, Sian R\, Nightingale J\, van Duren BH\,
+  Higgins M\, Manktelow ARJ et al.\n  PubMed https://pubmed.ncbi.nlm.nih.
+ gov/42379569/  DOI https://doi.org/10.1302/0301-620X.108B7.BJJ-2025-0996
+ .R2\n  AIMS: Periprosthetic joint infection (PJI) remains a serious comp
+ lication of arthroplasty\, associated with increased morbidity\, mortali
+ ty\, and healthcare costs. While patient-related and procedural risk fac
+ tors are well established\, the effect of surgical gown type on infectio
+ n risk is unclear. Single-use surgical […]\n• Comparison of the modi
+ fied Broström-Gould procedure for chronic lateral ankle instability in 
+ adolescents with and without an os subfibulare : a propensity score-matc
+ hed study.\n  Xiong S\, Li Y\, Liu Z\, Zhao F\, Jiang D\, Hu Y et al.\n 
+  PubMed https://pubmed.ncbi.nlm.nih.gov/42379566/  DOI https://doi.org/1
+ 0.1302/0301-620X.108B7.BJJ-2025-1558.R1\n  AIMS: An os subfibulare (OS) 
+ is frequently seen in adolescents with chronic lateral instability of th
+ e ankle\, potentially impairing participation in sport and the quality o
+ f life. The aim of this study was to compare the clinical outcomes of th
+ e modified Broström-Gould procedure in adolescent patients with chronic
+  […]\n• Effect of prior rotator cuff repair technique and timing on 
+ clinical outcomes of reverse shoulder arthroplasty.\n  Holt KE\, Hao KA\
+ , Bindi VE\, Kaiser AHA\, Hones KM\, Wright JO et al.\n  PubMed https://
+ pubmed.ncbi.nlm.nih.gov/42379579/  DOI https://doi.org/10.1302/0301-620X
+ .108B7.BJJ-2025-1393.R1\n  AIMS: Reverse shoulder arthroplasty (RSA) aft
+ er prior rotator cuff repair (RCR) is commonly performed for recurrence 
+ of pain and arthritic progression\; however\, the influence of prior RCR
+  timing and technique on outcomes of RSA has not been adequately explore
+ d. Our primary aim was to evaluate the relationship between […]\n• T
+ ime-course changes in bone mineral density after anatomical and reverse 
+ total shoulder arthroplasty : a dual-energy X-ray absorptiometry-based s
+ tudy.\n  Nakazawa K\, Manaka T\, Ito Y\, Hirakawa Y\, Nishiura R\, Oi N 
+ et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42379554/  DOI https://
+ doi.org/10.1302/0301-620X.108B7.BJJ-2025-1462.R1\n  AIMS: Bone resorptio
+ n around cementless short humeral stems is increasingly recognized after
+  shoulder arthroplasty\, but quantitative longitudinal data are lacking.
+  We measured bone mineral density (BMD) around the humeral component aft
+ er anatomical total shoulder arthroplasty (aTSA) and reverse total shoul
+ der […]\n• Preoperative alignment and risk of proximal junctional fa
+ ilure : a framework for upper instrumented vertebra selection in adult s
+ pinal deformity.\n  Hills J\, Lenke LG\, Smith JS\, Shaffrey CI\, Lafage
+  V\, Lafage R et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42379558/
+   DOI https://doi.org/10.1302/0301-620X.108B7.BJJ-2025-1405.R1\n  AIMS: 
+ Proximal junctional kyphosis (PJK) remains a major complication after su
+ rgery for adult spinal deformity (ASD). While postoperative alignment is
+  a recognized modifiable risk factor\, objective methods for selecting t
+ he upper instrumented vertebra (UIV)\, a key modifiable factor\, are lac
+ king. We aimed to determine […]\n• Hospital costs attributable to fu
+ rther fracture\, reoperation\, and death during the first year following
+  hip fracture in England : a nationwide cohort study.\n  Baji P\, Gregso
+ n CL\, Patel R\, Judge A\, Chesser T\, Griffin XL et al.\n  PubMed https
+ ://pubmed.ncbi.nlm.nih.gov/42379565/  DOI https://doi.org/10.1302/0301-6
+ 20X.108B7.BJJ-2025-1758.R1\n  AIMS: Within one year after hip fracture i
+ n older adults living in England\, this study aimed to estimate the inpa
+ tient hospital costs associated with subsequent complications\, includin
+ g further fractures\, reoperations\, and death. METHODS: The study linke
+ d national datasets to identify all patients aged ≥ 60 years who […]
+ \n• Incidence of medical and surgical complications\, and subsequent m
+ ortality\, after hip fracture surgery : a nationwide cohort study from 2
+ 010 to 2021.\n  Haugen KG\, Hansen CM\, Jensen SS\, Pedersen AB\n  PubMe
+ d https://pubmed.ncbi.nlm.nih.gov/42379576/  DOI https://doi.org/10.1302
+ /0301-620X.108B7.BJJ-2025-1672.R1\n  AIMS: Hip fracture patients are at 
+ high risk of complications affecting their treatment\, recovery\, and su
+ rvival. Previous studies report considerable variation in complication r
+ ates\, and comprehensive data are limited. We examined the cumulative in
+ cidences of 20 medical and surgical complications after hip fracture [
+ …]\n• Erratum.\n  Haddad FS\n  PubMed https://pubmed.ncbi.nlm.nih.go
+ v/42379584/  DOI https://doi.org/10.1302/0301-620X.108B7.BJJ-2025-00064\
+ n\n— Clinical Orthopaedics & Related Research (38) —\n• A Conversa
+ tion With ... Malcolm Willett\, Cartoonist Who Looks at Us With a Wry Sm
+ ile.\n  Leopold SS\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42333539/  
+ DOI https://doi.org/10.1097/CORR.0000000000004042\n• Editor's Spotligh
+ t/Take 5: How Does Traumatic Hand Injury Impact Patients in a Safety-net
+  Healthcare System? A Mixed Methods Study.\n  Wongworawat MD\n  PubMed h
+ ttps://pubmed.ncbi.nlm.nih.gov/42275649/  DOI https://doi.org/10.1097/CO
+ RR.0000000000004020\n• How Does Traumatic Hand Injury Impact Patients 
+ in a Safety-net Healthcare System? A Mixed Methods Study.\n  Higashi RT\
+ , Lee J\, Hernandez Y\, Pontón M\, Liao JM\, Cross KC et al.\n  PubMed 
+ https://pubmed.ncbi.nlm.nih.gov/41568942/  DOI https://doi.org/10.1097/C
+ ORR.0000000000003826\n  BACKGROUND: Traumatic hand injuries can result i
+ n substantial harms to patients' functional abilities and financial heal
+ th\, disproportionately affecting individuals who are of working age\, l
+ ow income\, and uninsured. However\, little is known about how patients 
+ and their families cope with the functional limitations and […]\n• C
+ linical Faceoff: Social Media for Orthopaedic Surgeons-Tool or Vice?.\n 
+  Fourman MS\, Daniels AH\, Herron PD\n  PubMed https://pubmed.ncbi.nlm.n
+ ih.gov/42430757/  DOI https://doi.org/10.1097/CORR.0000000000004041\n•
+  Behind the Mask: Setting Expectations.\n  Zhang SE\n  PubMed https://pu
+ bmed.ncbi.nlm.nih.gov/42328724/  DOI https://doi.org/10.1097/CORR.000000
+ 0000004029\n• Value-based Healthcare: Moving From PROMs as Population 
+ Benchmarks to Clinical Tools for Patient Goal Setting and Shared Decisio
+ n-making.\n  Ahlfinger Z\, Bozic KJ\n  PubMed https://pubmed.ncbi.nlm.ni
+ h.gov/42319262/  DOI https://doi.org/10.1097/CORR.0000000000004032\n• 
+ Virtue Ethics in a Value-driven World: Soliciting Donations From Gratefu
+ l Patients.\n  Humbyrd CJ\n  PubMed https://pubmed.ncbi.nlm.nih.gov/4233
+ 3595/  DOI https://doi.org/10.1097/CORR.0000000000004044\n• Not the La
+ st Word: Seers\, Soothsayers\, and Surgeons.\n  Bernstein J\n  PubMed ht
+ tps://pubmed.ncbi.nlm.nih.gov/42299827/  DOI https://doi.org/10.1097/COR
+ R.0000000000004030\n• Editorial Comment: Selected Proceedings From the
+  2025 Musculoskeletal Infection Society Meeting.\n  Zalavras CG\n  PubMe
+ d https://pubmed.ncbi.nlm.nih.gov/42333543/  DOI https://doi.org/10.1097
+ /CORR.0000000000004039\n• Can We Validate the Musculoskeletal Infectio
+ n Society Criteria in Patients Suspected of Infection After Transfemoral
+  Osseointegration Surgery?.\n  Bozzay AB\, Rivera JA\, Rabin SE\, Souza 
+ JM\, Potter BK\, Forsberg JA\n  PubMed https://pubmed.ncbi.nlm.nih.gov/4
+ 2297404/  DOI https://doi.org/10.1097/CORR.0000000000003995\n  BACKGROUN
+ D: Major complications that may result in the removal of osseointegrated
+  implants in patients with limb loss include peri-implant fracture\, sev
+ ere bone resorption\, and infection. It remains challenging to diagnose 
+ and manage peri-implant infection in patients who have undergone osseoin
+ tegration surgery. The […]\n• CORR Insights®: Can We Validate the M
+ usculoskeletal Infection Society Criteria in Patients Suspected of Infec
+ tion After Transfemoral Osseointegration Surgery?.\n  Allison DC\n  PubM
+ ed https://pubmed.ncbi.nlm.nih.gov/42484479/  DOI https://doi.org/10.109
+ 7/CORR.0000000000004050\n• Synthesis and Characterization of an Antimi
+ crobial Honey-based Composite Bone Cement.\n  Kemp LE\, Delgado-Alvarado
+  I\, Rossiter TE\, Chen AF\, Tower RJ\, Tatara AM\n  PubMed https://pubm
+ ed.ncbi.nlm.nih.gov/41758684/  DOI https://doi.org/10.1097/CORR.00000000
+ 00003862\n  BACKGROUND: Orthopaedic infections are a major cause of morb
+ idity and mortality with increasing prevalence. Antibiotics are often ad
+ ded to bone cement or polymethyl methacrylate (PMMA) for local delivery 
+ to prevent or treat infection. However\, PMMA is not inherently antimicr
+ obial and has poor antibiotic elution […]\n• CORR Insights®: Synthe
+ sis and Characterization of an Antimicrobial Honey-based Composite Bone 
+ Cement.\n  DeBaun MR\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42054986/
+   DOI https://doi.org/10.1097/CORR.0000000000003970\n• What Is the Fat
+ e of Retained Antibiotic Spacers After First-stage Revision for Peripros
+ thetic Joint Infection?.\n  Sarfraz A\, Khury F\, McCormick K\, Aziz HH\
+ , Koljaka S\, Rozell JC et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov
+ /41995314/  DOI https://doi.org/10.1097/CORR.0000000000003902\n  BACKGRO
+ UND: Prolonged retention of antibiotic-loaded articulating spacers after
+  the first stage of a two-stage revision for periprosthetic joint infect
+ ion (PJI) can occur because of patient preference\, surgeon preference\,
+  or medical reasons that prevent the planned second stage. Little is kno
+ wn about the frequency of […]\n• CORR Insights®: What Is the Fate o
+ f Retained Antibiotic Spacers After First-stage Revision for Periprosthe
+ tic Joint Infection?.\n  Hartman CW\n  PubMed https://pubmed.ncbi.nlm.ni
+ h.gov/42208071/  DOI https://doi.org/10.1097/CORR.0000000000003993\n• 
+ Can a Targeted Dissemination Strategy of the PREPARE Trial Results Chang
+ e Surgical Antiseptic Practice?.\n  Nesbit SE\, Hong I\, O'Hara NN\, Spr
+ ague S\, Slobogean GP\, Levack AE\n  PubMed https://pubmed.ncbi.nlm.nih.
+ gov/42008801/  DOI https://doi.org/10.1097/CORR.0000000000003925\n  BACK
+ GROUND: The PREPARE trial (Pragmatic Randomized trial Evaluating Pre-ope
+ rative Alcohol skin solutions in Fractured Extremities)\, published in F
+ ebruary 2024\, demonstrated that 0.7% iodine povacrylex in 74% isopropyl
+  alcohol reduced surgical site infections in patients with closed fractu
+ res compared with […]\n• CORR Insights®: Can a Targeted Disseminati
+ on Strategy of the PREPARE Trial Results Change Surgical Antiseptic Prac
+ tice?.\n  Ring DC\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42297380/  D
+ OI https://doi.org/10.1097/CORR.0000000000003997\n  …more in the PDF.\
+ n\n(+452 more — open the PDF for the full issue.)
+URL:https://Elmunzar.github.io/praxia-update/issues/2026-07-30.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:praxia-update-2026-07-29@praxia
 DTSTAMP:20260729T093126Z
 DTSTART;VALUE=DATE:20260729
@@ -20020,451 +20486,7 @@ SUMMARY:Praxia Update — 483 new articles
 DESCRIPTION:483 newly indexed orthopaedic articles across 11 journals.\n\
  n📄 Open the full issue (PDF): https://Elmunzar.github.io/praxia-updat
  e/issues/2026-06-15.pdf\n🔗 Browse in the app: https://Elmunzar.github
- .io/praxia-update/?date=2026-06-15\n\n— American Journal of Sports Med
- icine (30) —\n• Medical Tourism for Regenerative Medicine Treatments
- : Legitimate Therapy or Snake Oil?.\n  Rodeo SA\n  PubMed https://pubmed
- .ncbi.nlm.nih.gov/42219990/  DOI https://doi.org/10.1177/036354652614463
- 24\n• Return to Play\, Career Longevity\, and Reruptures After Primary
-  Anterior Cruciate Ligament Reconstruction With Lateral Extra-articular 
- Tenodesis in Professional Soccer and Rugby Players: A Comparison of Hams
- tring Tendon Versus Bone-Patellar Tendon-Bone Autografts.\n  Lynskey SJ\
- , Ambrosanio A\, Motesharei A\, Jones M\, Ball S\, Church JS et al.\n  P
- ubMed https://pubmed.ncbi.nlm.nih.gov/41981899/  DOI https://doi.org/10.
- 1177/03635465261437783\n  BACKGROUND: Elite pivoting athletes are at a h
- igh risk of sustaining anterior cruciate ligament (ACL) injuries and rer
- uptures. While bone-patellar tendon-bone (BPTB) and hamstring tendon (HT
- ) autografts are both widely used for primary ACL reconstruction (ACLR)\
- , comparative data in the setting of routine lateral […]\n• Associat
- ion Between Posterior Tibial Slope and Graft Survival in High-Risk Anter
- ior Cruciate Ligament Reconstruction With Lateral Extra-articular Tenode
- sis.\n  Pineda T\, Mazy D\, Ramos-Rojas J\, Cance N\, Dan MJ\, Demey G e
- t al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42015417/  DOI https://d
- oi.org/10.1177/03635465261439932\n  BACKGROUND: Posterior tibial slope (
- PTS) is a well-established anatomic risk factor for anterior cruciate li
- gament (ACL) graft failure. Lateral extra-articular tenodesis (LET) is i
- ncreasingly used as an adjunctive procedure in high-risk patients to red
- uce rerupture rates\; however\, how its protective effect varies […]\n
- • Lateral Extra-articular Tenodesis Restores Knee Rotational and Trans
- lational Stability Regardless of Fixation Type: A Matched-Pair Cadaveric
-  Study.\n  Ihn H\, Quintana D\, Puzzitiello R\, Sakelaris P\, Rawson H\,
-  Barber N et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/41877535/  DO
- I https://doi.org/10.1177/03635465261428673\n  BACKGROUND: Lateral extra
- -articular tenodesis (LET) is used as an adjunct to anterior cruciate li
- gament reconstruction (ACLR) to enhance stability. However\, understandi
- ng of the optimal fixation method is limited. PURPOSE/HYPOTHESIS: The pu
- rpose was to compare biomechanical knee stability using 3 femoral LET fi
- xation […]\n• Intraoperative Manual Resistance and Direct Intra-arti
- cular Visualization Maneuvers for Anterior Cruciate Ligament Reconstruct
- ion: A Retrospective Cohort Study.\n  Cantrell WA\, Hale ME\, Scariano G
- \, O'Toole RA\, Serna A\, Scarcella M et al.\n  PubMed https://pubmed.nc
- bi.nlm.nih.gov/41981829/  DOI https://doi.org/10.1177/03635465261431311\
- n  BACKGROUND: The use of femoral suspensory fixation devices is a popul
- ar technique in anterior cruciate ligament reconstruction (ACLR)\, but t
- here is no consensus on the best intraoperative method for confirming pr
- oper button deployment. Recent literature suggests that manual resistanc
- e alone is at a high risk of […]\n• Secondary Muscle Injuries and Pe
- rformance Decline After Anterior Cruciate Ligament Reconstruction in Pro
- fessional Soccer: A Retrospective Matched Cohort Study.\n  Mazza D\, De 
- Carli A\, De Carli F\, Gagliardo S\, Suraci F\, Liberati Petrucci G et a
- l.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42157579/  DOI https://doi.
- org/10.1177/03635465261441252\n  BACKGROUND: Professional soccer players
-  who return to play after anterior cruciate ligament reconstruction (ACL
- R) often experience secondary muscle injuries\, but the true incidence\,
-  timing\, and contributing factors remain incompletely defined. HYPOTHES
- IS/PURPOSE: It was hypothesized that soccer players returning after […
- ]\n• Surgical Management of Horizontal Cleavage Tears of the Medial Me
- niscus: A Biomechanical Analysis During Simulated Gait.\n  Gould HP\, Ch
- astain K\, Wright-Chisem J\, Letendre S\, Parides M\, Maher SA et al.\n 
-  PubMed https://pubmed.ncbi.nlm.nih.gov/41902557/  DOI https://doi.org/1
- 0.1177/03635465261429493\n  BACKGROUND: Horizontal cleavage tears (HCTs)
-  comprise one-quarter of all diagnosed meniscal pathologies. Despite sev
- eral static/quasi-static cadaveric studies showing that HCTs and their r
- epairs do not change contact mechanics while leaflet resections do\, it 
- is unclear if these conclusions hold during activities of […]\n• Med
- ial Meniscus Posterior Root Repair in Knees With ≥5° of Varus Alignme
- nt Is Associated With Greater Osteoarthritis Progression Compared With <
- 5° Varus Alignment.\n  Dzidzishvili L\, Casanova F\, López-Torres II\,
-  Moews LD\, Perez Lloveras GO\, Thamrongskulsiri N et al.\n  PubMed http
- s://pubmed.ncbi.nlm.nih.gov/42099183/  DOI https://doi.org/10.1177/03635
- 465261444337\n  BACKGROUND: Despite advances in medial meniscus posterio
- r root (MMPR) repair techniques over the past decade\, concerns persist 
- about subsequent osteoarthritis (OA) progression. PURPOSE: To assess pos
- toperative progression to OA after isolated MMPR repair in patients with
-  normal alignment versus varus alignment. STUDY […]\n• Isolated Medi
- al Patellofemoral Ligament Reconstruction for Recurrent Patellar Disloca
- tions With Increased Femoral Anteversion and an Absent/Mild J-sign.\n  Z
- hang Z\, Wang D\, Liu Y\, Wang X\, Zhang H\n  PubMed https://pubmed.ncbi
- .nlm.nih.gov/42003178/  DOI https://doi.org/10.1177/03635465261437776\n 
-  BACKGROUND: The influence of greater femoral anteversion on outcomes af
- ter medial patellofemoral ligament (MPFL) reconstruction is increasingly
-  recognized\, leading to the more frequent use of combined derotational 
- femoral osteotomy. However\, the indications for this additional invasiv
- e procedure remain poorly defined\, […]\n• Bone Marrow Aspirate Conc
- entrate Improves the Early Osseous Integration of Fresh Osteochondral Al
- lografts in the Knee: A Randomized Controlled Trial.\n  Gelber PE\, Ram
- írez-Bermejo E\, Caviasso G\, Juncosa-Chacón J\, Fariñas O\n  PubMed 
- https://pubmed.ncbi.nlm.nih.gov/41992571/  DOI https://doi.org/10.1177/0
- 3635465261437779\n  BACKGROUND: Fresh osteochondral allograft (FOCA) tra
- nsplantation is an increasingly used technique for treating symptomatic 
- cartilage defects in young and active patients. However\, insufficient o
- sseous integration of the graft remains a primary cause of failure. Bone
-  marrow aspirate concentrate (BMAC)\, rich in […]\n• Knee Chondral S
- hear Injury Repair: A Biomechanical Laboratory Comparison of Suture Brid
- ge to Chondral Pin Fixation.\n  Duru NO\, Stoner AJ\, Frey C\, Pham NS\,
-  Ellis HB\, Schmitz MR et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/
- 41992575/  DOI https://doi.org/10.1177/03635465261436052\n  BACKGROUND: 
- Delamination of chondral fragments in pediatric patients is common and i
- s usually caused by osteochondritis dissecans (OCD) or patellar dislocat
- ions. For fragments with minimal to no bone\, fixation with screws may n
- ot be ideal due to hardware prominence on the cartilage or suboptimal sc
- rew purchase\, which […]\n• Establishment of a Rat Pull-Out Repair M
- odel Demonstrating Fibrous Meniscus-Bone Healing and Suppression of Meni
- scal Extrusion After Medial Meniscus Posterior Root Tear.\n  Katsumata T
- \, Nakagawa Y\, Yoshida R\, Matsuda J\, Nakamura T\, Miyatake K et al.\n
-   PubMed https://pubmed.ncbi.nlm.nih.gov/41981961/  DOI https://doi.org/
- 10.1177/03635465261431327\n  BACKGROUND: Medial meniscus posterior root 
- tear (MMPRT) disrupts meniscal hoop tension and is associated with osteo
- arthritis progression. Although pull-out repair is a standard surgical t
- echnique for MMPRT\, its precise healing process remains unclear. PURPOS
- E/HYPOTHESIS: This study aimed to establish a rat model for […]\n• F
- emoroacetabular Impingement Rabbit Model Induced by Exercise and Mechani
- cal Stimulation.\n  Du C\, Luo Y\, Zhou G\, Cao Y\, Li S\, Gao G et al.\
- n  PubMed https://pubmed.ncbi.nlm.nih.gov/41934349/  DOI https://doi.org
- /10.1177/03635465261428126\n  BACKGROUND: Femoroacetabular impingement (
- FAI) is one of the major causes of hip pain. The pathogenesis of FAI rem
- ains unclear\, and few animal models are available to study its mechanis
- ms. PURPOSE: To evaluate bone deformity formation\, labrum\, and articul
- ar cartilage injury induced by mechanical and exercise […]\n• Knotle
- ss Versus Knotted Suture Bridge for Rotator Cuff Tears: A Biomechanical 
- and Histological Study in an Animal Model.\n  Du H\, Guo X\, Liu J\, Xu 
- Y\, Wan M\, Xiao W et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/4194
- 7489/  DOI https://doi.org/10.1177/03635465261430931\n  BACKGROUND: Knot
- ted suture bridge repair (KSB) has been widely demonstrated as an effect
- ive method for rotator cuff tears. However\, it is associated with high 
- retear rates\, primarily attributed to medial row failure resulting from
-  knot-induced stress concentration and compromised tendon perfusion. Kno
- tless suture […]\n• Mechanically Preconditioned Biomimetic Gradient 
- Scaffold for Tendon-to-Bone Regeneration in a Rabbit Rotator Cuff Tear M
- odel.\n  Chen Y\, Li Y\, Aili D\, Li J\, Zhang C\, Zhao C et al.\n  PubM
- ed https://pubmed.ncbi.nlm.nih.gov/41785459/  DOI https://doi.org/10.117
- 7/03635465261428684\n  BACKGROUND: Healing of the tendon-bone interface 
- (TBI) after rotator cuff injury is limited\, often leading to scar-media
- ted repair. Decellularized tendon fibrocartilage-bone composite (dTFBC) 
- and bone marrow mesenchymal stem cell sheets (BMSCS) improve repair in p
- reclinical models\, but full scaffold encapsulation with […]\n• Obes
- ity Amplifies the Detrimental Effects of Delayed Repair on Tendon-to-Bon
- e Healing After Rotator Cuff Injury in a Rat Model.\n  Wu Y\, Liu Q\, Li
-  X\, Ai Y\, Zhao S\, Ji X et al.\n  PubMed https://pubmed.ncbi.nlm.nih.g
- ov/41981828/  DOI https://doi.org/10.1177/03635465261434037\n  BACKGROUN
- D: Rotator cuff repair outcomes are influenced by systemic metabolic sta
- tus and tear chronicity. Although obesity and delayed surgery are each l
- inked to poorer healing\, whether obesity potentiates the detrimental ef
- fects of repair delay on tendon-to-bone healing remains incompletely def
- ined. HYPOTHESIS: […]\n• Can a Clinician Accurately Diagnose Iliopso
- as Tendinitis on a Physical Examination?.\n  Johnstone T\, Pierre K\, Ro
- h E\, Fredericson M\, Safran MR\n  PubMed https://pubmed.ncbi.nlm.nih.go
- v/41823309/  DOI https://doi.org/10.1177/03635465261428681\n  BACKGROUND
- : Iliopsoas (IP) tendinitis is an underrecognized but important cause of
-  anterior hip pain in active patients. Some studies have reported that a
-  physical examination (PE) has limited reliability in making a diagnosis
-  of IP tendinitis. Differentiating anterior hip pain due to IP tendiniti
- s from […]\n• Predictors of Achieving the Patient Acceptable Symptom
-  State at 5 Years After Primary Hip Arthroscopy in High-Level Adult Athl
- etes.\n  Owens JS\, Lee MS\, Jimenez AE\, Harris WT\, Domb BG\n  PubMed 
- https://pubmed.ncbi.nlm.nih.gov/41992603/  DOI https://doi.org/10.1177/0
- 3635465261436058\n  BACKGROUND: Variables predictive of achieving clinic
- ally meaningful outcomes in high-level adult athletes after primary hip 
- arthroscopy at midterm follow-up remain incompletely defined. PURPOSE: T
- o identify variables predictive of achieving the patient acceptable symp
- tom state (PASS) for the Hip Outcome […]\n• Return to Sport in Profe
- ssional Athletes With Borderline Hip Dysplasia After Hip Arthroscopy for
-  Femoroacetabular Impingement.\n  Uppstrom T\, Felan NA\, Lind DRG\, Dor
- nan GJ\, Speshock A\, Philippon MJ\n  PubMed https://pubmed.ncbi.nlm.nih
- .gov/42077177/  DOI https://doi.org/10.1177/03635465261439048\n  BACKGRO
- UND: Hip arthroscopy for femoroacetabular impingement (FAI) in professio
- nal athletes is associated with significant improvements in postoperativ
- e pain and function and a return-to-sport (RTS) rate >80%. However\, RTS
-  rate after hip arthroscopy for FAI in professional athletes with border
- line dysplasia is […]\n• Return-to-Work and Clinical Outcomes After 
- Anterior Latissimus Dorsi and Teres Major Tendon Transfer for Irreparabl
- e Subscapularis Tears.\n  Baek CH\, Kim BT\, Kim JG\, Lim C\, Kim SJ\n  
- PubMed https://pubmed.ncbi.nlm.nih.gov/42015681/  DOI https://doi.org/10
- .1177/03635465261439045\n  BACKGROUND: Irreparable subscapularis tears r
- epresent a significant clinical challenge\, especially in active patient
- s aiming to preserve shoulder function. Anterior latissimus dorsi and te
- res major (LDTM) tendon transfer has been proposed to restore internal r
- otation and anterior shoulder stability\; however\, data on […]\n• S
- ummative Report on Time Out of Play and Injury Rates for Major and Minor
-  League Baseball: An Analysis of 83\,215 Injuries From 2011 to 2023.\n  
- Ward GH\, Meta F\, Cabarcas B\, Hebert E\, Griffith TB\, Meister K et al
- .\n  PubMed https://pubmed.ncbi.nlm.nih.gov/41981906/  DOI https://doi.o
- rg/10.1177/03635465261434005\n  BACKGROUND: Recent reports suggest incre
- asing trends in injuries\, primarily among pitchers and upper extremity 
- injuries\, among Major League Baseball (MLB) and Minor League Baseball (
- MiLB) players. Accordingly\, an updated comprehensive report on injury e
- pidemiology in professional baseball is needed. PURPOSE: To (1) […]\n
- • Lateral Extra-articular Tenodesis With Anterior Cruciate Ligament Re
- construction in Pediatric and Skeletally Immature Patients: A Systematic
-  Review and Meta-analysis.\n  Kotipalli S\, Haidl T\, Vivekanantha P\, d
- e Sa D\, Kay J\n  PubMed https://pubmed.ncbi.nlm.nih.gov/41560581/  DOI 
- https://doi.org/10.1177/03635465251407326\n  BACKGROUND: Lateral extra-a
- rticular tenodesis (LET)\, alongside anterior cruciate ligament reconstr
- uction (ACLR)\, has been shown to improve rerupture and rotational laxit
- y in patients <25 years. However\, safety and efficacy in both general p
- ediatric (<18 years) and skeletally immature patients are important to [
- …]\n• Return to Sport After Revision Anterior Cruciate Ligament Reco
- nstruction: A Systematic Review and Meta-analysis.\n  Gopinatth V\, Touh
- ey DC\, Barksdale EM\, Knapik DM\n  PubMed https://pubmed.ncbi.nlm.nih.g
- ov/41572915/  DOI https://doi.org/10.1177/03635465251405493\n  BACKGROUN
- D: Revision anterior cruciate ligament (ACL) reconstruction (ACLR) is a 
- well-established procedure to restore knee stability and improve functio
- n after a failed primary ACLR. In active individuals\, patient\, injury\
- , and operative variables influencing successful return to sport (RTS) a
- fter revision ACLR remain […]\n• Comparative Outcomes of Autograft a
- nd Allograft in Hip Labral Reconstruction: A Systematic Review and Meta-
- analysis.\n  Kurapatti M\, Yuro M\, Tao BS\, Ramey MD\, Swaminathan S\, 
- Locke AR et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/41607261/  DOI
-  https://doi.org/10.1177/03635465251408832\n  BACKGROUND: There is curre
- ntly no consensus regarding the superiority of allografts or autografts 
- in labral hip reconstruction. PURPOSE: To compare patient outcomes after
-  arthroscopic labral reconstruction using autografts versus allografts. 
- STUDY DESIGN: Meta-analysis\; Level of evidence\, 4. METHODS: A systemat
- ic […]\n• Risk Factors for Shoulder Stiffness After Rotator Cuff Rep
- air: A Systematic Review and Meta-analysis.\n  Zhan H\, Yang Z\, Liu P\,
-  Wang Y\, Zhao Z\, Zhang B et al.\n  PubMed https://pubmed.ncbi.nlm.nih.
- gov/41731320/  DOI https://doi.org/10.1177/03635465251408855\n  BACKGROU
- ND: Shoulder stiffness after rotator cuff repair (RCR) represents a prim
- ary determinant of patient-reported quality of life. The implementation 
- of predictive strategies for the early identification of risk factors is
-  critical for mitigating this complication. PURPOSE: To evaluate the inc
- idence of shoulder […]\n• Clinical Outcomes and Complications After 
- Sternoclavicular Joint Reconstruction for Chronic Instability: A Systema
- tic Review.\n  Kapoor U\, Khoo KJ\, Hsu JE\, Matsen FA\, Schiffman CJ\n 
-  PubMed https://pubmed.ncbi.nlm.nih.gov/41572920/  DOI https://doi.org/1
- 0.1177/03635465251407324\n  BACKGROUND: Chronic sternoclavicular (SC) jo
- int instability is a relatively rare orthopaedic pathology that is treat
- ed with surgical reconstruction when symptoms persist despite adequate n
- onsurgical treatment. There are a variety of surgical techniques\; howev
- er\, the literature on the topic is limited to small case […]\n• Pat
- ient-Reported Outcomes and Revision Rates After ACL Reconstruction With 
- Quadriceps Versus Hamstring and Patellar Tendon Autografts: Letter to th
- e Editor.\n  Kocak S\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42219994/
-   DOI https://doi.org/10.1177/03635465261444031\n• Patient-Reported Ou
- tcomes and Revision Rates After ACL Reconstruction With Quadriceps Versu
- s Hamstring and Patellar Tendon Autografts: Response.\n  Rizvanovic D\, 
- Waldén M\, Forssblad M\, Cristiani R\, von Essen C\, Stålman A\n  PubM
- ed https://pubmed.ncbi.nlm.nih.gov/42219993/  DOI https://doi.org/10.117
- 7/03635465261444033\n• Using a Residual Pivot Shift as the Indication 
- to Perform a Lateral Extra-articular Tenodesis During ACL Reconstruction
-  Using Autologous Hamstring Grafts Is Associated With Improved Surgical 
- Outcomes: Response.\n  Porter MD\n  PubMed https://pubmed.ncbi.nlm.nih.g
- ov/42219992/  DOI https://doi.org/10.1177/03635465261444027\n• Using a
-  Residual Pivot Shift as the Indication to Perform a Lateral Extra-artic
- ular Tenodesis During ACL Reconstruction Using Autologous Hamstring Graf
- ts Is Associated With Improved Surgical Outcomes: Letter to the Editor.\
- n  Dheeraj Y\, Sankhwar DK\n  PubMed https://pubmed.ncbi.nlm.nih.gov/422
- 19991/  DOI https://doi.org/10.1177/03635465261444024\n\n— The Bone & 
- Joint Journal (14) —\n• Line-to-line cementation in hip arthroplasty
-  : what is the current role of the 'French Paradox'?.\n  Andriollo L\, V
- ermue H\, Haddad FS\, Lustig S\n  PubMed https://pubmed.ncbi.nlm.nih.gov
- /42219177/  DOI https://doi.org/10.1302/0301-620X.108B6.BJJ-2025-1171.R1
- \n  AIMS: The 'French Paradox' cementing technique challenges convention
- al principles of femoral component fixation by advocating line-to-line f
- emoral component insertion and a thin cement mantle of variable thicknes
- s. This contradicts the widely accepted recommendation of a 2 mm to 4 mm
-  cement mantle thickness. However\, […]\n• Increasing mobility in ho
- spital after hip fracture.\n  Kearney RS\, Costa ML\n  PubMed https://pu
- bmed.ncbi.nlm.nih.gov/42219168/  DOI https://doi.org/10.1302/0301-620X.1
- 08B6.BJJ-2026-0017.R1\n  Each year there are 70\,000 new hip fractures i
- n the UK\, with an ongoing annual cost to health and social care service
- s of £4.3 billion. Following surgery\, 30% of patients are not returned
-  to their usual home by 120 days. Current UK national standards for reha
- bilitation recommend two hours of physiotherapy in the first […]\n• 
- Diagnosis of aseptic loosening after hip arthroplasty : international De
- lphi consensus.\n  Hopman AGM\, Blankevoort L\, Lustig S\, Amanatullah D
- F\, Schafroth MU\, Kievit AJ et al.\n  PubMed https://pubmed.ncbi.nlm.ni
- h.gov/42219167/  DOI https://doi.org/10.1302/0301-620X.108B6.BJJ-2025-17
- 32.R1\n  AIMS: This Delphi consensus study aimed to achieve internationa
- l expert agreement on clinical and radiological criteria for diagnosing 
- aseptic component loosening in total hip arthroplasty (THA). The consens
- us involved revision hip surgeons from diverse healthcare settings world
- wide\, aiming to standardize diagnostic […]\n• Decreased evertor str
- ength following peroneus longus tendon harvest for anterior cruciate lig
- ament reconstruction : an isokinetic muscle strength testing study.\n  K
- otian RN\, Ajoy SM\, Panduranga R\, Visweswara RD\, Kumar P\, Galagali D
- A et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42219170/  DOI https:
- //doi.org/10.1302/0301-620X.108B6.BJJ-2025-0274.R1\n  AIMS: There are co
- nflicting results in the literature regarding the safety of the peroneus
-  longus tendon (PLT) as a potential graft for anterior cruciate ligament
-  (ACL) reconstruction\, and no long-term studies with objective assessme
- nt exist. Therefore\, we assessed the donor ankle following PLT harvest 
- for ACL […]\n• National patient-reported outcome measures data and t
- he National Joint Registry : a report on the data completeness and quali
- ty.\n  Singh Benning M\, Penfold CM\, Matharu GS\, Sayers A\, Blom AW\, 
- Whitehouse MR et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42219183/
-   DOI https://doi.org/10.1302/0301-620X.108B6.BJJ-2025-1230.R1\n  AIMS: 
- Since April 2009\, patients undergoing NHS-funded primary elective total
-  knee or hip arthroplasties (TKAs or THAs) should be invited to complete
-  patient-reported outcome measures (PROMs). The aim of this study was to
-  use National Joint Registry (NJR) data to identify patient and demograp
- hic differences between […]\n• Infection following foot and ankle su
- rgery : a subanalysis of data captured from the UK Foot and Ankle Thromb
- oembolism (FATE) audit.\n  Shepherd J\, Mason L\, Houchen-Wolloff L\, Ma
- lhotra K\, Mangwani J\, UK-FATE Collaborative et al.\n  PubMed https://p
- ubmed.ncbi.nlm.nih.gov/42219181/  DOI https://doi.org/10.1302/0301-620X.
- 108B6.BJJ-2025-1345.R1\n  AIMS: The UK Foot and Ankle Thromboembolism (U
- K-FATE) Collaborative evaluated incidence of venous thromboembolism (VTE
- ) in foot and ankle surgery and Achilles tendon (AT) rupture. As part of
-  the data collection\, infection within 90 days was a secondary outcome.
-  This study aimed to evaluate overall rate of superficial […]\n• The
-  experience of stemmed pyrocarbon shoulder hemiarthroplasty in New Zeala
- nd : ten years of registry data.\n  Konarski AJ\, Mohammed KD\n  PubMed 
- https://pubmed.ncbi.nlm.nih.gov/42219169/  DOI https://doi.org/10.1302/0
- 301-620X.108B6.BJJ-2025-1190.R2\n  AIMS: Pyrocarbon has been used as a b
- earing surface in hemiarthroplasty (HA) of the shoulder for more than a 
- decade. The use of pyrocarbon is thought to reduce the rate of glenoid e
- rosion compared with metal HA\, and reduce the risk of glenoid complicat
- ions compared with anatomical total shoulder arthroplasty (aTSA). […]\
- n• Revision after anatomical total shoulder arthroplasty : the influen
- ce of age on outcomes in a large nationwide registry study.\n  Smeitink 
- N\, Schröder FF\, Dorrestijn O\, Spekenbrink-Spooren A\, Dahmen J\, van
-  Noort A et al.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42219180/  DOI
-  https://doi.org/10.1302/0301-620X.108B6.BJJ-2025-1488.R1\n  AIMS: Prima
- ry anatomical total shoulder arthroplasty (aTSA) is generally the prefer
- red treatment for active young patients with increased functional demand
- s who need a shoulder arthroplasty. There is little information\, howeve
- r\, about the survival of this implant in patients aged < 65 years. The 
- aim of this study was […]\n• Computer navigation in total shoulder a
- rthroplasty : analysis from the Australian Orthopaedic Association Natio
- nal Joint Replacement Registry.\n  Wilcox BM\, Campbell RJ\, Gill DRJ\, 
- Harries D\, Yeoh TS\, Low AK\n  PubMed https://pubmed.ncbi.nlm.nih.gov/4
- 2219176/  DOI https://doi.org/10.1302/0301-620X.108B6.BJJ-2025-1772.R1\n
-   AIMS: Computer navigation is capable of improving the accuracy of glen
- oid baseplate and screw positioning in shoulder arthroplasty\, but there
-  is very limited evidence of its effect on clinical outcomes. In Austral
- ia\, there is one commonly used total shoulder arthroplasty prosthesis w
- ith the option for intraoperative […]\n• The association between the
-  morphological patterns of medium to large rotator cuff tears and the re
- tear rate after arthroscopic repair.\n  Lee S\, Lee HA\, Shin SJ\n  PubM
- ed https://pubmed.ncbi.nlm.nih.gov/42219174/  DOI https://doi.org/10.130
- 2/0301-620X.108B6.BJJ-2025-1566.R2\n  AIMS: The aim of this study was to
-  evaluate factors associated with retear of the rotator cuff after arthr
- oscopic repair of cuff tears and to investigate whether these factors va
- ry according to the pattern of the tear. METHODS: Between March 2014 and
-  June 2021\, patients who underwent arthroscopic complete rotator cuff [
- …]\n• Pain Rehabilitation to Optimize Major Orthopaedic Trauma REcov
- ery (PROMOTE) compared with routine care : a multicentre\, parallel-grou
- p\, randomized feasibility trial with an embedded qualitative study.\n  
- Fordham B\, Quarmby LM\, Costa ML\, Painton R\, Draper K\, Knight R et a
- l.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42219171/  DOI https://doi.
- org/10.1302/0301-620X.108B6.BJJ-2025-1309.R1\n  AIMS: The aim of this st
- udy was to assess the feasibility of conducting a randomized controlled 
- trial (RCT) to test the effectiveness of an online\, biopsychosocial int
- ervention for the management of recovery in patients with complex lower-
- limb orthopaedic trauma. METHODS: This was a multicentre\, parallel-grou
- p\, […]\n• Implant survival and limb salvage rates after combined pr
- oximal tibial and distal femoral endoprosthetic replacement.\n  Baird CA
- E\, Archer JE\, Green NM\, Burahee A\, Riaz M\, Ahmed Kamel S et al.\n  
- PubMed https://pubmed.ncbi.nlm.nih.gov/42219182/  DOI https://doi.org/10
- .1302/0301-620X.108B6.BJJ-2025-1470.R1\n  AIMS: Combined endoprosthetic 
- replacement of the ipsilateral distal femur and proximal tibia is rarely
-  performed. It is usually undertaken to achieve limb salvage after resec
- tion of primary bone tumours around the knee. This study aims to determi
- ne the viability of 'composite' endoprosthetic reconstruction around the
-  […]\n• Natural history of radiological coronal alignment of lower l
- imbs in children and adolescents with achondroplasia.\n  Sawamura K\, Ma
- tsushita M\, Mishima K\, Imagama S\, Kitoh H\n  PubMed https://pubmed.nc
- bi.nlm.nih.gov/42219185/  DOI https://doi.org/10.1302/0301-620X.108B6.BJ
- J-2025-1474.R1\n  AIMS: Achondroplasia (ACH) is the most common skeletal
-  dysplasia worldwide\, caused by mutations in the fibroblast growth fact
- or receptor 3 gene and characterized by a disproportionately short statu
- re\, and many orthopaedic complications. Genu varum affects between 80% 
- and 90% of children with ACH\, but the longitudinal […]\n• Femoral n
- erve palsy in brace treatment for developmental dysplasia of the hip : i
- ncidence and outcomes in a prospective international cohort.\n  Schaeffe
- r EK\, Wang AWT\, Hu J\, Nguyen V\, Sankar WN\, Williams N et al.\n  Pub
- Med https://pubmed.ncbi.nlm.nih.gov/42219184/  DOI https://doi.org/10.13
- 02/0301-620X.108B6.BJJ-2025-1550.R1\n  AIMS: Femoral nerve palsy is a po
- tential complication of brace treatment for children with developmental 
- dysplasia of the hip (DDH). Little is known about its causes\, and previ
- ous studies have been limited by their small sample size\, retrospective
-  design\, and/or being single-centre series. The aim of this study was t
- o […]\n\n— Clinical Orthopaedics & Related Research (39) —\n• Gu
- est Editorial: The Health Benefits of Bayesian Reasoning.\n  Rezk E\, Ri
- ng D\n  PubMed https://pubmed.ncbi.nlm.nih.gov/42139515/  DOI https://do
- i.org/10.1097/CORR.0000000000003867\n• Editor's Spotlight/Take 5: Few 
- FDA Approved AI/ML Orthopaedic Devices Have EU MDR Equivalents or Peer-R
- eviewed Validation.\n  Manner PA\n  PubMed https://pubmed.ncbi.nlm.nih.g
- ov/42082190/  DOI https://doi.org/10.1097/CORR.0000000000003969\n• Few
-  FDA Approved AI/ML Orthopaedic Devices Have EU MDR Equivalents or Peer-
- Reviewed Validation.\n  Bracken A\, Whelehan S\, Merghani K\, Sheehan E\
- , Feeley I\n  PubMed https://pubmed.ncbi.nlm.nih.gov/41915013/  DOI http
- s://doi.org/10.1097/CORR.0000000000003788\n  BACKGROUND: Artificial inte
- lligence (AI) and machine-learning (ML) technologies are increasingly be
- ing incorporated into orthopaedic medical devices\, offering the potenti
- al to enhance surgical planning\, intraoperative precision\, and persona
- lized care. The incorporation of AI into medical devices introduces uniq
- ue […]\n• Not the Last Word: One of These Predictions\, ± 1\, Will 
- Come True.\n  Bernstein J\n  PubMed https://pubmed.ncbi.nlm.nih.gov/4209
- 6606/  DOI https://doi.org/10.1097/CORR.0000000000003979\n• Your Best 
- Life: Practicing Detachment From Negativity.\n  Kelly JD\n  PubMed https
- ://pubmed.ncbi.nlm.nih.gov/42024957/  DOI https://doi.org/10.1097/CORR.0
- 000000000003961\n• Medicolegal Sidebar: What to Do When a Patient Thre
- atens to Harm Someone.\n  Bal BS\n  PubMed https://pubmed.ncbi.nlm.nih.g
- ov/42090734/  DOI https://doi.org/10.1097/CORR.0000000000003973\n• Vir
- tue Ethics in a Value-driven World: When Cost Shapes Choice-Ethical Deci
- sions in Rural Fracture Care.\n  Salphale YS\, Babhulkar S\n  PubMed htt
- ps://pubmed.ncbi.nlm.nih.gov/42139558/  DOI https://doi.org/10.1097/CORR
- .0000000000003974\n• Intersection of Gender and Orthopaedic Culture: G
- reat and Courageous Leadership.\n  Zillmer DA\n  PubMed https://pubmed.n
- cbi.nlm.nih.gov/42139563/  DOI https://doi.org/10.1097/CORR.000000000000
- 3980\n• ArtiFacts: Smith-Petersen's Accidental Prosthesis.\n  Hawk AJ\
- n  PubMed https://pubmed.ncbi.nlm.nih.gov/42139595/  DOI https://doi.org
- /10.1097/CORR.0000000000003976\n• CORR Synthesis: How Should PROM Thre
- sholds Be Determined and Interpreted to Reflect Clinically Meaningful Ch
- ange in Orthopaedic Surgery?.\n  Vallurupalli N\, Padon B\, Yao JJ\n  Pu
- bMed https://pubmed.ncbi.nlm.nih.gov/41564289/  DOI https://doi.org/10.1
- 097/CORR.0000000000003815\n• Classifications in Brief: The AO Spine Up
- per Cervical Injury Classification System.\n  Khela M\, Gendelberg D\n  
- PubMed https://pubmed.ncbi.nlm.nih.gov/41411183/  DOI https://doi.org/10
- .1097/CORR.0000000000003775\n• Severe Damage to the Ligamentous-Fossa-
- Foveolar Complex Is Common in Patients Undergoing Surgical Hip Dislocati
- on for Femoroacetabular Impingement.\n  Stetzelberger VM\, Popa V\, Schw
- ab JM\, Tannast M\n  PubMed https://pubmed.ncbi.nlm.nih.gov/41678779/  D
- OI https://doi.org/10.1097/CORR.0000000000003825\n  BACKGROUND: Ligament
- um teres lesions are increasingly linked to hip pain and poor surgical o
- utcomes. However\, the extent of damage to the full ligamentous-fossa-fo
- veolar complex (LFFC) and the factors associated with this finding remai
- n unclear in young patients undergoing joint-preserving surgery. QUESTIO
- NS/PURPOSES: […]\n• CORR Insights®: Severe Damage to the Ligamentou
- s-Fossa-Foveolar Complex Is Common in Patients Undergoing Surgical Hip D
- islocation for Femoroacetabular Impingement.\n  Faure PA\n  PubMed https
- ://pubmed.ncbi.nlm.nih.gov/41805767/  DOI https://doi.org/10.1097/CORR.0
- 000000000003894\n• Does Insertional Reattachment for Acute Sleeve Avul
- sion Fracture of the Achilles Tendon Provide Sustained Function and Spor
- ts Participation?.\n  Xiong S\, Li Y\, Xie X\, Ma K\, Pi Y\, Yang Y et a
- l.\n  PubMed https://pubmed.ncbi.nlm.nih.gov/41677184/  DOI https://doi.
- org/10.1097/CORR.0000000000003821\n  BACKGROUND: Insertional reattachmen
- t of the Achilles tendon is the recommended surgical treatment for acute
-  sleeve avulsion fractures at the tendon insertion in patients fit for s
- urgery and who are comfortable taking the risks associated with the proc
- edure. However\, there is a paucity of evidence regarding the […]\n•
-  CORR Insights®: Does Insertional Reattachment for Acute Sleeve Avulsio
- n Fracture of Achilles Tendon Provide Sustained Function and Sports Part
- icipation?.\n  Humbyrd CJ\n  PubMed https://pubmed.ncbi.nlm.nih.gov/4175
- 8693/  DOI https://doi.org/10.1097/CORR.0000000000003858\n• Does First
-  Metatarsal Head Lowering During Minimally Invasive Chevron Akin Osteoto
- my Yield No Significant Difference in Patient-reported Outcomes Compared
-  With Second Distal Metatarsal Minimally Invasive Osteotomy for Treating
-  Intractable Plantar Keratosis?.\n  Choi JY\, Yi Y\, Choi SM\, Suh JS\n 
-  PubMed https://pubmed.ncbi.nlm.nih.gov/42208061/  DOI https://doi.org/1
- 0.1097/CORR.0000000000003866\n  BACKGROUND: Hallux valgus is a common fo
- refoot deformity that alters forefoot loading and often leads to seconda
- ry complications such as intractable plantar keratosis beneath the secon
- d metatarsal head. Although the link between hallux valgus and intractab
- le plantar keratosis is recognized\, whether two procedures that […]\n
-   …more in the PDF.\n\n(+423 more — open the PDF for the full issue.
- )
+ .io/praxia-update/?date=2026-06-15
 URL:https://Elmunzar.github.io/praxia-update/issues/2026-06-15.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
