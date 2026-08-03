@@ -2,6 +2,15 @@
   "base_url": "https://Elmunzar.github.io/praxia-update",
   "issues": [
     {
+      "date": "2026-08-03",
+      "generated_at": "2026-08-03T10:30:46Z",
+      "count": 511,
+      "journals_with_articles": 10,
+      "pdf_url": "https://Elmunzar.github.io/praxia-update/issues/2026-08-03.pdf",
+      "json_url": "https://Elmunzar.github.io/praxia-update/issues/2026-08-03.json",
+      "app_url": "https://Elmunzar.github.io/praxia-update/?date=2026-08-03"
+    },
+    {
       "date": "2026-08-02",
       "generated_at": "2026-08-02T09:03:50Z",
       "count": 510,
