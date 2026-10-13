@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-12",
-  "generated_at": "2026-10-12T16:12:34Z",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T14:38:27Z",
   "counts": {
     "articles": 523,
     "journals_with_articles": 10,
@@ -6584,6 +6584,33 @@
       "count": 120,
       "articles": [
         {
+          "pmid": "42864526",
+          "title": "The boundary between microbial detection and implant-related infection: a structured narrative review of analytical credibility, biological persistence, host response, and clinical causality.",
+          "authors": [
+            "Chang-Sheng L",
+            "Feng-Jun L",
+            "Huan-Sheng L",
+            "Qiang H",
+            "Zong-Ke Z"
+          ],
+          "abstract": "BACKGROUND: Unexpected microbial signals are frequently encountered in patients with orthopaedic implants who do not satisfy validated criteria for confirmed infection. The central interpretive problem is not limited to periprosthetic joint infection (PJI); it also arises in fracture-fixation and spinal instrumentation, and it involves conventional culture, sonication, histopathology, broad-range polymerase chain reaction (PCR), 16 S rRNA sequencing, and metagenomic next-generation sequencing (mNGS).\n\nMETHODS: We performed a structured narrative review of literature identified in PubMed, Embase, and Web of Science, updated through 27 June 2026. Eligible publications addressed microbial or biofilm-associated signals in orthopaedic implants without unequivocal infection at the time of sampling, or reported outcomes after unexpected positive cultures. Evidence was organized by implant type, indication for implant removal, detection method, host-response evidence, and longitudinal outcome. Particular attention was paid to the distinction between routinely removed fracture-fixation devices and failure-related arthroplasty or spinal revisions.\n\nRESULTS: Routine removal of fracture-fixation devices provides the least confounded clinical window and demonstrates that microbial signals may be recovered from implants in the absence of recognized failure or overt infection. By contrast, arthroplasty and spinal cohorts labelled \"presumed aseptic\" are intrinsically confounded because pain, loosening, osteolysis, or pseudarthrosis may represent occult infection. Molecular positivity is further limited by low-biomass contamination and inability to distinguish viable organisms from relic DNA. Favorable outcomes after revision do not prove that infection was never present, because revision surgery itself may eradicate or substantially reduce an occult microbial burden.\n\nCONCLUSIONS: Microbial detection should be interpreted through three sequential domains: analytical credibility, biological activity or persistence, and clinical causality supported by host response or implant-related pathology. \"Stable coexistence\" is best treated as a longitudinal clinical phenotype or testable mechanistic hypothesis, not as an established diagnostic category. This framework complements, but does not replace, validated PJI, fracture-related infection (FRI), or other implant-specific definitions.",
+          "doi": "10.1007/s00402-026-06505-y",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42864526/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06505-y",
+          "journal_key": "aots"
+        },
+        {
           "pmid": "42853330",
           "title": "Fewer poor joint awareness results with cementless TKA compared with the same-design cemented implant.",
           "authors": [
@@ -7388,9 +7415,10 @@
           "pub_month": "Sep",
           "pages": "",
           "pub_types": [
-            "Journal Article"
+            "Journal Article",
+            "Observational Study"
           ],
-          "section": "Article",
+          "section": "Observational Study",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42747593/",
           "doi_url": "https://doi.org/10.1007/s00402-026-06495-x",
           "journal_key": "aots"
@@ -9837,32 +9865,6 @@
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42406168/",
           "doi_url": "https://doi.org/10.1007/s00402-026-06402-4",
           "journal_key": "aots"
-        },
-        {
-          "pmid": "42399560",
-          "title": "Isolated screw fixation of posterior wall fractures.",
-          "authors": [
-            "Clausen JD",
-            "Özbek H",
-            "Omar-Pacha T",
-            "Sehmisch S",
-            "Gänsslen A"
-          ],
-          "abstract": "INTRODUCTION: Posterior wall (PW) fractures are common acetabular fractures and are most often treated by open reduction and internal fixation. The gold-standard of surgical stabilization is screw fixation of large wall fragments with additional buttress plating. Some reports focussed on screw fixation alone presenting adequate results.\n\nMATERIAL AND METHODS: From a total of 208 PW-fracture treated between 1972 and 2008, 57 patients were identified with open reduction and internal fixation (ORIF) using isolated screw fixation. These patients were analyzed regarding demographical data (patient age, sex), type of accident, injury mechanism, Injury Severity Score (ISS), concomitant pelvic ring injuries, associated injuries, perioperative parameters and long-term results.\n\nRESULTS: 44 patients were male and 13 were female with a mean age of 36.8 years. More than 90% sustained high-energy trauma with 34 sustaining multiple injuries or polytrauma. The mean Injury Severity Score was 11.5 points. All patients had fracture dislocations, which were reduced within 24 h after admission except one patient with secondary transfer. 11 patients presented with an initial sciatic nerve deficit. 29 patients had a single PW-fragment, 16 presented with two PW-fragments and in 12 patients marginal impactions were present. Surgery was performed in average after 7 days using the Kocher-Langenbeck approach. 24.6% femoral head lesions and 19.3% acetabular lesions were detected. All hips could be reconstructed anatomically. One patient died after severe head injury. 41 patients had follow-up of at least 12 months: 80.5% reported none or slight pain and 90.2% had good to excellent clinical results. 78% had no post-traumatic hip joint changes.\n\nCONCLUSION: Screw fixation alone can be considered as a rare but adequate treatment modality in selected posterior wall fractures, especially minor comminuted fractures with predominantly a large single posterior wall fragment.",
-          "doi": "10.1007/s00402-026-06408-y",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42399560/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06408-y",
-          "journal_key": "aots"
         }
       ]
     },
@@ -11371,6 +11373,32 @@
       "count": 120,
       "articles": [
         {
+          "pmid": "42862384",
+          "title": "Clinical validation of the DRoPH score: a preoperative tool for estimating reduction difficulty in proximal humerus fractures.",
+          "authors": [
+            "Barthel C",
+            "Rudolph F",
+            "Pape HC",
+            "Allemann F"
+          ],
+          "abstract": "BACKGROUND: Proximal humerus fractures are common injuries that are frequently associated with considerable technical challenges during surgical reduction and fixation. Although anatomical reduction is crucial for fracture healing and functional recovery, the anticipated difficulty of achieving satisfactory reduction is difficult to estimate preoperatively. The Difficulty of Reduction of Proximal Humerus Fractures (DRoPH) score was recently developed through a structured expert consensus process to estimate anticipated reduction difficulty based on predefined fracture- and patient-related characteristics. The aim of this study was to perform an initial clinical validation of the score.\n\nMETHODS: We retrospectively analyzed patients who underwent plate fixation of proximal humerus fractures at a tertiary trauma center between January 2014 and December 2024. DRoPH scores (0-10 points) were stratified into low (0-3), moderate (4-6), and high (7-10) difficulty categories. Validation was based on operative duration, postoperative reduction quality according to the criteria described by Schnetzke et al., and postoperative complications. Multivariable regression analyses were performed to assess the independent association of the DRoPH score with the primary outcomes after adjustment for age, sex, and surgical approach. Inter- and intra-rater reliability were assessed using intraclass correlation coefficients (ICC).\n\nRESULTS: Of 1,012 patients treated for proximal humerus fractures, 392 met the inclusion criteria and had complete datasets available for analysis. Of these, 151 (38.5%) were classified as low, 186 (47.4%) as moderate, and 55 (14.0%) as high difficulty according to the DRoPH score. Operative duration increased significantly with increasing DRoPH scores, with an adjusted increase of 7.3 min per score point (95% CI 5.7-9.0; p < 0.001). Reduction quality deteriorated across difficulty categories, and higher DRoPH scores were independently associated with malreduction (OR 1.30 per point, 95% CI 1.12-1.50; p = 0.001). Overall complication rates increased from 15.2% in low-difficulty fractures to 34.5% in high-difficulty fractures, and the DRoPH score remained independently associated with complications in multivariable analysis (OR 1.15 per point, 95% CI 1.03-1.28; p = 0.012). Inter- and intra-rater reliability of the overall DRoPH score were excellent (ICC 0.96 and 0.95, respectively).\n\nCONCLUSION: This study provides initial clinical validation of the DRoPH score as a reliable and clinically applicable tool for estimating reduction difficulty in proximal humerus fracture fixation. Higher DRoPH scores are independently associated with longer operative duration, increased risk of malreduction, and higher complication rates. The score may therefore serve as a useful adjunct for preoperative planning and risk stratification in surgically treated proximal humerus fractures. Further multicenter validation studies are warranted.\n\nLEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+          "doi": "10.1007/s00068-026-03359-2",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Validation Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42862384/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03359-2",
+          "journal_key": "ejtes"
+        },
+        {
           "pmid": "42853395",
           "title": "Renal trauma in a pediatric Level 1 trauma center: morbidity, mortality, and the role of renal scintigraphy.",
           "authors": [
@@ -12652,10 +12680,11 @@
           "pub_month": "Aug",
           "pages": "",
           "pub_types": [
+            "Comparative Study",
             "Journal Article",
-            "Comparative Study"
+            "Observational Study"
           ],
-          "section": "Article",
+          "section": "Observational Study",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42658290/",
           "doi_url": "https://doi.org/10.1007/s00068-026-03273-7",
           "journal_key": "ejtes"
@@ -14758,36 +14787,6 @@
           "section": "Letter",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42301328/",
           "doi_url": "https://doi.org/10.1007/s00068-026-03088-6",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42301298",
-          "title": "Development of a low-cost external fixation system: an off-label solution for resource-limited settings.",
-          "authors": [
-            "Seiser M",
-            "Deininger C",
-            "Fierlbeck J",
-            "Hollensteiner M",
-            "Coles P",
-            "Reuter C",
-            "Tempfer H",
-            "Traweger A",
-            "Wichlas F"
-          ],
-          "abstract": "PURPOSE: External fixators are essential for the surgical management of long-bone fractures, particularly in resource-limited settings where access to commercial systems is often restricted by cost and logistics. This study aimed to develop a low-cost external fixation concept using widely available construction materials and evaluate its biomechanical performance under axial loading.\n\nMETHODS: An external fixator composed of M10 threaded rods, washers, and nuts was developed. Five configurations were tested: SP (Steinmann pins), KT (threaded K-wires), KS (smooth K-wires), and BKS (bilaterally applied, smooth K-wires). A commercial external fixator served as control (CG). Juvenile bovine ulnae with a standardized fracture gap were subjected to cyclic axial loading. Construct stiffness, elastic deformation, and plastic deformation were assessed.\n\nRESULTS: CG showed the highest stiffness (107.80 ± 14.12 N/mm), followed by SP (87.73 ± 17.92 N/mm), BKS (83.81 ± 10.01 N/mm), KS (49.84 ± 3.80 N/mm), and KT (46.66 ± 2.39 N/mm). Post-hoc analyses showed no significant differences between CG vs. SP and CG vs. BKS, whereas KT and KS were significantly less stiff. Elastic deformation followed a similar pattern. Plastic deformation was greatest in CG, while SP and BKS showed significantly lower values.\n\nCONCLUSIONS: The threaded-rod fixator provides relevant mechanical stability at extremely low material cost. As a first biomechanical proof-of-concept, this approach may offer a practical and immediately deployable stabilization method for resource-limited settings when standard external fixators are unavailable. It could serve either as a definitive treatment or as part of a damage control strategy prior to transfer. Further biomechanical, cadaveric, and clinical studies are required before clinical application can be considered.",
-          "doi": "10.1007/s00068-026-03246-w",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42301298/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03246-w",
           "journal_key": "ejtes"
         }
       ]
