@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-13",
-  "generated_at": "2026-10-13T14:38:27Z",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T12:31:00Z",
   "counts": {
     "articles": 523,
     "journals_with_articles": 10,
@@ -913,10 +913,9 @@
           "pub_month": "Oct",
           "pages": "1202-1207",
           "pub_types": [
-            "Journal Article",
-            "Review"
+            "Journal Article"
           ],
-          "section": "Review",
+          "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42853090/",
           "doi_url": "https://doi.org/10.1302/0301-620X.108B10.BJJ-2026-0245.R1",
           "journal_key": "bjj"
@@ -6584,6 +6583,68 @@
       "count": 120,
       "articles": [
         {
+          "pmid": "42867698",
+          "title": "Notch-referenced mediolateral verification of tibial tunnel position in anterior cruciate ligament reconstruction: a 3D imaging validation study.",
+          "authors": [
+            "Nam VT",
+            "Thang VD",
+            "Huy LD",
+            "Phuc LH",
+            "Anh LN",
+            "Thinh LD",
+            "Long CH",
+            "Huyen NN",
+            "Trung ND",
+            "Van Thanh Nam T",
+            "Minh HN",
+            "Dung TT"
+          ],
+          "abstract": "BACKGROUND: Non-anatomic tibial tunnel placement remains a leading contributor to anterior cruciate ligament reconstruction (ACLR) failure. Mediolateral (ML) tunnel positioning is particularly difficult intraoperatively because no consistent bony landmark defines the lateral footprint border.\n\nPURPOSE: To evaluate the accuracy of a novel intraoperative Notch-Referenced Mediolateral (NRML) verification technique by comparing the ML position of the tibial tunnel center (TTC) on postoperative 3D CT with the native tibial footprint center (TFC) on preoperative 3D MRI.\n\nMETHODS: In this retrospective cross-sectional study, 108 consecutive patients underwent primary all-inside single-bundle ACLR with intraoperative NRML verification. This arthroscopic technique uses the intercondylar notch as a visual reference to verify mediolateral tibial tunnel position before definitive drilling. TFC and TTC were independently measured on preoperative 3D MRI and postoperative 3D CT using a standardized quadrant-grid protocol by two blinded observers. The primary outcome was ML deviation (tunnel - footprint). MRI-CT agreement and measurement reliability were assessed with intraclass correlation coefficients (ICC) and Bland-Altman analysis.\n\nRESULTS: The anatomical TFC was located at 46.1 ± 2.3% of tibial plateau width in the ML direction, versus 44.8 ± 2.0% for the TTC. Mean ML deviation was -1.01 ± 1.52 mm (p < 0.001), a small but statistically significant medial bias; 91.7% (95% CI 84.9-95.6%) of tunnels fell within ±3 mm of the native footprint. MRI-CT agreement was good (ICC 0.81-0.85), and inter/intraobserver reliability was good to excellent (ICC 0.78-0.89). No significant associations were found between ML deviation and sex, injury chronicity, graft diameter, or plateau size.\n\nCONCLUSION: In this single-arm cohort,NRML verification is a simple, equipment-free technique that placed the tibial tunnel within ~1 mm of the native ML footprint, with high measurement reliability. Prospective comparative and outcome studies are needed to confirm its clinical value.\n\nLEVEL OF EVIDENCE: IV.",
+          "doi": "10.1007/s00402-026-06442-w",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Validation Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42867698/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06442-w",
+          "journal_key": "aots"
+        },
+        {
+          "pmid": "42867697",
+          "title": "Preoperative pain and achievement of the minimal clinically important difference for physical function one year after total hip arthroplasty: a prospective cohort study.",
+          "authors": [
+            "Gajardo-Burgos R",
+            "Arteaga San Martín R",
+            "Fuentes J",
+            "Monrroy Uarac M",
+            "Saavedra-Santiesteban C",
+            "Bascour-Sandoval C",
+            "de Villarreal ES"
+          ],
+          "abstract": "PURPOSE: To examine the association between preoperative social, clinical, and biological variables and the achievement of the minimal clinically important difference (MCID) on the WOMAC-function subscale one year post total hip arthroplasty (THA).\n\nMETHODS: In this prospective cohort study, 85 patients (aged ≥ 65) completed baseline preoperative assessment, and 53 completed the 12-month follow-up (32 lost to follow-up; 66.0% achieved MCID). The outcome was achieving WOMAC-function MCID (≥ 26.54 points). Multivariable logistic regression adjusted for baseline pain, age, sex, and BMI were performed. ROC curves evaluated discriminative capacity.\n\nRESULTS: An exploratory ROC analysis identified a baseline pain threshold of 6.5 on the Numerical Rating Scale yielded an AUC of 0.740 (70% sensitivity, 77% specificity).\n\nCONCLUSIONS: Preoperative pain intensity independently associated with clinically meaningful functional improvement post-THA. An exploratory pain threshold of 6.5 on the NRS may provide an exploratory benchmark for future risk stratification.",
+          "doi": "10.1007/s00402-026-06516-9",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42867697/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06516-9",
+          "journal_key": "aots"
+        },
+        {
           "pmid": "42864526",
           "title": "The boundary between microbial detection and implant-related infection: a structured narrative review of analytical credibility, biological persistence, host response, and clinical causality.",
           "authors": [
@@ -9809,61 +9870,6 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42412232/",
           "doi_url": "https://doi.org/10.1007/s00402-026-06410-4",
-          "journal_key": "aots"
-        },
-        {
-          "pmid": "42412111",
-          "title": "The grand piano ratio: an adjunctive intraoperative screening tool for detecting excessive femoral component external rotation in total knee arthroplasty.",
-          "authors": [
-            "Avci Ö",
-            "Öztürk A",
-            "Güler BO",
-            "Bayrak HÇ",
-            "Kaya AÖ",
-            "Doğan Y"
-          ],
-          "abstract": "BACKGROUND: Accurate femoral component rotation is essential for optimal outcomes in total knee arthroplasty (TKA), yet reliable intraoperative assessment remains challenging. The \"grand piano sign\" has been described as a qualitative visual cue, but its quantitative clinical value has not been clearly established. This study aimed to evaluate the diagnostic performance of the grand piano ratio as an intraoperative tool for detecting excessive femoral component external rotation using advanced postoperative imaging as a reference standard.\n\nMETHODS: A retrospective analysis was conducted on 170 knees undergoing primary TKA. The intraoperative grand piano ratio was measured after completion of all femoral resections and before trial component implantation using the anterior femoral resection surface. Postoperative femoral component rotation was assessed using MAVRIC-sequence magnetic resonance imaging referenced to the surgical transepicondylar axis (sTEA). Excessive femoral component external rotation was defined as postoperative external rotation greater than 3° relative to the sTEA reference. Receiver operating characteristic (ROC) analysis was performed to evaluate diagnostic performance of the grand piano ratio and determine the optimal cutoff value, while multivariable logistic regression analysis was used to identify independent predictors of excessive external rotation.\n\nRESULTS: Excessive femoral component external rotation (> 3°) was identified in 39 of 170 knees (22.9%). The mean grand piano ratio was significantly lower in knees with external rotation compared to those without (0.41 vs. 0.54, p < 0.001). The grand piano ratio demonstrated moderate discriminative ability for detecting femoral component external rotation greater than 3° (AUC = 0.74, 95% CI 0.65-0.83). The optimal cutoff value was 0.44, yielding a sensitivity of 71.8% and a specificity of 74.0%. In multivariable analysis, the grand piano ratio was the only independent predictor of malrotation (p < 0.001). At the identified threshold, the negative predictive value reached 89.9%, suggesting that excessive external rotation was unlikely when the grand piano ratio exceeded the proposed cutoff.\n\nCONCLUSION: The grand piano ratio may serve as a simple and readily available adjunctive intraoperative screening parameter for identifying excessive femoral component external rotation in TKA. A threshold value of 0.44 demonstrated a high negative predictive value and may assist surgeons in intraoperative decision-making. However, the ratio should be considered a complementary assessment tool rather than a definitive method for determining femoral component rotation. The grand piano ratio should be viewed as a complementary intraoperative assessment tool rather than an alternative to navigation or robotic-assisted techniques.",
-          "doi": "10.1007/s00402-026-06412-2",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42412111/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06412-2",
-          "journal_key": "aots"
-        },
-        {
-          "pmid": "42406168",
-          "title": "The shoulder stiffness scale: a validated tool for monitoring stiffness in arthroscopic rotator cuff reconstructions.",
-          "authors": [
-            "Bouaicha S",
-            "Biner M",
-            "Selman F",
-            "Wieser K",
-            "Müller AM",
-            "Audigé L"
-          ],
-          "abstract": "BACKGROUND: Postoperative shoulder stiffness after arthroscopic rotator cuff repair is common and clinically heterogeneous. Established shoulder scores assess pain and function, but do not specifically isolate stiffness during follow-up. The aim of this study was to validate the newly developed Shoulder Stiffness Scale (SSS) as a pragmatic monitoring tool for postoperative shoulder stiffness after arthroscopic rotator cuff repair (ARCR).\n\nMETHODS: From a cohort of 973 primary arthroscopic rotator cuff reconstructions, patients without concomitant joint pathology of the same or contralateral arm were included. The new SSS was based on three items related to shoulder pain, subjective and objective ROM ranging from 0 to 10 points. It was collected before surgery, as well as 6 and 12 months postoperatively, along with other pain level parameters, Constant Score (CS), Subjective Shoulder Value (SSV), Oxford Shoulder Score (OSS). Changes of the SSS and its subscales over time, Cronbach's alpha for internal consistency, bottom and ceiling effects were reported. Validity was investigated through SSS associations with other parameters of similar dimension, and functional scores.\n\nRESULTS: The selected cohort with 740 patients showed postoperative shoulder stiffness in 12.7 %. The SSS averaged 5.1 points (SD 2.5) preoperatively, and decreased significantly to mean 2.9 (SD 2.4) and 1.6 (SD 1.9) at 6 and 12 months, respectively (p<0.001). Cronbach's alpha ranged from 0.612 to 0.740 between time points. The SSS showed significant correlation in all three subscales pain, subjective ROM and objective ROM as well as to the functional scores CS, OSS and SSV scores at baseline, 6 months and 12 months with correlation coefficients ranging from -0.302 (low) to -0.649 (moderate) at baseline and from -0.626 (moderate) to -0.719 (high) at 12 months.\n\nCONCLUSIONS: The SSS demonstrated acceptable internal consistency and construct validity as a simple clinician-administered tool for monitoring postoperative shoulder stiffness after ARCR. It complemented existing scores by isolating stiffness as a distinct construct and may facilitate day-to-day clinical follow-up and patient communication.\n\nLEVEL OF EVIDENCE: III.",
-          "doi": "10.1007/s00402-026-06402-4",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Validation Study"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42406168/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06402-4",
           "journal_key": "aots"
         }
       ]
