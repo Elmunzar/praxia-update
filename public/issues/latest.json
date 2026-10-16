@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15T12:11:53Z",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T11:57:32Z",
   "counts": {
-    "articles": 503,
+    "articles": 507,
     "journals_with_articles": 10,
     "journals_searched": 11,
-    "new_issues": 1
+    "new_issues": 0
   },
   "groups": [
     {
@@ -2521,7 +2521,7 @@
       "issue": "11",
       "pub_year": "2026",
       "pub_month": "Nov",
-      "is_new": true,
+      "is_new": false,
       "count": 45,
       "articles": [
         {
@@ -3774,9 +3774,9 @@
       "volume": "27",
       "issue": "1",
       "pub_year": "2026",
-      "pub_month": "Sep",
+      "pub_month": "Oct",
       "is_new": false,
-      "count": 58,
+      "count": 60,
       "articles": [
         {
           "pmid": "41329416",
@@ -3977,6 +3977,64 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41572071/",
           "doi_url": "https://doi.org/10.1186/s10195-026-00906-w",
+          "journal_key": "jot_trauma"
+        },
+        {
+          "pmid": "42878977",
+          "title": "Clinical examination findings were not associated with isometric strength or functional performance in adults with groin pain.",
+          "authors": [
+            "Branco MO",
+            "Martins TB",
+            "da Costa GV",
+            "de Sousa VMM",
+            "Immich A",
+            "Dutra KB",
+            "Migliorini F",
+            "Maffulli N",
+            "Okubo R"
+          ],
+          "abstract": "OBJECTIVES: The aim of this study was to investigate whether positive clinical examination findings were associated with selected measures of lower-limb isometric strength or functional performance in physically active adults with groin pain.\n\nMETHODS: This was a cross-sectional, observational and exploratory study with blinded outcome assessment. A total of 37 physically active adults (18-45 years) with clinically diagnosed groin pain (≥ 6 weeks) underwent standardised orthopaedic testing (flexion, abduction and external rotation [FABER]; flexion, adduction and internal rotation [FADIR]; scour; squeeze), targeted palpation (adductors, pubic symphysis), isometric hip and knee strength testing using a handheld dynamometer and functional performance tests (modified Star Excursion Balance Test [mSEBT], cross-over hop). Associations between clinical findings and strength/performance measures were analysed using adjusted binary logistic regression models controlling for age, body mass index and height, with false discovery rate correction.\n\nRESULTS: Participants demonstrated broadly similar right- and left-side performance in the mSEBT and cross-over hop tests, with strength ratios close to 1.0. Positive clinical examination findings were common, particularly for left adductor-region palpation (74.3% of valid observations) and the left FABER test (70.3%). After adjustment for multiple comparisons, no significant associations were found between positive clinical tests and functional or strength measures.\n\nCONCLUSIONS: In this exploratory sample of physically active adults with groin pain, positive orthopaedic and palpation tests were not significantly associated with deficits in dynamic balance or isometric strength. These findings are limited to the selected isometric and general functional measures and reinforce the importance of a multi-modal assessment that incorporates clinical classification, eccentric adductor strength testing and sport-specific functional evaluations to guide rehabilitation and return-to-sport decisions.",
+          "doi": "10.1186/s10195-026-00971-1",
+          "journal_ta": "J Orthop Traumatol",
+          "volume": "27",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Observational Study"
+          ],
+          "section": "Observational Study",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42878977/",
+          "doi_url": "https://doi.org/10.1186/s10195-026-00971-1",
+          "journal_key": "jot_trauma"
+        },
+        {
+          "pmid": "42878961",
+          "title": "Increasing mobility while in hospital after hip fracture: even the best evidence may not translate to all national health services.",
+          "authors": [
+            "Maffulli N",
+            "Rivera F",
+            "Truda G",
+            "Migliorini F",
+            "Oliva F"
+          ],
+          "abstract": "Hip fracture rehabilitation is strongly influenced by the healthcare system in which postoperative care is delivered. The WHiTE 15: INITIATE trial represents an important pragmatic attempt to determine whether increasing the frequency and duration of in-hospital physiotherapy after hip fracture improves days at home within 30 days of admission. However, the transferability of such evidence to the Italian National Health System is limited by structural, regulatory and sociocultural factors. Italy has one of the oldest populations in Europe, a high annual burden of proximal femoral fractures, a limited public physiotherapy workforce capacity and a care model in which transfer to inpatient rehabilitation facilities is frequently shaped by patient and family preferences rather than clinical indication alone. Current evidence supports early mobilisation and structured rehabilitation, but it does not establish that a single discharge pathway is universally superior across all healthcare systems. In Italy, direct discharge home is often constrained by insufficient community-based rehabilitation services and strong expectations for post-acute institutional care. Therefore, intensifying in-hospital physiotherapy alone may not increase the number of days at home unless discharge preferences, family support and community rehabilitation capacity are addressed simultaneously. Future research should evaluate Italian-specific discharge pathways, psychosocial determinants of rehabilitation preferences, cost-effectiveness of supported discharge models and policy strategies that align rehabilitation intensity with clinical need.",
+          "doi": "10.1186/s10195-026-00969-9",
+          "journal_ta": "J Orthop Traumatol",
+          "volume": "27",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42878961/",
+          "doi_url": "https://doi.org/10.1186/s10195-026-00969-9",
           "journal_key": "jot_trauma"
         },
         {
@@ -5973,6 +6031,34 @@
       "is_new": false,
       "count": 120,
       "articles": [
+        {
+          "pmid": "42878881",
+          "title": "Expert evaluation of ChatGPT-generated responses to patient questions in conventional and fast-track total knee arthroplasty.",
+          "authors": [
+            "Maciag B",
+            "Jegierski D",
+            "Frankiewicz A",
+            "Tarkowski P",
+            "Żarnovsky K",
+            "Mietlicki F",
+            "Stolarczyk A"
+          ],
+          "abstract": "BACKGROUND: Fast-track total knee arthroplasty (TKA) asks patients to understand early mobilization, early discharge, opioid-sparing analgesia, and selective use of drains and catheters. We evaluated expert-rated quality of ChatGPT responses to patient questions about these pathway-specific concepts alongside conventional TKA questions.\n\nMATERIALS AND METHODS: In this cross-sectional evaluation, three arthroplasty surgeons independently scored responses to 50 conventional TKA and 20 investigator-developed fast-track questions in four domains on 5-point scales. The conventional questions were selected by a multidisciplinary panel; the fast-track questions did not undergo the same selection process. Response-level means were compared descriptively and with exploratory Mann-Whitney U tests.\n\nRESULTS: Seventy responses received 210 expert assessments. Recalculated mean ± SD scores across individual ratings were 4.99 ± 0.15 for accuracy, 4.98 ± 0.14 for completeness, 4.98 ± 0.17 for safety, and 5.00 ± 0.07 for readability. Each of the 20 fast-track responses received a score of 5 from each of the three raters in all four domains (Supplementary Table S1). Nevertheless, question-set construction differed and scores clustered at the ceiling, so the exploratory comparison does not establish equivalence.\n\nCONCLUSIONS: Experts gave high ratings to the evaluated responses, including those on fast-track concepts. The observed data do not establish equivalence between question sets: the fast-track ratings require source-data verification, the sets were selected differently, and scores were concentrated at the maximum. Clinician review remains appropriate for protocol-dependent and safety-related advice.\n\nTRIAL REGISTRATION: Not applicable.",
+          "doi": "10.1007/s00402-026-06534-7",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42878881/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06534-7",
+          "journal_key": "aots"
+        },
         {
           "pmid": "42873356",
           "title": "Epidemiology, determinants, and microbiological profile of implant-associated infections following intramedullary nailing in a tertiary hospital in Ethiopia.",
@@ -9238,32 +9324,6 @@
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42426411/",
           "doi_url": "https://doi.org/10.1007/s00402-026-06411-3",
           "journal_key": "aots"
-        },
-        {
-          "pmid": "42412236",
-          "title": "Artificial intelligence advancements for orthopaedic clinical reasoning: longitudinal assessment of newer models (ChatGPT-5, Grok-3, Gemini 2.5 Flash) compared to clinicians.",
-          "authors": [
-            "Agharia S",
-            "Soroush S",
-            "Ameen D",
-            "Zhou Y"
-          ],
-          "abstract": "INTRODUCTION: This descriptive study aimed to longitudinally evaluate the performance of contemporary large language models - ChatGPT-5, Gemini 2.5 Flash, and Grok-3 - on orthopaedic clinical multiple-choice tasks, benchmarked against pooled clinician consensus. A secondary aim was to assess whether recent advances in generative AI translated into improved alignment with clinician consensus compared with previous AI models.\n\nMATERIALS AND METHODS: A total of 97 multiple-choice clinical cases spanning eight orthopaedic subspecialties were sourced from OrthoBullets and previously benchmarked against aggregated responses from thousands of practising clinicians. Using identical methodology to our 2023 study of ChatGPT-3.5, ChatGPT-4, and Bard, each model was prompted with standardised case stems and response options. The primary outcome was the proportion of AI responses matching the most popular clinician response; secondary analyses assessed agreement within 10% and 20% of clinician consensus, performance on 'controversial' (< 25% margin) questions, and inter-model concordance using Cohen's kappa coefficients.\n\nRESULTS: Gemini 2.5 Flash achieved the highest alignment with clinician consensus (69.1%), followed by Grok-3 (66.0%) and ChatGPT-5 (58.8%). None of the LLMs refused to respond to any prompts, representing a reduction from 7.2% from our 2023 study. Subspecialty analysis demonstrated that Gemini 2.5 Flash performed best in Hand and Paediatric domains, while Grok-3 excelled in Reconstruction, Trauma, and 'controversial' cases. Inter-model agreement was highest between Grok-3 and Gemini 2.5 Flash (κ = 0.678), indicating improved consistency compared with prior-generation systems.\n\nCONCLUSIONS: Contemporary LLMs can be promising adjuncts for orthopaedic education by simulating peer reasoning and offering structured explanations in non-critical settings. Despite incremental gains in reasoning capability compared to previous AI models, contemporary LLMs remain unsuitable for independent clinical use. Future research should develop hybrid clinician-AI workflows and longitudinal benchmarks to distinguish true reasoning improvements from memorisation.",
-          "doi": "10.1007/s00402-026-06400-6",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Comparative Study"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42412236/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06400-6",
-          "journal_key": "aots"
         }
       ]
     },
@@ -9276,8 +9336,68 @@
       "pub_year": "2026",
       "pub_month": "Oct",
       "is_new": false,
-      "count": 53,
+      "count": 55,
       "articles": [
+        {
+          "pmid": "42880157",
+          "title": "Corrigendum to \"Modified Masquelet technique using free vascularized fibula grafting for reconstruction of large bone defects after bone infection\" [Injury 57(3) (2026) 113036].",
+          "authors": [
+            "Wang H",
+            "He H",
+            "Zhao J",
+            "Han L",
+            "Shi W",
+            "Wu Z",
+            "Yang L",
+            "Han W",
+            "Wang H",
+            "Li S",
+            "Zhang X",
+            "Zhang J"
+          ],
+          "abstract": "",
+          "doi": "10.1016/j.injury.2026.113770",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Published Erratum"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42880157/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113770",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42880156",
+          "title": "Can radiological parameters predict failure of fixation in distal radius fractures treated with a volar locking plate?",
+          "authors": [
+            "AlSumadi M",
+            "Chapman J",
+            "Akbar Z",
+            "Saragazi N",
+            "Newton A",
+            "Brown DJ"
+          ],
+          "abstract": "INTRODUCTION: Fractures of the distal radius are common, and volar locking plates are the most utilized fixation method. Failure of fixation, defined as post-operative fracture collapse leading to loss of reduction and/or screw penetration, is an undesirable outcome. We aimed to demonstrate whether preoperative and intraoperative radiographic parameters are associated with subsequent failure of fixation in order to produce a model that may be able to predict failure.\n\nMETHODS: A retrospective case-control study of 23 cases of failure of fixation matched to controls from the same cohort by age, sex, and AO classification in a 3:1 ratio. Nine initial injury and 13 intraoperative radiological parameters were evaluated, and multi-variate regression analysis models were analysed to assess if they could reliably predict failure.\n\nRESULTS: A total of 92 patients were analysed (23 cases, 69 controls). Size of intraarticular gap was the only preoperative parameter to be associated failure with every 0.47 mm increase in fracture gap resulting in a 1.6 increase of odds ratio of failure. Based on intraoperative radiological parameters, three factors were associated with failure: dorsal capitate translation, intraarticular gap and step. Models based on these parameters do not accurately predict failure, however, models based on intraoperative factors are associated with risk of failure with high specificity but low sensitivity.\n\nCONCLUSION: We conclude that the severity of the injury is less importantly associated with failure of fixation, whereas the quality of the surgical fixation and specifically the accuracy of the reduction are more important.",
+          "doi": "10.1016/j.injury.2026.113761",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42880156/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113761",
+          "journal_key": "injury"
+        },
         {
           "pmid": "42874198",
           "title": "Association of neighborhood social vulnerability with reoperation after operative treatment of proximal humerus fractures.",
@@ -10803,6 +10923,61 @@
       "is_new": false,
       "count": 120,
       "articles": [
+        {
+          "pmid": "42878847",
+          "title": "Pelvic hemorrhage in the context of demographic change: frequency and CT-based characterization of pelvic bleeding.",
+          "authors": [
+            "Gerhardt F",
+            "Höch A",
+            "Notov D",
+            "Henkelmann J",
+            "Zeidler S",
+            "Einhorn S",
+            "Kleber C"
+          ],
+          "abstract": "PURPOSE: Traumatic pelvic hemorrhage is a major driver of morbidity and mortality in pelvic fractures. Classic literature described pelvic hemorrhage as predominantly venous, whereas arterial injury is considered less common. We evaluated the frequency, anatomical distribution, and presumed sources of pelvic hemorrhage in a contemporary trauma cohort using contrast-enhanced CT (CECT).\n\nMETHODS: We conducted a single-center, retrospective cohort study of consecutive patients with pelvic fractures treated at a level-I trauma center between 2020 and 2022. All patients underwent CECT at initial presentation. Two experienced pelvic trauma surgeons independently reviewed all scans. Radiologically relevant hemorrhage was defined by contrast extravasation, soft-tissue asymmetry/displacement, or a contained intrapelvic hematoma. Patients with and without hemorrhage were compared regarding age, sex, trauma mechanism, anticoagulation, and fracture type. The presumed bleeding sources were categorized as arterial, venous, cancellous, or mixed.\n\nRESULTS: Radiologically relevant hemorrhage occurred in 95/512 (18.6%) patients and was more frequent after high-energy trauma and in men. Iliac sites predominated, whereas presacral bleeding was uncommon. The presumed bleeding source was cancellous in 44.2%, mixed in 29.5%, arterial in 18.9%, and isolated venous in 7.4%. Overall mortality was 7.0% and was significantly higher in patients with hemorrhage (14.7% vs. 5.3%; p < 0.001).\n\nCONCLUSION: In this contemporary CECT-based cohort, pelvic hemorrhage was less frequent than historically reported, with CT findings most commonly suggesting cancellous or mixed bleeding sources. These findings suggest that the traditional concept of predominantly venous pelvic hemorrhage may not fully reflect current CT-based observations.",
+          "doi": "10.1007/s00068-026-03363-6",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42878847/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03363-6",
+          "journal_key": "ejtes"
+        },
+        {
+          "pmid": "42878747",
+          "title": "The new trochanteric nail TFN-A has a higher complication rate in the treatment of proximal femoral fractures than the predecessor model PFN-A.",
+          "authors": [
+            "Kuttner H",
+            "Schläppi M",
+            "Meier C",
+            "Benninger E",
+            "Wahl P"
+          ],
+          "abstract": "AIMS: Trochanteric fractures (TF) are among the most frequent fractures and have major impact on the affected patients and the healthcare system. Cephalomedullary nails (CMN) are widely used for these fractures. Complications remain frequent, either due to comorbidities or concerning the implant. The goal of this retrospective, single-centre study was to compare the complication rates of two CMN from one manufacturer.\n\nMATERIALS AND METHODS: All internal fixations TF performed between 01/2017 and 07/2021 in our institution were analysed retrospectively. Follow-up was at least two years. The CMN were the PFN-A or the TFN-A. Demographic data, all reoperations and revisions were recorded. Reoperations and revisions were estimated using the Kaplan-Meier method, with subgrouping as minor reoperation, minor revision or major revision, including conversion to total hip arthroplasty.\n\nRESULTS: A total of 492 CMN, used in 475 patients, could be included. Among these, 248 were PFN-A and 244 were TFN-A. The overall reoperation rate was 15%, 12.9% for the PFN-A and 17.2% for the TFN-A, respectively. The TFN-A group had significantly more major revisions (hazard ratio 3.57 (95% confidence interval 1.42-9.94; p = 0.004). No relevant differences were found regarding demographic data or the quality of reduction and internal fixation.\n\nDISCUSSION: The TFN-A had a significantly higher rate of complications leading to major revision than the former PFN-A. This may have been missed when considering only the reoperation rate for all causes due to a camouflage effect by minor complications.",
+          "doi": "10.1007/s00068-026-03304-3",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Comparative Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42878747/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03304-3",
+          "journal_key": "ejtes"
+        },
         {
           "pmid": "42873291",
           "title": "Comparison of two immobilization techniques for radiological outcomes in fifth metacarpal neck fractures: a prospective controlled study.",
@@ -14184,60 +14359,6 @@
           "section": "Systematic Review",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42313144/",
           "doi_url": "https://doi.org/10.1007/s00068-026-03241-1",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42313141",
-          "title": "Is nail plate fixation the way forward for distal femur fractures with long segmental metaphyseal comminution? - A study of 56 patients.",
-          "authors": [
-            "Mahesan H",
-            "Sundaram VP",
-            "Devendra A",
-            "Ramesh P",
-            "Dheenadhayalan J",
-            "Rajasekaran S"
-          ],
-          "abstract": "BACKGROUND: Mechanical instability due to long metaphyseal comminution and medial bone gap after lateral locking plate results in varus collapse and implant failure. We believe that fixation in the form of Nail and plate combination provides better stability and prevents complications.\n\nMATERIALS: We performed a retrospective analysis of 56 distal femur fractures with long metaphyseal comminution treated in our institution with nail and plate construct from 2017 to 2023. The mean age was 43.1 years and the mean follow up was 24 Months (4-36 months). Of these 56 patients, 16 were closed injuries underwent primary fixation, and 40 were open injuries requiring staged reconstruction. At the final follow up, patients were assessed for shortening, knee range of movements, Sander et al. functional score, radiological union and loss in alignment.\n\nRESULTS: The mean length of metaphyseal comminution was 10.15 cm(5-18 cm). Primary Iliac crest bone grafting was done in 25 patients. Of the 56 patients, 51 achieved primary union and the mean time to union was 6 months. Of the remaining, 3 patients united after secondary bone grafting and 2 patients had nonunion. The mean loss in aLDFA at the final follow up was 1.75° in 7 patients. Shortening of the limb was noted in 16 patients, and 4 patients had significant shortening of 2 cm. Three patients developed deep SSI, of which one patient required debridement and 2 patients required implant removal. Patients achieved an average of 0-85° flexion and 0-5° extension. Functionally, 8 patients had excellent, 25 had good, 15 had fair and 8 patients had poor score.\n\nCONCLUSION: The technique of combined intramedullary nail and plate fixation provides adequate stability and achieves good outcome in distal femur fractures with segmental metaphyseal comminution. Nail restores the anatomical alignment, and the plate provides rotational stability to the short distal fragment.",
-          "doi": "10.1007/s00068-026-03193-6",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42313141/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03193-6",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42307765",
-          "title": "Impact of modified ERAS protocol implementation on length of stay and complications in elderly hip fracture patients: a before-and-after study.",
-          "authors": [
-            "Liu Y",
-            "Ou G",
-            "Xie M",
-            "Wu F",
-            "Wang X",
-            "Yang B"
-          ],
-          "abstract": "AIM: Hip fractures in elderly patients pose significant healthcare challenges with high complication rates and prolonged hospital stays. Enhanced Recovery After Surgery (ERAS) protocols have shown promise in various surgical specialties, but their application in elderly hip fracture patients, particularly in Traditional Chinese Medicine (TCM) hospital settings, remains limited.\n\nMETHODS: This retrospective before-and-after study was conducted at a TCM hospital from July 2022 to July 2025. A total of 300 elderly hip fracture patients (≥ 65 years) were included: 146 in the control group (July 2022 - October 2023) receiving conventional care and 154 in the ERAS group (February 2024 - July 2025) receiving modified ERAS protocol incorporating TCM elements. Primary outcomes were length of hospital stay and perioperative complications within 30 days. Secondary outcomes included functional recovery [Harris Hip Score (HHS), Modified Barthel Index (MBI)], time to first mobilization, pain scores, and healthcare costs.\n\nRESULTS: The ERAS group demonstrated significantly shorter length of stay compared with controls (12.38 ± 3.75 vs. 16.24 ± 5.10 days; mean difference 3.86 days, 95% CI: 2.84-4.88; P < 0.001). Total perioperative complications were reduced (7.79% vs. 15.07%; risk difference: -7.28%, 95% CI: -14.5% to - 0.1%; P = 0.047). The ERAS group showed superior functional outcomes with higher HHS and MBI at discharge and 3-month follow-up (all P ≤ 0.002). Time to first mobilization was significantly shorter in the ERAS group (28.73 ± 12.61 vs. 52.64 ± 18.37 h, P < 0.001), and pain scores were significantly lower at 24 h (4.21 ± 1.32 vs. 5.83 ± 1.64) and 72 h postoperatively (2.87 ± 1.14 vs. 4.12 ± 1.39, both P < 0.001). Total hospital costs were lower in the ERAS group (¥22,847 ± 6,216 vs. ¥24,621 ± 6,875, P = 0.020). Multiple regression analysis identified ERAS implementation as the strongest independent predictor of reduced length of stay (β=-3.421, P < 0.001).\n\nCONCLUSIONS: Implementation of a modified ERAS protocol incorporating TCM elements was associated with reduced length of stay, enhanced functional recovery, and lower healthcare costs in elderly hip fracture patients at a single TCM hospital. These improvements were achieved without evidence of increased complications. Multicenter prospective studies are warranted to confirm these findings.",
-          "doi": "10.1007/s00068-026-03239-9",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42307765/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03239-9",
           "journal_key": "ejtes"
         }
       ]
