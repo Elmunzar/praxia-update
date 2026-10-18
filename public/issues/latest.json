@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-17",
-  "generated_at": "2026-10-17T11:13:39Z",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T11:48:23Z",
   "counts": {
-    "articles": 504,
+    "articles": 506,
     "journals_with_articles": 10,
     "journals_searched": 11,
-    "new_issues": 1
+    "new_issues": 0
   },
   "groups": [
     {
@@ -5582,7 +5582,7 @@
       "issue": "11",
       "pub_year": "2026",
       "pub_month": "Nov",
-      "is_new": true,
+      "is_new": false,
       "count": 11,
       "articles": [
         {
@@ -9228,7 +9228,7 @@
       "pub_year": "2026",
       "pub_month": "Oct",
       "is_new": false,
-      "count": 56,
+      "count": 58,
       "articles": [
         {
           "pmid": "42880157",
@@ -9261,6 +9261,55 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42880157/",
           "doi_url": "https://doi.org/10.1016/j.injury.2026.113770",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42892218",
+          "title": "Incidence of severe mountain bike-related injuries and mortality: A 15-year statewide analysis.",
+          "authors": [
+            "Course G",
+            "Sharman JE",
+            "Otahal P",
+            "Tran V"
+          ],
+          "abstract": "BACKGROUND: Mountain biking has grown in popularity and has seen widespread trail development but carries risk for severe trauma. No studies have analysed severe injuries in the context of contemporary mountain biking to understand trends and modifiable risk factors.\n\nAIM: To describe the incidence and longitudinal characteristics of severe injuries related to mountain biking in Tasmania, Australia.\n\nMETHODS: Retrospective analysis of all patients admitted to Tasmanian public hospitals with severe mountain bike (MTB)-related injuries from 1st January 2010-31 st December 2024.\n\nMAIN OUTCOME MEASURES: Incidence of severe MTB-related injuries (including mortality) as defined by hospital admission to an intensive care unit or neurosurgery high dependency unit; for emergency surgery (in <4 h); or transfer intra- or interstate for definitive treatment. Secondary outcomes were annual injury trends in mechanism of injury, body regions, injury profiles, and incident location.\n\nRESULTS: For the total period there were 85 severe injuries (including 4 mortalities) from 6643 MTB-related emergency department (ED) presentations. Annual severe MTB-related cases increased over the 15 years from 0.8 cases/year before 2015, to 8.1 cases/year in later years. Severe injury cases accounted for only 1.3% of all MTB-related ED presentations. Most severely injured riders were male (97%); the mean age was 36 years (SD 16.9) for the total period, but this increased from 18.5 years (SD 5.8) pre-2015-36.9 years (SD 16.8) post-2015. Executing a jump was the dominant mechanism of injury (44%), followed by fall over handlebars (14%), obstacle collision (11%) and adverse trail conditions (9%). The most injured body regions were abdomen (31%), neck (23%) and thorax/chest (20%). The most common types of injuries were fracture/dislocation (44%), abdominal organ injury (24%) and thoracic organ injury (15%). Spinal cord injury occurred in 6% of cases and traumatic brain injury in 7%. Over 50% of severe injury incidents occurred on purpose-built MTB trails.\n\nCONCLUSIONS: Severe MTB-related injuries increased proportionally to all MTB-related injuries suggesting the increase was largely driven by rider exposure. Targeted injury prevention strategies, safe trail design, and understanding risk factors are needed to ensure safe progression of this popular sport.",
+          "doi": "10.1016/j.injury.2026.113784",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42892218/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113784",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42892217",
+          "title": "Adjunct rim plating for selected pilon fracture patterns: Lessons from hyperextension tibial plateau fractures.",
+          "authors": [
+            "Sarmiento-Falen J",
+            "Arif HA",
+            "Szatkowski JP"
+          ],
+          "abstract": "BACKGROUND: Pilon fractures frequently involve small anterior or anterolateral marginal fragments that are susceptible to shear displacement and may not be reliably controlled by conventional periarticular plates. Rim plating is a fragment-specific, low-profile juxta-articular buttress technique that has demonstrated favorable biomechanical and clinical results in selected tibial plateau fracture patterns. This review examines the rationale for extending this concept to selected pilon fracture patterns.\n\nMETHODS: We performed a narrative review of clinical, cadaveric, and biomechanical studies describing rim-based constructs in tibial plateau fractures, with emphasis on hyperextension and posterolateral patterns, as well as computed tomography (CT)-based studies of pilon fracture morphology and fragment capture by precontoured plates. Relevant studies were identified through PubMed and reference screening and synthesized qualitatively to inform a technical proposal for adjunct rim plating in selected pilon fractures.\n\nRESULTS: The reviewed tibial plateau literature consistently identified peripheral regions that may remain unsupported by conventional periarticular plates, particularly in hyperextension and posterolateral fracture patterns, where adjunct rim plating has been associated with maintained reduction and favorable clinical outcomes. In the distal tibia, CT-based studies suggest that commonly used anatomically precontoured plates may not reliably capture the anterolateral (Tillaux-Chaput) fragment when fragment height is less than 15 mm. In this setting, an adjunct rim plate may serve as a peripheral buttress to improve support of the articular margin, distribute subchondral stress, and prevent displacement of the articular block.\n\nCONCLUSIONS: Rim plating may be best conceptualized as a joint-line buttress strategy for improving peripheral containment of shear-dominant marginal fragments. Extrapolation of this concept to selected pilon fracture patterns is mechanically plausible and supported indirectly by CT-based fragment-capture data. This technique may be useful in carefully selected anterior or anterolateral distal tibial rim fractures that are not adequately controlled by standard periarticular plating.",
+          "doi": "10.1016/j.injury.2026.113786",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42892217/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113786",
           "journal_key": "injury"
         },
         {
