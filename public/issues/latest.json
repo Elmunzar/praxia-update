@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-19",
-  "generated_at": "2026-10-19T14:06:32Z",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T12:20:31Z",
   "counts": {
     "articles": 506,
     "journals_with_articles": 10,
@@ -10889,6 +10889,95 @@
       "count": 120,
       "articles": [
         {
+          "pmid": "42895566",
+          "title": "Emergency surgery for blunt abdominal trauma in polytrauma - the impact of time to laparotomy on outcomes.",
+          "authors": [
+            "Rausch G",
+            "Kalbas Y",
+            "Halvachizadeh S",
+            "Zumsteg J",
+            "Shehu A",
+            "Mikova E",
+            "Lehmann K",
+            "Mica L",
+            "Pfeifer R",
+            "Pape HC",
+            "Neuhaus V",
+            "Klingebiel FK",
+            "Teuben MPJ"
+          ],
+          "abstract": "PURPOSE: Blunt abdominal trauma (BAT) is common in polytrauma patients. Emergency surgery is required for haemodynamically significant solid organ injury and intra-abdominal hollow organ injury. The effect of time to surgery on outcomes in patients requiring emergency laparotomy remains uncertain.\n\nMATERIALS & METHODS: Adult polytrauma patients (ISS > 16) who underwent emergency laparotomy for blunt abdominal trauma between 1996 and 2020 from a trauma registry of a single level one trauma centre were included. Patients were divided into two groups based on the time elapsed from admission to emergency laparotomy: \"Super Early\" (≤ 60 min) and \"Early\" (60-180 min). Length of stay (LOS), intensive care unit (ICU)-LOS, ventilation time, re-look operations and mortality were assessed. Adjusted logistic regression was used to determine the independent predictive parameters, including timing of surgery, for mortality.\n\nRESULTS: The study included 190 polytrauma patients with concomitant blunt abdominal trauma (mean age 42 years (± 17), median ISS of 36 (IQR: 19)). There were 95 patients in each group. Patients in the \"Super Early\" group had a compromised haemodynamic status and a higher ISS. Liver injury and serous membrane injury were more common in the super early group. The mortality rate was significantly higher in the \"Super Early\" group (51.6%) compared to the \"Early\" group (26.3%) (p < 0.001). Death due to haemorrhagic shock was significantly more frequent in the \"Super Early\" group (36.8%) compared to the \"Early\" group (13.7%) (p < 0.001). A regression model was adjusted to determine the independent predictors of mortality. Time to emergency laparotomy was not an independent predictor of mortality. However, increased ISS (OR = 1.04, p = 0.049), age (OR = 1.03, p = 0.037) and decreased systolic blood pressure (OR = 0.98, p = 0.025) were found to be significant predictors of mortality.\n\nCONCLUSION: The timing of surgery showed no independent association with mortality as long as an emergency laparotomy was performed within 3 h of admission. The data suggests that patient-specific characteristics, injury severity and clinical status are more important for survival than the timing of an early emergency laparotomy. Future research should focus on determining the role of delayed laparotomy on outcomes in specific subgroups of patients.",
+          "doi": "10.1007/s00068-026-03332-z",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42895566/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03332-z",
+          "journal_key": "ejtes"
+        },
+        {
+          "pmid": "42895559",
+          "title": "High-velocity trauma by social media: a new mechanism of injury in pediatric traumatology?",
+          "authors": [
+            "Sennert M",
+            "Schoof B",
+            "Körner M",
+            "Le M",
+            "Kolman J",
+            "Madadi-Sanjani O",
+            "Wintges K"
+          ],
+          "abstract": "PURPOSE: Over the past two decades, social media challenges have emerged as a significant cause of injuries among adolescents. This study evaluates a sudden cluster of severe upper limb injuries resulting from the viral \"Superman challenge\" to raise clinical awareness of digital behaviors in pediatric trauma.\n\nMETHODS: A retrospective study at a tertiary pediatric trauma center evaluated patients aged < 18 years admitted in December 2024 following the \"Superman challenge.\"\n\nRESULTS: Eight patients were admitted within a 10-day window following high-energy injuries from the challenge. The cohort showed a female predominance (62.5%) with a mean age of 13.25 (±1.03) years. The high-velocity mechanism led to atypical, severe injury patterns distinct from routine accidental falls. We observed an unusual cluster of severe distal forearm fractures in five patients, which uniformly required surgical treatment. Three patients even suffered bilateral distal radius fractures. Additional associated injuries included fractures of the ulnar styloid process (n = 5) and concomitant TFCC tears (n = 2), reflecting the high-energy nature of the challenge.\n\nCONCLUSIONS: The rapid, viral spread of physical social media challenges such as the 'Superman Challenge' can lead to dangerous injury mechanisms involving high-velocity trauma among children and adolescents. These trends could lead to sudden, localized clusters of atypical high-energy injuries-a scenario that, under specific conditions, risks overtaxing conventional healthcare systems, as previously demonstrated in the literature. Medical staff need to be aware of changing digital behaviors, which represent a new mechanism of injury in pediatric trauma.",
+          "doi": "10.1007/s00068-026-03361-8",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42895559/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03361-8",
+          "journal_key": "ejtes"
+        },
+        {
+          "pmid": "42895548",
+          "title": "Surgical stabilization of rib fractures in a high-altitude trauma cohort: in-hospital clinical outcomes and resource use in a propensity score-weighted retrospective cohort study.",
+          "authors": [
+            "Wan Q",
+            "Sun Q",
+            "Li W",
+            "Yundan C",
+            "Hu L",
+            "Shen Y"
+          ],
+          "abstract": "PURPOSE: Surgical stabilization of rib fractures (SSRF) is increasingly used in the management of traumatic rib fractures, but its in-hospital outcomes in high-altitude trauma settings remain uncertain. We evaluated the association of SSRF with in-hospital pulmonary complications and length of stay in a high-altitude (≈ 3,500 m) trauma system.\n\nMETHODS: We conducted a single-center retrospective cohort study of adults with CT-confirmed traumatic rib fractures admitted from 2015 to 2023 and managed with SSRF or non-operative management. Confounding was addressed using stabilized inverse probability of treatment weighting (IPTW) with augmented outcome models; overlap weighting, propensity score matching, and time-dependent exposure analysis were used as sensitivity analyses. The primary outcome was a composite of in-hospital pneumonia, atelectasis, or respiratory failure. Pulmonary risk ratios (RRs) were estimated using modified Poisson regression, while ICU and hospital length of stay were analyzed using log-transformed weighted models.\n\nRESULTS: Among 324 patients, 121 underwent SSRF and 203 received non-operative management. Before adjustment, SSRF patients had greater injury severity. In IPTW-augmented analyses, the pulmonary estimate was imprecise (RR 0.86, 95% CI 0.23-3.21; P = 0.822), and no significant difference was detected in ICU length of stay (exp[β] 1.04, 95% CI 0.97-1.10; P = 0.286). Hospital length of stay was longer with SSRF (exp[β] 2.31, 95% CI 2.02-2.65; P < 0.001).\n\nCONCLUSION: Adjusted analyses found no statistically detectable difference in pulmonary complications or ICU length of stay, although the pulmonary estimate remained imprecise and does not establish equivalence or safety. SSRF was associated with longer hospital length of stay.\n\nTRIAL REGISTRATION: Not applicable.",
+          "doi": "10.1007/s00068-026-03366-3",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42895548/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03366-3",
+          "journal_key": "ejtes"
+        },
+        {
           "pmid": "42878847",
           "title": "Pelvic hemorrhage in the context of demographic change: frequency and CT-based characterization of pelvic bleeding.",
           "authors": [
@@ -14244,86 +14333,6 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42329453/",
           "doi_url": "https://doi.org/10.1007/s00068-026-03230-4",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42329294",
-          "title": "Timing of fracture fixation for femur and pelvis fractures in patients with severe traumatic brain injury - an analysis of the TraumaRegister DGU®.",
-          "authors": [
-            "Bayer TP",
-            "Teuben MPJ",
-            "Halvachizadeh S",
-            "Shehu A",
-            "Lefering R",
-            "Pfeifer R",
-            "Pape HC",
-            "Jensen KO"
-          ],
-          "abstract": "PURPOSE: Fracture fixation timing and strategy in polytrauma patients with traumatic brain injury (TBI) remain controversial. This study investigates treatment patterns and outcomes for femoral and/or pelvic fractures stratified by TBI severity.\n\nMETHODS: Patients in the TraumaRegister DGU® (2016-2022) with pelvic and/or femoral fractures (AIS ≥3) and TBI (head AIS ≥3) were included. Strategies were non-operative management (NOM), early total care (ETC), and damage-control orthopedics (DCO). Outcomes included treatment allocation, fixation timing, and in-hospital mortality.\n\nRESULTS: 985 patients were included (mean age 52.5, SD 26.3 years; ISS 27.8, SD 8.1). Allocation was NOM in 320 (32.5%), ETC in 336 (34.1%), and DCO in 329 (33.4%) patients. Head AIS was 3 in 48.5%, 4 in 31.1%, and 5 in 20.3%. NOM patients were older, had the highest ISS and estimated mortality, and showed the largest proportion of critical TBI (AIS 5: NOM 30.9%, ETC 14.3%, DCO 16.1%). Femoral ETC was mainly performed within the first day (median 0, IQR 0-1 days), whereas pelvic ETC was delayed with increasing TBI severity (median 3, IQR 0-5 days for head AIS 3; 5, IQR 0-7 days for AIS 4). Observed mortality was 37.2% after NOM, 9.2% after ETC, and 10.3% after DCO.\n\nCONCLUSION: ETC in patients with moderate TBI (AIS 3) was associated with reduced observed mortality relative to NOM and matching DCO. Increasing TBI severity shifted practice patterns to DCO/NOM. These findings suggest that critical head injuries may prolong time to definitive fixation being associated with higher morbidity and mortality.",
-          "doi": "10.1007/s00068-026-03253-x",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42329294/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03253-x",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42313188",
-          "title": "From single to dual platelet inhibition FIBTEM assay: fibrinogen replacement thresholds for critical bleeding after trauma.",
-          "authors": [
-            "Latona A",
-            "Winearls J",
-            "Ho A",
-            "Mitra B"
-          ],
-          "abstract": "PURPOSE: The FIBTEM assay in Rotational Thromboelastometry (ROTEM®) measures fibrin-based clot formation. The reagent transitioned from single to dual-platelet inhibition with addition of tirofiban to cytochalasin D, offering more complete platelet suppression. The aim of this study was to assess the impact of this change on transfusion thresholds in trauma.\n\nMETHODS: In this retrospective cohort study, we included adult patients with major trauma across Queensland who presented between 2022 and 2025 and had results available for paired ROTEM and conventional coagulation tests on arrival. Patients were sub-grouped into single and dual-platelet inhibition assay groups. Correlations between FIBTEM-A5 and Clauss fibrinogen were analysed, comparing correlation strength and diagnostic accuracy for fibrinogen levels of < 2.0 g/L.\n\nRESULTS: The relationship between FIBTEM-A5 and Clauss fibrinogen was similar using single platelet inhibition assays (R² 0.61;95%CI: 0.51-0.70) and dual-platelet inhibition assays (R² 0.70;95%CI: 0.62-0.77; p = 0.94). Predicted FIBTEM-A5 amplitudes at 2 g/L fibrinogen were 7.83 mm (95%CI: 7.42-8.23) and 7.54 mm (95%CI: 7.22-7.87). Diagnostic performance for detecting fibrinogen < 2.0 g/L was comparable between assays, for both FIBTEM-A5 ≤ 10 mm and FIBTEM-A5 ≤ 8 mm (all p > 0.05). For the dual-platelet inhibition assay, sensitivity and specificity were 97.8% and 48.1% at ≤ 10 mm, and 92.1% and 74.7% at ≤ 8 mm.\n\nCONCLUSION: Dual-platelet inhibition did not alter the relationship between FIBTEM-A5 and Clauss fibrinogen or the diagnostic accuracy of FIBTEM thresholds for identifying hypofibrinogenemia. FIBTEM-A5 ≤ 10 mm maintained high sensitivity, while ≤ 8 mm demonstrated greater specificity. Recalibration of established FIBTEM thresholds is not required following transition to dual-platelet inhibition.",
-          "doi": "10.1007/s00068-026-03250-0",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42313188/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03250-0",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42313144",
-          "title": "Pattern of blast injuries. A systematic review: Part 2 - Landmines, unexploded ordnance and terrorism.",
-          "authors": [
-            "Neubert A",
-            "Gaeth C",
-            "Seidelmann M",
-            "Bieler D"
-          ],
-          "abstract": "PURPOSE: This systematic review analyzes the patterns and distribution of blast injuries from landmine explosions, UXOs and terror attacks including suicide bombing, in civilians and military personnel.\n\nMETHODS: A search was conducted in two databases on 26. March 2025 for observational studies reporting blast injuries in civilian and military populations of all ages. Studies were clustered by explosion typ. A narrative data synthesis was performed. The JBI tool for case series was used.\n\nPROSPERO: CRD42023391736.\n\nRESULTS: 126 studies were included in the overall systematic review. 45 studies on terror & suicide bombings and 12 studies on landmines & UXOs are analyzed in the present paper. Studies on landmines from 1980 to 2006 included 13,270 individuals (age: 24.0 years (Range 8.2 years - 32.2 years); mainly male (88.9%)) in post-conflict low- and middle-income countries. Lower extremity injuries including amputations were most frequent, followed by eye injuries. Studies on terrorist attacks with a total of 12,518 mainly civilian victims (average age: 33,1 years; 61.6% males) reported on incidents in post-conflict regions and high-income cities mainly from the early 2000s. The injury pattern was multidimensional, with extremity injuries most frequent (28%-30%), including fractures, lacerations, and traumatic amputations (18%-20%).\n\nCONCLUSION: This Systematic Review Part 2 on landmines and terror attacks found that extremity injuries, including traumatic amputations, are the most frequent and dominate injury. However, the injury pattern varies depending on the explosion mechanism. Landmines primarily cause lower extremity injuries, as well as eye injuries. Terror and suicide explosions exhibit multidimensional injury pattern depending on the distance and location of the explosion.",
-          "doi": "10.1007/s00068-026-03241-1",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Systematic Review",
-            "Journal Article"
-          ],
-          "section": "Systematic Review",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42313144/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03241-1",
           "journal_key": "ejtes"
         }
       ]
