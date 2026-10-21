@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T12:20:31Z",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T12:30:03Z",
   "counts": {
-    "articles": 506,
+    "articles": 508,
     "journals_with_articles": 10,
     "journals_searched": 11,
     "new_issues": 0
@@ -3776,7 +3776,7 @@
       "pub_year": "2026",
       "pub_month": "Oct",
       "is_new": false,
-      "count": 60,
+      "count": 62,
       "articles": [
         {
           "pmid": "41329416",
@@ -3980,6 +3980,35 @@
           "journal_key": "jot_trauma"
         },
         {
+          "pmid": "42900415",
+          "title": "Advances in physiotherapy for chronic low-back pain: a level I systematic review.",
+          "authors": [
+            "Migliorini F",
+            "Maffuli N",
+            "Schäfer L",
+            "Manocchio N",
+            "Bossa M",
+            "Foti C"
+          ],
+          "abstract": "BACKGROUND: Non-pharmacologic management of chronic low back pain (cLBP) should be considered the first-line treatment. However, consensus guidelines and internationally accepted recommendations on the therapeutic algorithm are missing. The present level I systematic review presents a qualitative analysis of advancements in physiotherapy over the past decades to discuss the role of physical and rehabilitation medicine in the management of cLBP.\n\nMETHODS: In August 2025, the following databases were accessed: PubMed, Web of Science and Embase. All randomised controlled trials evaluating the efficacy of physiotherapy programs in patients with cLBP were assessed using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) criteria. The data extraction and risk-of-bias evaluation were performed independently by two authors.\n\nRESULTS: Data from 150 randomised controlled trials (RCTs) (12,773 patients) were collected. The mean symptom duration was 61.2 ± 51.0 months, and the mean follow-up was 4.3 ± 5.9 months. The mean age was 44.5 ± 9.4 years, and the mean body mass index (BMI) was 25.8 ± 2.9 kg/m2.\n\nCONCLUSIONS: Managing cLBP is challenging. While individual investigations highlight the efficacy of a specific intervention, most cLBP management strategies share common elements. Combining key elements from various approaches may prove crucial. Although this result is not decisive for treatment, it paves the way for further research that considers a more holistic and multidisciplinary approach.",
+          "doi": "10.1186/s10195-026-00972-0",
+          "journal_ta": "J Orthop Traumatol",
+          "volume": "27",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Systematic Review",
+            "Review"
+          ],
+          "section": "Systematic Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42900415/",
+          "doi_url": "https://doi.org/10.1186/s10195-026-00972-0",
+          "journal_key": "jot_trauma"
+        },
+        {
           "pmid": "42878977",
           "title": "Clinical examination findings were not associated with isometric strength or functional performance in adults with groin pain.",
           "authors": [
@@ -4065,6 +4094,36 @@
           "section": "Observational Study",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42752738/",
           "doi_url": "https://doi.org/10.1186/s10195-026-00967-x",
+          "journal_key": "jot_trauma"
+        },
+        {
+          "pmid": "42902059",
+          "title": "The efficacy of transcutaneous electrical nerve stimulation as an adjunctive therapy for perioperative pain management after total knee arthroplasty: an umbrella review.",
+          "authors": [
+            "Huang M",
+            "Tang P",
+            "Wen T",
+            "Li Y",
+            "Lu B",
+            "Yang X",
+            "Xiao W",
+            "Zhang K"
+          ],
+          "abstract": "BACKGROUND: Total knee arthroplasty (TKA) is a cornerstone intervention for end-stage knee pathologies, yet acute postoperative pain remains a critical barrier to rehabilitation. Transcutaneous electrical nerve stimulation (TENS), a non-pharmacological adjunct, has potential for pain mitigation, but its efficacy lacks robust evidence from umbrella reviews.\n\nMETHODS: This umbrella review systematically evaluated meta-analyses (MAs) published through September 2025 in PubMed/MEDLINE, Embase, the Cochrane Library, and Web of Science. Overlap among primary studies was assessed using the GROOVE tool, and evidence quality was graded via the AMSTAR 2 and GRADE frameworks. This umbrella review is registered on the Prospective Register of Systematic Reviews (PROSPERO) under accession no. CRD420251126630.\n\nRESULTS: Eleven MAs were included in this review. The results showed that TENS significantly reduced acute postoperative pain at 24 h (MD = - 0.42, 95% CI - 0.59, - 0.25, P < 0.00001, I2 = 0%) and 72 h (MD = - 0.84, 95% CI - 1.17, - 0.52, P < 0.00001, I2 = 0%), but no significant difference was observed at 2 weeks (MD = 0.97, 95% CI - 0.66, 2.60, P = 0.24, I2 = 91%). Opioid consumption was lower in the TENS group (SMD = - 0.58, 95% CI - 1.06, - 0.11, P = 0.02, I2 = 53%). Improvements were also seen in range of motion (SMD = 0.40, 95% CI 0.11, 0.68, P = 0.006, I2 = 0%), Hospital for Special Surgery scores (MD = 4.18, 95% CI 2.91, 5.45, P < 0.00001, I2 = 0%), and length of hospital stay (SMD = - 0.20, 95% CI - 0.38, - 0.03, P = 0.02, I2 = 0%). TENS was associated with a reduced incidence of nausea and vomiting.\n\nCONCLUSIONS: TENS is an effective adjunct for acute pain management after TKA, reducing opioid use and improving early functional outcomes. Future research should aim to standardize TENS application protocols and evaluate long-term efficacy and safety.",
+          "doi": "10.1186/s10195-026-00957-z",
+          "journal_ta": "J Orthop Traumatol",
+          "volume": "27",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Jul",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Systematic Review"
+          ],
+          "section": "Systematic Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42902059/",
+          "doi_url": "https://doi.org/10.1186/s10195-026-00957-z",
           "journal_key": "jot_trauma"
         },
         {
@@ -5923,6 +5982,121 @@
       "is_new": false,
       "count": 120,
       "articles": [
+        {
+          "pmid": "42902091",
+          "title": "Analysis of serological markers and synovial fluid cytology in aseptic revision total knee arthroplasty.",
+          "authors": [
+            "Khury F",
+            "Zhong J",
+            "Ruff G",
+            "Sarfraz A",
+            "Bahlouli L",
+            "Aggarwal VK",
+            "Schwarzkopf R"
+          ],
+          "abstract": "BACKGROUND AND AIM: Recent studies examining synovial fluid analysis to differentiate causes for aseptic revision total knee arthroplasty (rTKA) were limited to aseptic loosening and instability. This study aims to establish specific serological and synovial profiles for various rTKA etiologies.\n\nMETHODS: We retrospectively reviewed patients who underwent aseptic rTKA at a single academic institution between 2012 and 2023. Inclusion required complete serum inflammatory markers (erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP)) and synovial fluid differentials within three months pre-operatively. Periprosthetic joint infections were strictly excluded utilizing the 2018 International Consensus Meeting criteria. In total, 156 patients were included and stratified into five aseptic etiologies: aseptic loosening (50.6%), instability (28.2%), arthrofibrosis (16.7%), liner wear (2.6%), and component malposition (1.9%). Serological markers were evaluated utilizing a multivariate general linear model adjusting for patient demographics, while synovial markers were assessed via Welch's Analysis of Variance (ANOVA) and Games-Howell post-hoc testing.\n\nRESULTS: Multivariate analysis demonstrated that the underlying rTKA indication was not a significant independent predictor of elevated ESR (P = 0.661) or CRP (P = 0.947). Welch's ANOVA revealed significant differences in the percentage of synovial monocytes (P < 0.001) and lymphocytes (P = 0.010), alongside the polymorphonuclear cells/monocyte (P = 0.030) and lymphocyte/monocyte (P = 0.005) ratios. Games-Howell post-hoc testing demonstrated the tibial liner wear group exhibited significantly higher monocyte percentages, paired with lower lymphocyte percentages and cellular ratios, compared to other aseptic etiologies.\n\nCONCLUSIONS: This study revealed that routine systemic inflammatory markers and standard synovial fluid cell counts do not significantly vary among the common etiologies of aseptic rTKA. Nonetheless, tibial polyethylene liner wear appears to elicit an exploratory, monocyte-predominant and lymphocyte-depleted local macrophage response that is absent in other mechanisms of aseptic failure. Further research with larger cohorts is warranted to validate this association and explore its potential as a diagnostic tool.",
+          "doi": "10.1007/s00402-026-06536-5",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42902091/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06536-5",
+          "journal_key": "aots"
+        },
+        {
+          "pmid": "42902056",
+          "title": "Clinical outcomes and feasibility of a fast-track protocol after total ankle replacement: a prospective study.",
+          "authors": [
+            "Vena LM",
+            "Moggio L",
+            "Cofano E",
+            "Longo UG",
+            "van Dijk P",
+            "van Dijk CN",
+            "Gasparini G",
+            "Mercurio M"
+          ],
+          "abstract": "PURPOSE: Postoperative recovery after total ankle replacement remains challenging, and evidence supporting the use of fast-track protocols in this setting is limited. The purpose of this study was to evaluate the short-term clinical outcomes and safety of a fast-track protocol following total ankle replacement.\n\nMETHODS: A prospective observational study was conducted on consecutive adult patients undergoing primary total ankle replacement through an anterior approach between January 2023 and June 2024. All procedures were performed by a single experienced surgeon using the same implant. The fast-track protocol included early postoperative mobilization, multimodal pain management, bleeding control, and structured physiotherapy with standardized discharge criteria. Ankle function was assessed using the American Orthopaedic Foot and Ankle Society's (AOFAS) Ankle Hindfoot Scale preoperatively and at hospital discharge. Secondary outcomes included time to active ankle mobilization, time to assisted ambulation with crutches, length of hospital stay, and wound healing evaluated using the ASEPSIS wound score.\n\nRESULTS: Twenty-two patients were included. Median AOFAS Ankle Hindfoot Scale scores improved significantly from 29.0 preoperatively to 68.0 at discharge. Active ankle mobilization was achieved after a median of two days, assisted ambulation after three days, and the median hospital stay was five days. Wound healing outcomes were favourable, with low ASEPSIS scores and only one minor wound complication managed conservatively. No major wound complications, infections, or prosthesis-related adverse events were observed.\n\nCONCLUSION: In this prospective single-arm study, a fast-track protocol following total ankle replacement was feasible and was associated with early functional recovery and favourable short-term safety outcomes. These findings should be interpreted as preliminary and descriptive, given the absence of a control group. Larger comparative studies with longer follow-up are needed to determine its effectiveness relative to conventional postoperative care.",
+          "doi": "10.1007/s00402-026-06532-9",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Observational Study"
+          ],
+          "section": "Observational Study",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42902056/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06532-9",
+          "journal_key": "aots"
+        },
+        {
+          "pmid": "42902017",
+          "title": "Patient-specific management in high-risk revision total hip arthroplasty: mid-term outcomes of a next-generation constrained acetabular liner.",
+          "authors": [
+            "Khury F",
+            "Luebbering B",
+            "Ruff G",
+            "Bahlouli L",
+            "Sarfraz A",
+            "Schwarzkopf R",
+            "Aggarwal VK"
+          ],
+          "abstract": "BACKGROUND: Managing recurrent instability in revision total hip arthroplasty (rTHA) requires a personalized approach, as traditional constrained liners often yield suboptimal results due to locking-mechanism failure and limited impingement-free range of motion. This study aimed to evaluate the mid-term clinical outcomes of a novel constrained acetabular liner (CAL) when utilized as a patient-specific solution for a high-risk cohort undergoing complex rTHA. By tailoring the constraint to individual biomechanical deficits, this next-generation device seeks to mitigate historic failure modes.\n\nMETHODS: We retrospectively reviewed 32 patients who underwent 37 rTHA procedures with a next-generation CAL at a single urban academic center between March 2017 and October 2023. Average follow-up was 4.7 years (range, 0.3 to 9.7 years). The most common indication for rTHA was instability (70.3%), followed by infection (16.2%), aseptic loosening (10.8%), and polyethylene wear (2.7%). Just over one third of patients (37.5%) had undergone a prior revision. Preoperative constructs included fixed-bearing (37.8%), dual-mobility (32.4%), CAL (24.3%), static spacer (2.7%), and hemiarthroplasty (2.7%).\n\nRESULTS: In most procedures (70.3%), the CAL was implanted into a pre-existing acetabular cup, whereas 29.7% involved both cup and liner revision. Following rTHA, no cases of implant wear, breakage, acetabular cup aseptic loosening, or periprosthetic fracture were observed. Six patients (18.8%) underwent a total of sixteen subsequent reoperations after CAL implantation-10 for instability and 6 for infection. Among instability-related reoperations, 4 involved revision to a new next-generation CAL. Survivorship free from all-cause reoperation was 83.8% at one year and 72.6% at latest follow-up.\n\nCONCLUSIONS: This study demonstrates favorable mid-term clinical outcomes and reoperation-free survivorship following complex revision THA using a novel constrained acetabular liner system. For patient cohorts suffering from severe recurrent dislocation, this next-generation CAL provides an effective, tailored tool in the surgical armamentarium by adapting to unique patient anatomy and soft-tissue compromises. Further research with larger sample sizes and extended follow-up is needed to assess long-term durability.",
+          "doi": "10.1007/s00402-026-06527-6",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42902017/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06527-6",
+          "journal_key": "aots"
+        },
+        {
+          "pmid": "42901990",
+          "title": "Diagnostic accuracy of standard practice wrist MRI for scapholunate ligament injuries: a retrospective arthroscopic correlation study.",
+          "authors": [
+            "Spodzieja S",
+            "Boever J",
+            "Rau J",
+            "Bruckner T",
+            "Müller H",
+            "Wulf J",
+            "Unglaub F",
+            "Cavalcanti Kussmaul A"
+          ],
+          "abstract": "INTRODUCTION: The scapholunate ligament is the most injured intercarpal ligament. Untreated tears can lead to carpal instability and subsequent radiocarpal and midcarpal osteoarthritis. While wrist arthroscopy remains the gold standard, the diagnostic performance of standard practice preoperative MRI in clinical practice warrants further investigation.\n\nMETHODS: We retrospectively analysed patients who underwent preoperative wrist MRI followed by wrist arthroscopy between 2013 and 2021. MRI findings regarding scapholunate ligament integrity were compared with arthroscopic findings serving as reference standard. Sensitivity and specificity were calculated for detection of any scapholunate ligament lesion (partial or complete tear).\n\nRESULTS: A total of 889 patients were included. Complete paired data were available for 864 patients with a mean age of 42.4 ± 15.4 years (range 10-83 years). 51.3% were male. MRI classified the ligament as intact in 83.9%, partially ruptured in 9.1%, and completely ruptured in 6.9%. Arthroscopy identified intact ligaments in 78.2%, partial tears in 12.9%, and complete tears in 8.9%. In this cohort, MRI demonstrated high specificity (91.1%, 95% CI 89.0-93.3) but limited sensitivity (42.0%, 95% CI 35.0-49.1) for scapholunate ligament lesions.\n\nCONCLUSION: In standard clinical practice, preoperative wrist MRI shows high specificity but insufficient sensitivity for detecting scapholunate ligament injuries. In this cohort, MRI detected intact ligaments reliably, but a relevant proportion of partial and complete tears remained unrecognized.",
+          "doi": "10.1007/s00402-026-06541-8",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42901990/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06541-8",
+          "journal_key": "aots"
+        },
         {
           "pmid": "42888354",
           "title": "Correction: Robotic-arm assistance in revision total hip arthroplasty improves the accuracy of acetabular component positioning: a cadaver-based study.",
@@ -9105,116 +9279,6 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42439963/",
           "doi_url": "https://doi.org/10.1007/s00402-026-06371-8",
-          "journal_key": "aots"
-        },
-        {
-          "pmid": "42439950",
-          "title": "A multimodal imaging approach to predict carpal tunnel syndrome after distal radius fractures.",
-          "authors": [
-            "Önüt M",
-            "Alkol N",
-            "Önaloğlu Y",
-            "Özer M",
-            "Apaydın E",
-            "Talmaç MA"
-          ],
-          "abstract": "OBJECTIVE: Distal radius fractures are commonly associated with the development of carpal tunnel syndrome (CTS), yet current evidence primarily focuses on radiographic alignment parameters. The role of carpal tunnel morphology, particularly total carpal tunnel cross-sectional area (CSA) measured on computed tomography (CT), remains insufficiently investigated. This study aimed to evaluate the relationship between CSA, volar tilt, and the development of CTS in conservatively managed distal radius fractures, and to assess the predictive performance of these parameters when used in combination.\n\nMETHODS: This retrospective case-control study included 150 patients, comprising 50 patients who developed CTS and 100 controls without CTS. CSA was measured on CT scans obtained at initial presentation, while volar tilt was assessed using standard radiographs. Additional variables, including the presence of ulna fracture and fracture type, were analyzed. Group comparisons were performed using nonparametric tests. Multivariable logistic regression analysis was conducted to identify independent predictors of CTS. Diagnostic performance was evaluated using receiver operating characteristic (ROC) curve analysis.\n\nRESULTS: Patients who developed CTS had significantly lower CSA and higher volar tilt values (both p < 0.001). The presence of an ulna fracture was inversely associated with CTS (p = 0.004). Multivariable analysis identified CSA (OR = 0.748, 95% CI: 0.643-0.871, p < 0.001), volar tilt (OR = 1.132, 95% CI: 1.051-1.219, p = 0.001), and ulna fracture (OR = 0.249, 95% CI: 0.076-0.817, p = 0.022) as independent predictors of CTS. ROC analysis showed moderate discriminative ability for CSA and volar tilt individually (AUC = 0.685 and 0.708, respectively), which improved when combined (AUC = 0.772). The highest predictive performance was achieved with the combined model including CSA, volar tilt, and ulna fracture (AUC = 0.802).\n\nCONCLUSION: In conservatively managed distal radius fractures, carpal tunnel cross-sectional area (CSA) and volar tilt are independently associated with the development of CTS. While CSA alone demonstrates limited discriminative ability, its combination with radiographic parameters appears to improve predictive performance. These findings suggest that incorporating CT-based morphological measurements alongside conventional radiographic assessment may provide additional value in early risk stratification for CTS.\n\nLEVEL OF EVIDENCE: Level III, retrospective casecontrol study.",
-          "doi": "10.1007/s00402-026-06416-y",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42439950/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06416-y",
-          "journal_key": "aots"
-        },
-        {
-          "pmid": "42429970",
-          "title": "Unicompartmental knee arthroplasty and total knee arthroplasty in patients with 15 or more degrees of varus deformity: age- and gender-matched comparative study of radiographic and clinical outcomes.",
-          "authors": [
-            "Mullaji A",
-            "Chopperla S",
-            "George GK",
-            "Kazi R"
-          ],
-          "abstract": "INTRODUCTION: To date, few studies have directly compared matched cohorts of patients with severe varus deformity undergoing UKA versus TKA. The current study seeks to address this gap. The hypothesis was that, in patients with deformity of > 15°, postoperative PROMs following UKA would be inferior to those achieved with TKA.\n\nMETHODS: Records of patients operated for UKA and TKA from January 2016 to December 2021 were evaluated, and the data for patients with deformity of ≥ 15° were selected. The UKA patients were then matched for age and gender with TKA patients. 52 matched pairs of patients were obtained. The HKA, mLDFA, MPTA were measured. OKS, SF12, and FJS were collected. The magnitude of change in the mLDFA and MPTA was assessed using the Estimated Marginal Means.\n\nRESULTS: The mean follow-up times for UKA and TKA were 3.7 years and 5.5 years, respectively. The mean deformity correction (ΔHKA) was significantly greater in TKA (16.3° ± 4.5°) than UKA (10.6° ± 3.1°) (p < 0.001), with significant changes in mLDFA and MPTA (p < 0.001). In UKAs, 68% of patients demonstrated a postoperative HKA between 171.2° and 175.7°, whereas in TKAs, values clustered between 174.5° and 179.8°. Mann-Whitney U test demonstrated no statistically significant differences between the UKA and TKA cohorts across all assessed PROMs, including OKS, SF-12, and FJS (p > 0.05 in all). 98% of the UKA and 94% of the TKA cohort achieved excellent or good outcomes.\n\nCONCLUSION: UKA performed in carefully selected patients with large varus deformities (> 15°) can provide satisfactory short- to mid-term outcomes. Although no statistically significant differences were observed in postoperative PROMs between the UKA and TKA groups, the current study was not designed or sufficiently powered to establish equivalence or detect subtle clinically meaningful differences between procedures. Greater deformity correction was achieved with TKA; however, UKA also resulted in substantial correction despite persistence of some residual varus in certain patients with severe preoperative deformity. Neither the severity of preoperative deformity nor the degree of postoperative residual varus demonstrated a statistically significant correlation with postoperative outcomes in this cohort.",
-          "doi": "10.1007/s00402-026-06403-3",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Comparative Study"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42429970/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06403-3",
-          "journal_key": "aots"
-        },
-        {
-          "pmid": "42426542",
-          "title": "Acetabular superior wall fractures: a distinct acetabular fracture entity.",
-          "authors": [
-            "Gänsslen A",
-            "Krappinger D",
-            "Liodakis E",
-            "Clausen JD",
-            "Omar-Pacha T",
-            "Lindtner RA",
-            "Sehmisch S",
-            "Osche DB"
-          ],
-          "abstract": "INTRODUCTION: A transitional \"grey-zone\" exists between typical locations of classical trapezoidal anterior wall and large-fragment posterior wall acetabular fractures. Part of this grey zone is the superior acetabular dome, which is commonly involved in acetabular fracture patterns, especially in geriatric patients. The aim of this study was to characterize isolated acetabular superior wall fractures and to assess their relevance as a distinct fracture pattern.\n\nMETHODS: A retrospective analysis of pelvic fracture databases from three tertiary trauma centers was performed. Acetabular fractures with superior dome involvement were screened, and cases with isolated superior articular involvement were included. Overall, seven patients were identified. Clinical and radiological data were analyzed regarding fracture morphology, associated fracture characteristics (including dislocation, comminution, marginal impaction, intra-articular fragments, and femoral head injury), concomitant pelvic ring injuries, treatment, and clinical outcomes.\n\nRESULTS: Isolated superior wall acetabular fractures occurred following both high-energy and low-energy mechanisms, including simple falls. The mean age was 48 years and four of seven patients were male. Hip dislocation or subluxation was observed in four cases (anterior-superior or purely superior). Surgical treatment was performed in six cases, predominantly using anterior approaches (mainly the iliofemoral approach) with screw and/or plate fixation. Outcomes were frequently unfavorable, with relevant joint degeneration or persistent symptoms, likely related to substantial articular damage of the superior weight-bearing zone.\n\nCONCLUSION: Acetabular superior wall fractures present a distinct fracture pattern that differs from classical anterior and posterior wall fractures and is less commonly observed. These injuries involve the superior weight-bearing dome and are frequently associated with comminution and substantial articular damage of both the acetabulum and femoral head. Even in cases with restored joint congruence, outcomes appear inferior, underscoring the clinical relevance of this fracture entity.",
-          "doi": "10.1007/s00402-026-06407-z",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42426542/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06407-z",
-          "journal_key": "aots"
-        },
-        {
-          "pmid": "42426490",
-          "title": "A novel biomechanical model for reproducing and analysing the causal mechanisms of PFNA \"cut-in\" phenomenon.",
-          "authors": [
-            "Rasappan K",
-            "Joshua K",
-            "Chou SM",
-            "Shaw LKRM",
-            "Huang D",
-            "Yew A",
-            "Kwek EBK"
-          ],
-          "abstract": "INTRODUCTION: \"Cut-in\" is a rare but serious complication associated with cephalomedullary nail fixation for intertrochanteric hip fractures, particularly with Proximal Femoral Nail Antirotation (PFNA). This phenomenon involves paradoxical superomedial migration of the helical blade through the femoral head. Although increasingly recognised, the underlying mechanisms remain incompletely defined. This study aims to describe a new superolateral tensile loading set up in a bidirectional loading model, with the aim of incorporating possible mechanical deviations introduced by abductor weakness.\n\nMATERIALS AND METHODS: This study was conducted in two stages. An initial stage with synthetic femurs (SYNBONE® 2420) was used to calibrate the set up. Within this stage, intramedullary canal diameter was compared (12 mm vs. 18 mm). In the final stage, 5 osteoporotic synthetic femurs (Sawbones® 3503) were used. In both stages, standardised AO/OTA 31-A1.1 intertrochanteric fracture were created in the synthetic femurs and fixed with PFNA-II implants. All femurs were subjected to cyclical bidirectional loading with a universal testing machine. Each cycle consisted of axial compression (720 N) and superolateral tensile loading (120 N) at 2 Hz. This configuration was designed to simulate altered hip biomechanics postulated with the trendelenburg gait. Testing was continued until mechanical failure, construct deformation, or specimen fracture occurred. Full cut-in was defined as complete perforation of the blade through the femoral head cortex, while partial cut-in was defined as superomedial migration of the blade without perforation of the femoral head cortex.\n\nRESULTS: The initial stage demonstrated partial cut-in more frequently in specimens with larger canal diameters (18 mm), but did not produce any full cut-in. The final stage with an 18 mm canal diameter achieved full cut-in in all five specimens.\n\nCONCLUSIONS: Our bidirectional loading model with superolateral tensile loading reproduced full 'cut-in' in all 5 specimens of the final stage, serving as a proof-of-concept tool. Larger studies are warranted for validation.",
-          "doi": "10.1007/s00402-026-06398-x",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42426490/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06398-x",
           "journal_key": "aots"
         }
       ]
