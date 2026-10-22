@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-21",
-  "generated_at": "2026-10-21T12:30:03Z",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T12:33:39Z",
   "counts": {
     "articles": 508,
     "journals_with_articles": 10,
@@ -4000,8 +4000,7 @@
           "pages": "",
           "pub_types": [
             "Journal Article",
-            "Systematic Review",
-            "Review"
+            "Systematic Review"
           ],
           "section": "Systematic Review",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42900415/",
