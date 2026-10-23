@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-22",
-  "generated_at": "2026-10-22T12:33:39Z",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T12:13:57Z",
   "counts": {
-    "articles": 508,
+    "articles": 509,
     "journals_with_articles": 10,
     "journals_searched": 11,
-    "new_issues": 0
+    "new_issues": 1
   },
   "groups": [
     {
@@ -2081,434 +2081,436 @@
       "journal": "JBJS (American)",
       "ta": "J Bone Joint Surg Am",
       "volume": "108",
-      "issue": "19",
+      "issue": "20",
       "pub_year": "2026",
       "pub_month": "Oct",
-      "is_new": false,
-      "count": 16,
+      "is_new": true,
+      "count": 17,
       "articles": [
         {
-          "pmid": "42841870",
-          "title": "Erratum: Comparison of Large Language Models with Rules-Based Natural Language Processing Algorithms for Extracting Data from Operative Notes.",
+          "pmid": "42784656",
+          "title": "Big Value in the Psoas Shadow: Commentary on an article by Takeru Kataoka, MD, et al.: \" Radiographic Measurement of Psoas Muscle Width: A Simple and Reliable Screening Tool for Sarcopenia \".",
           "authors": [
-            "Yang L",
-            "Mulford KL",
-            "Girod-Hoffman MM",
-            "Khela M",
-            "Khosravi A",
-            "Crossman DM",
-            "Kanabar A",
-            "Saniei S",
-            "Ulrich MN",
-            "Taunton MJ",
-            "Wyles CC"
+            "Haft GF"
           ],
           "abstract": "",
-          "doi": "10.2106/JBJS.ER.25.01338",
+          "doi": "10.2106/JBJS.25.01556",
           "journal_ta": "J Bone Joint Surg Am",
           "volume": "108",
-          "issue": "19",
+          "issue": "20",
           "pub_year": "2026",
           "pub_month": "Oct",
-          "pages": "e19",
+          "pages": "1567",
           "pub_types": [
             "Journal Article"
           ],
           "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42841870/",
-          "doi_url": "https://doi.org/10.2106/JBJS.ER.25.01338",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42784656/",
+          "doi_url": "https://doi.org/10.2106/JBJS.25.01556",
           "journal_key": "jbjs"
         },
         {
-          "pmid": "42536706",
-          "title": "Shaping the Future of Orthopaedics: A Call to Contribute to JBJS Special Issues.",
+          "pmid": "42160446",
+          "title": "Does the Latissimus Dorsi Tendon Remain Attached and Lead to Good Long-Term Outcome After Arthroscopically Assisted Tendon Transfer in Irreparable Posterosuperior Rotator Cuff Tears?: Commentary on an article by Chang Hee Baek, MD, et al.: \" Long-Term Outcomes After Arthroscopically Assisted Latissimus Dorsi Tendon Transfer for Irreparable Posterosuperior Rotator Cuff Tears. Assessment at a Minimum 10-Year Follow-up \".",
           "authors": [
-            "Bhandari M"
+            "Elhassan B"
           ],
           "abstract": "",
-          "doi": "10.2106/JBJS.26.00981",
+          "doi": "10.2106/JBJS.26.00392",
           "journal_ta": "J Bone Joint Surg Am",
           "volume": "108",
-          "issue": "19",
+          "issue": "20",
           "pub_year": "2026",
           "pub_month": "Oct",
-          "pages": "1487",
+          "pages": "1568-1569",
           "pub_types": [
             "Journal Article"
           ],
           "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42536706/",
-          "doi_url": "https://doi.org/10.2106/JBJS.26.00981",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42160446/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00392",
           "journal_key": "jbjs"
         },
         {
-          "pmid": "42154825",
-          "title": "Good News: The Easier, More Efficient Technique for Pain Management Is Equivalent: Commentary on an article by Jinlei Li, MD, PhD, et al.: \" Glucocorticoid-Enhanced Fascial Plane and Peripheral Nerve Blocks Versus Periarticular and Local Infiltration Analgesia in Total Hip Arthroplasty. A Prospective Randomized Controlled Trial \".",
+          "pmid": "42154873",
+          "title": "Is Pyrocarbon the Future?: Commentary on an article by Gregory Hoy, MBBS, FRACS, FAOrthA, FACSP, et al.: \" PyroTITAN Pyrocarbon Shoulder Hemiarthroplasty. Clinical and Radiographic Outcomes with Medium-Term Follow-up \".",
           "authors": [
-            "Marsh JL"
+            "Kew ME"
           ],
           "abstract": "",
-          "doi": "10.2106/JBJS.26.00282",
+          "doi": "10.2106/JBJS.26.00224",
           "journal_ta": "J Bone Joint Surg Am",
           "volume": "108",
-          "issue": "19",
+          "issue": "20",
           "pub_year": "2026",
           "pub_month": "Oct",
-          "pages": "1488-1489",
+          "pages": "1570-1571",
           "pub_types": [
             "Journal Article"
           ],
           "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42154825/",
-          "doi_url": "https://doi.org/10.2106/JBJS.26.00282",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42154873/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00224",
           "journal_key": "jbjs"
         },
         {
-          "pmid": "42048435",
-          "title": "Bridging the Gap: Technology-Assisted THA Reduces Dislocation Risk for Low-Volume Surgeons: Commentary on an article by Avinash Iyer, BS, et al.: \"Technology Assistance Mitigates the Volume-Dependent Risk of Hip Dislocation Following Total Hip Arthroplasty\".",
+          "pmid": "42359838",
+          "title": "Can We Find the Oracle of Fracture Union?: Commentary on an article by Luke A. Lopas, MD, et al.: \" A Fracture Healing Odyssey : Kinematic Comparison of Unions and Nonunions in Human Lower-Extremity Long Bones Treated with Intramedullary Nailing. A Retrospective Cohort Study \".",
           "authors": [
-            "Ricciardi BF"
+            "Ahn J"
           ],
           "abstract": "",
-          "doi": "10.2106/JBJS.26.00107",
+          "doi": "10.2106/JBJS.26.00240",
           "journal_ta": "J Bone Joint Surg Am",
           "volume": "108",
-          "issue": "19",
+          "issue": "20",
           "pub_year": "2026",
           "pub_month": "Oct",
-          "pages": "1490-1491",
+          "pages": "1572",
           "pub_types": [
             "Journal Article"
           ],
           "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42048435/",
-          "doi_url": "https://doi.org/10.2106/JBJS.26.00107",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42359838/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00240",
           "journal_key": "jbjs"
         },
         {
-          "pmid": "42118825",
-          "title": "Early Diagnosis of Pediatric Septic Hip Infection Using MRI: Commentary on an article by Ahmer Ahmad Khan, et al.: \" The Prevalence of Pediatric Septic Arthritis of the Hip with Concomitant Osteomyelitis. A Retrospective Study of 58 Consecutive Cases Investigated Using MRI \".",
+          "pmid": "42313909",
+          "title": "Advancing Immune Cell Profiling in Arthroplasty Failure: Insights from Transcriptomic Deconvolution: Commentary on an article by Yicheng Li, PhD, et al.: \" Comparative Analysis of Immune Cell-Type Abundances in Periprosthetic Tissues Across Arthroplasty Failure Etiologies. Use of Transcriptomic Deconvolution \".",
           "authors": [
-            "Kamegaya M"
+            "Al Abdallat AM"
           ],
           "abstract": "",
-          "doi": "10.2106/JBJS.26.00150",
+          "doi": "10.2106/JBJS.26.00427",
           "journal_ta": "J Bone Joint Surg Am",
           "volume": "108",
-          "issue": "19",
+          "issue": "20",
           "pub_year": "2026",
           "pub_month": "Oct",
-          "pages": "1492",
+          "pages": "1573",
           "pub_types": [
             "Journal Article"
           ],
           "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42118825/",
-          "doi_url": "https://doi.org/10.2106/JBJS.26.00150",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42313909/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00427",
           "journal_key": "jbjs"
         },
         {
-          "pmid": "42066067",
-          "title": "A Reflection of Trends Across Modern Academia: Commentary on an article by Yiqiao Zhang, MD, et al.: \"High-Grade 3-Column Osteotomies Are Not Interchangeable. Schwab-Grade-III PSO Versus Schwab-Grade-V VCR in Treating Severe Kyphoscoliosis with an Average 9-Year Follow-up\".",
+          "pmid": "42531342",
+          "title": "What's New in Shoulder and Elbow Surgery.",
           "authors": [
-            "Cahill PJ"
+            "Rao AJ",
+            "Saltzman BM",
+            "Harrison AK"
           ],
           "abstract": "",
-          "doi": "10.2106/JBJS.26.00277",
+          "doi": "10.2106/JBJS.26.00744",
           "journal_ta": "J Bone Joint Surg Am",
           "volume": "108",
-          "issue": "19",
+          "issue": "20",
           "pub_year": "2026",
           "pub_month": "Oct",
-          "pages": "1493-1494",
+          "pages": "1574-1577",
           "pub_types": [
             "Journal Article"
           ],
           "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42066067/",
-          "doi_url": "https://doi.org/10.2106/JBJS.26.00277",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42531342/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00744",
           "journal_key": "jbjs"
         },
         {
-          "pmid": "42189949",
-          "title": "Informed Consent for Robotic-Assisted Reverse Shoulder Arthroplasty: Framing the Conversation and Closing the Expectation Gap.",
+          "pmid": "42296208",
+          "title": "More Signal, Less Noise: Enhancing the Methodological Rigor and Clinical Utility of Orthopaedic Aggregated Real-World Data Research.",
           "authors": [
-            "Menendez ME",
-            "Sanchez-Sotelo J"
+            "Bank NC",
+            "Mistovich RJ",
+            "Kaelber DC"
           ],
           "abstract": "",
-          "doi": "10.2106/JBJS.26.00325",
+          "doi": "10.2106/JBJS.26.00285",
           "journal_ta": "J Bone Joint Surg Am",
           "volume": "108",
-          "issue": "19",
+          "issue": "20",
           "pub_year": "2026",
           "pub_month": "Oct",
-          "pages": "1495-1496",
+          "pages": "1578-1582",
           "pub_types": [
             "Journal Article"
           ],
           "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42189949/",
-          "doi_url": "https://doi.org/10.2106/JBJS.26.00325",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42296208/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00285",
           "journal_key": "jbjs"
         },
         {
-          "pmid": "42308322",
-          "title": "Limb Rehabilitation and Functional Recovery Following Cast Immobilization.",
+          "pmid": "42228769",
+          "title": "Total Joint Arthroplasty During Ramadan: Perioperative Implications for Patients and Surgeons.",
           "authors": [
-            "Kamal H"
+            "Siddiqi A",
+            "Jacob PB",
+            "Yousuf KM"
           ],
-          "abstract": "",
-          "doi": "10.2106/JBJS.26.00545",
+          "abstract": "Total joint arthroplasty (TJA) is increasingly performed in a global patient population that includes individuals observing prolonged daily fasting during Ramadan, a lunar calendar-based observance occurring over 29 to 30 consecutive days. Daily fasting may exceed 14 to 18 hours depending on geography and season, producing measurable alterations in hydration, glycemic variability, circadian rhythm, and sleep architecture that intersect with perioperative safety in TJA. This article synthesizes the physiologic and perioperative considerations, examines the implications for patients and surgeons, and proposes a framework for risk stratification, shared decision-making, and perioperative management. Elective TJA during Ramadan is not inherently contraindicated but requires structured assessment, perioperative planning, and patient counseling.",
+          "doi": "10.2106/JBJS.26.00276",
           "journal_ta": "J Bone Joint Surg Am",
           "volume": "108",
-          "issue": "19",
+          "issue": "20",
           "pub_year": "2026",
           "pub_month": "Oct",
-          "pages": "1497-1498",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42308322/",
-          "doi_url": "https://doi.org/10.2106/JBJS.26.00545",
-          "journal_key": "jbjs"
-        },
-        {
-          "pmid": "42284371",
-          "title": "A System in Motion: The Evolution of Orthopaedic Care in Romania.",
-          "authors": [
-            "Dragosloveanu S",
-            "Nedelea DG",
-            "Scheau C"
-          ],
-          "abstract": "➢ Romanian orthopaedic practice has demonstrated a growing uptake of digital infrastructure, including the implementation of robotic-assisted surgical workflows and emerging applications of artificial intelligence. ➢ Romania ranks among the European countries with the highest hospital bed capacity per capita, supporting the provision of sustained care for elderly patients, including those with fragility fractures and oncologic orthopaedic conditions and those undergoing complex revision surgeries. ➢ The Romanian Arthroplasty Register was modernized and relaunched in 2025 as an initiative to align with other long-standing national European counterparts.",
-          "doi": "10.2106/JBJS.26.00188",
-          "journal_ta": "J Bone Joint Surg Am",
-          "volume": "108",
-          "issue": "19",
-          "pub_year": "2026",
-          "pub_month": "Oct",
-          "pages": "1499-1503",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42284371/",
-          "doi_url": "https://doi.org/10.2106/JBJS.26.00188",
-          "journal_key": "jbjs"
-        },
-        {
-          "pmid": "42658897",
-          "title": "Principles of Level Selection for Instrumentation in Adult Cervical Spinal Deformity Surgery: Guidelines for Treatment.",
-          "authors": [
-            "Sardar ZM",
-            "Coury JR",
-            "Bautista AG",
-            "Dong K",
-            "Riew KD",
-            "Reyes JL"
-          ],
-          "abstract": "➢ For isolated cervical deformities in patients with good bone health, the upper instrumented vertebra can be C3 or C4. ➢ For patients with global cervical deformity, poor bone health, planned 3-column osteotomies, or long fusion constructs, C2 may be an appropriate upper instrumented vertebra. ➢ For patients with focal kyphosis, optimal sagittal alignment, and preserved bone stock, a lower instrumented vertebra cranial to the cervicothoracic junction is appropriate. ➢ For patients with poor cervical sagittal alignment, a lower instrumented vertebra in the proximal thoracic spine, ranging from T1 to T3, may be appropriate. ➢ For combined cervical and thoracolumbar spinal deformities, a lower instrumented vertebra in the lower thoracic or upper lumbar spine is appropriate. The sagittal stable vertebra or first lordotic vertebra concepts can be considered.",
-          "doi": "10.2106/JBJS.25.01540",
-          "journal_ta": "J Bone Joint Surg Am",
-          "volume": "108",
-          "issue": "19",
-          "pub_year": "2026",
-          "pub_month": "Oct",
-          "pages": "1510-1519",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42658897/",
-          "doi_url": "https://doi.org/10.2106/JBJS.25.01540",
-          "journal_key": "jbjs"
-        },
-        {
-          "pmid": "42520109",
-          "title": "Harnessing the Biologic Power of Bacteriophages to Improve the Treatment of Periprosthetic Joint Infection: Barriers and Future Directions.",
-          "authors": [
-            "Abdelbary H",
-            "Malko S",
-            "Taha M",
-            "Crawley AM",
-            "Powell JN",
-            "Abedi AA",
-            "Suh GA",
-            "Citak M"
-          ],
-          "abstract": "➢ Periprosthetic joint infection (PJI) remains the most common cause of failure after total joint arthroplasty, with current standard therapies associated with failure rates between 10% and 30%. ➢ The 2025 International Consensus Meeting in Istanbul, Türkiye, highlighted the potential benefits of bacteriophage (phage) therapy in managing PJI. ➢ One of the barriers to integrating phage therapy into standard clinical PJI care is the knowledge gap between preclinical research and clinical practice. ➢ This Expert Review summarizes the key therapeutic advantages of using phages as an adjuvant therapeutic platform for PJI. It also highlights the current challenges that are continuing to limit the integration of phages into standard PJI care.",
-          "doi": "10.2106/JBJS.26.00339",
-          "journal_ta": "J Bone Joint Surg Am",
-          "volume": "108",
-          "issue": "19",
-          "pub_year": "2026",
-          "pub_month": "Oct",
-          "pages": "1520-1527",
+          "pages": "1583-1587",
           "pub_types": [
             "Journal Article",
             "Review"
           ],
           "section": "Review",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42520109/",
-          "doi_url": "https://doi.org/10.2106/JBJS.26.00339",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42228769/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00276",
           "journal_key": "jbjs"
         },
         {
-          "pmid": "42127167",
-          "title": "Glucocorticoid-Enhanced Fascial Plane and Peripheral Nerve Blocks Versus Periarticular and Local Infiltration Analgesia in Total Hip Arthroplasty: A Prospective Randomized Controlled Trial.",
+          "pmid": "42313916",
+          "title": "The Strength of the Splint: A Lesson in Buddy Taping.",
           "authors": [
-            "Li J",
-            "Rubin LE",
-            "Krishnan R",
-            "Blessing M",
-            "Townsend D",
-            "Tung WS",
-            "Zhao X",
-            "Treggiari M",
-            "He Z",
-            "Dai F",
-            "Lin HM",
-            "Leslie MP",
-            "the Yale GENBA-THA study group"
+            "Kadiyala S"
           ],
-          "abstract": "BACKGROUND: The purpose of this study was to compare an anterior quadratus lumborum block (aQLB) plus a lateral femoral cutaneous nerve block (LFCNB) with periarticular and local infiltration analgesia (PALIA) in total hip arthroplasty (THA), with both modalities using dual glucocorticoids: hydrophilic dexamethasone sodium phosphate (DEX) and lipophilic methylprednisolone acetate (MPA).\n\nMETHODS: A total of 192 patients were randomized to either PALIA or aQLB+LFCNB and received 60 mL of 0.2% ropivacaine, 10 mg of DEX, and 80 mg of MPA. The mean age of the 188 included patients was 61 years, 46% were male, 96% were non-Hispanic, and 82% were White. The primary outcome was opioid consumption, measured as oral morphine milligram equivalents (oMME), on postoperative day (POD) 1. Secondary outcomes included opioid consumption on POD 2, fasting serum glucose, white blood-cell count, Brief Pain Inventory (BPI) pain severity and interference, and functional recovery measures, including Activity Measure for Post-Acute Care (AMPAC) and Patient-Reported Outcomes Measurement Information System (PROMIS) scores, from POD 0 to 1 year.\n\nRESULTS: Ninety-three patients in the aQLB+LFCNB group and 95 patients in the PALIA group were included in the final analysis. There was no significant difference in the primary outcome, oMME on POD 1, between the aQLB+LFCNB group (median, 29.84 [interquartile range (IQR): 17.72, 38.75]) and the PALIA group (median, 30.50 [IQR: 18.00, 42.00]) (p = 0.57). Except for fasting serum glucose on POD 1, which was lower in the aQLB+LFCNB group (median, 141.50 [IQR: 124.50, 163.50] mg/dL) than in the PALIA group (median, 153.00 [IQR 139.00, 180.00] mg/dL) (p = 0.003), no significant differences were observed in any of the other secondary outcomes.\n\nCONCLUSIONS: Patients who received aQLB+LFCNB with dual glucocorticoids and those who received PALIA with dual glucocorticoids demonstrated no significant differences in daily opioid consumption, pain score, or functional recovery following THA.\n\nLEVEL OF EVIDENCE: Therapeutic Level II . See Instructions for Authors for a complete description of levels of evidence.",
-          "doi": "10.2106/JBJS.25.01476",
+          "abstract": "",
+          "doi": "10.2106/JBJS.26.00563",
           "journal_ta": "J Bone Joint Surg Am",
           "volume": "108",
-          "issue": "19",
+          "issue": "20",
           "pub_year": "2026",
           "pub_month": "Oct",
-          "pages": "1528-1535",
-          "pub_types": [
-            "Journal Article",
-            "Randomized Controlled Trial",
-            "Comparative Study"
-          ],
-          "section": "Randomized Trial",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42127167/",
-          "doi_url": "https://doi.org/10.2106/JBJS.25.01476",
-          "journal_key": "jbjs"
-        },
-        {
-          "pmid": "42302114",
-          "title": "Predictors of Loss to Long-Term Follow-up After Shoulder Surgery.",
-          "authors": [
-            "Soule S",
-            "Smith A",
-            "Staten T",
-            "Kirkham M",
-            "Zhang C",
-            "Presson A",
-            "Joyce CD",
-            "Tashjian RZ",
-            "Chalmers PN"
-          ],
-          "abstract": "BACKGROUND: Loss to follow-up is among the most important sources of bias in clinical research. Thus, the purpose of this study was to identify factors associated with a failure to complete a 2-year follow-up after shoulder surgery. We hypothesized that older patients would demonstrate higher follow-up rates and that patients who underwent instability surgery would have lower follow-up rates.\n\nMETHODS: A retrospective chart review was conducted on 1,028 consecutive patients who underwent shoulder surgery performed by a single surgeon between 2017 and 2022. All patients were contacted by the surgeon via telephone, text message, and email at 2 years postoperatively. Variables analyzed included demographic characteristics, insurance status, surgical procedure type, Social Deprivation Index (SDI), and distance from the surgical site to home. Multivariable logistic regression analysis was performed to determine which factors were associated with 2-year follow-up.\n\nRESULTS: Of the 1,028 patients, 507 (49%) completed a 2-year follow-up. The mean patient age was 51 years, 585 patients (57%) were male, and 443 patients (43%) were female. Ninety-four percent of patients were White. Patients who completed follow-up were older (mean age, 53 compared with 49 years; p < 0.001), more likely to have undergone an arthroplasty, and more often insured by Medicare. Loss to follow-up was associated with instability surgery, Medicaid or Workers' Compensation insurance, and missing preoperative visual analog scale (VAS) pain scores. SDI scores and distance from the surgical site were not significant predictors. Age was a covariate of both surgery type and insurance status. In the multivariable model, younger age (odds ratio [OR], 0.99; p < 0.001) and missing VAS scores (OR, 1.51; p = 0.001) independently predicted loss to follow-up, whereas current alcohol use (OR, 0.74; p = 0.024) was associated with lower odds of loss to follow-up.\n\nCONCLUSIONS: Older age emerged as the most significant predictor of follow-up adherence. Older patients, often undergoing arthroplasty and covered by Medicare, were more likely to complete follow-up. These findings highlight the need for targeted strategies to improve follow-up rates among younger patients, particularly those undergoing instability surgeries, as well as patients with Medicaid and Workers' Compensation insurance.\n\nLEVEL OF EVIDENCE: Prognostic Level III . See Instructions for Authors for a complete description of levels of evidence.",
-          "doi": "10.2106/JBJS.25.00767",
-          "journal_ta": "J Bone Joint Surg Am",
-          "volume": "108",
-          "issue": "19",
-          "pub_year": "2026",
-          "pub_month": "Oct",
-          "pages": "1536-1542",
+          "pages": "1588",
           "pub_types": [
             "Journal Article"
           ],
           "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42302114/",
-          "doi_url": "https://doi.org/10.2106/JBJS.25.00767",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42313916/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00563",
           "journal_key": "jbjs"
         },
         {
-          "pmid": "42008602",
-          "title": "Technology Assistance Mitigates the Volume-Dependent Risk of Hip Dislocation Following Total Hip Arthroplasty.",
+          "pmid": "42335210",
+          "title": "Shaping Modern Practice in South Korea: A Centennial Review of Orthopaedics at Severance Hospital and Yonsei University College of Medicine.",
           "authors": [
-            "Iyer A",
-            "Telang SS",
-            "Culler MC",
-            "Yun AG",
-            "Oakes DA",
-            "Lieberman JR",
-            "Heckmann ND"
+            "Jung SH",
+            "Kim SH",
+            "Yeo I",
+            "Han SH",
+            "Suk KS",
+            "Park SY"
           ],
-          "abstract": "BACKGROUND: Lower surgeon case-volume has been associated with a greater risk of postoperative complications such as dislocation following total hip arthroplasty (THA). However, robotic assistance and computer navigation may mitigate the volume-dependent risk of instability. This study sought to compare dislocation rates between lower-volume surgeons performing technology-assisted (TA) THAs and higher-volume surgeons utilizing conventional instrumentation (CI).\n\nMETHODS: The Premier Healthcare Database was queried to identify adult patients who underwent primary elective THA from 2016 to 2023. Surgeons with <10% technology use formed the CI group, and surgeons with ≥90% technology use formed the TA group. These groups were further subdivided into higher-volume (HV) and lower-volume (LV) on the basis of surgeon annual case-volume, using a previously validated threshold of 109 cases/year. Mixed-effects modeling was used to compare the 90-day risk of dislocation between patients treated by low-volume surgeons using TA (LV-TA group) and high-volume surgeons using CI (HV-CI group).\n\nRESULTS: A total of 669,098 patients undergoing THA were identified. Of these, 5,447 patients were treated by LV-TA surgeons and 190,550, by HV-CI surgeons. Notably, LV-TA surgeons achieved a similar rate of dislocation compared with HV-CI surgeons (0.48% versus 0.42%, p = 0.510). After controlling for confounding factors, the risk of dislocation remained comparable between LV-TA and HV-CI surgeons (adjusted odds ratio: 1.062, 95% confidence interval: 0.677 to 1.668, p = 0.793).\n\nCONCLUSIONS: Surgeons with a lower case-volume who used technology assistance achieved a rate of dislocation similar to that of surgeons with a higher case-volume who used conventional instrumentation. These findings demonstrate that technology assistance, including computer navigation and robotic assistance, may attenuate the association between surgeon case-volume and dislocation risk following primary THA.\n\nLEVEL OF EVIDENCE: Therapeutic Level III . See Instructions for Authors for a complete description of levels of evidence.",
-          "doi": "10.2106/JBJS.25.01237",
+          "abstract": "➢ This review commemorates the centennial of orthopaedic practice at Severance Hospital and Yonsei University College of Medicine by tracing its historical evolution and milestones in modern orthopaedic surgery in South Korea. ➢ Chejungwon, the predecessor of Severance Hospital and Yonsei University College of Medicine, was founded in 1885 as Korea's first Western-style hospital and played a pivotal role in the introduction and institutionalization of modern medicine in Korea. This development was made possible through the efforts of American missionaries, who contributed to the early establishment of Western medical education and clinical practice. ➢ Modern orthopaedic practice at Severance began in 1926 with the return of Yong-Seol Lee, the first Korean physician to receive structured orthopaedic training in the United States, marking the emergence of orthopaedics as a distinct specialty in Korea. ➢ The establishment of an independent Department of Orthopaedic Surgery at Severance Hospital in 1953 further strengthened its academic and clinical foundations during a period characterized by war-related trauma, infectious diseases, and national reconstruction. ➢ Over subsequent decades, the department has contributed to the development of orthopaedic subspecialties, clinical excellence, and academic research, while playing a central role in founding and leading the Korean Orthopaedic Association.",
+          "doi": "10.2106/JBJS.26.00340",
           "journal_ta": "J Bone Joint Surg Am",
           "volume": "108",
-          "issue": "19",
+          "issue": "20",
           "pub_year": "2026",
           "pub_month": "Oct",
-          "pages": "1543-1550",
+          "pages": "1589-1595",
+          "pub_types": [
+            "Journal Article",
+            "Historical Article",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42335210/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00340",
+          "journal_key": "jbjs"
+        },
+        {
+          "pmid": "42905115",
+          "title": "The Role of Biological Age in Adult Spinal Deformity Surgery.",
+          "authors": [
+            "Salazar LM",
+            "Vaja S",
+            "Samartzis D",
+            "Lee NJ"
+          ],
+          "abstract": "➢ Adult spinal deformity (ASD) outcomes are poorly predicted by chronological age alone; biological age markers, including frailty indices, sarcopenia measurements, and bone quality metrics, provide better risk assessment. ➢ Systemic frailty tools (modified Frailty Index, ASD-Frailty Index [ASD-FI], Risk Analysis Index) predict perioperative morbidity and discharge disposition more accurately than age-based models do. ➢ Musculoskeletal assessments, psoas and paraspinal muscle cross-sectional areas, fatty infiltration grading, and computed tomography-derived Hounsfield unit thresholds identify patients with sarcopenia and osteoporosis at elevated risk for proximal junctional failure, implant fracture, and pseudarthrosis. ➢ Artificial intelligence and machine learning can automate osteosarcopenia quantification and define pelvic incidence-dependent alignment phenotypes, which may personalize correction targets. ➢ Integrating multidimensional biological age profiles into preoperative planning facilitates tailored surgical aggressiveness, age-appropriate and morphology-appropriate alignment goals, and targeted prophylactic strategies, paving the way toward a physiology-driven model in ASD surgery.",
+          "doi": "10.2106/JBJS.25.01324",
+          "journal_ta": "J Bone Joint Surg Am",
+          "volume": "108",
+          "issue": "20",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "1596-1607",
+          "pub_types": [
+            "Journal Article",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42905115/",
+          "doi_url": "https://doi.org/10.2106/JBJS.25.01324",
+          "journal_key": "jbjs"
+        },
+        {
+          "pmid": "42685157",
+          "title": "Changes in the Management of Periprosthetic Joint Infection Over the Past 50 Years.",
+          "authors": [
+            "Abedi AA",
+            "Pourbozorg G",
+            "Abdou M",
+            "Hoveidaei AH",
+            "Parvizi J",
+            "Citak M"
+          ],
+          "abstract": "➢ Periprosthetic joint infection (PJI) remains a major complication of joint arthroplasty, associated with morbidity and health-care burden. Although room for progress remains, the management of PJI has evolved over the past 50 years from empiric, procedure-centered approaches to structured, evidence-based, and biologically informed strategies. ➢ This article summarizes key developments in the prevention, diagnosis, and treatment of PJI, driven by advances across multiple clinical and scientific subspecialties. ➢ Diagnostic approaches have advanced from reliance on clinical findings and culture to a multimodal framework integrating validated criteria, serological and synovial biomarkers, and molecular techniques. Surgical management has similarly evolved toward individualized strategies, including debridement with implant retention, 1-stage or 2-stage revision, and salvage surgery tailored to host, pathogen, and disease characteristics. ➢ Advances in microbiology, particularly the recognition of biofilm and the emerging role of the human microbiome, have further reshaped the understanding of PJI. Overall, this article examines how developments in prevention, diagnosis, surgical treatment, and microbiology have driven a transition toward precision-based, biology-informed, and individualized management of PJI.",
+          "doi": "10.2106/JBJS.26.00650",
+          "journal_ta": "J Bone Joint Surg Am",
+          "volume": "108",
+          "issue": "20",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "1608-1615",
+          "pub_types": [
+            "Journal Article",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42685157/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00650",
+          "journal_key": "jbjs"
+        },
+        {
+          "pmid": "41730017",
+          "title": "Radiographic Measurement of Psoas Muscle Width: A Simple and Reliable Screening Tool for Sarcopenia.",
+          "authors": [
+            "Kataoka T",
+            "Okamoto T",
+            "Matsuda S"
+          ],
+          "abstract": "BACKGROUND: Sarcopenia, characterized by the progressive loss of skeletal muscle mass and strength, is associated with adverse outcomes, including increased postoperative complications in patients with orthopaedic conditions. Although computed tomography (CT) and magnetic resonance imaging (MRI) remain the gold-standard modalities for assessing sarcopenia, their cost, radiation exposure, and limited availability restrict widespread screening. This study investigated the potential of lumbar spine radiographs as a practical alternative for sarcopenia screening.\n\nMETHODS: We retrospectively reviewed data of patients who underwent surgery for degenerative lumbar spine diseases at our hospital's Department of Orthopedic Surgery between June 2013 and April 2024 and had both preoperative standing lumbar spine radiographs and supine CT scans. Demographic variables (age and sex) were collected. The psoas muscle width at the caudal end plate of L3 was measured on anteroposterior lumbar spine radiographs and was compared with CT-based cross-sectional psoas muscle area. Sarcopenia was defined on the basis of previously established psoas muscle index thresholds. Interobserver reliability was assessed with the intraclass correlation coefficient (ICC), and correlation analyses, multivariable regression, and receiver operating characteristic (ROC) curve analyses were performed.\n\nRESULTS: There were 305 patients (177 male patients [58.0%], with a median age of 71.7 years; and 128 female patients [42.0%], with a median age of 69.8 years; all ethnic Japanese) included in the analysis. Of these 305 patients, 114 (37.4%) were classified as having sarcopenia (78 male patients and 36 female patients). Radiographic psoas muscle width demonstrated excellent interobserver reliability (ICC, 0.94) and strongly correlated with the CT-measured psoas muscle area (male patients, r = 0.71; female patients, r = 0.64; both p < 0.001). Multivariable analysis identified the psoas width as a significant predictor of the psoas muscle area. ROC curve analysis revealed that optimal cutoff values for sarcopenia screening were 118.8 mm (area under the curve [AUC], 0.847) for male patients and 99.9 mm (AUC, 0.777) for female patients.\n\nCONCLUSIONS: Radiographic psoas muscle width measurement is a simple and reliable method for sarcopenia screening that may facilitate early sarcopenia identification, enabling timely interventions and improving surgical outcome predictions. Lumbar spine radiographs hold potential as a novel screening tool for sarcopenia beyond their conventional diagnostic role.\n\nLEVEL OF EVIDENCE: Prognostic Level III . See Instructions for Authors for a complete description of levels of evidence.",
+          "doi": "10.2106/JBJS.25.01094",
+          "journal_ta": "J Bone Joint Surg Am",
+          "volume": "108",
+          "issue": "20",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "1616-1622",
           "pub_types": [
             "Journal Article"
           ],
           "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42008602/",
-          "doi_url": "https://doi.org/10.2106/JBJS.25.01237",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41730017/",
+          "doi_url": "https://doi.org/10.2106/JBJS.25.01094",
           "journal_key": "jbjs"
         },
         {
-          "pmid": "42085536",
-          "title": "The Prevalence of Pediatric Septic Arthritis of the Hip with Concomitant Osteomyelitis: A Retrospective Study of 58 Consecutive Cases Investigated Using MRI.",
+          "pmid": "42133722",
+          "title": "Long-Term Outcomes After Arthroscopically Assisted Latissimus Dorsi Tendon Transfer for Irreparable Posterosuperior Rotator Cuff Tears: Assessment at a Minimum 10-Year Follow-up.",
           "authors": [
-            "Khan AA",
-            "Paris E",
-            "Sbampato V",
-            "De Marco G",
-            "Tabard-Fougère A",
-            "Vazquez O",
-            "Steiger C",
-            "Dayer R",
-            "Ceroni D"
+            "Baek CH",
+            "Kim JG",
+            "Kim BT",
+            "Lim C",
+            "Kim SJ"
           ],
-          "abstract": "BACKGROUND: This observational study systematically used magnetic resonance imaging (MRI) to determine the prevalence of concomitant osteomyelitis and its influence on clinical outcomes in cases of pediatric septic arthritis (SA) of the hip.\n\nMETHODS: We retrospectively analyzed the demographic, clinical, microbiological, and radiographic data of 58 children treated for SA of the hip who underwent systematic MRI between 2000 and 2025. Patients were categorized into 2 groups: isolated septic arthritis and septic arthritis with concomitant osteomyelitis. The clinical and laboratory parameters, causative pathogens, and treatments were compared between the groups.\n\nRESULTS: Concomitant osteomyelitis was identified with MRI in 43% (25) of the 58 patients, while radiographs detected it in only 16%. Demographic, clinical, and inflammatory parameters were statistically similar between the groups. Kingella kingae was the most commonly identified pathogen (37.9%), and Staphylococcus aureus and Streptococcus spp. were more frequently associated with repeat surgery. No significant differences in complication rates, treatment duration, or outcomes were found between the groups.\n\nCONCLUSIONS: The systematic use of MRI revealed concomitant osteomyelitis in >40% of cases of pediatric SA. However, the presence of osteomyelitis was not associated with worse outcomes, suggesting that factors related to the microorganism profile or virulence must contribute substantially to disease severity. Nonetheless, MRI should be considered early in any diagnostic work-up of pediatric SA of the hip.\n\nLEVEL OF EVIDENCE: Diagnostic Level III . See Instructions for Authors for a complete description of levels of evidence.",
-          "doi": "10.2106/JBJS.25.01422",
+          "abstract": "BACKGROUND: Arthroscopically assisted latissimus dorsi tendon transfer (LDT) offers a joint-preserving option for irreparable posterosuperior rotator cuff tears, but long-term efficacy remains uncertain. We report outcomes after a minimum of 10 years.\n\nMETHODS: We retrospectively analyzed 33 shoulders in 33 patients (mean age, 62.2 years; 58% male; all ethnic Korean) after arthroscopically assisted LDT. Clinical assessment included range of motion and Constant-Murley, American Shoulder and Elbow Surgeons (ASES), and VAS pain scores. Osteoarthritis progression was assessed radiographically using the Hamada classification. Complications and reoperations, including reverse total shoulder arthroplasty (rTSA), were recorded.\n\nRESULTS: The Constant-Murley score increased from 48.2 to 62.7, the ASES score increased from 49.5 to 68.7, and VAS pain decreased from 5.0 to 2.3 (all p < 0.001). Forward elevation increased from 115° to 143° and external rotation at 90° of abduction increased from 22° to 51° (both p < 0.001). The mean Hamada grade increased from 1.2 to 2.4, but clinical scores and range of motion were similar in the 12 shoulders (36%) that progressed to grade 3 or higher. On magnetic resonance imaging at the final follow-up (mean, 134 months postoperatively), 19 transfers (58%) remained intact (Sugaya types I to III) and 14 (42%) had a full-thickness retear (Sugaya types IV and V). Outcomes were similar between patients with and without osteoarthritis progression, but patients with intact transfers had better forward elevation, external rotation at 90°, and ADLER (activities of daily living that require active external rotation) scores. Late subscapularis tears occurred in 10 shoulders (30%) and were associated with preoperative grade-2 fatty infiltration (p = 0.002). Three shoulders (9%) required conversion to rTSA.\n\nCONCLUSIONS: Arthroscopically assisted LDT improved pain and function for most patients with irreparable posterosuperior rotator cuff tears. Despite frequent radiographic osteoarthritis progression, clinical outcomes remained favorable, and most shoulders retained the native joint. LDT may serve as an option to delay rTSA in appropriately selected younger patients.\n\nLEVEL OF EVIDENCE: Therapeutic Level IV . See Instructions for Authors for a complete description of levels of evidence.",
+          "doi": "10.2106/JBJS.25.01135",
           "journal_ta": "J Bone Joint Surg Am",
           "volume": "108",
-          "issue": "19",
+          "issue": "20",
           "pub_year": "2026",
           "pub_month": "Oct",
-          "pages": "1551-1557",
+          "pages": "1623-1629",
           "pub_types": [
-            "Journal Article",
-            "Observational Study"
+            "Journal Article"
           ],
-          "section": "Observational Study",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42085536/",
-          "doi_url": "https://doi.org/10.2106/JBJS.25.01422",
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42133722/",
+          "doi_url": "https://doi.org/10.2106/JBJS.25.01135",
           "journal_key": "jbjs"
         },
         {
-          "pmid": "42013198",
-          "title": "High-Grade 3-Column Osteotomies Are Not Interchangeable: Schwab-Grade-III PSO Versus Schwab-Grade-V VCR in Treating Severe Kyphoscoliosis with an Average 9-Year Follow-up.",
+          "pmid": "42127166",
+          "title": "PyroTITAN Pyrocarbon Shoulder Hemiarthroplasty: Clinical and Radiographic Outcomes with Medium-Term Follow-up.",
           "authors": [
-            "Zhang Y",
-            "Wang S",
-            "Bai Z",
-            "Zhang Y",
-            "Niu X",
-            "Liu S",
-            "Han Y",
-            "Zhuang Q",
-            "Zhang J"
+            "Hoy G",
+            "Burrows K",
+            "McBride A",
+            "Ross M",
+            "Davis K",
+            "Warby S"
           ],
-          "abstract": "BACKGROUND: Pedicle subtraction osteotomy (PSO) and vertebral column resection (VCR) are powerful techniques for correcting severe spinal deformities. Although PSO has been proposed as a viable alternative to VCR, their comparative efficacies and safety profiles require further elucidation.\n\nMETHODS: This single-center retrospective study analyzed 169 patients (mean age, 22 years; 84 male; 169 ethnic Chinese) with severe kyphoscoliosis who underwent primary corrective surgery via PSO (n = 85) or VCR (n = 84). Radiographic parameters, surgical data, intraoperative neuromonitoring (IOM) changes, Scoliosis Research Society (SRS)-22 scores, and complications were compared between groups.\n\nRESULTS: Both techniques significantly improved all radiographic parameters and SRS-22 scores (p < 0.001). The VCR group demonstrated superior correction of the major curve (65.5% versus 56.9%, p = 0.003), segmental kyphosis (68.1% versus 61.5%, p = 0.03), and apical vertebral rotation (48.5% versus 34.4%, p = 0.001). At the critical osteotomy stage, 105 (62.1%) of 169 patients experienced IOM signal decline. The neurological complications rate was significantly higher in the VCR group (13 of 84 versus 7 of 85, p = 0.038), as was the overall complication rate (43 of 84 versus 29 of 85, p = 0.008). Each 1° increase in correction achieved with VCR was associated with a 1.6% higher risk of complications (OR = 1.016, p = 0.045).\n\nCONCLUSIONS: Although both PSO and VCR were highly effective for major deformity correction, VCR provided a greater magnitude of correction in the coronal, sagittal, and axial planes. However, this advantage was counterbalanced by a significantly higher risk of complications, including neurological deficits. Despite the frequent reversibility of IOM signal declines, VCR retained a higher risk profile due to its higher overall complication rate.\n\nLEVEL OF EVIDENCE: Prognostic Level III . See Instructions for Authors for a complete description of levels of evidence.",
-          "doi": "10.2106/JBJS.25.01393",
+          "abstract": "BACKGROUND: Pyrocarbon hemiarthroplasty (HA) is a recent option for younger patients with end-stage glenohumeral joint (GHJ) arthritis. Early results are promising but limited by study bias. The aim of this study was to evaluate medium-term clinical and radiographic outcomes following PyroTITAN pyrocarbon HA.\n\nMETHODS: One hundred and nineteen shoulders with GHJ arthritis in 115 patients (mean age, 56.5 years; 92 shoulders were in male patients) underwent PyroTITAN pyrocarbon HA. Primary patient-reported outcome measures (PROMs) included the Western Ontario Osteoarthritis of the Shoulder Index and American Shoulder and Elbow Surgeons score. Clinicians assessed shoulder range of motion and abduction strength. PROMs and clinician evaluations were recorded preoperatively and at 6, 12, and 24 months and 5 years postoperatively. Postoperative complications were recorded, and radiographs were evaluated for glenoid erosion. Implant survival was calculated over the 5-year follow-up period. Data were analyzed on an intention-to-treat basis using linear mixed models for continuous data and Friedman analysis of variance for ordinal data. Kaplan-Meier analysis assessed revision-free survival. Significance was set at p < 0.05.\n\nRESULTS: There was significant improvement in all PROMs and ranges of motion at 6, 12, and 24 months and 5 years postoperatively. Abduction strength was significantly improved at 24 months. Seven complications (5.9%) were recorded: ongoing pain (n = 2), stiffness (n = 2), pain and stiffness (n = 2), and implant fracture (n = 1). There were 3 revisions (2.5%) and thus a 97.5% five-year survival rate. Glenoid erosion increased slightly but not significantly over time.\n\nCONCLUSIONS: The findings in our patient series support the PyroTITAN HA implant as a viable option for GHJ arthritis across a broad age range, including younger patients.\n\nLEVEL OF EVIDENCE: Therapeutic Level IV . See Instructions for Authors for a complete description of levels of evidence.",
+          "doi": "10.2106/JBJS.25.00779",
           "journal_ta": "J Bone Joint Surg Am",
           "volume": "108",
-          "issue": "19",
+          "issue": "20",
           "pub_year": "2026",
           "pub_month": "Oct",
-          "pages": "1558-1565",
+          "pages": "1630-1637",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42127166/",
+          "doi_url": "https://doi.org/10.2106/JBJS.25.00779",
+          "journal_key": "jbjs"
+        },
+        {
+          "pmid": "42149746",
+          "title": "A Fracture Healing Odyssey: Kinematic Comparison of Unions and Nonunions in Human Lower-Extremity Long Bones Treated with Intramedullary Nailing : A Retrospective Cohort Study.",
+          "authors": [
+            "Lopas LA",
+            "Jang Y",
+            "Liu Z",
+            "Slaven JE",
+            "Arnold JC",
+            "Haller JM",
+            "Marchand LS",
+            "Mau M",
+            "Kacena MA",
+            "Natoli RM"
+          ],
+          "abstract": "BACKGROUND: Fracture nonunion remains a major clinical challenge. Although radiographic scores such as RUST (Radiographic Union Score for Tibial fractures) and mRUST (the modified version) are widely used to assess healing, there has been limited investigation into their longitudinal use. This study evaluated whether a log-logistic statistical model of radiographic healing scores over time could quantify differences between fractures that healed and those that went on to nonunion.\n\nMETHODS: This retrospective cohort analysis added serial radiographs of 49 femoral shaft nonunions to radiographs from previous cohorts. Tibiae and femora were scored with RUST and mRUST, respectively. Scores were plotted over time and fitted to a log-logistic curve to generate a healing (\"position\") equation. Model-derived parameters (Y inf [ultimate score], k [a curve shape parameter], and t half [time to half of the score change]) were compared between fractures that did and did not unite. Secondarily, first and second derivatives were used to describe the fracture healing \"velocity\" and \"acceleration\" for each group.\n\nRESULTS: A total of 613 fractures were analyzed: 234 tibial (196 healed, 38 nonunion) and 379 femoral (330 healed, 49 nonunion). In femoral fractures, Y inf , k, and t half all differed significantly (p < 0.008) between healed and nonunion cases. In tibial fractures, Y inf and k differed (both p < 0.008), whereas t half did not (p = 0.30). The first and second derivatives at the population level suggest early differences in healing kinematics between fractures that heal and those that go on to nonunion.\n\nCONCLUSIONS: This proof-of-concept study demonstrates that log-logistic modeling of radiographic scores can quantify differences in radiographic healing between femoral and tibial shaft fractures treated with intramedullary nails that will go on to union versus nonunion. Differences in healing velocity and acceleration may emerge early, supporting the potential of the longitudinal framework for earlier identification of fractures at risk for nonunion.\n\nLEVEL OF EVIDENCE: Therapeutic Level III . See Instructions for Authors for a complete description of levels of evidence.",
+          "doi": "10.2106/JBJS.25.01333",
+          "journal_ta": "J Bone Joint Surg Am",
+          "volume": "108",
+          "issue": "20",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "1638-1644",
           "pub_types": [
             "Journal Article",
             "Comparative Study"
           ],
           "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42013198/",
-          "doi_url": "https://doi.org/10.2106/JBJS.25.01393",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42149746/",
+          "doi_url": "https://doi.org/10.2106/JBJS.25.01333",
+          "journal_key": "jbjs"
+        },
+        {
+          "pmid": "42275484",
+          "title": "Comparative Analysis of Immune Cell-Type Abundances in Periprosthetic Tissues Across Arthroplasty Failure Etiologies: Use of Transcriptomic Deconvolution.",
+          "authors": [
+            "Li Y",
+            "Wang F",
+            "Li Y",
+            "Mu W",
+            "Ji B",
+            "Zhang X",
+            "Cao L"
+          ],
+          "abstract": "BACKGROUND: Although cellularity is traditionally evaluated morphologically, an emerging transcriptome-sequencing-based algorithm enables simultaneous inference of cellular information. We studied whether cellularity profiles predicted using CIBERSORTx would (1) depict immune cell-type abundances in periprosthetic tissues across arthroplasty failure etiologies, and (2) provide prognostic value for identifying cases of periprosthetic joint infection (PJI).\n\nMETHODS: CIBERSORTx-derived cellularity profiles were evaluated in 185 periprosthetic tissue samples, including 135 from patients with PJI (64 males; median age, 66 years) and 50 from those with aseptic failure (AF) (36 males; median age, 62.5 years), that had been subjected to bulk RNA sequencing. Kaplan-Meier survival analysis was performed to assess prognostic outcomes in PJI.\n\nRESULTS: Of the 22 evaluated cell types, 5 were significantly elevated in PJI cases: plasma cells, resting memory CD4 + T cells, CD8 + T cells, activated mast cells, and M1 macrophages (all p < 0.05 after Benjamini-Hochberg [BH] correction). Conversely, 3 cell types were significantly elevated in AF cases: gamma delta T cells, M0 macrophages, and M2 macrophages (all p < 0.05 after BH correction). Of the combined immune cell populations, total B cells, total T cells, and natural killer cells were significantly elevated in PJI cases, while total macrophages/monocytes were significantly elevated in AF cases (all p < 0.05 after BH correction). Patients with PJI who had a CD8 + /regulatory T cell (Treg) ratio above the median had a significantly lower rate of infection recurrence than those below the median (log-rank p = 0.0252).\n\nCONCLUSIONS: CIBERSORTx analysis of samples from periprosthetic tissues predicted distinct immune cell profiles that differed between PJI and aseptic arthroplasty failure modes, and also identified a high CD8 + /Treg ratio as a potential prognostic marker. This transcriptomic approach provides a novel, single-assay strategy for evaluating local immune cell responses across arthroplasty failure etiologies.\n\nCLINICAL RELEVANCE: The comparative analysis of immune cell-type abundances in periprosthetic tissues across arthroplasty failure etiologies revealed distinct immune microenvironment signatures that differentiate PJI from AF. Additionally, the finding that a higher CD8 + /Treg cell ratio is associated with a lower rate of infection recurrence offers a potential prognostic marker to help identify patients with PJI who are at a lower risk for treatment failure.",
+          "doi": "10.2106/JBJS.25.01505",
+          "journal_ta": "J Bone Joint Surg Am",
+          "volume": "108",
+          "issue": "20",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "1645-1653",
+          "pub_types": [
+            "Journal Article",
+            "Comparative Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42275484/",
+          "doi_url": "https://doi.org/10.2106/JBJS.25.01505",
           "journal_key": "jbjs"
         }
       ]
@@ -5982,6 +5984,86 @@
       "count": 120,
       "articles": [
         {
+          "pmid": "42907683",
+          "title": "Net present value analysis of total salary compensation in hand surgery: academic versus non-academic careers.",
+          "authors": [
+            "Moore JW",
+            "Minerva AJ",
+            "Daley DN",
+            "Daly CA",
+            "Silvestre J"
+          ],
+          "abstract": "PURPOSE: Studies comparing salary compensation of hand surgeons in different practice settings have been limited. This study compared projected lifetime salary compensation between academic and non-academic hand surgeons.\n\nMETHODS: Compensation data were sourced from the 2025 Medical Group Management Association (MGMA) and American Medical Group Association (AMGA) salary benchmarks. Net present values of theoretical career paths in hand surgery were calculated assuming a 32-year career and a 3% discount rate. Sensitivity analyses were performed with variable discount rates and career lengths. Monte Carlo simulations were performed.\n\nRESULTS: Academic practice demonstrated lower lifetime salary compensation than non-academic practice across career trajectories, sensitivity analyses, and Monte Carlo simulations using MGMA data with minimal differences using AMGA data. With MGMA, academic practice ($12.6 million) resulted in 19.7% lower lifetime salary compensation than non-academic practice ($15.7 million). With AMGA, academic practice ($15.0 million) resulted in 2.7% higher lifetime salary compensation than non-academic practice ($14.6 million). Monte Carlo simulations demonstrated lower lifetime salary compensation for academic practice with MGMA ($12.9 million versus $16.0 million, 19.4% difference, P < 0.001) but comparable compensation with AMGA data ($15.1 million versus $15.0 million, 0.7% difference, P = 0.182).\n\nCONCLUSION: Hand surgeons in academic practice demonstrated lower lifetime salary compensation than their non-academic counterparts using MGMA data and similar compensation using AMGA data. While compensation alone does not fully capture the complexity of career decision making, this study may be useful to future hand surgeons and service line leaders.",
+          "doi": "10.1007/s00402-026-06547-2",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Comparative Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42907683/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06547-2",
+          "journal_key": "aots"
+        },
+        {
+          "pmid": "42907667",
+          "title": "Complicated labral injuries in female patients with developmental dysplasia of the hip are associated with localized stress concentration in the superior acetabulum.",
+          "authors": [
+            "Ogawa Y",
+            "Shimizu T",
+            "Ohashi Y",
+            "Sugawara Y",
+            "Takahashi D",
+            "Iwasaki N"
+          ],
+          "abstract": "INTRODUCTION: Developmental dysplasia of the hip (DDH) alters joint mechanics and increases the risk of labral injury, compromising hip stability and leading to abnormal stress distribution and cartilage degeneration. However, the relationship between labral injury severity and joint loading stress in DDH remains unclear. This study investigated the effect of labral injury severity on stress distribution in DDH patients using computed tomography osteoabsorptometry (CT-OAM) and finite element analysis.\n\nMATERIALS AND METHODS: We analyzed 54 hips from 45 female patients undergoing joint-preserving surgery for DDH. Labral injuries were classified as simple or complicated on radial MRI. Subchondral bone density distribution was evaluated with CT-OAM, while finite element analysis of pelvic and femoral bones with cartilage was performed under a single-leg stance to assess contact pressure and area. Statistical analyses examined associations between labral injury severity and stress distribution.\n\nRESULTS: Superior injuries showed significantly increased high-density area (HDA) in the superior acetabulum, indicating localized stress concentration (simple injury vs. complicated injury, 64.4% vs. 80.3%, p < 0.001). However, finite element analysis revealed no significant differences in contact pressure or area (simple vs. complicated, 5.3 N/mm² vs. 6.2 N/mm², p = 0.538), which we interpret as showing that bony morphology alone could not explain the observed stress patterns. Instead, the discrepancy highlights the role of labral failure reflected in CT-derived subchondral bone density.\n\nCONCLUSION: Complicated labral injuries, especially superiorly, were associated with localized stress accumulation in DDH.",
+          "doi": "10.1007/s00402-026-06452-8",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42907667/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06452-8",
+          "journal_key": "aots"
+        },
+        {
+          "pmid": "42907576",
+          "title": "Postoperative alignment and patients reported outcome measures improvement after high tibial osteotomy: a significant interaction with osteoarthritis severity.",
+          "authors": [
+            "Itou J",
+            "Itoh M",
+            "Kuwashima U",
+            "Oda T",
+            "Okazaki K"
+          ],
+          "abstract": "PURPOSE: Optimal postoperative alignment in high tibial osteotomy (HTO) remains controversial due to inconsistent target definitions and limited evidence supporting osteoarthritis (OA) severity-based strategies. This study evaluated clinical outcomes across postoperative weight-bearing line (WBL) categories stratified by OA severity, hypothesizing that overcorrection would be detrimental in early OA but not in advanced OA.\n\nMETHODS: This retrospective single-center study included 181 knees that underwent open-wedge or closed-wedge HTO between 2017 and 2023 with a minimum 2-year follow-up. Knees were classified as early OA (Kellgren-Lawrence [KL] ≤ 2) or advanced OA (KL ≥ 3). The corrective angle was defined as the planned angular change required to shift the mechanical axis to the target postoperative alignment, determined by aiming for a postoperative %WBL of 62.5% on double-limb standing full-length radiographs. Overcorrection was defined as %WBL ≥ 70%. Clinical and radiographic outcomes were assessed at baseline and final follow-up. Multivariable regression models identified factors associated with changes (Δ) in Forgotten Joint Score-12 (FJS-12) and Knee Injury and Osteoarthritis Outcome Score (KOOS), and logistic regression evaluated achievement of minimum clinically important difference (MCID) and patient acceptable symptom state (PASS). Each knee was treated as an independent observational unit.\n\nRESULTS: Early OA (n = 112) and advanced OA (n = 69) showed comparable baseline characteristics. In early OA, postoperative alignment was significantly associated with ΔFJS‑12 and ΔKOOS Sports. Compared with optimal alignment, overcorrection was associated with smaller improvement in ΔFJS‑12 (β = -10.49, 95% CI - 20.46 to - 0.53) and ΔKOOS Sports, whereas undercorrection did not demonstrate a statistically significant association with postoperative improvement. Overcorrection also reduced the likelihood of achieving MCID and PASS in early OA. In advanced OA, postoperative alignment was not associated with PROM improvements or MCID/PASS achievement.\n\nCONCLUSIONS: Overcorrection was associated with significantly poorer improvement in FJS-12 and KOOS Sports in early OA, whereas postoperative alignment was not associated with differences in PROM improvements in advanced OA.\n\nLEVEL OF EVIDENCE: IV.",
+          "doi": "10.1007/s00402-026-06540-9",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42907576/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06540-9",
+          "journal_key": "aots"
+        },
+        {
           "pmid": "42902091",
           "title": "Analysis of serological markers and synovial fluid cytology in aseptic revision total knee arthroplasty.",
           "authors": [
@@ -9192,93 +9274,6 @@
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42467259/",
           "doi_url": "https://doi.org/10.1007/s00402-026-06394-1",
           "journal_key": "aots"
-        },
-        {
-          "pmid": "42455389",
-          "title": "Correction: Non-tobacco nicotine dependence and postoperative complications following operative fixation of tibial shaft fractures: a retrospective cohort analysis.",
-          "authors": [
-            "Berk A",
-            "Bogart M",
-            "Eghtedari C",
-            "Good L",
-            "Florentino S",
-            "Moyal A",
-            "Burkhart R",
-            "Ochenjele G",
-            "Wetzel R",
-            "Napora J"
-          ],
-          "abstract": "",
-          "doi": "10.1007/s00402-026-06421-1",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Published Erratum"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42455389/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06421-1",
-          "journal_key": "aots"
-        },
-        {
-          "pmid": "42455207",
-          "title": "Comparison of pediatric proximal femoral locking plates and dynamic hip screws in the fixation of pediatric intertrochanteric fractures, a biomechanical study.",
-          "authors": [
-            "Wang JH",
-            "Shih CA",
-            "Wang CH",
-            "Lee CC",
-            "Wu KW",
-            "Wang TM",
-            "Kuo KN",
-            "Hong CK"
-          ],
-          "abstract": "Treatment options for pediatric intertrochanteric fractures range from conservative casting in young children to surgical fixation in older patients, most commonly using dynamic hip screws (DHS) or pediatric proximal femoral locking plates (PF-LCP). As there is limited biomechanical evidence favoring one method over another, this study aimed to compare the biomechanical stability of DHS and PF-LCP for the treatment of pediatric intertrochanteric fractures using a synthetic bone model. Sixteen synthetic composite femurs were allocated into two groups stabilized with either a DHS or a PF-LCP. To simulate Delbet type IV intertrochanteric fractures, a vertical osteotomy was created in each specimen. Biomechanical evaluation was carried out using a universal testing machine, assessing axial stiffness, vertical, horizontal, and total displacement, as well as ultimate load to failure under standardized loading conditions. Comparative statistical analyses were then performed to determine differences in biomechanical performance between the two fixation methods. Group P demonstrated significantly smaller vertical and total displacements (0.15 ± 0.15 mm and 0.41 ± 0.31 mm) compared with the DHS group (0.59 ± 0.42 mm and 0.75 ± 0.33 mm) (p = 0.018 and p = 0.045), whereas horizontal displacement showed no difference (p = 0.142). Axial stiffness and ultimate failure load were comparable between groups. All specimens failed at the level of the most distal screw; however, fracture sites occurred significantly more distal in the DHS group (89.7 ± 3.1 mm) than in the PF-LCP group (62.1 ± 2.3 mm, p < 0.001). In a synthetic bone model, PF-LCP group showed less vertical and total displacement than the DHS when fixing intertrochanteric fractures. This suggests that the locking plate may offer a stronger and safer option for treating pediatric intertrochanteric fractures.",
-          "doi": "10.1007/s00402-026-06414-0",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Comparative Study"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42455207/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06414-0",
-          "journal_key": "aots"
-        },
-        {
-          "pmid": "42439963",
-          "title": "Impact of severe varus deformity on the outcome of mobile-bearing unicompartmental knee arthroplasty: a comparison of patients with varus deformity of less than and more than 15 degrees using matched-pair analysis.",
-          "authors": [
-            "Mullaji AB",
-            "Gupta AK",
-            "George GK",
-            "Kazi R"
-          ],
-          "abstract": "INTRODUCTION: The outcome of patients undergoing UKA with larger preoperative deformity (> 15º varus) and lesser deformity is sparsely compared in the literature. This matched-pair retrospective study attempts to fill this research gap by comparing the effect of preoperative and postoperative residual varus on outcome.\n\nMETHODS: Patients undergoing UKA with preoperative varus deformity > 15º (HKA > 15º group) were selected and matched for age and gender with those with < 15º of preoperative varus deformity (HKA < 15º group). There were 72 age and gender-matched pairs knees. HKA was measured and Forgotten Joint Score, OKS, VAS and WOMAC scores were obtained at a minimum follow up of 5 years. Postoperative residual varus was classified into 3 groups based on postoperative HKA: varus < 3º, varus 3 to 7º and varus > 7º.\n\nRESULTS: Mean correction of deformity was significantly more (p < 0.001) in the HKA > 15º group (10.5º) when compared to HKA < 15º group (4.5º). There was no significant difference in outcome measures OKS (p = 0.21), FJS (p = 0.35) and VAS (p = 0.6) between patients in the two groups. There was no significant correlation between the preoperative and postoperative HKA of the patient with postoperative OKS, FJS and VAS in the two groups. There was no statistically significant difference between FJS (p = 0.73) of the three postoperative varus groups. Excellent to good OKS scores were obtained in 98% & 96% of patients in HKA > 15° and HKA < 15° groups respectively.\n\nCONCLUSION: UKA performed in selected patients with large preoperative deformities (> 15º varus) fulfilling Oxford criteria can give satisfactory outcomes in the short to medium term comparable with those with lesser deformity. There was no association between postoperative residual varus and patient reported outcome scores.",
-          "doi": "10.1007/s00402-026-06371-8",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Comparative Study"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42439963/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06371-8",
-          "journal_key": "aots"
         }
       ]
     },
@@ -10951,6 +10946,69 @@
       "is_new": false,
       "count": 120,
       "articles": [
+        {
+          "pmid": "42905143",
+          "title": "Guideline adherence in helicopter versus ground emergency medical services: an indication-based analysis of 129,783 patients from the TraumaRegister DGU®.",
+          "authors": [
+            "Faul P",
+            "Hagebusch P",
+            "Lefering R",
+            "Schweigkofler U",
+            "Aras I",
+            "Egert A",
+            "Koch DA"
+          ],
+          "abstract": "BACKGROUND: Helicopter emergency medical services (HEMS) are associated with higher intervention rates and improved access to specialized trauma centers compared with ground emergency medical services (GEMS). However, it remains unclear whether these differences reflect increased intervention intensity alone or more consistent implementation of guideline-recommended care. This study aimed to compare rates of selected guideline-recommended prehospital trauma interventions between HEMS and GEMS using a nationwide trauma registry.\n\nMETHODS: This retrospective multicenter cohort study was based on data from the TraumaRegister DGU® (TR-DGU) from 2016 to 2024. Adult patients (≥ 16 years) with severe trauma, defined as maximum Abbreviated Injury Scale (MAIS) ≥ 3, receiving physician-staffed prehospital care and primary admission to German trauma centers were included. After exclusion of secondary transfers, missing key data, and treatment in local trauma centers (level 3), 129,783 patients remained, of whom 25.0% were transported by HEMS. Rates of selected interventions recommended by the German S3 guideline on the treatment of polytrauma/severe injuries were assessed using predefined indication-based subgroups derived from available registry variables as surrogates for potential clinical indications to improve comparability between transport modalities. Analyses were performed descriptively.\n\nRESULTS: Patients transported by HEMS were younger and more severely injured than those transported by GEMS (mean ISS 23.5 vs. 20.8; ISS ≥ 16: 72.9% vs. 65.4%) and more frequently presented with impaired consciousness and shock. Across all predefined indication-based subgroups, HEMS was associated with higher rates of the evaluated interventions, including advanced airway management in patients with impaired consciousness (96.5% vs. 82.9%), overall chest tube placement in patients with thoracic injuries consistent with pneumothorax (50.5% vs. 40.9%), with substantially higher rates of prehospital chest tube placement in HEMS (14.0% vs. 5.5%), pelvic stabilization in patients with pelvic injuries of AIS severity 3-5 (56.7% vs. 44.0%), cervical spine immobilization in cervical spine injuries (84.1% vs. 77.7%), and tranexamic acid administration in suspected major bleeding (48.7% vs. 22.8%).\n\nCONCLUSION: In this nationwide trauma registry analysis, HEMS was consistently associated with higher rates of selected guideline-related interventions across predefined indication-based subgroups. By focusing on patients with predefined guideline-related indications, the present study aimed to improve comparability between HEMS and GEMS beyond crude intervention frequencies. Nevertheless, the observed differences should be interpreted in the context of the observational study design and residual indication-related confounding. Higher intervention rates do not necessarily indicate superior guideline adherence or quality of care in individual patients.\n\nLEVEL OF EVIDENCE: III, retrospective comparative cohort study.",
+          "doi": "10.1007/s00068-026-03367-2",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Multicenter Study",
+            "Comparative Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42905143/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03367-2",
+          "journal_key": "ejtes"
+        },
+        {
+          "pmid": "42905142",
+          "title": "Preoperative prevalence and risk factors for thromboembolic events following tibial plateau fractures: a retrospective analysis of an underestimated risk.",
+          "authors": [
+            "Herold J",
+            "Lorenz ED",
+            "Eymann H",
+            "Lohse F",
+            "Kamin K",
+            "Walther EJ",
+            "Mäder M",
+            "Panchyrz I",
+            "Werth S",
+            "Weiss N",
+            "Kleber C",
+            "Schaser KD"
+          ],
+          "abstract": "BACKGROUND: Tibial plateau fractures (TPF) are complex intra-articular injuries carrying a high risk of deep vein thrombosis (DVT), muscular vein thrombosis (MVT) and pulmonary embolism (PE). Preoperative thrombosis is frequently clinically silent yet may cause serious complications, whereas its detection delays definitive surgery. This study assessed the prevalence and risk factors of preoperative venous thromboembolic events (VTE) in surgically treated TPF before and after implementation of routine duplex ultrasound screening.\n\nMETHODS: In this retrospective single-centre study at a level 1 trauma centre, all adult patients surgically treated for traumatic TPF (AO 41B/C) between January 2015 and August 2025 were reviewed (547 patients, 554 fractures). Until August 2020 duplex ultrasound (DUS) was performed only on clinical suspicion; from August 2020 onward routine preoperative DUS was progressively implemented. VTE were confirmed by DUS or CT angiography. Prevalences are reported per fracture and patient characteristics per patient; regression analyses were performed at fracture level, except for the patient-related model.\n\nRESULTS: With DUS restricted to clinical suspicion (cohort A; 246 fractures), the detected prevalence of preoperative VTE was 3.7% (95% CI 1.9-6.8) and that of DVT 2.4% (1.1-5.2). Under routine screening (cohort B; 205 screened fractures) it was 20.0% (15.1-26.0) and 17.1% (12.5-22.8), respectively, 82.9% of DVT being distal. Given the different diagnostic strategies, this reflects the higher diagnostic yield of screening rather than a true increase in VTE. In cohort B, 28 of 41 VTE (68.3%) and 24 of 35 DVT (68.6%) were clinically silent. Two patients had in-hospital cardiac arrest from PE: one died from a DVT undetected before screening was introduced, the other had an asymptomatic DVT identified by screening. VTE was independently associated with pre-existing therapeutic anticoagulation (adjusted OR 2.96, 95% CI 1.10-7.98) and with the duration of external fixation (adjusted OR 1.11 per day, 1.02-1.20). High-grade closed soft-tissue injury (adjusted OR 2.41, 1.07-5.45), polytrauma (adjusted OR 2.24, 1.07-4.68) and initial external fixation (univariable OR 3.60, 1.76-7.35) were also associated with VTE, but none remained significant after accounting for fixation duration (adjusted OR 1.42, 0.52-3.89; 1.96, 0.76-5.05; 0.62, 0.12-3.27), i.e. risk was driven by time in the fixator rather than by external fixation as such.\n\nCONCLUSIONS: Surgically treated TPF carry a substantial burden of preoperative VTE, and routine DUS reveals a high proportion of clinically silent thrombosis that would otherwise remain undetected. Severe closed soft-tissue injury, pre-existing therapeutic anticoagulation and, above all, the duration of external fixation may help to identify patients at increased risk. As two diagnostic rather than two treatment strategies were compared, the study cannot determine whether screening improves outcomes or reduces PE; prospective evaluation of structured screening and risk-adapted thromboprophylaxis is warranted.",
+          "doi": "10.1007/s00068-026-03371-6",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42905142/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03371-6",
+          "journal_key": "ejtes"
+        },
         {
           "pmid": "42895566",
           "title": "Emergency surgery for blunt abdominal trauma in polytrauma - the impact of time to laparotomy on outcomes.",
@@ -14339,63 +14397,6 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42340407/",
           "doi_url": "https://doi.org/10.1007/s00068-026-03147-y",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42340395",
-          "title": "Delayed single-stage surgical management using a peroneus brevis muscle flap for fracture-related infection after lateral malleolus fixation: a retrospective case series.",
-          "authors": [
-            "Dyreborg K",
-            "Jørgensen AI",
-            "Peterlin AAN",
-            "Gottlieb H"
-          ],
-          "abstract": "BACKGROUND: Fracture-related infection (FRI) following lateral malleolus fracture fixation complicated by soft tissue breakdown represents a challenging clinical problem with no established standard of care. This study evaluates a treatment strategy consisting of prolonged antibiotic suppression until fracture union, followed by delayed single-stage surgical management.\n\nMETHODS: This retrospective consecutive case series included 11 patients treated between 2020 and 2023 at a multidisciplinary orthopaedic infection unit. All patients were managed according to a standardized protocol involving oral antibiotic suppression until radiologically confirmed fracture consolidation. This was followed by a single-stage surgical procedure including implant removal, radical debridement, deep tissue sampling, local antibiotic therapy, and soft tissue reconstruction using a distally based peroneus brevis muscle flap with split-thickness skin grafting.\n\nRESULTS: Eleven consecutive patients (median age 58 years) were treated according to the protocol. Six patients underwent antibiotic suppression for a median duration of 147 days prior to surgery. Among patients available for outcome assessment, infection control was achieved in 10 of 10 surviving patients. One patient died of unrelated causes within 14 days postoperatively and was not classified as treatment failure. Soft tissue complications were common, with partial flap necrosis occurring in 4 patients (36%) and split-skin graft loss in 6 patients (55%), predominantly managed conservatively.\n\nCONCLUSIONS: Delayed single-stage surgical management following prolonged antibiotic suppression may represent a feasible treatment strategy for selected patients with FRI after lateral malleolus fixation. However, the high rate of soft tissue complications and the limited sample size warrant cautious interpretation. Further comparative studies are needed to define the role of this approach.",
-          "doi": "10.1007/s00068-026-03223-3",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Letter"
-          ],
-          "section": "Letter",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42340395/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03223-3",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42329453",
-          "title": "Mixed reality improves agreement on surgical approach selection and patient positioning in tibial plateau fracture planning compared to CT, 3DCT and 3D printing.",
-          "authors": [
-            "Dust T",
-            "Henneberg JE",
-            "Hartel M",
-            "Reiter A",
-            "Kylies J",
-            "Korthaus A",
-            "Streckenbach A",
-            "Keller J",
-            "Frosch KH",
-            "Krause M"
-          ],
-          "abstract": "PURPOSE: Tibial plateau fractures require precise preoperative planning, particularly regarding treatment concept, patient positioning, and surgical approach. Mixed reality (MR) may enhance three-dimensional understanding of fracture morphology beyond conventional imaging and physical 3D models. This study investigated whether MR improves agreement on key preoperative planning decisions compared to computed tomography (CT), 3D computed tomography (3DCT), and 3D-printed fracture models.\n\nMETHODS: Twelve orthopaedic trauma surgeons (6 junior, 6 senior) evaluated 22 surgically treated tibial plateau fractures (AO/OTA type B or C). Each case was assessed in four steps using (1) CT, (2) 3DCT reconstructions, (3) physical 3D-printed models, and (4) MR visualization using Microsoft Hololens 2. Raters selected (i) treatment concept, (ii) patient positioning, and (iii) surgical approach. Interobserver agreement was analysed using Fleiss' kappa (κ) and percentage match (PM).\n\nRESULTS: Mixed Reality (MR) yielded the highest interobserver agreement for both surgical approach (PM 32%, κ = 0.30) and patient positioning (PM 57%, κ = 0.35), particularly among junior surgeons (approach PM 39%, κ = 0.28; positioning PM 57%, κ = 0.39). Compared to CT, 3DCT, and 3D printing, MR demonstrated consistent improvements, while agreement on treatment concepts remained high across all modalities (PM > 82%).\n\nCONCLUSION: Mixed Reality (MR) improved interobserver agreement in preoperative planning for tibial plateau fractures, particularly for surgical approach selection and patient positioning. These effects were most pronounced among less experienced raters, highlighting MR's role as a cognitive support tool and a promising instrument in surgical education. Compared to conventional imaging and 3D printing, MR provided dynamic interaction and greater planning flexibility. While further clinical validation is required, these findings support MR as a valuable adjunct in orthopaedic trauma planning.\n\nLEVEL OF EVIDENCE: Level II.",
-          "doi": "10.1007/s00068-026-03230-4",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Comparative Study"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42329453/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03230-4",
           "journal_key": "ejtes"
         }
       ]
