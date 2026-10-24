@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T12:13:57Z",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T11:41:26Z",
   "counts": {
-    "articles": 509,
+    "articles": 520,
     "journals_with_articles": 10,
     "journals_searched": 11,
-    "new_issues": 1
+    "new_issues": 0
   },
   "groups": [
     {
@@ -2084,7 +2084,7 @@
       "issue": "20",
       "pub_year": "2026",
       "pub_month": "Oct",
-      "is_new": true,
+      "is_new": false,
       "count": 17,
       "articles": [
         {
@@ -5984,6 +5984,112 @@
       "count": 120,
       "articles": [
         {
+          "pmid": "42918971",
+          "title": "Comparison of surgically treated floating elbow injuries and supracondylar humeral fractures in children.",
+          "authors": [
+            "Liu B",
+            "Ren P",
+            "Su Y"
+          ],
+          "abstract": "OBJECTIVES: Floating elbow is a rare injury type in pediatric fractures. This study compared the differences in injury mechanisms, treatment modalities, complications and prognosis between floating elbow injury and supracondylar humerus fractures (SHF) in children in a surgically treated cohort.\n\nMETHODS: The retrospective analysis included patients with floating elbow and SHF treated at our hospital between May 2016 and May 2023. Sex, age, body mass index (BMI), mechanism of injury, affected limb, fracture displacement, presence of neurovascularinjury, type of injury, Gartland classification, and acute compartment syndrome (ACS) were analyzed. Elbow function was evaluated using the Mayo Elbow Performance Score (MEPS). ACS was defined by clinical criteria including pain, paresthesia, and/or compartment pressure > 30 mmHg.\n\nRESULTS: A total of 113 children were enrolled, including 27 in the floating elbow group (22 males, 5 females, median age 8 years [IQR 6-11 years]), and 86 in the SHF group (58 males, 28 females, median age 8 years [IQR 5-10 years]). Mechanism of injury (p = 0.001), fracture type (p = 0.003), and preoperative nerve injury (p = 0.001) differed significantly between the two groups. ACS incidence differed significantly between open and closed fractures in the floating elbow group (p = 0.028); however, this finding is based on a small number of events.\n\nCONCLUSION: In this surgically treated cohort, we did not detect statistically significant differences in elbow function outcomes between children with floating elbow and those with isolated SHF. Open fractures were associated with a higher incidence of ACS in the floating elbow group compared with closed fractures, although the number of events was small (p = 0.028). Larger studies are needed to confirm equivalence or identify clinically meaningful differences.\n\nLEVEL OF EVIDENCE: III.",
+          "doi": "10.1007/s00402-026-06427-9",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Comparative Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42918971/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06427-9",
+          "journal_key": "aots"
+        },
+        {
+          "pmid": "42918921",
+          "title": "Platelet-rich plasma for knee osteoarthritis: a systematic review and meta-analysis of structural outcomes.",
+          "authors": [
+            "Pasqualotto E",
+            "Pasqualotto T",
+            "Lunelli L",
+            "de Sousa FB",
+            "Funchal LFZ",
+            "Dos Reis FB"
+          ],
+          "abstract": "PURPOSE: To assess the impact of platelet-rich plasma (PRP) on imaging-based structural outcomes in patients with knee osteoarthritis (OA).\n\nMETHODS: PubMed, Embase, and the Cochrane Library were systematically searched for randomized controlled trials (RCTs) published up to May 2026 evaluating imaging-based structural effects of PRP in knee OA. Risk ratio (RR) was used to evaluate binary outcomes and standardized mean differences (SMDs) or mean differences (MDs) for continuous endpoints, with 95% confidence intervals (CIs).\n\nRESULTS: A total of 12 RCTs involving 1,200 patients were included. PRP was associated with greater improvement in patellofemoral cartilage thickness/volume compared with control treatments (SMD 0.94; 95% CI, 0.53 to 1.34), whereas no significant differences were observed for medial tibial cartilage thickness/volume or cartilage defect progression. Magnetic resonance imaging (MRI)-based structural scores showed no between-group differences in Whole-Organ Magnetic Resonance Imaging Score (WORMS) osteophytes or subchondral cysts, although PRP demonstrated a significant reduction in bone marrow edema (SMD - 0.40; 95% CI, - 0.71 to - 0.09). Synovitis did not differ overall between groups (SMD - 0.22; 95% CI, - 0.43 to 0.00).\n\nCONCLUSION: In this systematic review and meta-analysis, PRP demonstrated limited and inconsistent effects on imaging-based structural outcomes in knee OA, and did not confer significant and consistent benefits in medial tibial cartilage measurements, cartilage defect progression, synovitis, or most WORMS domains. The favorable findings observed for patellofemoral cartilage and bone marrow edema should be interpreted with caution. Thus, the findings do not provide clear evidence supporting PRP as a structural disease-modifying treatment, and additional high-quality RCTs using standardized imaging endpoints are warranted.",
+          "doi": "10.1007/s00402-026-06543-6",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Systematic Review",
+            "Meta-Analysis",
+            "Review"
+          ],
+          "section": "Systematic Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42918921/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06543-6",
+          "journal_key": "aots"
+        },
+        {
+          "pmid": "42918917",
+          "title": "First-in-human prospective pilot study of a bipolar dual-center total wrist arthroplasty: early mechanical stability and clinical outcomes.",
+          "authors": [
+            "Israeli R",
+            "Gorelick L",
+            "Gannot G",
+            "Oron A"
+          ],
+          "abstract": "PURPOSE: Total wrist arthroplasty (TWA) is limited by implant loosening, instability, and non-physiological load transfer, partly because most contemporary implants rely on a single center of rotation and do not preserve native wrist kinematics. This first-in-human pilot study evaluated the feasibility, early mechanical stability, and clinical outcomes of a novel bipolar dual-center TWA system designed to preserve radiocarpal and midcarpal motion.\n\nMETHODS: This prospective single-center pilot case series included five consecutive patients with end-stage wrist arthritis treated with a bipolar dual-center TWA implant using cement fixation, as per the device's intended use. The outcome measures included pain assessed using the pain subscale of the Patient-Rated Wrist Evaluation (PRWE) questionnaire (normalized to a 0-10 scale), total PRWE score, DASH score, range of motion, grip strength, radiographic implant stability, complications, and reoperation. Clinical outcomes were assessed at the most recent follow-up visit.\n\nRESULTS: The mean follow-up was 19.2 months (range, 12-24 months), with 24-month data available for three patients. Implant survivorship was 100%, with no loosening, migration, dislocation, or implant revision observed on radiographs. One patient experienced a traumatic postoperative fall without loss of implant fixation. The mean PRWE-derived pain score improved from 9.0 to 3.0, and the mean PRWE total improved from 84.6 to 23.2 at the final follow-up. The mean DASH score improved from 79.0 to 29.5, with substantial inter-patient variability (final range, 0-91.7). All five patients met the predefined responder criterion of ΔPRWE ≥ 20 combined with radiographic stability. Three patients with positive preoperative signs of carpal tunnel syndrome subsequently underwent carpal tunnel release 4-8 months postoperatively, with symptomatic improvement in all patients. One intraoperative carpal fracture was managed without component revision surgery. The mean wrist flexion improved from 13° to 37°, and extension improved from 11° to 32°.\n\nCONCLUSIONS: This first-in-human pilot study demonstrated the technical feasibility and early mechanical stability of the bipolar dual-center TWA concept. All patients met the predefined wrist-specific responder criteria with stable mechanical implant fixation. These findings support further investigation of the dual-center concept in larger studies with longer follow-up periods.",
+          "doi": "10.1007/s00402-026-06493-z",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42918917/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06493-z",
+          "journal_key": "aots"
+        },
+        {
+          "pmid": "42918915",
+          "title": "The reliability and validity of the 30-Second Fast-Paced Walk Test in patients with total knee arthroplasty.",
+          "authors": [
+            "Unver B",
+            "Ozcan D",
+            "Sevik Kacmaz K",
+            "Karatosun V"
+          ],
+          "abstract": "BACKGROUND: Walking speed is a significant measure of functional ability and recovery after total knee arthroplasty (TKA). The 30-Second Fast-Paced Walk Test (30SFW) is a simple, low-cost, and easy-to-administer assessment method that evaluates short-distance walking ability.\n\nOBJECTIVE: To investigate the reliability and validity of the 30SFW test in patients with TKA.\n\nMETHODS: This study was designed as a repeated-measures study conducted by one assessor. 38 patients with TKA who had undergone primary TKA at least 6 months earlier (mean age 70.11 ± 10.19 years) were included in the study. The 30SFW, the Hospital for Special Surgery (HSS) Knee Score, and Short Form (SF)-12 Quality of Life Questionnaire were administered to the patients. The 30SFW was administered twice at a single center on the same day, with an hour-long rest interval between sessions.\n\nRESULTS: The test-retest reliability of the 30SFW was excellent. The intraclass correlation coefficient (ICC [2, 1]), minimal detectable change (MDC95), and standard error of the measurement (SEM) values were 0.98, 2.91, and 1.05, respectively, at the 95% confidence level. The Pearson correlation coefficient of the 30SFW with the physical component of the SF-12 was 0.45 (p = 0.005).\n\nCONCLUSION: The 30SFW has excellent test-retest reliability and moderate concurrent validity in assessing walking ability in patients with TKA. The MDC95 was 2.91 m, indicating the minimum change required to exceed measurement error under similar testing conditions. Further studies are needed to determine the clinically important change and responsiveness of the 30SFW in this population.",
+          "doi": "10.1007/s00402-026-06507-w",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Validation Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42918915/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06507-w",
+          "journal_key": "aots"
+        },
+        {
           "pmid": "42907683",
           "title": "Net present value analysis of total salary compensation in hand surgery: academic versus non-academic careers.",
           "authors": [
@@ -9169,111 +9275,6 @@
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42472728/",
           "doi_url": "https://doi.org/10.1007/s00402-026-06426-w",
           "journal_key": "aots"
-        },
-        {
-          "pmid": "42471531",
-          "title": "Robotic-arm assistance in revision total hip arthroplasty improves the accuracy of acetabular component positioning: a cadaver-based study.",
-          "authors": [
-            "Fitzgerald K",
-            "Borukhov I",
-            "Chandra V",
-            "Smitterberg C",
-            "Mont MA",
-            "LiArno S"
-          ],
-          "abstract": "INTRODUCTION: Acetabular component positioning is a key factor for stability, impingement, wear, and biomechanics in revision total hip arthroplasty (THA). However, anatomic distortion and previous implants may complicate positioning. Although evidence on computed-tomography (CT)-based robotic assistance in revision THA is limited, its planning features and precision may improve surgical plan execution. This study aimed to measure the precision and accuracy of acetabular component positioning of revision robotic-arm assisted total hip arthroplasty (RA-THA) compared with a published manual primary total hip arthroplasty (M-THA) benchmark for: (a) acetabular inclination; (b) acetabular version; and (c) center of rotation (COR), with comparison by surgeon case volume.\n\nMATERIALS AND METHODS: There were seven cadavers (nine hips) that previously underwent primary THA revised with RA-THA by independent surgeons with varying primary RA-THA case volumes, surgical approaches, and acetabular component types. Due to surgical protocol deviations, two hips were excluded leaving seven hips from six cadavers. Pre- and postoperative CT scans were compared to calculate absolute error for inclination, version, and COR; normality was established with the Anderson-Darling test and two-variance tests assessed differences in standard deviations (α = 0.05). Mean differences between cadaver-based revision RA-THA and published M-THA values were compared with Welch's t-test for superiority (α = 0.05). Effect sizes were reported as mean differences with 95% upper bounds and sensitivity analyses were performed given the fixed sample size.\n\nRESULTS: Revision RA-THA demonstrated significantly greater accuracy for acetabular inclination (2.5 ± 1.9° versus 7.2 ± 3.2°, P = 0.008) and version (2.2 ± 1.6° versus 7.8 ± 4.6°, P = 0.014), and significantly greater precision for acetabular version (P = 0.023) compared with M-THA. There was adirectionally lower error for COR compared with M-THA. Mean error reductions were 5.7° for version and 4.7º for inclination with 95% upper bounds of -1.9 for both version and inclination. Low RA-THA surgical volume corresponded with the highest absolute error for shell inclination (5.5º) and version (5.0º), though values remained below published M-THA averages.\n\nCONCLUSIONS: Revision RA-THA reduced error in both acetabular inclination and acetabular version, and variability in acetabular version relative to the M-THA benchmark. Although these results relate only to technical performance, accurate acetabular positioning in clinical practice is an important factor in reducing the risk of malposition-related complications in revision THA.",
-          "doi": "10.1007/s00402-026-06395-0",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42471531/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06395-0",
-          "journal_key": "aots"
-        },
-        {
-          "pmid": "42467263",
-          "title": "Correction: Modified rotational wedge distal metatarsal osteotomy versus chevron osteotomy for hallux valgus: long-term radiographic and clinical outcomes.",
-          "authors": [
-            "Aybar A",
-            "Gokkus K",
-            "Özden E",
-            "Çetin MH",
-            "Çetin MÜ"
-          ],
-          "abstract": "",
-          "doi": "10.1007/s00402-026-06420-2",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Published Erratum"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42467263/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06420-2",
-          "journal_key": "aots"
-        },
-        {
-          "pmid": "42467261",
-          "title": "Isolated compartment arthrosis of the knee: contemporary concepts, persistent controversies, and future directions in unicompartmental knee arthroplasty.",
-          "authors": [
-            "Akkaya M",
-            "Innocenti M"
-          ],
-          "abstract": "",
-          "doi": "10.1007/s00402-026-06409-x",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Editorial"
-          ],
-          "section": "Editorial",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42467261/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06409-x",
-          "journal_key": "aots"
-        },
-        {
-          "pmid": "42467259",
-          "title": "Preoperative lower radiographic osteoarthritis severity in primary total knee arthroplasty increases revision risk by tenfold compared to severe osteoarthritis.",
-          "authors": [
-            "Stroobant L",
-            "Vermue H",
-            "Droogsma T",
-            "Van Onsem S",
-            "Arnout N",
-            "van Hellemondt GG",
-            "Victor J",
-            "Heesterbeek PJC"
-          ],
-          "abstract": "BACKGROUND: Dissatisfaction following primary total knee arthroplasty (pTKA) is higher in patients with preoperative low-grade osteoarthritis (OA), but its impact on revision risk remains unclear.\n\nQUESTIONS/PURPOSES: This study aimed to identify predictors for revision surgery within 10 years following pTKA, focusing on radiographic severity of OA using the Kellgren-Lawrence (KL) grading system, along with other demographic and radiographic factors.\n\nPATIENTS AND METHODS: This retrospective case-control study was conducted at two European tertiary referral centers. The case group included 142 patients who underwent aseptic revision total knee arthroplasty (rTKA) between 2007 and 2023, within 10 years following pTKA. A 2:1 control group of 284 patients who had pTKA between 2011 and 2014, with no revision surgery within 10 years, was selected. Collected data included age, sex, body mass index (BMI), side of surgery, and American Society of Anesthesiologists (ASA) classification. Radiographic data were collected, requiring a preoperative radiograph to assess the KL grade. Univariate analyses identified potential predictors for rTKA, and multivariable logistic regression assessed their relationship with revision risk.\n\nRESULTS: Patients requiring rTKA were significantly younger at the time of pTKA. For each additional year of age, the revision risk decreased by 6% (OR 0.94, 95% CI 0.92 to 0.97; p < 0.001). Men were at a fourfold higher risk for revision compared to women (OR 4.01, 95% CI 2.41 to 6.69; p < 0.001). Patients with KL grade 2 OA were ten times more likely to need revision compared to those with KL grade 4 (OR 10.12, 95% CI 5.19 to 19.74; p < 0.001).\n\nCONCLUSIONS: Revision surgery risk following pTKA was associated with younger age, male sex, and less severe OA. These results emphasize the importance of appropriate patient selection for pTKA, enabling better identification of high-risk patients and improving preoperative counselling to optimize long-term outcomes.\n\nLEVEL OF EVIDENCE: III.",
-          "doi": "10.1007/s00402-026-06394-1",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42467259/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06394-1",
-          "journal_key": "aots"
         }
       ]
     },
@@ -9286,8 +9287,239 @@
       "pub_year": "2026",
       "pub_month": "Oct",
       "is_new": false,
-      "count": 58,
+      "count": 69,
       "articles": [
+        {
+          "pmid": "42914722",
+          "title": "Bacterial cellulose-sericin gold nanoparticle conduit functionalized with GDNF for peripheral nerve regeneration: An experimental sciatic nerve injury model in rats.",
+          "authors": [
+            "Maral F",
+            "Yasinoglu N",
+            "Icbudak F",
+            "Cevik S",
+            "Unal S",
+            "Karaca BT",
+            "Akdeniz Z",
+            "Elmas MA",
+            "Sehirli US",
+            "Arifoglu Y",
+            "Kirazli O"
+          ],
+          "abstract": "OBJECTIVE: Although the application of autografts continues to be regarded as the gold standard for the treatment of peripheral nerve injuries, there exists a necessity for alternative grafting materials. This study investigates the effects of a nerve conduit obtained from bacterial cellulose (BC) membranes modified with gold nanoparticles (AuNP) and functionalized with the GDNF neurotrophic factor on repair in peripheral nerve injury.\n\nMETHODS: Bacterial cellulose membranes obtained from Gluconacetobacter xylinus cell culture were modified with sericin-gold nanoparticles produced by green synthesis and functionalized with glial-derived neurotrophic factor to become conduits. A unilateral 8 mm sciatic nerve defect was created in Wistar rats (n = 21). Rats were divided into three groups as autograft (n = 7), BC-AuNP (n = 7), and BC-AuNP/GDNF (n = 7). Gait analysis and electromyography (EMG) measurements were performed at the end of the 8th week. Tissues from the sciatic nerve were obtained for histological and immunohistochemical analysis.\n\nRESULTS: By the result of the 8th week, the BC-AuNPs/GDNF group attained results comparable to those of the autograft group, as indicated by the sciatic function index derived from gait analysis and EMG measurements. Examinations of axon diameters, myelin sheath thickness, and vessel count demonstrated that the autograft and BC-AuNPs/GDNF groups exhibited significantly elevated values in comparison to the BC-AuNPs group.\n\nCONCLUSION: In the management of peripheral nerve injury, the application of BC-AuNP/GDNF yielded healing outcomes that were comparable to those achieved through autograft, both functionally and histologically.",
+          "doi": "10.1016/j.injury.2026.113801",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42914722/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113801",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42914720",
+          "title": "Profound motorcycle risks: a national mileage exposure-adjusted analysis.",
+          "authors": [
+            "Pottayil F",
+            "Rider DE",
+            "Parry JA",
+            "Large TM"
+          ],
+          "abstract": "BACKGROUND: Motorcycle crashes (MCC) account for a minority of vehicle miles in the United States, but their exposure-adjusted burden among trauma admissions is not well defined. The purpose of this study was to compare the injury burden of MCC versus motor vehicle crashes (MVC) using outcomes standardized by annual vehicle miles traveled (VMT).\n\nMETHODS: A retrospective cohort study of American College of Surgeons Trauma Quality Programs (ACS-TQP) admissions from 2017 to 2023 was performed for adults aged 18-80 years admitted after MCC or MVC. Primary outcomes were admission, intensive care unit (ICU) admission, amputation, and in-hospital mortality per 100 million VMT using Federal Highway Administration denominators. Motorcycle VMT was used for MCC, and light-duty vehicle VMT was used for MVC. Secondary outcomes included Injury Severity Score thresholds (≥16 and ≥25), severe head/neck injury, open long-bone fracture, ventilation, and return to the operating room. Relative risks (RRs) were estimated using binomial regression models with a log link.\n\nRESULTS: Among 1,419,094 admissions, 334,310 followed MCC and 1,084,784 followed MVC. MCC accounted for 23.6% of admissions but only 0.71% of included VMT. Per 100 million VMT, MCC had higher rates of admission (236.4 vs. 5.49; rate ratio, 43.0), ICU admission (70.8 vs. 1.57; rate ratio, 45.1), amputation (5.06 vs. 0.028; rate ratio, 183.0), and in-hospital mortality (6.4 vs. 0.12; rate ratio, 51.6). Among admitted patients, MCC was associated with higher risks of open long-bone fracture (14.7% vs. 6.6%; RR, 2.22), amputation (2.1% vs. 0.5%; RR, 4.25), and in-hospital mortality (2.7% vs. 2.2%; RR, 1.20).\n\nCONCLUSIONS: MCCs contribute a disproportionately high burden of severe trauma in the United States, with higher mileage-adjusted rates of ICU admission, amputation, and in-hospital mortality than MVCs.",
+          "doi": "10.1016/j.injury.2026.113777",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42914720/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113777",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42914724",
+          "title": "Comparative study of autologous bone graft and bone morphogenetic protein-2 for bone regeneration using a novel rabbit Masquelet technique model.",
+          "authors": [
+            "Yamamoto Y",
+            "Fukui T",
+            "Kumabe Y",
+            "Sawauchi K",
+            "Yoshikawa R",
+            "Takase K",
+            "Nishida R",
+            "Kondo H",
+            "Niikura T",
+            "Kuroda R",
+            "Oe K"
+          ],
+          "abstract": "The Masquelet technique is widely used for reconstructing critical-sized bone defects; however, autologous bone grafting (ABG) is associated with donor-site morbidity such as pain and bleeding. Bone morphogenetic protein-2 (BMP-2) has attracted attention as a potential alternative strategy for promoting bone regeneration. Studies on direct comparisons between BMP-2 and autologous bone grafting within the context of the Masquelet technique are limited. The purpose of this study was to establish a novel rabbit femoral Masquelet model and compare the bone regenerative capacity of ABG with β-tricalcium phosphate (β-TCP) loaded with BMP-2. A 20-mm segmental defect was created in the femur of 24-week-old New Zealand White rabbits and stabilized with a locking plate. The defect was filled with polymethyl methacrylate cement, which was removed four weeks later to induce membrane formation. The defect was subsequently filled with autologous iliac bone (ABG group) or β-TCP granules containing BMP-2 (BMP-2 group). Bone regeneration was evaluated 12 weeks after the second surgery using radiographic, histological, micro-computed tomography (μCT), and biomechanical analyses. Radiographic evaluation demonstrated satisfactory bone union in both groups, without substantial difference in union rate. Histological analysis showed cortical continuity and new bone formation in both groups. μ-CT revealed that the bone volume/tissue volume ratio of total calcified callus was significantly higher in the ABG group, whereas the tissue mineral density was significantly higher in the BMP-2 group. Biomechanical testing showed no significant differences in ultimate stress, extrinsic stiffness, or failure energy between the two groups. In this rabbit femoral Masquelet model, BMP-2 delivered with β-TCP achieved bone regeneration comparable to that of autologous bone grafting. These findings suggest that BMP-2 may represent a promising option for bone reconstruction using the Masquelet technique.",
+          "doi": "10.1016/j.injury.2026.113800",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42914724/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113800",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42914723",
+          "title": "Oxidative stress in osteoarthritis: From mitochondrial homeostasis to targeted delivery systems.",
+          "authors": [
+            "Zhang Q",
+            "Li Q"
+          ],
+          "abstract": "Osteoarthritis (OA) is a chronic joint disease characterized by cartilage degradation, in which oxidative stress and mitochondrial dysfunction play a pivotal role. Excessive reactive oxygen species (ROS) production, driven by inflammation, metabolic reprogramming, and systemic risk factors, leads to mitochondrial damage, impaired mitophagy, and disrupted mitochondrial dynamics, forming a vicious cycle that accelerates OA progression. Although traditional antioxidant molecules show therapeutic potential, their rapid clearance from the joint cavity limits clinical efficacy. Recent advances in tissue engineering and smart delivery systems-such as ROS-responsive hydrogels, microspheres/nanocarriers, and exosome-based platforms-enable targeted, sustained, and on-demand drug release, offering new opportunities to restore redox balance and break the pathological amplification loop. This review systematically summarizes the molecular mechanisms linking oxidative stress to mitochondrial homeostasis in OA and highlights the design principles and application status of emerging delivery strategies, aiming to provide a theoretical foundation for next-generation precision therapies.",
+          "doi": "10.1016/j.injury.2026.113802",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42914723/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113802",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42914719",
+          "title": "Prognostic factors and visual outcomes in badminton-related ocular injuries: A retrospective study.",
+          "authors": [
+            "Tara D",
+            "Agrawal R",
+            "Hoskin A",
+            "Natarajan R",
+            "Thigale UY",
+            "Vuyyuru S",
+            "Shetty PA",
+            "Woreta FA",
+            "Bhalerao SA"
+          ],
+          "abstract": "PURPOSE: To evaluate a large cohort of eye patients from India for the epidemiology, clinical presentation, and visual outcomes of ocular injuries sustained while playing badminton.\n\nMETHODS: Medical records of patients presenting with badminton-related ocular injuries were reviewed to compare the predicted visual outcome with that stipulated by the Ocular Trauma Score (OTS). The patients' data on demographics, mode of injury, clinical evaluation, and treatment modalities were compiled, analysed and interpreted to contrast alongside OTS, the standardised prediction of visual outcomes after indexing the severity of eye injury.\n\nRESULTS: A total of 486 patients were included. Blunt trauma from being hit by badminton shuttlecock was the most common mechanism, followed by racquet injury, and spectacle injury. Closed-globe injury was predominant (97.33%). None of the players were using protective eyewear. Visual prognosis was generally favourable in closed-globe injury (mean final BCVA 0.32 ± 0.56 logMAR) compared to open-globe injury (0.46 ± 0.68 logMAR). Significant predictors of visual outcome included presenting BCVA, early post-injury BCVA, cataract, secondary glaucoma, optic disc involvement, iridodialysis, and OTS. OTS categories 3-5 showed better visual outcomes than predicted by the original OTS model.\n\nCONCLUSION: Closed-globe injury represented the most common injury in badminton-related ophthalmic trauma. Initial visual acuity, lens status, optic disc involvement, secondary glaucoma, eye surgery performed, OTS score and posterior segment injury were statistically significant in predicting final visual outcomes. Additionally, this study emphasizes how important it is to use protective glasses when playing badminton.",
+          "doi": "10.1016/j.injury.2026.113780",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42914719/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113780",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42914721",
+          "title": "How have management and outcomes of periprosthetic proximal femoral fractures changed? A comparison of two 8 year time periods in a high volume centre.",
+          "authors": [
+            "Toner E",
+            "Madden-McKee C",
+            "Goodland C",
+            "Curran A",
+            "Cassidy R",
+            "Karayiannis P",
+            "Tucker A",
+            "Diamond O"
+          ],
+          "abstract": "BACKGROUND: Periprosthetic femoral fractures (PFFs) are now the leading cause of major reoperation following total hip arthroplasty (THA). Patients are often frail and surgeries increasingly complex. We reviewed PFFs over two consecutive 8-year periods to analyse trends in incidence, management and outcomes to assess the evolving clinical and service impacts.\n\nMETHODS: A retrospective review was conducted using data from the Fracture Outcomes Research Database (FORD) and the National Hip Fracture Database (NHFD) across two 8-year periods (2007-2015 and 2016-2024). Radiographic and clinical records were reviewed. Fracture classification, management, comorbidities and mortality were recorded and compared. A regression analysis was performed to determine co-morbidities that significantly increased the risk of 12-month mortality. In the 2016-2024 period, data on re-operations rates were recorded.\n\nRESULTS: PFF increased from 189 to 320 across the two periods, totalling 509 patients. The incidence of Vancouver B2 fractures increased more than 1.5x, rising from 42/189 (22.2%) to 117/320 (36.6%) patients. Fixation remained the most common treatment across the two periods (75.1% and 63.4%), while revision arthroplasty was performed in 22.8% and 18.4% respectively. B2 fracture management changed significantly with fixation increasing (59% v 9.5%; p < 0.001) and revision arthroplasty rates decreasing (38.5% vs 85.7%; p < 0.001). Time to theatre improved (5-3.7 days; p = 0.028) and a higher proportion of patients returned to their pre-injury residence (30.2%; 57/189 vs 39%; 96/320, p = 0.068). No difference in mortality was observed at 30 days (2.6-3.1%; p = 0.796) or 90 days (5.8% vs 9.1%; p = 0.233) but mortality was higher at 12 months (12.2-20%; p = 0.028). ASA 4 patients increased (14%; 25/179; vs 29.1%; 82/282, OR = 2.526 (95% CI 1.54-4.14), p < 0.001). Re-operation rates were lower in the fixation group than in the revision group (12; 5.9% vs 8; 13.6%; p = 0.095).\n\nCONCLUSION: The incidence and mortality associated with PFFs are rising within our unit, despite improved time to theatre and improved discharge outcomes. This trend may reflect a frailer cohort with higher ASA grades. We demonstrate a shift in practice, with more B2 fractures treated with fixation, achieving good outcomes suggesting fixation may be a safe treatment option in selected frail patients.",
+          "doi": "10.1016/j.injury.2026.113785",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42914721/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113785",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42913117",
+          "title": "Outcomes of circular frame external fixation for tibia fracture in the elderly: comparison with a fracture-matched younger cohort.",
+          "authors": [
+            "Akhtar H",
+            "Muir R",
+            "Al Omar H",
+            "Harwood P",
+            "Moulder E",
+            "Groom W",
+            "Dixon O",
+            "Langit MB",
+            "Sharma H"
+          ],
+          "abstract": "INTRODUCTION: Circular frame fixation is a management method often used for complex fractures, or fractures with soft tissue compromise. Tibia fractures in older adults can be difficult to manage due to an association with osteoporosis, poor quality soft tissues, and a requirement for post-operative weight bearing to maintain function and independence. There is a paucity of evidence for the use of circular frames for tibia fractures in older adults. The available evidence suggests it is an effective treatment option, however, no study has compared treatment outcomes between older and younger patients.\n\nAIM: To compare adverse events and outcomes between an 'older' cohort and 'younger' cohort of patients managed with circular frame for tibia fracture.\n\nMETHODS: The 'younger' cohort aged 18-50 and the 'older' cohort aged over 64 were identified from our institutional database. Injuries were classified using the AO/OTA and Gustilo-Anderson classifications. Data collection was retrospective and extracted from patient records. Adverse events were classified according to Paley as problems, obstacles or complications. Statistical analysis was performed, and significance set at p < 0.05.\n\nRESULTS: 135 patients were included; 66 in the 'younger' cohort and 69 in the 'older' cohort. There were significantly more females in the 'older' cohort, with a higher proportion having systemic co-morbidity (85% vs 24%) and diabetes (25% vs 3%). There were more smokers in the 'younger' cohort (33% vs 12%). There was no significant difference in rate of or time to union. The 'younger' cohort was more likely to require further procedures to achieve union. More patients in the 'older' cohort suffered a problem (30% vs 3%); pin site infection accounted for all problems in the 'older' group, and half the problems in the 'younger' group. The rate of obstacles and complications was not different CONCLUSION: Circular frame fixation is a suitable management option for 'older' patients who sustain tibia fracture, as there is no difference between rate or time to union when compared to a 'younger' cohort. 'Older' patients are more likely to encounter pin site infection and should be counselled regarding this. There is no difference between rate of more significant obstacles or complication.",
+          "doi": "10.1016/j.injury.2026.113796",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42913117/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113796",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42913115",
+          "title": "Development of zein-coated Ag-NPs integrated into decellularized fish skin extracellular matrix as a hybrid scaffold for wound healing: In-vitro and in vivo study.",
+          "authors": [
+            "Azizipour E",
+            "Zareshahrabadi Z",
+            "Vaez A",
+            "Kamyab H",
+            "Shanmugapriya D",
+            "Yarahmadi R",
+            "Amani AM",
+            "Vafa E"
+          ],
+          "abstract": "Chronic wounds complicated by bacterial infections and poor tissue regeneration continue to present a major clinical problem in wound healing. This work describes a new hybrid scaffold made from zein-coated silver nanoparticles (Zein-Ag NPs) embedded in decellularized fish skin extracellular matrix (ECM). This scaffold has been designed to synergistically provide antimicrobial activity and enhance tissue repair. The Ag NPs were synthesized by chemically reducing silver nitrate with sodium borohydride and then coated with zein to improve the stability and biocompatibility of the Ag NPs. Upon evaluating the Ag NPs using dynamic light scattering (DLS), scanning electron microscopy (SEM), transmission electron microscopy (TEM), Fourier-transform infrared spectroscopy (FTIR), and X-ray diffraction (XRD), it was determined that optimal Ag NPs were produced using a silver nitrate precursor concentration of 5 mM, which produced nanoparticles of ~35 nm in diameter. The fish skin ECM was decellularized using the optimized physical method. The Zein-Ag/ECM scaffolds exhibited strong antimicrobial activity in vitro against Candida species and bacteria, including Staphylococcus aureus, Escherichia coli, and Pseudomonas aeruginosa, when tested using disk diffusion assays, and their controlled release of Ag⁺ minimized cytotoxicity. The biocompatibility of the material (hemocompatibility) was determined to be < 5% in vitro at 5 mM. Additionally, the material demonstrated support for the growth of fibroblasts in vitro. In vivo studies in rats showed that using the material to treat excisional wounds led to accelerated healing of the wounds, i.e., 90-95% healed by day 14, increased re-epithelialization, decreased inflammation, and improved organization of the collagen deposition in the wound site. Histopathology (using H&E and Masson Trichrome staining) confirmed this.",
+          "doi": "10.1016/j.injury.2026.113783",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42913115/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113783",
+          "journal_key": "injury"
+        },
         {
           "pmid": "42880157",
           "title": "Corrigendum to \"Modified Masquelet technique using free vascularized fibula grafting for reconstruction of large bone defects after bone infection\" [Injury 57(3) (2026) 113036].",
@@ -9319,6 +9551,34 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42880157/",
           "doi_url": "https://doi.org/10.1016/j.injury.2026.113770",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42913116",
+          "title": "Treatment and outcome of proximal femur fractures in a resource limited setting: a prospective observational study in rural Tanzania.",
+          "authors": [
+            "Eleveld AJ",
+            "Mtui GS",
+            "Hendriks TCC",
+            "Bellet FD",
+            "Botman M",
+            "Bloemers FW",
+            "van Embden D"
+          ],
+          "abstract": "INTRODUCTION: Proximal femur fractures are a common type of fracture worldwide and are known to result in high disability and mortality rates. In resource-limited settings, these fractures are suspected to be an underreported problem. This study provides an overview of the different treatment modalities and outcomes of patients with a proximal femur fracture in rural Tanzania.\n\nMETHODS: A prospective observational study was conducted in a rural referral hospital in Tanzania. Between August 2019 and August 2020 patients admitted with a proximal femur fracture were included. Data on fracture type, treatment and outcome were collected up to one year after admission. Outcome included mortality, disability (Harris Hip Score (HHS), WHODAS 2.0) and Quality of Life (EQ-5D-3L, QoL).\n\nRESULTS: Diagnosis: forty-seven patients were included, with a median age of 70 years (IQR 58-81). Thirty patients (30/47, 64%) sustained their injury due to a fall from standing height and eight patients were involved in a motor traffic accident. Eleven patients (11/47, 23%) sustained a femoral neck fracture, 24 patients (51%) sustained an intertrochanteric fracture and five patients (11%) sustained a subtrochanteric fracture. Five patients had additional injuries.\n\nTREATMENT: eleven patients (11/47, 23%) received no treatment; 27 patients (57%) were treated conservatively; seven patients (15%) received an intramedullary nail. One Girdlestone (2%) was performed and one patient (2%) was referred to another hospital for operative treatment.\n\nOUTCOME: The one-year follow-up rate was 96% (45/47). One-year mortality rate was 28% (13/47). Eleven patients (11/32, 34%) recovered to the disability level as reported prior to the injury (WHODAS 2.0). The HHS score showed a poor result in 21 patients (21/32, 66%; mean 62, SD 18). Seven patients had regained normal squat function. The QoL VAS at 3 months after admission was comparable to pre-injury reported general perceived health.\n\nCONCLUSION: Most of the patients with proximal femur fractures are treated non-operatively and not according the current standard of care which is operative fixation or arthroplasty, resulting in limited functional outcome and high mortality rates. This data shows the importance of increased attention and the need for urgent improvement of fracture treatment and outcome in resource-limited settings.",
+          "doi": "10.1016/j.injury.2026.113797",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42913116/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113797",
           "journal_key": "injury"
         },
         {
@@ -9368,6 +9628,33 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42892217/",
           "doi_url": "https://doi.org/10.1016/j.injury.2026.113786",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42913114",
+          "title": "Socioeconomic impact of upper and lower extremity fractures among temporary migrant workers: A prospective longitudinal cohort study.",
+          "authors": [
+            "Lari A",
+            "Mohammad H",
+            "Bahbahani R",
+            "Alenezi N",
+            "AlQattan A",
+            "Alherz M"
+          ],
+          "abstract": "BACKGROUND: Temporary migrant workers may be particularly vulnerable to financial and occupational consequences after fracture. This study evaluated longitudinal income changes and socioeconomic outcomes following appendicular fractures in this population.\n\nMETHODS: This prospective cohort study included temporary migrant workers in Kuwait aged 18-65 years presenting with appendicular fractures between January 2023 and January 2025. Pre-injury income and income at 1, 3, 6 and 12 months were recorded and expressed as a percentage of individual baseline income. Unadjusted and exploratory multivariable analyses examined complete income loss at 12 months.\n\nRESULTS: Of 601 patients assessed, 430 were included. Complete income loss affected 19.1% at 1 month, peaked at 35.1% at 3 months and persisted in 23.3% at 12 months. Mean income retained at 12 months was 65.8% of baseline: 55.5% in physically demanding labour versus 80.1% in professional roles. By 12 months, 77.0% had returned to work, but 58.0% of returners earned less than before injury. Self-employment (adjusted OR 3.02; 95% CI 1.57-5.82) and multiple fractures (2.21; 1.25-3.92) remained associated with complete income loss after adjustment; the occupational association was attenuated.\n\nCONCLUSION: Appendicular fractures were followed by persistent socioeconomic disruption, with greater observed income deficits among physically demanding and self-employed workers and those with more extensive injuries. Returners often remained below baseline income at 12 months. Recovery assessment should include income and occupational stability.",
+          "doi": "10.1016/j.injury.2026.113766",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42913114/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113766",
           "journal_key": "injury"
         },
         {
@@ -9483,6 +9770,35 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42854532/",
           "doi_url": "https://doi.org/10.1016/j.injury.2026.113763",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42913113",
+          "title": "Effect of AI-assisted radiographic fracture detection on paediatric emergency department length of stay through fracture exclusion: A before-after cohort study.",
+          "authors": [
+            "Graif N",
+            "Ovadia D",
+            "Rachevsky G",
+            "Kazum E",
+            "Sandler A",
+            "Goetz M",
+            "Rimon A",
+            "Gigi R"
+          ],
+          "abstract": "BACKGROUND: Artificial intelligence-assisted radiographic fracture detection tools (AI-RFDT) have the potential to support confident fracture exclusion by physicians in the paediatric emergency department (ED), where presentations for suspected fractures substantially outnumber confirmed fractures. This study aimed to evaluate whether implementation of AI-RFDT in a paediatric ED is associated with reduced length of stay (LOS) among patients presenting with suspected fractures, and to determine whether any observed effect is specifically mediated through the fracture-exclusion pathway.\n\nPATIENTS AND METHODS: This retrospective before-after cohort study was conducted at a single tertiary paediatric ED. AI-RFDT (BoneView, Gleamer, Paris, France) was deployed on 1 October 2023 as a passive, second-read decision-support tool. The study population comprised 4172 paediatric patients with rule-out fracture diagnoses (fracture-excluded; F-E) during standard working hours (08:00-15:59; pre-AI n = 2514; post-AI n = 1658). Fracture-confirmed (F-C) patients served as a pre-specified internal control (n = 1155). The primary outcome was ED LOS; secondary outcomes were orthopaedic consultation rate, LOS by consultation status, anatomical subgroup LOS, and 30-day re-admission.\n\nRESULTS: Orthopaedic consultation rates in the paediatric ED decreased from 73% to 68.3% (Δ -4.7 %age points, p = 0.002). The greatest reduction was observed in patients discharged without orthopaedic consultation (2.25→1.78 h, Δ -28 min, p < 0.001), while those with confirmed fractures demonstrated no significant change in LOS (Δ+3 min, p = 0.51). 30-day re-admission rates remained unchanged (6.9% vs 6.9%, p = 1.00). Wrist and forearm injuries demonstrated the greatest LOS reduction (Δ -24 min, p = 0.004).\n\nCONCLUSIONS: Deployment of AI-RFDT in a paediatric ED was associated with a reduction in LOS that was concentrated among patients discharged without orthopaedic consultation. The absence of LOS change in confirmed-fracture controls supports a mechanism specific to fracture exclusion rather than generalised care acceleration.",
+          "doi": "10.1016/j.injury.2026.113765",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42913113/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113765",
           "journal_key": "injury"
         },
         {
@@ -10947,6 +11263,94 @@
       "count": 120,
       "articles": [
         {
+          "pmid": "42909499",
+          "title": "Clinical outcomes of combined MPFL-reconstruction with MPTL-augmenting patellar distalization using hamstring autograft versus isolated MPFL in adolescents with patella alta: a retrospective comparative study.",
+          "authors": [
+            "Salem H",
+            "Ali EMS",
+            "Metwally O",
+            "Salem M",
+            "El-Aidy S",
+            "Sebaei M",
+            "Hatem A"
+          ],
+          "abstract": "BACKGROUND: Patella alta is a major risk factor for recurrent patellar dislocation in adolescents. This study aimed to compare the clinical outcomes of isolated medial patellofemoral ligament (MPFL) reconstruction with those of MPFL reconstruction augmented by medial patellotibial ligament (MPTL)-distalization, both using a semitendinosus hamstring autograft, in adolescent patients with patella alta.\n\nMETHODS: A retrospective cohort study was conducted on 28 adolescent patients (mean age 11.2 ± 1.6 years; 9 males, 19 females) treated for recurrent patellar dislocation between May 2020 and July 2025. All patients had patella alta (Caton-Deschamps index > 1.2) and a history of at least one dislocation, with varying degrees of trochlear dysplasia (Dejour types A-B). All patients underwent MPFL reconstruction using a semitendinosus hamstring autograft harvested with preservation of its native distal tibial insertion, fixed via a single oblique transpatellar tunnel and femoral interference-screw fixation proximal to the distal femoral physis. Group A (n=14) underwent isolated MPFL reconstruction. Group B (n=14) underwent the same MPFL reconstruction with an additional MPTL-augmenting patellar distalization step using the same graft, secured by trans-osseous periosteal suture at the lateral patella. Surgical techniques emphasized physeal spare during reconstruction. Preoperative and postoperative assessments included the Kujala score, Lysholm score, Caton-Deschamps index, and sulcus angle. Follow-up averaged 12- 24 months. CT was performed using a low-dose pediatric protocol specifically for TT-TG measurement and trochlear bony morphology; MRI was used for soft-tissue and cartilage assessment. Group assignment was not randomized; patients with more pronounced patella alta and higher-grade clinical instability were preferentially treated with the combined procedure.\n\nRESULTS: Both groups showed significant improvements in functional scores. In Group (A), Kujala scores improved from 59.3 ± 8.3 to 84.3 ± 5.1, and Lysholm scores from 50.3 ± 7.5 to 74.7 ± 9.3. Caton-Deschamps index decreased from 1.27 to 1.20. In Group (B), Kujala scores improved from 56.2 ± 7.4 to 88.9 ± 4.5, and Lysholm scores from 51.4 ± 7.6 to 87.4 ± 6.2. Caton-Deschamps index decreased from 1.28 to 1.11, indicating better patellar height correction. Complications occurred in 36% of Group A and 21% of Group B. Recurrent instability occurred in 2 patients (14%) in Group A and 1 patient (7%) in Group B; all were subluxation episodes managed non-operatively, and no revision surgery was required.\n\nCONCLUSIONS: This study demonstrated that MPFL reconstruction with MPTL-augmenting patellar distalization using a hamstring autograft yields greater functional improvements, superior patella alta correction, and fewer complications compared to isolated MPFL reconstruction in adolescents with recurrent patellar instability.\n\nLEVEL OF EVIDENCE: Retrospective comparative study; level IV.\n\nCLINICAL TRIAL REGISTRATION: Clinical trial number: not applicable. This study is a retrospective comparative cohort study and does not meet the definition of a clinical trial as per the International Committee of Medical Journal Editors (ICMJE) guidelines, as it involves retrospective analysis of routinely collected clinical data without prospective intervention or randomization.",
+          "doi": "10.1007/s00068-026-03365-4",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Comparative Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42909499/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03365-4",
+          "journal_key": "ejtes"
+        },
+        {
+          "pmid": "42909495",
+          "title": "Health economic evaluation of polytrauma treatment in the current aG-DRG system - Results of a Level I Trauma Center.",
+          "authors": [
+            "Hierl K",
+            "Thiedemann C",
+            "Kerschbaum M",
+            "Popp D",
+            "Alt V"
+          ],
+          "abstract": "PURPOSE: Resource-intensive polytrauma care is associated with high treatment and readiness costs and poses a financial challenge for hospitals. The aim of this retrospective single-center study of the years 2020 to 2022 was to analyze polytrauma reimbursements and costs.\n\nMETHODS: Based on billing and clinical data of 201 polytrauma cases from a German University Hospital and Level I Trauma Center, revenues and costs of the eleven MDC 21 A polytrauma DRGs were analyzed. Ratios of the revenue in relation to LOS, ventilation hours, OR time and implant costs as well as personnel costs were calculated. Contribution margins were determined as an upper-bound estimate.\n\nRESULTS: DRG reimbursement was highest for the most severely injured patients (50,852 €, DRG W36Z). It was lowest for patients who died within five days (2,214 €, DRG W60Z) or without surgeries (4,056 €, DRG W61B). The contribution margin was also highest for the most severely injured patients (52,775 €, DRG W36Z). Revenues in relation to ICU LOS (3,455 €/day, DRG W36Z) and ventilation time (238 €/hour, DRG W01B) were lowest for the most severe polytraumas. Regarding OR time and implant costs, reimbursement was lowest for injuries of the spine, pelvis and extremities with 62 €/min (DRG W02B) and 5 €/€ (DRG W02A).\n\nCONCLUSION: Treatment of polytrauma patients with long ICU stay, extended mechanical ventilation and multiple injuries of the extremities, pelvis and spine is not adequately reflected by the current per-case reimbursement in relation to the resources used (ICU days, ventilation hours, OR time and implant costs).",
+          "doi": "10.1007/s00068-026-03368-1",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42909495/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03368-1",
+          "journal_key": "ejtes"
+        },
+        {
+          "pmid": "42911388",
+          "title": "Patterns, and outcomes of airbag -related penetrating injuries: a retrospective analysis from a level 1 trauma center.",
+          "authors": [
+            "Khoschnau S",
+            "AlMadani A",
+            "Mekkodathil A",
+            "Al-Hassani A",
+            "El-Menyar A",
+            "Peralta R",
+            "Consunji R",
+            "Kloub A",
+            "Muhammad K",
+            "Rizoli S",
+            "Al-Thani H"
+          ],
+          "abstract": "BACKGROUND: The deployment of defective airbag inflators can generate high-velocity metallic fragments that cause face, neck or chest penetrating injuries with potentially lethal consequences. This study aimed to describe the injury patterns, management, and outcomes of suspected airbag-related penetrating injuries (ARPI) among patients in a Middle Eastern country.\n\nMETHODS: A retrospective observational study of patients presenting with penetrating injuries suspected of being related to defective airbag deployment. Data were obtained from the Qatar National Trauma Registry (QNTR), electronic medical records, emergency medical services (EMS), emergency department (ED), and Mortuary. Data were collected and analyzed descriptively.\n\nRESULTS: A total of 16 patients had suspected ARPIs between April 2019 and February 2026. The mean age was 33.1 ± 8.3 years, and 93.8% were male. Metallic foreign bodies (FBs) from airbag inflator fragmentation were documented in 11/16 (68.8%) patients by imaging, and surgical removal while in 4/16 patients there were only entry-exit wounds after deployment of airbags following car crash. In one case, airbag deployed while mechanic was repairing a car steering wheel. Penetrating neck (43.8%), thoracic (31.3%), and maxillofacial injuries (31.3%), predominantly mandibular fractures, were most common. Surgical intervention was required in 11 (68.8%) patients and 7/16 required intensive care unit admissions. Five patients died (31.3%), including one at the scene (transported directly by the EMS, no CPR, and moved to the hospital mortuary), two died at the ED after unsuccessful CPR and two died during the hospital course (one presented with cardiac arrest and died on the sixth day and the other one required prolonged ECMO for acute respiratory distress syndrome (ARDS) and died after 4 months).\n\nCONCLUSIONS: Airbag inflator rupture can produce serious injury patterns resembling patterns of ballistic trauma, characterized by penetrating neck wounds, maxillofacial fractures and thoracic injuries. These injuries are potentially associated with high mortality, surgical intervention, and critical care utilization. The full extent of these injuries is undetermined as some victims may have simply died at the scene without the benefit of trauma center evaluation or post-mortem examination.",
+          "doi": "10.1007/s00068-026-03370-7",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Observational Study"
+          ],
+          "section": "Observational Study",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42911388/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03370-7",
+          "journal_key": "ejtes"
+        },
+        {
           "pmid": "42905143",
           "title": "Guideline adherence in helicopter versus ground emergency medical services: an indication-based analysis of 129,783 patients from the TraumaRegister DGU®.",
           "authors": [
@@ -10967,11 +11371,12 @@
           "pub_month": "Oct",
           "pages": "",
           "pub_types": [
+            "Comparative Study",
             "Journal Article",
             "Multicenter Study",
-            "Comparative Study"
+            "Observational Study"
           ],
-          "section": "Article",
+          "section": "Observational Study",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42905143/",
           "doi_url": "https://doi.org/10.1007/s00068-026-03367-2",
           "journal_key": "ejtes"
@@ -14311,92 +14716,6 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42377503/",
           "doi_url": "https://doi.org/10.1007/s00068-026-03252-y",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42377492",
-          "title": "Epidemiology and management of pediatric femoral fractures at a level I trauma center: a 10-year retrospective monocentric study.",
-          "authors": [
-            "Dietz SO",
-            "Traub F",
-            "Schmidt E",
-            "Schippers P",
-            "Wegner E",
-            "Schierjott L",
-            "Gercek E",
-            "Nowak TE"
-          ],
-          "abstract": "PURPOSE: Pediatric femoral fractures are relatively uncommon but represent severe injuries frequently requiring inpatient trauma care. Epidemiological characteristics, fracture patterns, and treatment strategies vary between institutions and regions. This study aimed to analyze the epidemiology, fracture distribution, treatment modalities, complications, and fracture-predisposing comorbidities of pediatric femoral fractures treated at a German level I pediatric trauma center over a 10-year period.\n\nMETHODS: All patients aged 0-14 years treated for femoral fractures between January 2012 and December 2021 were retrospectively reviewed. Fractures were categorized using the AO Pediatric Comprehensive Classification of Long-Bone Fractures (PCCF). Demographic variables, fracture characteristics, management approaches, time to consolidation, complications, and relevant comorbidities predisposing to fracture were analysed descriptively in accordance with STROBE recommendations.\n\nRESULTS: A total of 183 patients met the inclusion criteria (67.2% male; mean age 5.2 years). Children aged 2-5 years constituted the largest group (42.1%). Femoral shaft fractures were the most frequent femoral fracture type (70%). Surgical management, most frequently elastic stable intramedullary nailing (ESIN), was increasingly utilized with advancing age. The overall complication rate was 14.2%, with the majority classified as minor. Comorbid conditions predisposing to fracture were present in 22% of patients.\n\nCONCLUSION: Femoral shaft fractures represented the predominant femoral fracture type in this trauma-center cohort, particularly affecting boys in early childhood. Surgical stabilization represents an integral component of contemporary pediatric trauma care and was associated with acceptable, predominantly minor complication rates. This study contributes contemporary real-world epidemiological data from a level I pediatric trauma reference center and highlights relevant age-dependent treatment trends and clinical outcomes.",
-          "doi": "10.1007/s00068-026-03251-z",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42377492/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03251-z",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42340459",
-          "title": "Blood-based biomarkers GFAP/UCH-L1 for the diagnosis of mild traumatic brain injury (mTBI): a single-center implementation experience.",
-          "authors": [
-            "Maegele M",
-            "Breidenbach L",
-            "Kaufmann J",
-            "Keles Y",
-            "Uhl E",
-            "Schroeer P"
-          ],
-          "abstract": "INTRODUCTION: Mild traumatic brain injuries (mTBI) affect millions of people worldwide every year as one of the most common clinical presentations in the emergency department. Diagnosis is mainly based on clinical criteria and computed tomography scans. The use of computed tomography causes high costs, long waiting times in daily clinical practice and radiation exposure. GFAP (glial fibrillary acidic protein) and UCH-L1 (ubiquitin carboxyl-terminal hydrolase-L1) turned out to be potential biomarkers for the diagnosis of mTBI. This study retrospectively evaluates the possible use of these biomarkers combined as negative predictors for excluding brain injuries in patients with suspected mTBI in the emergency department.\n\nMETHODS: Adult patients (n = 320) registered in the emergency department at a level 1 trauma emergency center in Germany (Cologne Merheim Medical Center/CMMC) between 11/2023 and 04/2024, with suspected mTBI, Glasgow Coma Scale (GCS) score 13-15 and within 12 h after trauma were considered. All evaluable patients underwent cranial CT (cCT) scans and blood tests for GFAP and UCH-L1 serum concentrations.\n\nRESULTS: Biomarkers GFAP and UCH-L1 were tested positive in 261 patients (82%) while CT detected intracranial injuries in only 29 patients (9%). Biomarkers combined had a sensitivity of 97% and a negative predictive value (NPV) of 98% in mTBI diagnosis with a negative CT scan.\n\nCONCLUSIONS: The biomarkers GFAP and UCH-L1 combined could play a potential clinical role in avoiding unnecessary cCT scans in emergency departments after mTBI, might reduce treatment times and reduce radiation exposure.",
-          "doi": "10.1007/s00068-026-03244-y",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42340459/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03244-y",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42340407",
-          "title": "Resuscitative endovascular occlusion of the aorta restores cerebral metabolic markers of ischaemia induced by haemorrhagic shock.",
-          "authors": [
-            "Bader SE",
-            "Magnuson A",
-            "Brorsson C",
-            "Wallin G",
-            "Löfgren N",
-            "Löfgren F",
-            "Blind PJ",
-            "Öman M",
-            "Olivecrona M"
-          ],
-          "abstract": "BACKGROUND: Resuscitative endovascular balloon occlusion of the aorta (REBOA) is used as an adjunct in haemorrhagic shock (HS) to restore proximal perfusion. Its cerebral metabolic effects during haemorrhagic shock, particularly in the presence of elevated intracranial pressure (ICP), remain incompletely characterised.\n\nMETHODS: In a controlled porcine model, HS was induced by controlled bleeding to a mean arterial pressure of approximately 40 mmHg. Animals were allocated to a normal ICP group or an experimentally elevated ICP group. Total REBOA (zone 1) was applied for 90 min. Cerebral metabolism was assessed using intracerebral microdialysis with measurements of lactate, pyruvate, and lactate-pyruvate ratio (LPR). Cerebral haemodynamics and ICP were continuously monitored.\n\nRESULTS: HS was associated with a statistically significant increase in LPR in both groups, indicating cerebral metabolic disturbance. Following aortic occlusion, LPR gradually decreased toward baseline in both groups. Animals with elevated ICP demonstrated a transient delay in metabolic normalisation during the early post-occlusion phase. Statistically significant differences between groups were limited to the first 10 min following occlusion. Overall metabolic trajectories were similar thereafter.\n\nCONCLUSIONS: Total REBOA restored cerebral metabolic markers of ischaemia during haemorrhagic shock, as reflected by normalisation of LPR, even in the presence of experimentally elevated ICP. These findings indicate acute metabolic recovery and so suggest that the use of tREBOA in the setting of elevated ICP is not contra indicated and can be a bridge to further treatment. Our findings do not demonstrate absence of tissue injury, or long-term neurological recovery. Further studies incorporating complementary physiological and structural outcome measures would be recommended.",
-          "doi": "10.1007/s00068-026-03147-y",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42340407/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03147-y",
           "journal_key": "ejtes"
         }
       ]
