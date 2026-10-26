@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-25",
-  "generated_at": "2026-10-25T12:09:21Z",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T13:39:31Z",
   "counts": {
     "articles": 453,
     "journals_with_articles": 10,
     "journals_searched": 11,
-    "new_issues": 1
+    "new_issues": 0
   },
   "groups": [
     {
@@ -9286,7 +9286,7 @@
       "issue": "12",
       "pub_year": "2026",
       "pub_month": "Oct",
-      "is_new": true,
+      "is_new": false,
       "count": 2,
       "articles": [
         {
