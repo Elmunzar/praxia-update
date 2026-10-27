@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T13:39:31Z",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T12:48:00Z",
   "counts": {
-    "articles": 453,
+    "articles": 454,
     "journals_with_articles": 10,
     "journals_searched": 11,
     "new_issues": 0
@@ -5984,6 +5984,35 @@
       "count": 120,
       "articles": [
         {
+          "pmid": "42934393",
+          "title": "Correction: Single double-loaded anchor repair of isolated Lafosse III subscapularis tears in patients not involved in physically demanding activities provides satisfactory functional and radiologic outcomes at minimum 5-year follow-up.",
+          "authors": [
+            "Aral F",
+            "Oklaz EB",
+            "Ahmadov A",
+            "Asiret E",
+            "Delice C",
+            "Oklaz EBG",
+            "Akdulum I",
+            "Kanatli U"
+          ],
+          "abstract": "",
+          "doi": "10.1007/s00402-026-06544-5",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Published Erratum"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42934393/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06544-5",
+          "journal_key": "aots"
+        },
+        {
           "pmid": "42918971",
           "title": "Comparison of surgically treated floating elbow injuries and supracondylar humeral fractures in children.",
           "authors": [
@@ -9247,34 +9276,6 @@
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42477246/",
           "doi_url": "https://doi.org/10.1007/s00402-026-06362-9",
           "journal_key": "aots"
-        },
-        {
-          "pmid": "42472728",
-          "title": "Intravenous versus oral tranexamic acid in shoulder arthroplasty.",
-          "authors": [
-            "Parmar T",
-            "Adio A",
-            "Daher M",
-            "Khan A",
-            "Horneff J",
-            "Abboud J"
-          ],
-          "abstract": "PURPOSE: Tranexamic acid (TXA) is used in shoulder arthroplasty to reduce blood loss. While intravenous (IV) TXA is standard, oral TXA offers advantages in cost and administration. This study compares 90-day complications and postoperative laboratory values between IV and oral TXA in total shoulder arthroplasty (TSA).\n\nMETHODS: A retrospective cohort study using TriNetX identified adults undergoing primary TSA (2005-2025) receiving TXA on the day of surgery, stratified by route (IV vs. oral). One-to-one propensity score matching was performed. Ninety-day outcomes included transfusion, thromboembolic events, cardiac and renal complications, neurologic events, infection, wound dehiscence, readmissions, emergency department visits, opioid utilization, and mortality. Postoperative laboratory outcomes included hemoglobin, erythrocyte count, hematocrit, and platelet count. Outcomes were compared using odds ratios (ORs) with 95% confidence intervals (CIs) and t tests where appropriate.\n\nRESULTS: After matching, 5722 patients were included in each cohort. No significant differences were observed between IV and oral TXA in 90-day transfusion rates (P = 0.873) or thromboembolic events, including deep vein thrombosis and pulmonary embolism. Rates of myocardial infarction, stroke, cardiac ischemia, acute renal failure, infection, readmission, emergency department visits, opioid use, and mortality were also comparable between groups (all P > 0.05). Postoperative laboratory values, including hemoglobin, erythrocyte count, hematocrit, and platelet count, did not differ significantly between IV and oral TXA cohorts (all P > 0.14).\n\nCONCLUSION: In this large propensity-matched analysis, oral TXA demonstrated equivalent safety, complication rates, and postoperative laboratory profiles compared with IV TXA following TSA. These findings support oral TXA as a clinically effective alternative to IV administration, offering potential advantages in cost reduction and resource utilization without compromising patient safety. Future prospective studies should evaluate optimal dosing strategies, patient-specific selection criteria, and formal cost-effectiveness analyses to further define the role of oral TXA in shoulder arthroplasty pathways.\n\nLEVEL OF EVIDENCE: III, Retrospective Cohort Study.",
-          "doi": "10.1007/s00402-026-06426-w",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Comparative Study"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42472728/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06426-w",
-          "journal_key": "aots"
         }
       ]
     },
@@ -9287,8 +9288,31 @@
       "pub_year": "2026",
       "pub_month": "Oct",
       "is_new": false,
-      "count": 2,
+      "count": 3,
       "articles": [
+        {
+          "pmid": "42933143",
+          "title": "Quantitative decision-support strategies to enhance emergency medical service accessibility in high-risk freeway tunnels.",
+          "authors": [
+            "Jung S",
+            "Qin X"
+          ],
+          "abstract": "Crashes inside road tunnels often result in more severe outcomes due to spatial constraints that delay prehospital emergency medical services (EMS) access. Emergency evacuation facilities, such as cross passages and emergency parking areas, are critical for ensuring timely EMS response during traffic congestion caused by in-tunnel crashes. This study presents a quantitative approach to develop targeted strategies for enhancing such facilities to improve EMS accessibility in tunnels. Nationwide in-tunnel crash data from Korean freeways over a four-year period were analyzed, and the limited number of severe crash cases was addressed using SMOTE-based data augmentation to balance severity levels in the prediction model. A SHAP-based XGBoost classifier was applied to identify the influence of key features related to EMS accessibility and emergency evacuation facilities on crash severity. The results showed that crashes occurring more than 1 km from the tunnel entrance and EMS response coverage within a 10-15 km range have a significant impact on increasing crash severity. The presence of emergency cross passages, three or more lanes, emergency parking areas, and properly spaced CCTV installations were found to help reduce crash severity. Based on these findings, tunnels with particularly limited EMS accessibility were prioritized, and tailored facility improvement measures were proposed. This study provides quantitative evidence to guide cost-effective upgrades of tunnel emergency evacuation facilities, enhancing prehospital EMS accessibility and emergency preparedness. The proposed methodology can also support decision-making on implementing road tunnel safety improvement policies.",
+          "doi": "10.1016/j.injury.2026.113792",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42933143/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113792",
+          "journal_key": "injury"
+        },
         {
           "pmid": "42925615",
           "title": "Acellular fish-skin grafting complex soft tissue defects in orthopedic trauma: Technique and outcomes of a consecutive case series.",
@@ -9351,6 +9375,118 @@
       "is_new": false,
       "count": 120,
       "articles": [
+        {
+          "pmid": "42931906",
+          "title": "Chest tube fixation strength depends on suture caliber and fixation technique rather than tube diameter: a biomechanical cadaver study.",
+          "authors": [
+            "Fricke JJ",
+            "Schöbel T",
+            "Meißner R",
+            "Schleifenbaum S",
+            "Kleber C",
+            "Metelmann I",
+            "Krämer S"
+          ],
+          "abstract": "BACKGROUND: Chest tube dislodgement remains a relevant complication in emergency, trauma, and intensive care medicine. In a previous biomechanical study, the Modified Johannesburg technique using Mersilene USP 1 demonstrated superior fixation strength compared with other chest tube fixation techniques. The present study aimed to determine whether suture size, suture material, and chest tube diameter influence fixation strength.\n\nMETHODS: A prospective interventional biomechanical cadaveric study was performed using fresh porcine thoracic wall specimens. A total of 320 load-to-failure tests were conducted under standardized laboratory conditions. Two fixation techniques, Modified Johannesburg and Purse String, were compared using two chest tube diameters (20/28 Ch) and four non-absorbable braided suture configurations: Mersilene USP 1, Mersilene USP 2 - 0, Silk USP 1, and Silk USP 2 - 0. Each experimental group consisted of 20 specimens. Specimens were tested in a uniaxial testing machine until construct failure. Force [N] and elongation [mm] at failure were measured. The experiments were videotaped, and the failure mechanism was analyzed.\n\nRESULTS: The Modified Johannesburg technique demonstrated significantly higher pull-out forces compared to the Purse String technique (125.0 vs. 66.4 N; p < 0.001), as did larger suture sizes (USP 1 vs. 2 - 0; p < 0.001) and Mersilene compared to Silk (114.6 vs. 76.9 N; p < 0.001). Chest tube size had only a very small and inconsistent effect on pull-out strength. The predominant failure mode was suture rupture (94.7%).\n\nCONCLUSIONS: Chest tube fixation strength is significantly influenced by fixation technique, suture size, and suture material. The effect of chest tube diameter on fixation strength appeared negligible. The Modified Johannesburg technique, size 1 sutures, and Mersilene material provided superior biomechanical stability. Since failure occurred predominantly by suture rupture, the suture appears to represent the weakest link of the fixation construct.",
+          "doi": "10.1007/s00068-026-03369-0",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42931906/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03369-0",
+          "journal_key": "ejtes"
+        },
+        {
+          "pmid": "42931844",
+          "title": "Changes in patellar height following suprapatellar and infrapatellar tibial nailing: a retrospective comparative cohort study.",
+          "authors": [
+            "Olivieri R",
+            "Hernández J",
+            "Soto JM",
+            "Bustos F",
+            "Díaz R",
+            "Rojas C",
+            "Laso JI"
+          ],
+          "abstract": "PURPOSE: Patella baja has been described after infrapatellar tibial nailing and may contribute to postoperative knee morbidity; however, whether the nail insertion approach influences postoperative patellar height remains unclear. This study compared longitudinal changes in patellar height (PH) after suprapatellar and infrapatellar intramedullary nailing for tibial shaft fractures. We hypothesized that the suprapatellar approach would better preserve patellar height.\n\nMETHODS: A retrospective comparative cohort study included 114 tibial shaft fractures treated with intramedullary nailing between 2016 and 2023, using a suprapatellar (n = 86) or infrapatellar (n = 28) approach. Patellar height was assessed using the Caton-Deschamps Index (CDI) on preoperative and final follow-up radiographs. The primary outcome was the longitudinal change in CDI (ΔCDI). Fracture union, complications, and reoperations were secondary outcomes.\n\nRESULTS: The mean reduction in CDI was greater following infrapatellar than suprapatellar nailing (ΔCDI - 0.116 ± 0.173 vs. -0.011 ± 0.107; p = 0.001). After adjustment for baseline CDI and follow-up duration, this association remained significant (adjusted β=-0.055; 95% CI - 0.107 to - 0.004; p = 0.035), although sensitivity analyses showed attenuation after additional adjustment for sex. Fracture union rates were similar between approaches (93.0% vs. 92.9%; p = 0.987), with no statistically significant differences in complications or reoperations.\n\nCONCLUSION: Infrapatellar tibial nailing was associated with a significant postoperative reduction in PH compared with the suprapatellar approach. This association persisted after adjustment for baseline CDI and follow-up duration but was sensitive to additional adjustment for sex. These findings highlight a potential relationship between nail insertion approach and postoperative PH but do not establish an independent effect of surgical approach.\n\nLEVEL OF EVIDENCE: Retrospective cohort study (Level III).",
+          "doi": "10.1007/s00068-026-03378-z",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Comparative Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42931844/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03378-z",
+          "journal_key": "ejtes"
+        },
+        {
+          "pmid": "42931821",
+          "title": "Intraarticular calcaneal fractures: biomechanical analysis of two fixation constructs.",
+          "authors": [
+            "Ziegenhain F",
+            "Zderic I",
+            "Zondervan R",
+            "Richards RG",
+            "Gueorguiev B",
+            "Rammelt S",
+            "Schepers T",
+            "Swords M"
+          ],
+          "abstract": "PURPOSE: The aim of this biomechanical study was to investigate the fixation stability of a small low-profile 2.7 mm variable-angle locking anterolateral calcaneal plate supplemented with two additional independent cortex screws versus a traditional small 3.5 mm locking calcaneal plate in a standardized Sanders IIc fracture model.\n\nMETHODS: Sixteen fracture models cocomposed of three polymer blocks (fragments) each and simulating Sanders IIc intra‑articular calcaneal fractures were assigned to two groups. Group 1 (control) received a small 3.5 mm locking calcaneal plate, while Group 2 received a small 2.7 mm variable‑angle locking anterolateral calcaneal plate with two additional independent cortex screws. All constructs were instrumented using prefabricated pilot holes and standardized screw configurations. Biomechanical testing was conducted implementing a 3‑point-bending setup and progressively increasing cyclic loading to failure. Angular interfragmentary movements were quantified via motion tracking along with cycles to clinically relevant failure.\n\nRESULTS: Initial stiffness (N/mm) in Group 1 (65.2 ± 34.7) was significantly lower versus Group 2 (232.5 ± 48.6), p = 0.020. Although angular interfragmentary movements around the anteroposterior axis were significantly greater in Group 1 versus Group 2 (p < 0.001), Group 1 demonstrated significantly smaller angular interfragmentary movements around the mediolateral axis for the central-to-posterior and anterior-to-posterior fragment pairs (p ≤ 0.004), while no significant difference between the groups was identified with regard to the central-to-anterior fragment pair (p ≥ 0.377). Cycles and loads (N) to clinically relevant failure in Group 1 (3635 ± 176 and 92.7 ± 3.5) were significantly lower versus Group 2 (17433 ± 628 and 368.7 ± 12.6), p < 0.001. Failure mode in Group 1 involved plate deformation, whereas Group 2 failed through breakage or bending of the independent cortex screws.\n\nCONCLUSIONS: Biomechanically, fixation implementing a small low-profile 2.7 mm variable-angle locking anterolateral calcaneal plate supplemented with two additional independent cortex screws demonstrated stability comparable to, and in certain respects superior to that achieved with a small 3.5 mm locking calcaneal plate in a standardized Sanders IIc fracture model. However, the findings of this laboratory study do not establish an isolated benefit of the 2.7 mm plate itself, nor do they demonstrate clinical superiority or support alterations to postoperative weight-bearing protocols.",
+          "doi": "10.1007/s00068-026-03372-5",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42931821/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03372-5",
+          "journal_key": "ejtes"
+        },
+        {
+          "pmid": "42931819",
+          "title": "Correction: Time to surgery and its impact on length of stay and mortality for neck of femur fractures at a major trauma centre.",
+          "authors": [
+            "Tang LY",
+            "Ho SYS",
+            "Zhou AK",
+            "Geetala R",
+            "Krkovic M"
+          ],
+          "abstract": "",
+          "doi": "10.1007/s00068-026-03376-1",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Published Erratum"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42931819/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03376-1",
+          "journal_key": "ejtes"
+        },
         {
           "pmid": "42909499",
           "title": "Clinical outcomes of combined MPFL-reconstruction with MPTL-augmenting patellar distalization using hamstring autograft versus isolated MPFL in adolescents with patella alta: a retrospective comparative study.",
@@ -12689,122 +12825,6 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42406067/",
           "doi_url": "https://doi.org/10.1007/s00068-026-03255-9",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42384186",
-          "title": "Association between fresh frozen plasma transfusion and mortality stratified by Glasgow Coma Scale scores in isolated traumatic brain injury: a nationwide cohort study in Japan.",
-          "authors": [
-            "Nagamura T",
-            "Aoki M",
-            "Yamada K",
-            "Terayama T",
-            "Seno S",
-            "Tomura S",
-            "Kiyozumi T"
-          ],
-          "abstract": "PURPOSE: Fresh frozen plasma (FFP) is widely used to manage trauma-induced coagulopathy. However, its effectiveness in isolated traumatic brain injury (TBI) management remains controversial, particularly when stratified by severity based on the Glasgow Coma Scale (GCS) scores. This study aimed to examine the association between FFP administration within 24 h and mortality in patients with isolated TBI, overall and stratified by GCS on arrival.\n\nMETHODS: We conducted a multicenter retrospective cohort study using the Japan Trauma Data Bank (2019-2023). Adults with isolated TBI (intracranial AIS ≥ 3 and extracranial AIS < 3) were included. Patients were classified into FFP and non-FFP groups based on transfusion within 24 h of admission. Subgroup analyses were performed by TBI severity (severe: GCS ≤ 8; mild-to-moderate: GCS > 8), craniotomy status, and FFP dose. The primary outcome was 28-day mortality. Propensity score matching was applied to adjust for confounding.\n\nRESULTS: Among 12,480 patients (median age 72 years [IQR: 55, 82]; 66.6% male), 513 received FFP. After matching, FFP was not significantly associated with 28-day mortality (OR 0.80; 95% CI 0.59-1.08). In subgroup analyses, FFP was associated with higher mortality in mild-to-moderate TBI (OR 2.38; 95% CI 1.07-5.31) and lower mortality in severe TBI (OR 0.61; 95% CI 0.42-0.88). No significant differences were observed by craniotomy status or FFP dose.\n\nCONCLUSIONS: FFP administration was not associated with lower 28-day mortality in isolated TBI. Although subgroup analyses suggested the association between FFP administration and outcomes may vary according to TBI severity, these findings should be interpreted cautiously given the potential for residual confounding.",
-          "doi": "10.1007/s00068-026-03249-7",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Multicenter Study"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42384186/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03249-7",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42384076",
-          "title": "Percutaneous fixation of posterior pelvic ring lesions in the elderly: current evidence and recent advances.",
-          "authors": [
-            "Liodakis E",
-            "Schreiber S",
-            "Giannoudis VP",
-            "Fritz T",
-            "Giannoudis PV"
-          ],
-          "abstract": "INTRODUCTION: Percutaneous fixation techniques are increasingly used in the management of posterior pelvic ring lesions in the elderly. As the incidence of fragility fractures continues to rise, a growing number of implants and surgical techniques have been developed to address the specific challenges of this vulnerable population. The goal of this scoping review is to address the following questions: 1) What are the latest advances in percutaneous fixation of posterior pelvic ring fractures? 2) What are the clinical results and current level of evidence supporting these techniques?\n\nMETHODS: A systematic search using the keywords “((Percutaneous) OR (Minimal* invasive) OR (Transsacral) OR (Innovative implant)) AND ((Pelvic fragility fracture) OR (Sacral fracture))” was performed in PubMed and Cochrane Library using PRISMA-ScR guidelines. Studies published from the 11th of August 2020 up to the 11th of August 2025 were included and assessed independently by two reviewers.\n\nRESULTS: A total of 334 studies were found, of which 107 were included in this review following the screening process. Of these, 22 studies pursued a biomechanical approach. Various new implants (e.g. ISG-Rod System, SI-Plate, TriFix, SACRONAIL®) and technologies (e.g. 3D computer-assisted navigation/O-arm/Robot) are described in the recent literature. Using navigation significantly reduces the rate of screw malposition. Additional cement augmentation can reduce the length of a patient’s stay in hospital. (Bilateral) transsacral fixation reduces the risk of fracture progression. Novel implants, such as curved implants and photodynamic nails, offer promising alternatives for patients with dysmorphic sacra.\n\nCONCLUSION: Iliosacral screw fixation is considered the gold standard for the percutaneous stabilization of the posterior pelvic ring. However, given the vast range of new implants and technologies available, decisions should always be made on a case-by-case basis. High-quality evidence studies comparing new implants with conventional SI screws are desirable.",
-          "doi": "10.1007/s00068-026-03231-3",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Review"
-          ],
-          "section": "Review",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42384076/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03231-3",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42377504",
-          "title": "Infrared thermography and dual-layer spectral CT for the detection of femoral vascular compromise: an experimental large animal study.",
-          "authors": [
-            "Hübner CT",
-            "Ricklin J",
-            "Müller AL",
-            "Klingebiel FK",
-            "Stoeck CT",
-            "Weisskopf M",
-            "Carneiro Gomes A",
-            "Cinelli P",
-            "Pape HC",
-            "Pfeifer R",
-            "Kalbas Y"
-          ],
-          "abstract": "BACKGROUND: Rapid identification of vascular compromise remains a clinical challenge in the acute trauma setting. Conventional diagnostic tools such as CT angiography (CTA) and Doppler-ultrasound might provide decent anatomical and functional assessment. However, they are limited by ionizing radiation, contrast exposure or time requirements. Although not validated, infrared thermography (IRT) might offer a non-invasive alternative capable of detecting surface temperature asymmetries that may reflect underlying perfusion deficits. This study aimed to evaluate the feasibility of thermographic imaging in detecting vascular lesions.\n\nMETHODS: As part of a porcine polytrauma model (n = 28), vascular lesion of the right femoral artery was defined as a ≥ 50% diameter reduction on CTA. Temperature differences between both extremities were measured using infrared thermography. SDCT based iodine concentrations distal to the stenosis were quantified to assess perfusion changes. Correlation and regression analyses were performed between stenosis degree, temperature difference, and tissue iodine uptake.\n\nRESULTS: Six animals fulfilled the criteria for relevant vascular compromise. This resulted in a mean vessel diameter reduction behind the lesion of 68% ±18%. The vascular lesion group demonstrated a mean inter-limb temperature difference of 6.93 °C ± 1.78 °C compared to 0.71 °C ± 1.27 °C in the non-lesion group (p < 0.001). A strong positive correlation was found between diameter-based stenosis and temperature difference (r = 0.785, p < 0.001), as well as between diameter reduction and iodine uptake (r = 0.801, p < 0.001). ROC analysis of temperature difference for detecting vascular lesion yielded an AUC of 0.992 (95% CI 0.970-1.000, p < 0.001) with 100% sensitivity and 95.2% specificity at a 3 °C threshold.\n\nCONCLUSION: Thermographic temperature differences showed excellent diagnostic performance in detecting an acute vascular lesion in a large animal model. The strong correlation between SDCT iodine uptake and both anatomical stenosis and surface temperature suggests that iodine concentration is a valid quantitative surrogate for perfusion. In conclusion, infrared thermography might represent a viable alternative for detection of acute vascular occlusion.",
-          "doi": "10.1007/s00068-026-03237-x",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42377504/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03237-x",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42377503",
-          "title": "Fixation strategies for periprosthetic femur fractures around knee replacements: a comprehensive single-center analysis of 102 consecutive cases.",
-          "authors": [
-            "Nomdedéu J",
-            "González-Morgado D",
-            "Minguell-Monyart J",
-            "Joshi-Jubert N",
-            "Teixidor-Serra J",
-            "Tomàs-Hernández J",
-            "Andrés-Peiró JV"
-          ],
-          "abstract": "PURPOSE: To evaluate 1 year mortality, complication rates, and functional outcomes after internal fixation of femoral periprosthetic knee fractures following total knee arthroplasty, and to identify predictors of adverse outcomes and increased healthcare resource utilization.\n\nMETHODS: This retrospective cohort study included 102 consecutive patients with femoral periprosthetic knee fractures classified as UCPF VB3 and VC3 treated with internal fixation at a single tertiary center between 2010 and 2023. Interprosthetic fractures and combined fixation techniques were excluded. Primary outcomes were 1 year mortality and postoperative complications. Secondary outcomes included length of stay, discharge destination, and ambulatory status at follow up.\n\nRESULTS: Patients were markedly frail, with a mean age of 82.4 ± 10.8 years and mean Charlson Comorbidity Index of 5.6. One year mortality was 16.7% and was associated with older age, higher ASA class, higher Charlson index, impaired pre fracture ambulation, and fracture related infection. Overall complication rate was 29.4%, including 15.7% infections and 13.7% mechanical failures. Open reduction was more frequent in plate fixation and resulted in longer operative times, without increasing complication rates. Median hospital stay was 18 days, 66.3% required discharge to nursing facilities, and only 7.8% regained independent ambulation. Outcomes were worse in patients who developed complications.\n\nCONCLUSION: Outcomes after internal fixation of femoral periprosthetic knee fractures are driven primarily by patient frailty rather than fixation technique. Functional recovery is limited and resource utilization is substantial, underscoring the need for improved risk stratification and perioperative care pathways.",
-          "doi": "10.1007/s00068-026-03252-y",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jun",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42377503/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03252-y",
           "journal_key": "ejtes"
         }
       ]
