@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T12:48:00Z",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T13:37:34Z",
   "counts": {
-    "articles": 454,
+    "articles": 458,
     "journals_with_articles": 10,
     "journals_searched": 11,
     "new_issues": 0
@@ -9288,8 +9288,95 @@
       "pub_year": "2026",
       "pub_month": "Oct",
       "is_new": false,
-      "count": 3,
+      "count": 7,
       "articles": [
+        {
+          "pmid": "42945744",
+          "title": "The downside of the pull-up: A 10-year national analysis of emergency department visits, 2015-2024.",
+          "authors": [
+            "Shabbir R",
+            "Layton B",
+            "Kang Z",
+            "Kim B",
+            "Rehman S",
+            "Galos DK"
+          ],
+          "abstract": "BACKGROUND: To characterize the epidemiology and clinical patterns of injuries related to pull-up and chin-up bars in a nationally representative emergency department (ED) dataset.\n\nMETHODS: Retrospective cross-sectional analysis of the U.S. Consumer Product Safety Commission National Electronic Injury Surveillance System from January 1, 2015, to December 31, 2024. Cases were identified using product code 3277 with narrative filters for \"pull-up,\" \"chin-up,\" and \"doorway bar,\" excluding barbells and playground equipment. NEISS sampling weights produced national estimates. Annual totals with 95 % confidence intervals were calculated and reported. Injury characteristics were summarized by age group, body region, diagnosis, location, disposition, and a narrative-derived mechanism category (fall, struck by bar, slip or detachment, other).\n\nRESULTS: An estimated 40,987 ED visits were attributed to pull-up bar injuries, averaging about 4000 per year, with a peak in 2024 (5421; 95 % CI, 5315-5527). Patients were predominantly male (66.1 %) with a bimodal age distribution centered on children 5-14 years and adults 18-34 years. Craniofacial trauma predominated, with head and face together comprising nearly one-half of presentations, followed by upper-extremity involvement, including shoulder, wrist, and forearm. Laceration, internal head injury, and fracture were the leading diagnoses, with sprain or strain and contusion also frequent. Most incidents occurred in the home, and 93.8 % of patients were treated and released. Falls were the most common mechanism, followed by struck-by events and a subset explicitly involving bar slip or detachment.\n\nCONCLUSIONS: Pull-up bar injuries constitute a consistent national burden of craniofacial and upper-extremity trauma concentrated in youth and young adults, largely managed nonoperatively in acute care settings. Improved recognition of exercise-associated injury mechanisms may assist diagnostic accuracy and reduce the burden on emergency and orthopedic services.",
+          "doi": "10.1016/j.injury.2026.113804",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42945744/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113804",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42945743",
+          "title": "How the cause of surgical delay affects mortality in fragility hip fractures: A cohort study.",
+          "authors": [
+            "Senan R",
+            "Karthik P",
+            "Dhilon P",
+            "Howard T",
+            "Rayan F",
+            "Kirmani S",
+            "Shyamsundar S"
+          ],
+          "abstract": "BACKGROUND: Prompt surgery for fragility hip fractures is a cornerstone of care and a key metric within the Best Practice Tariff (BPT) in the United Kingdom. Yet, since 2011, time to theatre has steadily increased, BPT adherence has fallen, and paradoxically, mortality has reduced. It is still unclear if surgical delay is an independent predictor of mortality. Emerging evidence suggests that the causes of surgical delays may be more important determinants of mortality than the delay itself.\n\nMETHODS: A cohort study of 1769 hip fracture patients above the age of 60 was conducted in a single centre in England. This study collected demographic data, timing to theatre (<36 h vs ≥36 h), reasons for any delays, 30-day mortality and 1-year mortality between March 2020 and December 2024.\n\nRESULTS: The most common cause of delay was insufficient theatre capacity (N = 365, 20.6%), followed by delays awaiting medical stabilisation (N = 102, 5.8%). Age (Χ2 71.638 p < 0.001), ASA grade (Χ2 37.045 p < 0.001), sex (Χ2 27.721 p < 0.001), pre-admission residence (Χ2 36.772 p < 0.001), and reason for delay (Χ2 27.495 p = 0.007) were significant predictors of mortality. Delays due solely because of theatre unavailability did not increase 30-day (OR 0.784 p = 0.398) or 1-year mortality (OR 1.123 p = 0.474). In contrast, delays due to medical optimisation were associated with markedly higher 30-day (OR 3.573, p < 0.001) and 1-year mortality (OR 2.144, p = 0.005).\n\nCONCLUSIONS: While early surgery remains beneficial, patients delayed solely due to administrative reasons did not demonstrate an associated increase in mortality. Mortality associated with operative delay was primarily associated amongst patients with concurrent acute illnesses and co-morbidities, independently increasing risk. To improve mortality, the focus must remain on pre-operative optimisation and robust orthogeriatric assessment, rather than surgical timing alone. Future iterations of the BPT may benefit from incorporating the cause of delay and physiological risk stratification to surgical timing targets to better align national incentives with clinical outcomes.",
+          "doi": "10.1016/j.injury.2026.113840",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42945743/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113840",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42945746",
+          "title": "The blunt truth: The role of marijuana in PTSD after intentional traumatic injury.",
+          "authors": [
+            "Kern JA",
+            "Wilson C",
+            "Joshi SA",
+            "Ghio M",
+            "O'Neill K",
+            "Reese J",
+            "Babb R",
+            "Emili P",
+            "Williams A",
+            "Seamon MJ",
+            "Kaufman EJ"
+          ],
+          "abstract": "BACKGROUND: Survivors of interpersonal violence experience high rates of post-traumatic stress disorder (PTSD), and rates of marijuana use are rising among young adults. There is however, limited understanding of marijuana use patterns among survivors of interpersonal violence with PTSD. We evaluated relationships between PTSD and marijuana use following injury and hypothesized that PTSD-positive patients would report elevated follow-up marijuana use.\n\nMETHODS: Between 10/2019 and 7/1/2024, we prospectively collected data on patient demographics, PTSD, substance use (including marijuana), and PROMIS-29 quality of life domains for adult trauma patients admitted to an urban, academic, level-1 trauma center. Participants were screened at baseline and at 6- or 12-month follow-up. Injury characteristics were collected from the institutional trauma registry. Among the intentionally injured, we compared patients by follow-up PTSD screening results. We excluded patients who screened positive for PTSD at baseline. Using multivariable logistic regression we assessed relationships between follow-up PTSD and marijuana use, including demographic and injury characteristics as covariates. Our primary outcome was dichotomized follow-up marijuana use.\n\nRESULTS: Of 105 participants injured by intentional trauma with complete follow-up data, 69 screened negative for PTSD at baseline and therefore were included in this analysis. Patients who screened positive for PTSD at follow-up had greater marijuana use at baseline (29% vs 3%, p = 0.002) and follow-up (42% vs 13%, p = 0.007), and worse PROMIS-29 scores in all domains (p ≤ 0.01), compared to PTSD-negative patients. In multivariable analysis, screening positive for PTSD was associated with 7.1 times greater odds of marijuana use at follow-up (p = 0.007, CI:1.7, 29.5).\n\nCONCLUSIONS: PTSD and marijuana use were closely associated in survivors of interpersonal violence. Screening efforts should account for marijuana use specifically. Routine screening for marijuana use could improve recognition of psychological challenges after trauma and could help identify patients at risk for development of PTSD.\n\nLEVEL OF EVIDENCE: Level III, prognostic/epidemiological.",
+          "doi": "10.1016/j.injury.2026.113789",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42945746/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113789",
+          "journal_key": "injury"
+        },
         {
           "pmid": "42933143",
           "title": "Quantitative decision-support strategies to enhance emergency medical service accessibility in high-risk freeway tunnels.",
@@ -9338,6 +9425,36 @@
           "journal_key": "injury"
         },
         {
+          "pmid": "42945745",
+          "title": "Peripheral nerve blocks reduce opioid requirements in the first 24 h following surgical fixation of acute tibial shaft fractures.",
+          "authors": [
+            "Khan UA",
+            "Quigley C",
+            "Schulman M",
+            "Holland J",
+            "Ghidei S",
+            "Kim A",
+            "Schulman J",
+            "Gaski G",
+            "Hymes RA"
+          ],
+          "abstract": "OBJECTIVES: To evaluate the effect of peripheral nerve blocks (PNB) on postoperative opioid use, length of stay (LOS), and incidence of acute compartment syndrome (ACS) in patients presenting with acute tibial shaft fractures treated with intramedullary nail (IMN) fixation.\n\nMETHODS: Design: Retrospective cohort study Setting: Level 1 Academic Trauma Center from 2018 to 2022. Patient Selection Criteria: Patients aged 18-79 years with acute AO/OTA 42A-C tibial shaft fractures treated with IMN within 7 days of injury Outcome Measures and Comparisons: The primary outcome was postoperative opioid use, measured in morphine milligram equivalents (MME), during hospital stay, up to a maximum of 72 h after surgery. Patients who received a preoperative PNB were compared to those who did not receive a block. Secondary outcomes included postoperative LOS and incidence of ACS.\n\nRESULTS: 246 patients were eligible for analysis of which 78 (32%) received a PNB (PNB=yes) and 168 (68%) did not (PNB=no). Mean MME were significantly lower in the PNB=yes group compared to the PNB=no group at 24 h (73 vs. 138, p < 0.001). Controlling for age, Injury Severity Score (ISS), and time to surgery, a multivariable regression model demonstrated a 36% reduction in MME per hour for patients that received PNBs. There were 3 cases of ACS in PNB=No and 1 in PNB=Yes. All 3 patients without a PNB were diagnosed within 2 days of surgery and underwent uncomplicated fasciotomies. One patient with a PNB re-presented to the hospital 5 days postoperatively, underwent fasciotomies, and was found to have anterior and lateral compartment necrosis.\n\nCONCLUSION: PNBs for select acute tibial shaft fractures treated with IMN were associated with decreased opioid requirements in the first 24 h after surgery. No effect was noted beyond 24 h after surgery. Extreme vigilance is essential in patients with tibia fractures to monitor for ACS, especially when PNB is utilized.",
+          "doi": "10.1016/j.injury.2026.113778",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42945745/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113778",
+          "journal_key": "injury"
+        },
+        {
           "pmid": "42925616",
           "title": "From static fracture classification to dynamic clinical phenotypes: Feature-based longitudinal annotation and retrieval of comparable cases.",
           "authors": [
@@ -9375,6 +9492,64 @@
       "is_new": false,
       "count": 120,
       "articles": [
+        {
+          "pmid": "42944872",
+          "title": "Addition of a McLaughlin cerclage to locking plate fixation of distal patellar pole fractures reduces interfragmentary displacement - a biomechanical human cadaveric study.",
+          "authors": [
+            "Deichsel A",
+            "Große-Allermann A",
+            "Horst K",
+            "Kittl C",
+            "Lodde M",
+            "Gueorguiev B",
+            "Drenchev L",
+            "Skulev HK",
+            "Herbst E"
+          ],
+          "abstract": "PURPOSE: To investigate whether the addition of a McLaughlin cerclage to locking plate fixation of distal patellar pole fractures provides improved biomechanical construct stability and reduced interfragmentary displacement.\n\nMETHODS: A distal patellar pole fracture was simulated in sixteen fresh-frozen human cadaveric knees by a horizontal osteotomy in the distal third of the patella. Subsequently, locking plate fixation was performed. In a randomized half of the specimens, an additional McLaughlin wire cerclage was applied. The specimens were then subjected to 3000 cycles of extension starting at 90° of flexion under a maximum tensile load of 320 N. Using a Digital Image Correlation (DIC) system, the interfragmentary displacement between the proximal and distal fragments was measured at 1, 10, 20, 30, 50, 100, 500, 1000, 2000, and 3000 cycles. Statistical analysis was performed using repeated-measures ANOVA and Welch's unpaired t-t test at 3000 cycles.\n\nRESULTS: An additional McLaughlin cerclage significantly reduced interfragmentary displacement under cyclic loading in comparison to locking plate fixation alone. After 3000 cycles, displacement was 2.27 ± 1.84 mm with plate fixation alone and 0.36 ± 0.22 mm with additional McLaughlin cerclage (mean difference 1.91 mm; 95% CI 0.38-3.45 mm; p = 0.0215).\n\nCONCLUSION: An additional McLaughlin cerclage reduced interfragmentary displacement in distal patellar pole fractures. In cases of unstable distal pole patella fractures, the additional use of a McLaughlin cerclage may therefore be considered to enhance construct stability.",
+          "doi": "10.1007/s00068-026-03380-5",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42944872/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03380-5",
+          "journal_key": "ejtes"
+        },
+        {
+          "pmid": "42944760",
+          "title": "Trauma care performance and patient outcomes - insights from a major trauma centre in Sweden.",
+          "authors": [
+            "Eriksson J",
+            "Larsson E",
+            "Arnason B",
+            "Ohlén D",
+            "Hedberg M",
+            "Jonsson Fagerlund M",
+            "von Oelreich E"
+          ],
+          "abstract": "PURPOSE: Trauma is a leading cause of death among individuals under 45 years of age. Evaluating trauma system performance over time is important but inherently difficult due to concurrent changes in patient demographics, case-mix and care processes. The aim of this study was to describe temporal changes in patient demographics, injury severity and trauma care at a major trauma centre in Sweden from 2017 to 2023. We hypothesised that risk-adjusted 30-day mortality decreased and that time to computed tomography was reduced over the study period.\n\nMETHODS: A retrospective cohort study was conducted using data from the Karolinska Trauma Registry, including all trauma patients aged > 15 years fulfilling criteria for full trauma team activation, admitted between January 2017 and August 2023. Multivariable logistic regression was used to assess changes in 30-day mortality over time, adjusted for age, sex, injury severity category, ASA score and injury type. Time from arrival to computed tomography was analysed by linear regression and, because the distribution was skewed, by quantile (median) regression.\n\nRESULTS: A total of 5,615 trauma patients were included. Over the study period, the patient population became older, and ASA scores increased, while injury severity and the proportion of penetrating injury remained unchanged. In multivariable logistic regression with 2017 as reference, the odds of 30-day mortality in 2022-2023 were lower (OR 0.61, 95% CI 0.43-0.88, P = 0.008) after adjusting for confounders. Median time to computed tomography decreased from 31 to 21 min; the adjusted difference in 2022-2023 compared with 2017 was - 7.5 min by linear regression (P = 0.014) and - 10.4 min by quantile regression (95% CI - 11.5 to - 9.2, P < 0.001).\n\nCONCLUSION: Our findings are consistent with improvements in trauma care within a mature trauma system, with shorter median time to computed tomography and lower 30-day mortality despite an aging population with increasing comorbidity. However, the specific drivers of these changes are difficult to identify, and future studies should explore how individual components of pre-hospital and in-hospital care contribute to trauma outcomes.",
+          "doi": "10.1007/s00068-026-03364-5",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42944760/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03364-5",
+          "journal_key": "ejtes"
+        },
         {
           "pmid": "42931906",
           "title": "Chest tube fixation strength depends on suture caliber and fixation technique rather than tube diameter: a biomechanical cadaver study.",
@@ -12767,64 +12942,6 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42410118/",
           "doi_url": "https://doi.org/10.1007/s00068-026-03257-7",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42406115",
-          "title": "Re‑fracture risk following implant removal in consolidated hip fractures: a multicenter retrospective cohort study of 575 patients.",
-          "authors": [
-            "Mohammed J",
-            "Mili-Schmidt V",
-            "Wadsten M",
-            "Juto H",
-            "Wolf O",
-            "Crnalic S",
-            "Sköldenberg O",
-            "Mukka S",
-            "Fischer P"
-          ],
-          "abstract": "PURPOSE: The risk of re-fracture after implant removal in healed hip fractures remains a clinical concern. This study aimed to determine the incidence of re-fracture following implant removal after osteosynthesis of a hip fracture.\n\nMETHODS: We conducted a retrospective multicenter cohort study including patients aged ≥ 50 years who underwent implant removal between 2003 and 2023 after radiologically confirmed consolidation of a hip fracture. Patients were identified using procedural codes. Baseline variables included age, sex, ASA classification, fracture type (femoral neck or trochanteric), and implant type (pins/screws, sliding hip device [SHD], or short/long cephalomedullary nail [CMN]). Patients were followed from implant removal until re-fracture, conversion to arthroplasty, death, or end of follow-up, with a minimum follow-up of 1 year. Cox proportional hazards regression was used to assess associations between implant type and re-fracture risk, adjusting for age and sex. Because the proportional hazards assumption was violated, a time-stratified Cox regression and restricted mean survival time analyses were applied.\n\nRESULTS: A total of 575 patients (median age 73 years, IQR 65-81) were included, with a median follow-up of 53 months (IQR 18-100). Lateral hip pain was the most common indication for implant removal (72.5%). The overall re-fracture incidence was 10.4%. Risk varied by implant type: 7.1% after pins/screws, 10.5% after SHD, 18.3% after short CMN, and 15.8% after long CMN removal. Median time to re-fracture was 1.5 months, and 52% occurred after minimal or no trauma. Most re-fractures (85%) occurred within 90 months. Removal of CMNs was associated with a higher re-fracture risk compared with pins/screws (HR 2.79; 95% CI 1.52-5.13), whereas SHD removal was not.\n\nCONCLUSION: Implant removal after consolidated hip fractures carries a measurable risk of re-fracture, most pronounced after CMN removal. These findings highlight the importance of careful patient selection and could aid in decision-making when considering implant exchange or removal following osteosynthesis.\n\nLEVELS OF EVIDENCE: IV, retrospective observational cohort study.",
-          "doi": "10.1007/s00068-026-03258-6",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Multicenter Study"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42406115/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03258-6",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42406067",
-          "title": "Physical functionality two years after major trauma: predictors from a single center cohort study.",
-          "authors": [
-            "Fetz K",
-            "Koetsenruijter J",
-            "Rodrigues Recchia D",
-            "Rutetzki J",
-            "Lefering R",
-            "Kaske S"
-          ],
-          "abstract": "PURPOSE: Traumatic injuries are a major global public health concern, often leading to impaired physical function and disability. Long-term physical function impairments can greatly affect a patient's health related quality of life, influencing their emotional state and social interactions. This study examines patient-reported physical functionality before and after major trauma, identifying key predictors of poor functional recovery.\n\nMETHODS: This retrospective single-center cohort study investigates physical functionality 23 months after a traumatic injury using standardized questionnaires combined with clinical data. Inclusion criteria were Injury Severity Score (ISS) ≥ 9, requiring ICU treatment, and age ≥ 18 resulting in an eligible sample of 515 patients. Health outcomes were assessed using the Trauma Outcome Profile (TOP), the Abbreviated Injury Scale (AIS), and the ISS.\n\nRESULTS: Physical functionality significantly decreased from 94.8 (SD 11.5) to 72.9 (SD 26.7) 23 months post-trauma with almost half of participants still scoring below the critical cutoff of 80 points. The strongest predictor for functional physical impairment was pre-trauma physical functionality (OR 8.21, p < 0.001). Other determinants included age (age 50-59 versus 18-29 OR 2.75, p = 0.001), as well as an impacted lower extremity including pelvic (OR 1.60, p = 0.018).\n\nCONCLUSION: The most important predictors for a post-trauma impaired physical function are pre-trauma functionality and age. Among trauma related factors, injuries involving the lower extremities remained significantly associated with poorer long-term outcomes, whereas overall injury severity was not independently associated with functional impairment.",
-          "doi": "10.1007/s00068-026-03255-9",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42406067/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03255-9",
           "journal_key": "ejtes"
         }
       ]
