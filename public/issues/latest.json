@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T13:37:34Z",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T13:47:04Z",
   "counts": {
-    "articles": 458,
+    "articles": 464,
     "journals_with_articles": 10,
     "journals_searched": 11,
     "new_issues": 0
@@ -9288,8 +9288,173 @@
       "pub_year": "2026",
       "pub_month": "Oct",
       "is_new": false,
-      "count": 7,
+      "count": 13,
       "articles": [
+        {
+          "pmid": "42950703",
+          "title": "Early fecal diversion versus no initial diversion in blunt open pelvic fractures: A systematic review and meta-analysis of pelvic infection and mortality.",
+          "authors": [
+            "Ferrari F",
+            "Ancieta MDH",
+            "Laura LYS",
+            "Botti M"
+          ],
+          "abstract": "BACKGROUND: The benefit of routine early fecal diversion in blunt open pelvic fractures remains uncertain. We examined its association with pelvic infection and short-term mortality.\n\nMETHODS: MEDLINE/PubMed, Embase, Scopus, Web of Science Core Collection, and CENTRAL were searched from inception through 12 August 2026, with citation searching. Comparative observational studies were synthesized using crude risk ratios (RRs), REML random-effects models, modified Hartung-Knapp confidence intervals, and Mantel-Haenszel sensitivity analyses without continuity correction. Two reviewers independently selected studies, extracted data, and assessed ROBINS-I risk of bias and GRADE certainty.\n\nRESULTS: Eighteen observational comparative reports were retained. Potential cohort overlap prevented a valid unique overall participant total. Eight cohorts contributed to broad pelvic infection (171 participants; seven estimable): RR 0.78 (95% CI 0.35-1.70; I²=19.6%). The stricter outcome-definition analysis included five cohorts (88 participants; four estimable): RR 0.72 (95% CI 0.07-6.97). Excluding two author-reported infected hematomas through an existing replacement sensitivity gave RR 0.84 (95% CI 0.34-2.05). Eight mortality cohorts (236 participants) yielded RR 0.82 (95% CI 0.33-2.07; I²=19.0%). Post-2006 evidence remained inconclusive for infection (three cohorts; RR 0.74, 95% CI 0.009-58.85) and mortality (five cohorts; RR 1.19, 95% CI 0.27-5.26). Diversion was preferentially used in patients with more severe injuries. All reports had Serious or Critical risk of bias; certainty was very low.\n\nCONCLUSIONS: Available evidence does not establish a reduction in pelvic infection or short-term mortality with routine early diversion. Confounding, inconsistent outcome ascertainment, and imprecision prevent causal conclusions or exclusion of benefit in selected high-risk injuries.",
+          "doi": "10.1016/j.injury.2026.113828",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42950703/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113828",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42950707",
+          "title": "Opportunistic assessment of bone quality using CT-derived hounsfield units in postmenopausal women with femoral trochanteric fractures.",
+          "authors": [
+            "Terada C",
+            "Yokoo S"
+          ],
+          "abstract": "BACKGROUND: CT-derived Hounsfield unit (HU) measurements may provide an opportunistic assessment of bone density when dual-energy X-ray absorptiometry (DXA) is difficult to obtain during acute treatment of femoral trochanteric fractures. We compared three femoral-head regions of interest (ROIs) and explored their ability to identify markedly low total hip bone mineral density (BMD).\n\nMETHODS: This single-center retrospective study included 87 women aged ≥ 65 years with AO/OTA type 31A1 (excluding A1.1) or 31A2 femoral trochanteric fractures treated with intramedullary nailing. Admission CT HU values were measured in three femoral-head ROIs on coronal and axial images and compared with contralateral hip DXA T-scores measured approximately 1 week after surgery. Pearson correlations and receiver operating characteristic (ROC) analyses were performed. The prespecified total hip T-score thresholds were ≤ -2.5 and ≤ -3.3; the latter was used as an operational definition of markedly low BMD in this study.\n\nRESULTS: Coronal whole-femoral-head HU values (ROI 1) showed a moderate correlation with total hip T-scores (r = 0.569). For the ≤ -2.5 threshold, 74 women met the criterion and only 13 did not; the ROI 1 coronal AUC was 0.841. For the ≤ -3.3 threshold, 51 women met the criterion and 36 did not. A coronal ROI 1 threshold of < 158.7 HU had an AUC of 0.765 (95% CI, 0.660-0.870), sensitivity of 84.3% (43/51), and specificity of 66.7% (24/36) for identifying a total hip T-score ≤ -3.3.\n\nCONCLUSION: Whole-femoral-head HU values were moderately associated with DXA-derived T-scores in this cohort. Admission CT may help flag patients with markedly low BMD, but the threshold showed limited specificity and requires external validation. Its effect on surgical decisions or clinical outcomes was not assessed.",
+          "doi": "10.1016/j.injury.2026.113822",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42950707/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113822",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42950706",
+          "title": "Thoracic irrigation in managing traumatic hemothorax: A concise review of techniques and practice variations.",
+          "authors": [
+            "Indorewala Y",
+            "Prashar S",
+            "Nishida C",
+            "Nasef Y",
+            "Othman Y",
+            "Haddadi M",
+            "Elkbuli A"
+          ],
+          "abstract": "BACKGROUND: Retained hemothorax following tube thoracostomy occurs in up to one-third of thoracic trauma patients, often necessitating additional interventions. Thoracic irrigation has emerged as a potential adjunct to improve pleural drainage. The objective of this concise review is to evaluate the role of thoracic irrigation in the management of traumatic hemothorax by highlighting current standards of care and variations in techniques.\n\nMETHODS: This review searched five search engines, screening studies published before September 26, 2025. Studies focusing on thoracic irrigation in the setting of trauma and hemothorax were included.\n\nRESULTS: A total of six studies were included. Thoracic irrigation in the management of traumatic hemothorax showed significantly lower odds of secondary intervention (OR: 0.16, p < 0.001) and shorter hospital length of stay (7 days vs. 9, p = 0.04) in patients who received thoracic irrigation compared with standard chest tube drainage. Most patients underwent irrigation using medium to large-bore tubes, although one study showed no association between tube size and outcomes. Patients receiving ≥ 1000 milliliters (mL) of irrigation had more hospital-free days compared to those receiving < 1000 mL (p = 0.007), while another study found no significant differences.\n\nCONCLUSION: Thoracic irrigation shows promise as an adjunct to tube thoracostomy in managing post-traumatic hemothorax, with evidence of reduced retained collections, fewer secondary interventions, and shorter hospital stays. Studies are needed to achieve standardized thoracic irrigation techniques and develop more comprehensive and consistent evidence-based guidelines.",
+          "doi": "10.1016/j.injury.2026.113830",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42950706/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113830",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42950705",
+          "title": "Do radiographic surrogates of pre-bend appropriateness influence outcomes after titanium elastic nailing in pediatric femoral mid-shaft fractures?",
+          "authors": [
+            "Sarıtaş TB",
+            "Yücel MH",
+            "Parlak S",
+            "Arıcı V",
+            "Tan A",
+            "Yalçınkaya A",
+            "Terzi E",
+            "Şahin A",
+            "Ertürk C"
+          ],
+          "abstract": "PURPOSE: To investigate whether radiographic technical parameters reflecting pre-bend appropriateness are associated with radiographic and clinical outcomes after titanium elastic nailing (TEN) in pediatric femoral mid-shaft fractures.\n\nMETHODS: This retrospective cohort included 85 children aged 5-11 years treated with TEN between 2015 and 2025. Constructs were classified as criteria-met (n = 38) or criteria-unmet (n = 47) using nail symmetry, a bend apex-fracture apex distance ratio ≤ 10%, and a metaphyseal spread ratio ≥ 50%. Separate exploratory multivariable models evaluated the composite classification and its components, adjusting for clinical and technical covariates.\n\nRESULTS: Median coronal angulation was lower in the criteria-met group (2.0° vs 5.0°; p = 0.005). The adjusted mean difference (criteria-unmet minus criteria-met) was 3.42° (95% CI 0.98-5.87; p = 0.007). Other group comparisons were inconclusive. Exploratory component analysis associated greater spread with greater limb length discrepancy (3.61 mm per increase of 10 %age points; 95% CI 1.81-5.40; q = 0.002), although technical parameters were highly correlated. The complication risk ratio for criteria-unmet versus criteria-met constructs was 1.41 (95% CI 0.45-4.48).\n\nCONCLUSION: Meeting the study-specific radiographic criteria was associated with lower coronal angulation, but its clinical importance remains uncertain. Overlapping criteria, correlated technical parameters, and limited precision preclude conclusions of equivalence or definitive independent effects.",
+          "doi": "10.1016/j.injury.2026.113838",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42950705/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113838",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42950704",
+          "title": "Scapular fracture and risk of great vessel injury in geriatric blunt trauma: A TQIP analysis.",
+          "authors": [
+            "Peisepar M",
+            "Rafieezadeh A",
+            "Prabhakaran K",
+            "Nair H",
+            "Kannichamy V",
+            "Harikrishnan S",
+            "Shnaydman I",
+            "Kirsch J",
+            "Froula G",
+            "Carlson A",
+            "Bronstein M",
+            "Zangbar B"
+          ],
+          "abstract": "INTRODUCTION: Scapular fractures are markers of high-energy blunt thoracic trauma and may indicate severe intrathoracic injury. Despite the substantial mortality linked with great vessel injuries (GVI), data specifically examining scapular fracture and GVI in the geriatric population remain limited. We hypothesized that scapular fracture, particularly when accompanied by concomitant thoracic fractures, is independently associated with GVI in geriatrics with blunt trauma.\n\nMETHODS: We conducted a retrospective cohort study using the American College of Surgeons Trauma Quality Improvement Program (ACS-TQIP) database (2017-2023). Patients aged ≥ 65 years with a blunt mechanism of injury and AIS severity 2-5 in the neck, thorax, or upper extremity were included. GVI was defined using specific AIS codes for major thoracic and cervical vessels. Multivariable logistic regression evaluated association between scapular fracture patterns and GVI, including isolated scapular fractures, those with concomitant sternal, rib or flail chest fractures. Models adjusted for age, sex, race, mechanism, ISS, shock index, and modified frailty index. Vessel-specific analyses were also performed. Primary outcome was GVI. Secondary outcomes were mortality and LOS.\n\nRESULTS: A total of 677,134 patients were included. Median age was 76 [70-82] years; 54.1% were female. Scapular fractures were identified in 5.0% of patients and GVI in 0.7%. In multivariable regression, isolated scapular fracture was associated with lower odds of GVI (aOR 0.783, 95% CI 0.704-0.871, p < 0.001), while scapular fracture with sternal fracture was associated with significantly higher odds (aOR 1.423, 95% CI 1.122-1.806, p = 0.004). Among vessel-specific analyses, subclavian artery injury demonstrated the highest association with scapular fracture (aOR 1.527, 95% CI 1.113-2.094, p = 0.009). GVI was associated with markedly higher in-hospital mortality (25.1% vs. 4.2%; OR 7.726, 95% CI 7.234-8.251, p < 0.001).\n\nCONCLUSION: In geriatric blunt trauma, isolated scapular fracture is not an independent predictor of GVI. After a fall, a scapular fracture without a sternal fracture does not by itself suggest a missed vascular injury. In contrast, combined scapular and sternal fractures represent a high-risk pattern that warrants a heightened index of suspicion and a low threshold for CT angiography, with particular attention to the subclavian vessels.\n\nLEVEL OF EVIDENCE: Prognostic/Epidemiologic; Level III.",
+          "doi": "10.1016/j.injury.2026.113835",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42950704/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113835",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42950702",
+          "title": "Orthopedic trauma in patients with opioid use disorder: Current concepts in perioperative management.",
+          "authors": [
+            "Stout JW",
+            "Keenan J",
+            "Rehman S"
+          ],
+          "abstract": "BACKGROUND: Opioid use disorder (OUD) is an important challenge in orthopedic trauma, where acute injury intersects with preexisting opioid exposure, tolerance, complex pain, and barriers to continuity of addiction treatment. OUD has been associated with higher rates of complications, readmission, and treatment disruption, yet OUD-specific perioperative management remains inconsistently incorporated into orthopedic trauma practice. This review synthesizes the epidemiology, outcomes, and perioperative management evidence for this population.\n\nMETHODS: A clinically oriented current concepts review synthesized peer-reviewed literature, prioritizing studies published from 2013 onward. PubMed and Embase were searched, supplemented by Google Scholar, Semantic Scholar, and manual review of reference lists from relevant articles. Studies examining perioperative outcomes, multimodal analgesia, and management of medications for OUD (MOUD) relevant to orthopedic trauma were included; studies limited to pediatric, elderly, or prenatal populations were excluded.\n\nRESULTS: Preinjury opioid exposure is common among orthopedic trauma patients, whereas formally diagnosed OUD is less prevalent, affecting approximately 1% of operative trauma patients and up to 2.3% of patients with open lower-extremity fractures. OUD and opioid-related disorders are associated with higher rates of infection, nonunion, revision, prolonged hospitalization, and readmission. Consensus guidance and observational evidence support continuation of evidence-based MOUD, individualized opioid supplementation, multimodal nonopioid analgesia, regional anesthesia when appropriate, and early coordination with addiction and acute pain services. Guideline-based approaches to postoperative opioid prescribing, tapering, and patient education are also summarized.\n\nCONCLUSIONS: Orthopedic trauma patients with OUD require individualized, multidisciplinary perioperative care. The strongest available evidence supports preservation of OUD treatment, multimodal analgesia, early addiction and pain consultation, and coordinated discharge planning rather than either opioid avoidance or opioid-only treatment. The review concludes with the authors' recommendations for the operating surgeon, including in-hospital and outpatient tapering plans, management of requests for additional opioids, and patient education.",
+          "doi": "10.1016/j.injury.2026.113824",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42950702/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113824",
+          "journal_key": "injury"
+        },
         {
           "pmid": "42945744",
           "title": "The downside of the pull-up: A 10-year national analysis of emergency department visits, 2015-2024.",
