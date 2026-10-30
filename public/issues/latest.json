@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T13:47:04Z",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T13:40:31Z",
   "counts": {
-    "articles": 464,
+    "articles": 466,
     "journals_with_articles": 10,
     "journals_searched": 11,
     "new_issues": 0
@@ -5984,6 +5984,121 @@
       "count": 120,
       "articles": [
         {
+          "pmid": "42955382",
+          "title": "Novel bicolumnar fixation with primary cup implantation for pelvic discontinuity in revision hip arthroplasty: a comparative clinical study.",
+          "authors": [
+            "Abul MS",
+            "Ağır M",
+            "Yılmaz H",
+            "Hekim Ö",
+            "Sevim ÖF",
+            "Tuncay İ"
+          ],
+          "abstract": "BACKGROUND: Pelvic discontinuity is a rare but challenging condition in revision hip arthroplasty. Traditional cage-based reconstruction techniques often rely solely on mechanical fixation and may be associated with implant migration, loosening, and mechanical failure. Alternative strategies aimed at restoring pelvic continuity and achieving biological fixation may improve construct stability and clinical outcomes.\n\nMETHODS: This retrospective study included 19 patients with intraoperatively confirmed pelvic discontinuity who underwent revision total hip arthroplasty between 2014 and 2024. Patients were divided into three groups according to the reconstruction technique used: Group 1 (n = 8) underwent anti-protrusio cage reconstruction alone, Group 2 (n = 6) received additional anterior quadrilateral surface plating prior to cage implantation, and Group 3 (n = 5) underwent restoration of pelvic continuity through anterior and posterior column fixation followed by implantation of a porous-coated primary acetabular cup. Clinical and radiological outcomes were assessed with a minimum follow-up of 2 years, including complications, loosening, reoperation, and reoperation-free survival.\n\nRESULTS: Nineteen patients (mean age 71.2 years) with intraoperatively confirmed pelvic discontinuity were included. Aseptic loosening rates differed significantly among the three groups (P = 0.039), occurring in 50% of patients in Group 1 and in none of the patients in Groups 2 or 3. Reoperation rates were higher in Group 1 (75%) than in Group 2 (16.7%) and Group 3 (20%), although this difference did not reach statistical significance (P = 0.074). Kaplan-Meier analysis demonstrated a trend toward lower reoperation-free survival in Group 1; however, differences among the groups were not statistically significant (log-rank P = 0.237).\n\nCONCLUSION: Reconstruction strategies involving restoration of pelvic continuity through column stabilization may provide improved mechanical stability and lower complication rates compared with conventional cage-only techniques in the management of pelvic discontinuity. In selected patients, bicolumnar fixation followed by implantation of a porous-coated primary acetabular cup may offer the additional advantage of biological fixation. Larger prospective studies are needed to validate these findings.",
+          "doi": "10.1007/s00402-026-06424-y",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Comparative Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42955382/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06424-y",
+          "journal_key": "aots"
+        },
+        {
+          "pmid": "42955362",
+          "title": "Arthroplasty centers logistically separated from general orthopedic departments were associated with a more successful implementation of a standardized day-case setup : A Danish cohort study of 6718 procedures from a fast-track multi-center collaboration.",
+          "authors": [
+            "Jensen CB",
+            "Danielsen O",
+            "Varnum C",
+            "Jakobsen T",
+            "Andersen MR",
+            "Bieder MJ",
+            "Overgaard S",
+            "Jørgensen CC",
+            "Kehlet H",
+            "Gromov K"
+          ],
+          "abstract": "BACKGROUND: Day-case hip and knee arthroplasty can reduce bed occupancy and improve cost-effectiveness, which is crucial for addressing the increasing demand among hip and knee osteoarthritis patients. This study investigated how different arthroplasty center setups were associated with the implementation and day-of-surgery (DOS) discharge rates of a standardized day-case setup.\n\nMATERIALS AND METHODS: We included unilateral primary hip and knee arthroplasty patients from seven fast-track arthroplasty centers, all implementing a standardized day-case setup in September 2022 with identical eligibility and discharge criteria. Centers were categorized as: Satellite Arthroplasty Centers (SACs): Only primary arthroplasties, separate logistics. Elective Arthroplasty Centers (EACs): Complex primaries, revisions, separate logistics. Arthroplasty Unit Orthopedic Departments (AUOs): Primary and revision procedures, integrated into a general orthopedic department. We compared DOS discharge rates from September 2022 to September 2023 with a baseline period (July 2019-December 2019) using crude percentages. We compared the DOS discharge rate for day-case-eligible patients in study period between the center types using mixed effects models.\n\nRESULTS: We included 6718 patients (1357 SAC, 4309 EAC, 1052 AUO) during the study period and 3974 in the baseline period. DOS discharge rates increased post-implementation across all centers (SAC: 3.9% to 30%, EAC: 5.5% to 23%, AUO: 7.4% to 14%). Compared with AUOs (36%), successful DOS discharge among eligible patients was more likely in SACs (54%; adjusted OR 3.0, 95% CI 1.3-7.1; adjusted risk difference 25 percentage points, 95% CI 5.9-44) and EACs (60%; adjusted OR 3.8, 95% CI 1.7-8.5; adjusted risk difference 31 percentage points, 95% CI 13.8-48).\n\nCONCLUSIONS: Arthroplasty centers with logistics separate from the general orthopedic department, SACs and EACs, were associated with higher rates of successful DOS discharge among eligible patients during implementation of a standardized day-case pathway, despite integrated arthroplasty units, AUOs, having higher day-case surgery use before implementation.",
+          "doi": "10.1007/s00402-026-06525-8",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Multicenter Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42955362/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06525-8",
+          "journal_key": "aots"
+        },
+        {
+          "pmid": "42955360",
+          "title": "Preoperative coronal tibiofemoral subluxation does not affect 2-year outcomes after mobile-bearing medial unicompartmental knee arthroplasty for anteromedial osteoarthritis.",
+          "authors": [
+            "Kinoshita T",
+            "Bunyoz KI",
+            "Mortensen KRL",
+            "Bredgaard Jensen C",
+            "Price A",
+            "Gromov K",
+            "Troelsen A"
+          ],
+          "abstract": "INTRODUCTION: Coronal tibiofemoral subluxation (CTFS) is frequently observed in patients with medial knee osteoarthritis; however, its clinical relevance and the acceptable degree of CTFS when considering unicompartmental knee arthroplasty (UKA) remain unclear. This study aimed to determine whether preoperative CTFS influences short-term postoperative clinical outcomes in patients with anteromedial osteoarthritis (AMOA) undergoing medial UKA.\n\nMETHODS: In this retrospective cohort study, 457 consecutive knees with AMOA who underwent mobile-bearing UKA performed at a single center between August 2016 and May 2023 were analyzed. CTFS, defined as medial translation of the femur relative to the tibia, was measured on preoperative weight-bearing anteroposterior radiographs and expressed as the percentage of tibial plateau width. Patients were categorized into mild (0-5%), moderate (≥ 5% to < 10%), and severe (≥ 10%) CTFS groups. Clinical outcomes were evaluated using the Oxford Knee Score (OKS) preoperatively and at 3 months, 1 and 2 years postoperatively. Pairwise comparisons of changes in OKS were performed using a general linear model with Bonferroni-adjusted post hoc tests, and adjusted mean differences were calculated controlling for age, sex, body mass index, and preoperative OKS.\n\nRESULTS: At 2 years, mean OKS improvements were 16.6 ± 8.9, 14.8 ± 8.3, and 16.0 ± 9.3 in the mild, moderate, and severe CTFS groups, respectively. Adjusted mean differences between groups were small, with confidence intervals including zero. The severe CTFS group demonstrated greater joint line convergence angle than the mild and moderate groups (both p < 0.001). Mean bearing thickness did not differ among groups (p = 0.428).\n\nCONCLUSIONS: Preoperative CTFS was not associated with worse outcomes in mobile-bearing UKA for AMOA with correctable deformity. Within the setting of correctable deformity and appropriate patient selection, preoperative CTFS was not associated with inferior 2-year outcomes. Longer-term survivorship and radiographic progression analyses are warranted.",
+          "doi": "10.1007/s00402-026-06530-x",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42955360/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06530-x",
+          "journal_key": "aots"
+        },
+        {
+          "pmid": "42955368",
+          "title": "Radial head arthroplasty restores axial construct stiffness in a Monteggia-like injury model: a biomechanical study.",
+          "authors": [
+            "Weber MM",
+            "Hockmann JP",
+            "Rosenkranz TA",
+            "Leschinger T",
+            "Müller LP",
+            "Rausch V"
+          ],
+          "abstract": "INTRODUCTION: Monteggia-like lesions are rare but complex elbow injuries involving fractures of both the proximal ulna and the radial head. While the influence of ulnar alignment and soft tissue integrity on radial head stability has been extensively studied, the effect of radial head integrity on the stability of ulnar fixation remains poorly understood. Given the high rates of nonunion and revision surgery after proximal ulna fractures, improved understanding of forearm biomechanics in these combined injuries is highly clinically relevant as it influences the surgical strategy in primary care of these injuries. Accordingly, this study aimed to evaluate the biomechanical impact of radial head resection and radial head arthroplasty on forearm stiffness in a simulated Monteggia-like injury model. We hypothesized that radial head resection would reduce construct stiffness compared with both the native state and radial head arthroplasty, and that arthroplasty would partially restore stiffness toward native levels MATERIALS AND METHODS: Eight fresh-frozen human cadaveric elbow specimens were biomechanically tested under axial loading. After baseline testing in the native state, a standardized segmental comminution model was created and stabilized using locking plate osteosynthesis. Sequential testing was then performed after radial head resection and after implantation of a modular radial head prosthesis. Specimens were loaded cyclically up to 450 N for 1,000 cycles with the elbow positioned at 30° of flexion. Construct stiffness was calculated and compared between testing conditions.\n\nRESULTS: Mean construct stiffness in the native state was 49.3 ± 4.29 N/mm and decreased significantly after creation and fixation of the ulnar defect (36.05 ± 6.71 N/mm). Radial head resection resulted in a further significant reduction in stiffness (25.83 ± 6.65 N/mm). Following radial head arthroplasty, stiffness increased to 33.8 ± 7.89 N/mm, representing a significant improvement compared with the resection state (p ≤ 0.0026). No significant difference was observed between stiffness after prosthesis implantation and the condition with intact radial head and stabilized ulna.\n\nCONCLUSION: Radial head integrity significantly contributes to forearm stiffness in Monteggia-like lesions. Radial head arthroplasty partially restores biomechanical stability after resection and may alter load distribution in a manner that could be relevant for fixation durability. These findings support the need to address the radial column to optimize stability in complex elbow injuries.\n\nLEVEL OF EVIDENCE: Biomechanical study.",
+          "doi": "10.1007/s00402-026-06515-w",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42955368/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06515-w",
+          "journal_key": "aots"
+        },
+        {
           "pmid": "42934393",
           "title": "Correction: Single double-loaded anchor repair of isolated Lafosse III subscapularis tears in patients not involved in physically demanding activities provides satisfactory functional and radiologic outcomes at minimum 5-year follow-up.",
           "authors": [
@@ -9168,114 +9283,6 @@
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42517911/",
           "doi_url": "https://doi.org/10.1007/s00402-026-06437-7",
           "journal_key": "aots"
-        },
-        {
-          "pmid": "42489925",
-          "title": "Using an App based algorithm to determine axial rotation and pelvic tilt at the time of an AP radiograph: a sawbone study.",
-          "authors": [
-            "Boettner F",
-            "Premkumar A",
-            "Sterneder M",
-            "Aboaf C",
-            "Haralambiev L"
-          ],
-          "abstract": "INTRODUCTION: Axial rotation of the pelvis impacts inclination and anteversion measurements of the acetabular component on plain radiographs. Currently the axial rotation is not taken into account when providing acetabular component measurements on plain radiographs. The current study evaluates a novel App based algorithm to determine pelvic axial rotation at the time of an AP pelvis radiograph.\n\nMATERIALS AND METHODS: AP and lateral radiographs were taken of the sawbone pelvis to calibrate the App. The sawbone was then rotated 11 times to the left (average 5.3°, range 0.2°-10.5°) and 10 times to the right (average 5.2°, range 1.2°-11.3°). The sawbone was then tilted forward 14 times (average 5.6° range 0.1°-11.6°) and 13 times backward (average 5.9°, range 0.1°-11.2°). The amount of axial rotation and tilt of the sawbone pelvis was determined using a digital caliper. AP pelvis radiographs were taken for each position. Using a novel App based calculation algorithm the amount of axial rotation and pelvic tilt was determined from the AP Pelvis radiograph.\n\nRESULTS: The algorithm determined the axial rotation of the pelvis at the time of the AP pelvis radiograph with an average difference of 0.6° (range 0°-1.8°) compared to the digital caliper measurement. For measuring pelvic tilt, the difference was 2.3° (range 0.4°-4.5°) compared to the digital caliper measurement.\n\nCONCLUSIONS: The algorithm used to determine axial rotation of the pelvis at the time of an AP pelvis radiograph is highly accurate. The technology can help to more accurately determine acetabular component position on standard radiographs and intraoperative C-arm images.",
-          "doi": "10.1007/s00402-026-06433-x",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42489925/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06433-x",
-          "journal_key": "aots"
-        },
-        {
-          "pmid": "42489736",
-          "title": "Risk factors for implant-associated infection after bone allograft reconstruction: a 20-year retrospective cohort study.",
-          "authors": [
-            "Scheurer F",
-            "Smolle M",
-            "Hauer G",
-            "Ruckenstuhl P",
-            "Valentin T",
-            "Leithner A"
-          ],
-          "abstract": "AIMS: Reconstruction of bone defects is a key challenge in orthopaedic surgery. While autologous bone grafts are considered the gold standard, osseous allografts are increasingly used as an alternative as they allow for treatment of large bone defects. However, they may be associated with an increased risk of postoperative infections. This study aims to analyze the frequency of and risk factors for implant-associated infections after bone allograft transplantation.\n\nMETHODS: All patients who underwent reconstruction with bone allografts at a single orthopaedic and trauma unit between 2003 and 2023 were retrospectively included. Data on demographics, disease-associated parameters, risk factors at index surgery, and development of implant-associated infections during follow-up were documented. Potential risk factors for development of implant-associated infections during follow-up were investigated with logistic regression models.\n\nRESULTS: A total of 220 patients were included (46.8% males; median age at surgery 46.5 years [IQR: 22-67]; n = 23 with implant-associated infections during follow-up). Factors independently associated with subsequent implant-associated infections were smoking (p = 0.001), BMI (p = 0.015) and radiotherapy (p = 0.013). Gender, age, preoperative chemotherapy, allograft material, preoperative C-reactive protein, hemoglobin and reason for surgery (tumor, n = 104; trauma, n = 13; revision, n = 103) were not associated with implant associated infection.\n\nCONCLUSION: Independent risk factors for implant-associated infections following bone allograft surgery included active smoking, high BMI and radiotherapy (in case of tumor). These factors should be taken into consideration when planning bone allograft reconstruction.",
-          "doi": "10.1007/s00402-026-06431-z",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42489736/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06431-z",
-          "journal_key": "aots"
-        },
-        {
-          "pmid": "42477278",
-          "title": "Why it's better to believe in a larger definition of the diametaphyseal junction zone in pediatric distal radius fractures.",
-          "authors": [
-            "von Schrottenberg C",
-            "Beck SM",
-            "Schwerk P",
-            "Fitze G",
-            "Schultz J"
-          ],
-          "abstract": "INTRODUCTION: Diametaphyseal radius fractures (DMRF) in children are characterized by special biomechanical behavior. They present with a stereotypical loss of reduction (radial translation and ulnar tilt) of the distal fragment when stabilized with elastic stable intramedullary nailing (ESIN), the standard osteosynthesis for pediatric diaphyseal forearm fractures. No consensus has been found on the definition of the diametaphyseal junction zone (DMJZ). Some authors claim that diaphyseal fractures immediately proximal to the metaphysis, as defined by the AO Pediatric Comprehensive Classification of Long Bone Fractures (AO-PCCF), can safely be stabilized with ESIN. They confine the DMJZ to a small part within the metaphysis. Other definitions of the DMJZ extend slightly more proximally, including a small part of the distal diaphysis. The forearm fracture index (FFI) calculates the ratio of the fracture's distance to the radius' growth plate over its width and defines DMRF to have an FFI between 1 and 2. The aim of this case series was to demonstrate that these particular fractures, which can be considered diaphyseal according to the AO-PCCF, still exhibit biomechanical characteristics typical of DMRF.\n\nMATERIALS AND METHODS: Radiologic and clinical outcomes of 11 DMRF, that would be considered diaphyseal by the AO-PCCF classification but fall into the DMJZ when using the FFI, are being reported.\n\nRESULTS: 7 fractures were treated with ESIN and 4 with transepiphyseal percutaneous intramedullary Kirschner-wire (TEPIK) fixation. ESIN osteosynthesis led to only a small reduction in angulation but a notable increase in translational dislocation in the a.p. radiograph, both typical dislocation patterns seen in DMRF. Fractures stabilized with TEPIK, an osteosynthesis technique obeying the biomechanical demands of DMRF, did not present with these stereotypical dislocation patterns.\n\nCONCLUSIONS: The biomechanical demands typical of DMRF also apply to very distal diaphyseal forearm fractures. Hence, a larger definition of the DMJZ might include all fractures with the characteristic biomechanical behavior.",
-          "doi": "10.1007/s00402-026-06428-8",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42477278/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06428-8",
-          "journal_key": "aots"
-        },
-        {
-          "pmid": "42477246",
-          "title": "Optimizing initial biomechanical strength (\"Time Zero\") of posterior repair in total hip arthroplasty: a biomechanical comparison of suture materials and knot configurations.",
-          "authors": [
-            "Chen M",
-            "Liu X",
-            "Chen D",
-            "Li X",
-            "Du H",
-            "Sun Y",
-            "Wang H"
-          ],
-          "abstract": "INTRODUCTION: Posterior capsule repair (PCR) is commonly performed during total hip arthroplasty (THA) via the posterolateral approach to improve postoperative stability. Because biological healing of the repaired posterior structures requires time, the repair construct must provide sufficient immediate mechanical support after surgery. This study aimed to identify the suture material and knot configuration with favorable initial mechanical performance in a standardized in vitro model.\n\nMATERIALS AND METHODS: This in vitro biomechanical study was conducted in two sequential phases. Phase 1 evaluated the baseline tensile properties of three commonly used suture materials: #2 Ethibond, #0 Vicryl, and 3 - 0 PGLA. Phase 2 used a standardized porcine dermal surrogate model to compare eight suture configurations, including single- and double-strand techniques. The primary biomechanical outcomes included maximum failure load, load at 2 mm gap formation, and construct stiffness during uniaxial quasi-static load-to-failure testing.\n\nRESULTS: In Phase 1, non-absorbable #2 Ethibond showed significantly greater ultimate tensile strength (92.44 ± 8.72 N) and higher stiffness than the absorbable alternatives (P < 0.001). In Phase 2, double-strand configurations outperformed all single-strand techniques. Among them, the double-strand Nice knot achieved the highest maximum failure load (104.04 ± 8.68 N) and the greatest construct stiffness (12.59 ± 1.21 N/mm), with better resistance to gap formation than conventional single-strand techniques.\n\nCONCLUSIONS: In this in vitro model, absorbable sutures and traditional static knots showed lower initial fixation strength than double-strand constructs. Under controlled laboratory conditions, the combination of #2 Ethibond and a double-strand Nice knot was associated with higher initial biomechanical strength and stiffness than the other tested methods. These findings may help inform construct selection for posterior capsule repair, although direct clinical extrapolation should be made with caution.",
-          "doi": "10.1007/s00402-026-06362-9",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Comparative Study"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42477246/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06362-9",
-          "journal_key": "aots"
         }
       ]
     },
@@ -9288,7 +9295,7 @@
       "pub_year": "2026",
       "pub_month": "Oct",
       "is_new": false,
-      "count": 13,
+      "count": 15,
       "articles": [
         {
           "pmid": "42950703",
@@ -9313,6 +9320,67 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42950703/",
           "doi_url": "https://doi.org/10.1016/j.injury.2026.113828",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42956476",
+          "title": "Predictors of 30-day mortality and complications following surgical treatment of pathologic hip fractures.",
+          "authors": [
+            "Thomas G",
+            "Njoku-Austin CO",
+            "Almeida ND",
+            "Sinha S",
+            "Schrand TV",
+            "Mirvish A",
+            "Singh AK",
+            "Hoogervorst P"
+          ],
+          "abstract": "Pathologic hip fractures present complex challenges and are associated with higher postoperative complication rates and mortality compared with non-pathologic fractures. This study aimed to compare 30-day outcomes between pathologic and non-pathologic hip fracture patients and identify factors associated with 30-day mortality and postoperative complications among patients with pathologic hip fractures using the National Surgical Quality Improvement Program database. A retrospective analysis was conducted from 2006 to 2023. Patients aged ≥ 18 years undergoing hip fracture surgery were included. Patients with non-pathologic hip fractures were compared with those with pathologic hip fractures. Univariate analyses and multivariable logistic regression models were used to identify factors associated with pathologic hip fracture 30-day mortality and complications. Among 204,675 hip fracture patients, 6159 (2.9%) had pathologic hip fractures. Patients with pathologic hip fractures had higher rates of 30-day mortality (7.8% vs. 5.1%, p < 0.001), any postoperative complication (35.3% vs. 30.2%, p < 0.001), cardiac/transfusion complications (27.5% vs. 22.2%, p < 0.001), renal complications (0.5% vs. 0.3%, p = 0.017), and venous thromboembolic complications (3.4% vs. 1.7%, p < 0.001). Infectious complications and neurological complications were not significantly different between groups. In multivariable analyses, prominent protective factors associated with decreased 30-day mortality included absence of disseminated cancer (aOR 0.4, p < 0.001), independent functional status (aOR 0.2, p < 0.001), and absence of sepsis history (aOR 0.4, p = 0.02). Thrombocytopenia (aOR 1.9, p < 0.001) and anemia (aOR 1.9, p < 0.001) were prominent risk factors for 30-day mortality. Thrombocytopenia and anemia were also significant risk factors for any complications and cardiac/transfusion complications. These findings underscore the importance of comprehensive preoperative assessment and multidisciplinary care to optimize outcomes for patients with pathologic hip fractures. Patients with multiple risk factors for adverse postoperative morbidity and mortality should receive appropriately tailored care.",
+          "doi": "10.1016/j.injury.2026.113854",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42956476/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113854",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42956475",
+          "title": "Video-assisted resident education is associated with improved ankle joint reduction: A prospective controlled study.",
+          "authors": [
+            "Bilodeau RE",
+            "Hall AJ",
+            "Como M",
+            "Cautela F",
+            "Rowe J",
+            "Joseph D",
+            "Reddy RP",
+            "Hogan MV",
+            "Forsh D",
+            "Seneviratne A",
+            "Cong T"
+          ],
+          "abstract": "BACKGROUND: Proper fracture reduction and splinting technique is critical for soft tissue protection and fracture stability in the acute management of ankle fractures. However, residency education for acute ankle fracture reduction and splinting techniques remains poorly standardized and streamlined. This study evaluated the effect of implementing a video-assisted ankle fracture management education program administered to first-year orthopaedic residents on ankle joint reduction and splint quality.\n\nMETHODS: This was a prospective controlled study conducted at a single level I trauma center. All consecutive ankle fractures (OTA/AO: 4F, 44) requiring the placement of a bivalved short leg cast or AO splint from January 1, 2019, to June 30th, 2022 were included. Exclusion criteria included skeletal immaturity, missing imaging, delayed fracture presentation more than two weeks from injury, concurrent ipsilateral injury/polytrauma interfering with ankle reduction, open fracture, or ankle fractures treated without an AO splint or cast. The primary outcome was joint reduction quality defined as radiographic post-reduction tibiofibular overlap, tibiofibular clear space, and medial clear space. Secondary outcomes included splint padding thickness and ankle dorsiflexion angle to assess splint quality.\n\nRESULTS: A total of 280 consecutive ankle fracture cases were included for evaluation of splint quality: 111 in the intervention group (mean age 46; [range 14-92]; 44% female) versus 169 in the control group (mean age 44; [range 14-90]; 41% female). Comparable injury severity was observed between groups. In the supination-external rotation IV (SER4) and type IV-equivalent (SER4e) subgroup, there was significant improvement in joint reduction quality in the intervention group as compared to control (55% versus 36%, respectively; Risk Ratio: 1.52, [95% CI: 1.03-2.25], p = 0.04). In the entire cohort, splint padding thickness was not significantly improved in the intervention group (p > 0.05), however, there was a significant increase in the percentage of ankles splinted in an appropriately dorsiflexed position (p = 0.03).\n\nCONCLUSIONS: Implementation of video-assisted ankle fracture management education program was associated with improvements in overall ankle joint reduction quality. While the clinical significance of the improvements observed in ankle reduction remains yet to be established, orthopaedic surgery residency programs should consider incorporating video technique guides into their educational curricula.\n\nLEVEL OF EVIDENCE: Level II, Therapeutic Study.",
+          "doi": "10.1016/j.injury.2026.113823",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42956475/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113823",
           "journal_key": "injury"
         },
         {
@@ -9657,6 +9725,38 @@
       "is_new": false,
       "count": 120,
       "articles": [
+        {
+          "pmid": "42955129",
+          "title": "24-hour risk updating for major ICU complications after severe trauma: a prospective cohort study.",
+          "authors": [
+            "Sanchez C",
+            "Cachafeiro L",
+            "Millan P",
+            "Polo E",
+            "Garcia L",
+            "Sarmiento C",
+            "Vejo J",
+            "Lopez A",
+            "Graciani E",
+            "Quintana M",
+            "Sanchez M"
+          ],
+          "abstract": "PURPOSE: Conventional trauma prognostic models rely primarily on admission data and cannot account for subsequent physiological response to treatment. We evaluated whether routinely collected physiological information available at 24 h provides incremental prognostic information for major intensive care unit (ICU) complications in severely injured patients.\n\nMETHODS: We conducted a prospective cohort of adults with severe trauma (Injury Severity Score [ISS] ≥ 15) admitted to the ICU between January 2024 and April 2025. The primary outcome was a composite of major respiratory, hemodynamic, renal, or septic complications during the ICU course. TRISS was compared with an admission ridge model incorporating ISS, Glasgow Coma Scale, hemoglobin, lactate, and international normalized ratio, and a 24-h updated ridge model additionally incorporating 24-h lactate and change in creatinine. Performance was internally validated with 1,000 bootstrap resamples.\n\nRESULTS: Among 109 patients, median ISS was 29 (IQR 20-38), and 73 (67.0%) developed major ICU complications. Optimism-corrected AUCs were 0.788 for TRISS, 0.873 for the admission model, and 0.887 for the 24-h updated model; Brier scores were 0.178, 0.140, and 0.131. Compared with the admission model, the 24-h updated model improved performance (ΔAUC 0.016, 95% bootstrap interval 0.004-0.030; ΔBrier - 0.010, - 0.017 to - 0.005). Twenty-four-hour lactate and creatinine change were the strongest contributors to the update.\n\nCONCLUSION: In severely injured ICU patients, incorporating physiological evolution during the first 24 h refined admission-based prognostic assessment. Lactate and creatinine trajectories provided incremental information for major ICU complications during the ICU course. External validation is required before clinical implementation.",
+          "doi": "10.1007/s00068-026-03374-3",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42955129/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03374-3",
+          "journal_key": "ejtes"
+        },
         {
           "pmid": "42944872",
           "title": "Addition of a McLaughlin cerclage to locking plate fixation of distal patellar pole fractures reduces interfragmentary displacement - a biomechanical human cadaveric study.",
@@ -13078,35 +13178,6 @@
           "section": "Systematic Review",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42417852/",
           "doi_url": "https://doi.org/10.1007/s00068-026-03256-8",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42410118",
-          "title": "Transosseous sutures versus vertical cerclage wire for distal pole patellar fractures: a retrospective comparative cohort study.",
-          "authors": [
-            "Laso JI",
-            "Muñoz JT",
-            "Bianchi S",
-            "Martínez D",
-            "Rojas T",
-            "Franulic N",
-            "Olivieri R"
-          ],
-          "abstract": "PURPOSE: To compare transosseous sutures (TOS) and vertical wire cerclage (VCW) for treating distal pole patellar fractures, evaluating clinical outcomes, patient-reported outcome measures (PROMs), radiographic outcomes, and complications.\n\nMETHODS: We conducted a retrospective comparative cohort study of patients surgically treated for patellar distal pole fractures (AO/OTA 34A1b) with either TOS or VCW between 2015 and 2023. Patient characteristics, surgical technique, postoperative data, patellar height, and complications were recorded. Functional outcomes were evaluated at a minimum of 12 months postoperatively using PROMs (Kujala, Lysholm, and Bostman scores). The primary outcome of this study was functional recovery, assessed via the Bostman score at 12 months.\n\nRESULTS: A total of 46 patellar distal pole fractures were included (30 TOS and 16 VCW). Baseline characteristics showed no statistically significant differences between groups. No significant differences were found regarding clinical or functional outcomes. Regarding radiographic outcomes, patellar height remained stable; however, both groups showed significant patellar length variation, with elongation being significantly more pronounced in the TOS group (mean 3.77 mm) compared to the VCW group (mean 0.44 mm; p = 0.001). While overall complication rates showed no statistically significant difference, all five cases of nonunion occurred exclusively in the TOS group.\n\nCONCLUSION: Both transosseous sutures and vertical cerclage wire techniques demonstrate favorable clinical and functional outcomes in this cohort. However, the TOS technique was associated with a greater increase in patellar length and a higher clinical frequency of nonunion. These findings warrant further investigation to elucidate their etiology and long-term clinical relevance.",
-          "doi": "10.1007/s00068-026-03257-7",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Comparative Study"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42410118/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03257-7",
           "journal_key": "ejtes"
         }
       ]
