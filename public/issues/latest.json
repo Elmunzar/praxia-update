@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31T13:09:12Z",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T13:52:53Z",
   "counts": {
-    "articles": 473,
+    "articles": 476,
     "journals_with_articles": 10,
     "journals_searched": 11,
     "new_issues": 1
@@ -864,424 +864,408 @@
       "journal": "The Bone & Joint Journal",
       "ta": "Bone Joint J",
       "volume": "108-B",
-      "issue": "10",
+      "issue": "11",
       "pub_year": "2026",
-      "pub_month": "Oct",
-      "is_new": false,
+      "pub_month": "Nov",
+      "is_new": true,
       "count": 14,
       "articles": [
         {
-          "pmid": "42853106",
-          "title": "Periprosthetic joint infection : the evidence we still lack.",
+          "pmid": "42966361",
+          "title": "Novel and long-term research: where are we?",
+          "authors": [
+            "Haddad FS"
+          ],
+          "abstract": "",
+          "doi": "10.1302/0301-620X.108B11.BJJ-2026-1493",
+          "journal_ta": "Bone Joint J",
+          "volume": "108-B",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "1289-1290",
+          "pub_types": [
+            "Editorial"
+          ],
+          "section": "Editorial",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42966361/",
+          "doi_url": "https://doi.org/10.1302/0301-620X.108B11.BJJ-2026-1493",
+          "journal_key": "bjj"
+        },
+        {
+          "pmid": "42966373",
+          "title": "The robotic arm-assisted versus conventional total knee arthroplasty (RACER-Knee) trial : the question of value and where we go next.",
+          "authors": [
+            "Clement ND",
+            "Metcalfe A",
+            "Davis ET",
+            "Haddad FS"
+          ],
+          "abstract": "",
+          "doi": "10.1302/0301-620X.108B11.BJJ-2026-1352",
+          "journal_ta": "Bone Joint J",
+          "volume": "108-B",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "1291-1293",
+          "pub_types": [
+            "Editorial"
+          ],
+          "section": "Editorial",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42966373/",
+          "doi_url": "https://doi.org/10.1302/0301-620X.108B11.BJJ-2026-1352",
+          "journal_key": "bjj"
+        },
+        {
+          "pmid": "42966367",
+          "title": "A comparison of the efficacy and safety of direct oral anticoagulants with low molecular weight heparin for venous thromboembolism prophylaxis after total hip arthroplasty : a systematic review and meta-analysis.",
+          "authors": [
+            "Mohammad HR",
+            "Rahman A",
+            "Muhammad IM",
+            "Gill SS",
+            "Selim A",
+            "Thomas G",
+            "Murray DW",
+            "Griffin XL"
+          ],
+          "abstract": "AIMS: To evaluate differences in the efficacy and safety of low molecular weight heparin (LMWH) and direct oral anticoagulants (DOACs) used for venous thromboembolism (VTE) prophylaxis after elective total hip arthroplasty (THA).\n\nMETHODS: This systematic review and meta-analysis reviewed MEDLINE, Embase, and CENTRAL from conception to 13 December 2025, for any randomized controlled trials (RCTs) comparing the efficacy (VTE risk) and safety (bleeding risk) of LMWH and DOACs after elective THA. Pooled odds ratios (ORs) of VTE, bleeding, reoperation, and mortality risks were assessed.\n\nRESULTS: A total of 22 RCTs involving 28,112 participants were included. The risk of VTE in the DOAC group was lower compared with the LMWH group (OR 0.62 (95% CI 0.47 to 0.82); p = 0.002), driven by a reduction in deep vein thrombosis (DVT) risk (OR 0.60 (95% CI 0.42 to 0.86); p = 0.008). The findings remained consistent in the subgroup analysis restricted to anticoagulants and dosages licensed for use in the UK. Overall bleeding risk was higher in the DOAC group (OR 1.19 (95% CI 1.03 to 1.38); p = 0.023), but no difference was seen when comparing only UK-licensed anticoagulants and doses (OR 1.06 (95% CI 0.95 to 1.18); p = 0.279). Reoperation risk (OR 1.21 (95% CI 0.75 to 1.93); p = 0.351) and mortality (OR 1.03 (95% CI 0.46 to 2.33); p = 0.937) did not differ between groups.\n\nCONCLUSION: DOACs reduce the risk of VTE and DVT following elective THA compared with LMWH without increasing bleeding risk, for UK-licensed agents and doses. Switching to DOACs could save the NHS £8.6 million per year. New clinical trials are needed to compare the safety and efficacy of UK-licensed DOACs and LWMH with modern postoperative rehabilitation protocols.",
+          "doi": "10.1302/0301-620X.108B11.BJJ-2026-0451.R2",
+          "journal_ta": "Bone Joint J",
+          "volume": "108-B",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "1294-1304",
+          "pub_types": [
+            "Journal Article",
+            "Systematic Review",
+            "Meta-Analysis",
+            "Comparative Study"
+          ],
+          "section": "Systematic Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42966367/",
+          "doi_url": "https://doi.org/10.1302/0301-620X.108B11.BJJ-2026-0451.R2",
+          "journal_key": "bjj"
+        },
+        {
+          "pmid": "42966371",
+          "title": "Clinical outcomes of transposition osteotomy of the acetabulum in patients aged 50 years or older with hip dysplasia : a propensity score-matched comparative study.",
+          "authors": [
+            "Fujii M",
+            "Mochizuki H",
+            "Tanaka S",
+            "Kawano S",
+            "Ueno M",
+            "Oba Y",
+            "Morimoto T"
+          ],
+          "abstract": "AIMS: To clarify whether transposition osteotomy of the acetabulum (TOA) in patients aged ≥ 50 years with hip dysplasia provides clinical, radiological, and patient-reported outcomes comparable with those in younger patients.\n\nMETHODS: Among 615 patients undergoing TOA between November 1998 and July 2019, 131 patients aged ≥ 50 years were propensity score-matched 1:1 to 131 patients aged < 50 years using sex, BMI, preoperative modified Harris Hip Score (mHHS), Tönnis grade, and lateral centre-edge angle. Matching was repeated with controls aged < 45 years. Clinical and radiological outcomes, joint survival, and patient-reported outcome measures (PROMs) were compared. Failure was defined as progression to Tönnis grade 3 osteoarthritis or conversion to total hip arthroplasty. Predictors of failure in patients aged ≥ 50 years were examined using Cox regression.\n\nRESULTS: In patients aged ≥ 50 years, the median mHHS improved from 62 (IQR 54 to 75) to 92 (IQR 84 to 96) (p < 0.001), with scores comparable with those in patients aged < 50 years (p = 0.685). Failure occurred in seven (5.3%) and ten hips (7.6%), respectively (p = 0.607), with similar ten- and 20-year joint survival (98% (95% CI 94 to 100) and 79% (95% CI 55 to 91) vs 97% (95% CI 89 to 99) and 72% (95% CI 51 to 86); p = 0.655). PROMs did not differ significantly between groups. When compared with patients aged < 45 years, patients aged ≥ 50 years had a lower median Hip disability and Osteoarthritis Outcome Score sport/recreation score (75 (IQR 56 to 81) vs 81 (IQR 63 to 94); p = 0.044) and more complications (12 (9.2%) vs 2 (1.5%); p = 0.013). Preoperative Tönnis grade 2 independently predicted failure (hazard ratio 8.67 (95% CI 1.36 to 55.34); p = 0.022).\n\nCONCLUSION: TOA achieved long-term joint survival comparable with that in younger patients, supporting TOA as a joint-preserving option in this age group. However, the sport/recreation score was lower and complications more frequent than in patients aged < 45 years. Preoperative Tönnis grade 2 predicted failure, indicating that joint degeneration, rather than age alone, should guide patient selection.",
+          "doi": "10.1302/0301-620X.108B11.BJJ-2026-0622.R2",
+          "journal_ta": "Bone Joint J",
+          "volume": "108-B",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "1305-1314",
+          "pub_types": [
+            "Journal Article",
+            "Comparative Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42966371/",
+          "doi_url": "https://doi.org/10.1302/0301-620X.108B11.BJJ-2026-0622.R2",
+          "journal_key": "bjj"
+        },
+        {
+          "pmid": "42966362",
+          "title": "Total hip arthroplasty improves global sagittal and coronal spinal imbalance and spinopelvic mobility : a prospective cohort study.",
+          "authors": [
+            "Leung TKC",
+            "Chan PK",
+            "Cheung A",
+            "Luk MH",
+            "Lau LCM",
+            "Cheung WK",
+            "Chiu KY",
+            "Fu H"
+          ],
+          "abstract": "AIMS: The impact of total hip arthroplasty (THA) on global spinal alignment is under-reported. This study prospectively evaluates the effect of THA on coronal and sagittal global spinal balance and spinopelvic kinematics using dynamic whole-body EOS radiographs.\n\nMETHODS: We prospectively studied 163 patients (62 male, 101 female; mean age 68.4 years (SD 9.1)) undergoing primary unilateral THA for end-stage osteoarthritis. Full-body EOS images were acquired preoperatively and at a six-month follow-up in standing, relaxed-seated, and deep-seated postures. The primary outcome was change in sagittal vertical axis (SVA). Secondary outcomes included changes in pelvic tilt (PT), sacral slope (SS), proximal femoral angle (PFA), and coronal parameters (C7-central sacral vertical line (C7-CSVL), limb length discrepancy (LLD), and pelvic obliquity (PO)). Preoperative SVA > 50 mm defined sagittal imbalance; C7-CSVL > 20 mm defined coronal imbalance. Statistical analysis employed paired non-parametric tests and multivariate regression.\n\nRESULTS: In the 58 patients with preoperative sagittal imbalance (SVA > 50 mm), mean SVA improved significantly from 77.9 mm (SD 24.4) to 59.9 mm (SD 36.1; p < 0.001), with 27.6% (16 out of 58) moving to the sagittal balance group postoperatively. Preoperative SVA was the sole independent predictor of SVA correction (R² 0.25; p = 0.009). In the 41 coronally imbalanced patients, LLD was corrected from 11.4 mm (SD 20.9) to 1.0 mm (SD 14.2; p < 0.001), with 31.7% (17 out of 41) becoming balanced after THA. From standing to deep-seated, there was an increase in PFA change from 48.8° (SD 18.5°) to 54.6° (SD 20.3°; p < 0.001) and reduced anterior pelvic tilt (ΔPT) from 15.8° (SD 14.0°) to 10.3° (SD 14.5°; p < 0.001).\n\nCONCLUSION: THA improves global sagittal and coronal spinal imbalance, restoring spinopelvic mobility by increasing hip flexion and reducing compensatory pelvic tilt. These dynamic postoperative changes challenge the static assumptions underpinning current hip-spine classifications. Preoperative and postoperative analysis of global dynamic spinopelvic balance and mobility are crucial for managing hip-spine syndrome.",
+          "doi": "10.1302/0301-620X.108B11.BJJ-2026-0297.R1",
+          "journal_ta": "Bone Joint J",
+          "volume": "108-B",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "1315-1324",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42966362/",
+          "doi_url": "https://doi.org/10.1302/0301-620X.108B11.BJJ-2026-0297.R1",
+          "journal_key": "bjj"
+        },
+        {
+          "pmid": "42966374",
+          "title": "Periprosthetic femoral fracture following primary hip arthroplasty : should the choice of femoral component design and fixation method vary according to the sex and age of the patient?",
+          "authors": [
+            "Børsheim S",
+            "Kristensen TB",
+            "Hallan G",
+            "Gjertsen JE",
+            "Furnes O",
+            "Dybvik E",
+            "Lie SA",
+            "Dale H"
+          ],
+          "abstract": "AIMS: Periprosthetic femoral fracture is a severe complication following hip arthroplasty, influenced by the design of the femoral component and the method of fixation. The aim of this study was to investigate the influence of sex and age on the risk of reoperation for periprosthetic femoral fracture.\n\nMETHODS: We analyzed 204,041 primary hip arthroplasties from the Norwegian Arthroplasty Register and the Norwegian Hip Fracture Register (1 January 2005 to 31 December 2025). Femoral components were categorized as cemented composite beam (CB), cemented polished taper-slip (PTS), uncemented collarless (UCC-), and uncemented collared (UCC+). Cox regression analysis was used to compare the risk (adjusted hazard rate ratio (aHRR)) of reoperation for periprosthetic femoral fracture stratified by sex and age.\n\nRESULTS: In males, PTS and UCC- had a nine-times higher risk of reoperation for periprosthetic femoral fracture than CB. For UCC+, the risk was four times higher than CB. The risk of reoperation for periprosthetic femoral fracture was increased in males aged > 65 years for UCC-; for UCC+ the risk was increased in males aged > 75 years, whereas PTS had higher risk for periprosthetic femoral fracture at all ages, compared with CB. In females, the risk of reoperation for periprosthetic femoral fracture was increased in those aged > 70 years for PTS and UCC+ compared with CB, whereas for UCC- the risk of periprosthetic femoral fracture was higher in those aged > 60 years, compared with CB.\n\nCONCLUSION: Our findings suggest that CB should be the preferred choice of femoral component, at least for males aged > 75 years and females aged > 70 years. UCC+ components were the best uncemented option, while the use of PTS components was associated with a high risk of periprosthetic femoral fracture among males of all ages.",
+          "doi": "10.1302/0301-620X.108B11.BJJ-2026-0178.R1",
+          "journal_ta": "Bone Joint J",
+          "volume": "108-B",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "1325-1334",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42966374/",
+          "doi_url": "https://doi.org/10.1302/0301-620X.108B11.BJJ-2026-0178.R1",
+          "journal_key": "bjj"
+        },
+        {
+          "pmid": "42966368",
+          "title": "Health-related quality of life following periprosthetic femoral fracture after total hip arthroplasty : a propensity score-matched cohort study with trajectory analysis.",
+          "authors": [
+            "Ablett AD",
+            "Powell-Bowns MFR",
+            "Super JT",
+            "Neo C",
+            "Yapp LZ",
+            "Clement ND",
+            "Scott CEH"
+          ],
+          "abstract": "AIMS: The aim of this study was to quantify the impact of a postoperative periprosthetic femoral fracture following a primary total hip arthroplasty (THA) on patient-reported outcome measures (PROMs) compared with normal values in the general population, and to assess the agreement between recalled pre-fracture and prospectively collected PROMs.\n\nMETHODS: This single-centre retrospective cohort study involved 140 operatively managed patients with a periprosthetic femoral fracture which was sustained around a primary THA, between 2007 and 2025, with a minimum follow-up of one year. The EQ-5D-3L, EQ-VAS, and Oxford Hip Score (OHS) were collected at a median of 2.9 years (IQR 1.9 to 5.5) after the fracture. Complete case propensity score matching (1:5) balanced patients who had a periprosthetic fracture with Health Survey for England general population controls (n = 700) by sex, age, and deprivation. An agreement cohort with data from a linked arthroplasty database enabled comparison between prospectively collected PROMs one year after THA and recalled pre-fracture PROMs, as well as the analysis of PROMs at four timepoints (before THA, one year after THA, pre-fracture recall, and after the periprosthetic femoral fracture).\n\nRESULTS: The mean EQ-5D-3L scores after periprosthetic femoral fracture were significantly lower than those in the matched general population (mean difference -0.209 (95% CI -0.264 to -0.154); p < 0.001). Almost two-thirds of patients (62.9%; n = 88) reported a clinically meaningful decrease compared with the general population, with 9.3% (n = 13/140) reporting health states which were worse than death. Subgroup analysis of patients with prospectively collected one-year post-THA and recalled pre-injury PROMs (n = 22) showed good agreement (EQ-5D-3L, intraclass correlation coefficient 0.884 (95% CI 0.746 to 0.950)), with 77.3% (n = 17) being within the minimal important change threshold. Analysis of the trajectory at the four timepoints showed that a periprosthetic femoral fracture had a lasting impact on PROMs, with 38.9% of EQ-5D-3L and 36.4% of the benefit in the OHS being erased following the fracture.\n\nCONCLUSION: A periprosthetic femoral fracture following primary THA was associated with a clinically meaningful reduction in PROMs in about two-thirds of patients, with one-in-ten reporting health states worse than death, at a median follow-up of about three years. These findings have important implications when counselling patients and for targeted strategies designed to prevent a periprosthetic femoral fracture.",
+          "doi": "10.1302/0301-620X.108B11.BJJ-2026-0343.R1",
+          "journal_ta": "Bone Joint J",
+          "volume": "108-B",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "1335-1343",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42966368/",
+          "doi_url": "https://doi.org/10.1302/0301-620X.108B11.BJJ-2026-0343.R1",
+          "journal_key": "bjj"
+        },
+        {
+          "pmid": "42966365",
+          "title": "Outcomes of a long modular uncemented femoral stem for reconstruction in metastatic femoral disease.",
+          "authors": [
+            "Downie S",
+            "Kennedy M",
+            "Farhan-Alanie OM",
+            "Kennedy IW",
+            "McKean G",
+            "Kelly MP",
+            "Young PS"
+          ],
+          "abstract": "AIMS: Cemented arthroplasty has previously been recommended for treating metastatic bone disease (MBD) around the hip. However, cementing has disadvantages, including restricted femoral component length, loosening due to disease progression, and bone cement implantation syndrome (BCIS). A long uncemented implant spanning the whole femur could negate these disadvantages; however, there is a paucity of data regarding their use. Our aim was to assess the outcomes of a long uncemented femoral component in MBD.\n\nMETHODS: A total of 205 patients with MBD underwent femoral reconstruction using the Restoration Modular Revision Hip System Plasma stem between January 2008 and December 2025. They were identified from the prospectively collected database of a tertiary MBD service. Any patient with symptomatic bone metastases involving the acetabulum or femur, with completed or impending pathological fracture, were included. The primary endpoint was reintervention for femoral implant failure, with exclusion of reintervention for deep infection and/or instability.\n\nRESULTS: Indications for surgery included pathological fracture (46 of 205; 22%) or lesions at risk of fracture (78%; n = 159). The mean follow-up was 45 months (12 to 131). A total of 140 patients (68%) died during the study period (mean 20 months (0.1 to 128) postoperatively). The mean distance from the centre of the femoral head to the most distal femoral metastasis was 126 mm (5 to 369). Using death as a competing risk, two-year probability of reintervention was 0.010 (95% CI 0.000 to 0.025) and probability of death was 0.507 (95% CI 0.436 to 0.577). At five years, probability of reintervention was 0.010 (95% CI 0.000 to 0.025) and the risk of death was 0.703 (95% CI 0.629 to 0.776). Overall complication rate requiring further surgery was 8% (16 out of 205) with three reinterventions for femoral implant failure (all periprosthetic femoral fractures).\n\nCONCLUSION: This implant demonstrates promising short- to mid-term survivorship, with no patient requiring femoral revision for loosening and a comparatively low complication rate. A long uncemented femoral component may be an appropriate option in selected patients presenting with symptomatic bone metastases around the hip.",
+          "doi": "10.1302/0301-620X.108B11.BJJ-2026-0320.R1",
+          "journal_ta": "Bone Joint J",
+          "volume": "108-B",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "1344-1353",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42966365/",
+          "doi_url": "https://doi.org/10.1302/0301-620X.108B11.BJJ-2026-0320.R1",
+          "journal_key": "bjj"
+        },
+        {
+          "pmid": "42966369",
+          "title": "Supervised physiotherapeutic scoliosis-specific exercises provide limited additional benefit at 24 months in braced adolescents with idiopathic scoliosis: a randomized trial.",
+          "authors": [
+            "Zhang X",
+            "Liang M",
+            "Huang Y",
+            "Lin B",
+            "Lin Y",
+            "Yang Y",
+            "Wang X",
+            "Huang X",
+            "Liao B"
+          ],
+          "abstract": "AIMS: Physiotherapeutic scoliosis-specific exercises (PSSE) are used as an adjunct to bracing in adolescent idiopathic scoliosis (AIS), although evidence for their long-term benefit remains limited. This randomized trial assessed whether supervised PSSE provide clinically important radiological and patient-reported benefits compared with self-directed exercise in patients with AIS undergoing brace treatment.\n\nMETHODS: Patients with AIS (major Cobb angle 25° to 45°; Risser grade 0 to 2) were recruited from a tertiary scoliosis centre between December 2018 and December 2022. Patients were randomized to supervised Schroth-based PSSE, consisting of physiotherapist-led sessions plus daily home exercises, or to self-directed general exercise. The co-primary outcomes were change in major Cobb angle and change in health-related quality of life measured using the Chinese Brace Questionnaire-34. A 5° between-group difference in Cobb angle was prespecified as the minimal clinically important difference (MCID). To provide a clinically anchored interpretation, 24-month radiological outcomes were classified as improved (> 5° decrease), stable (-5° to +5°), or worsened (> 5° increase), and compared using adjusted ordinal logistic regression in intention-to-treat (ITT) and per-protocol (PP) analyses.\n\nRESULTS: Supervised PSSE resulted in a greater reduction in major Cobb angle than self-directed exercise at 24 months (adjusted between-group difference -3.23° (95% CI -3.51 to -2.96); p < 0.001); however, this did not reach the prespecified MCID. There was no clinically meaningful difference in quality of life. Using the 5° threshold, radiological status was similar between groups. In the intention-to-treat analysis, the adjusted odds ratio (OR) for improved/stable/worsened status was 1.08 (95% CI 0.58 to 2.03; p = 0.805); per-protocol findings were similar (OR 1.48 (95% CI 0.75 to 2.92); p = 0.263).\n\nCONCLUSION: Supervised PSSE provided a statistically significant but clinically modest radiological benefit over self-directed exercise. This did not translate into a higher likelihood of clinically meaningful radiological improvement. No sustained clinically meaningful quality-of-life benefit was shown.",
+          "doi": "10.1302/0301-620X.108B11.BJJ-2026-0416.R2",
+          "journal_ta": "Bone Joint J",
+          "volume": "108-B",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "1354-1363",
+          "pub_types": [
+            "Journal Article",
+            "Randomized Controlled Trial"
+          ],
+          "section": "Randomized Trial",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42966369/",
+          "doi_url": "https://doi.org/10.1302/0301-620X.108B11.BJJ-2026-0416.R2",
+          "journal_key": "bjj"
+        },
+        {
+          "pmid": "42966376",
+          "title": "Marginal excision of dedifferentiated liposarcoma of the limbs without radiation may be safe in select patients.",
+          "authors": [
+            "Barriga J",
+            "Magnan MC",
+            "Arafah MA",
+            "Griffin AM",
+            "Tsoi KM",
+            "Wunder JS",
+            "Ferguson PC"
+          ],
+          "abstract": "AIMS: Dedifferentiated liposarcoma (DDLPS) is a heterogeneous tumour consisting of low-grade atypical lipomatous tumour (ALT) and high-grade sarcomatous components. This study evaluates local recurrence and metastasis rates after resection of a limb DDLPS, focusing on the impact of tumour grade at surgical margins and the role of adjuvant radiation therapy.\n\nMETHODS: A retrospective analysis was conducted of 137 patients with a pathologically confirmed limb DDLPS who underwent surgical resection between July 1995 and September 2024. Outcomes assessed included local recurrence-free survival, metastasis-free survival, and overall survival. Statistical analyses used chi-squared tests for categorical variables, independent-samples t-tests for continuous variables, and Kaplan-Meier survival estimates.\n\nRESULTS: Of the 137 patients (mean age 67 years (28 to 96); mean tumour size 16 cm (2.4 to 39)), 54.7% (n = 75) had negative surgical margins, and 45.3% (n = 62) had positive margins. Of those with positive margins, 48.3% involved only the ALT component. Notably, patients with positive margins confined to the ALT component who did not receive radiation therapy 40% (n = 12) exhibited no local recurrences or metastases. Those patients with negative margins who were treated without radiation therapy (n = 21; 28%) had low rates of recurrence (n = 1; 4.7%) and metastasis (n = 5; 23%).\n\nCONCLUSION: Patients with DDLPS can expect high rates of local control and overall survival. In select cases of limb DDLPS in which positive surgical margins are limited to the ALT component, marginal excision without adjuvant radiation therapy may be oncologically safe, offering comparable oncological outcomes to those with negative margins. This approach can enhance functional preservation by avoiding unnecessary exposure to radiation.",
+          "doi": "10.1302/0301-620X.108B11.BJJ-2026-0432.R1",
+          "journal_ta": "Bone Joint J",
+          "volume": "108-B",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "1364-1370",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42966376/",
+          "doi_url": "https://doi.org/10.1302/0301-620X.108B11.BJJ-2026-0432.R1",
+          "journal_key": "bjj"
+        },
+        {
+          "pmid": "42966372",
+          "title": "Barriers to recruitment in paediatric orthopaedic surgical trials : a qualitative study embedded in the Big BOSS trial.",
+          "authors": [
+            "Kirton JA",
+            "Achten J",
+            "Young B",
+            "Perry DC",
+            "Cherry MG"
+          ],
+          "abstract": "AIMS: Recruitment to randomized controlled trials (RCTs) remains a widely recognized challenge, particularly in surgical and paediatric contexts. The British Orthopaedic Surgery Surveillance (Big BOSS) trial aimed to compare surgical approaches for treating severe stable slipped capital femoral epiphysis (SCFE), a relatively rare but serious adolescent hip condition. Despite national estimates suggesting feasibility, recruitment fell significantly short of targets, and Big BOSS was discontinued. This embedded qualitative study explored the perspectives of consultant surgeons to understand the barriers that contributed to the low recruitment for the trial.\n\nMETHODS: Semistructured interviews were carried out with 24 consultant surgeons from 21 NHS sites, including recruiting, non-recruiting, and setup sites. Participants were purposely sampled to ensure variation in experience and involvement in trials. Data were analyzed inductively and thematically, guided by constant comparative methods.\n\nRESULTS: Five overarching themes were identified: 1) limited availability of eligible patients, with many cases of SCFE either unstable, too mild or managed outside trial centres; 2) challenges in interpreting and standardizing the eligibility criteria; 3) difficulty maintaining clinical equipoise, as surgeons often relied on personal experience and preferred treatment pathways; 4) systemic and logistical barriers, including limited research infrastructure, scheduling complexity, and demands on the resources for trials; and 5) patient-level factors, such as aversion to invasive procedures, logistical constraints, and predetermined expectations of treatment. Together, these themes revealed how clinical, practical, and ethical tensions limited participation in the trial.\n\nCONCLUSION: This nested qualitative study highlighted the multifaceted barriers to recruitment in complex surgical RCTs, and showed how embedded qualitative research can help to uncover these challenges and guide the management decisions for trials. The findings emphasize the value of a qualitative investigation to understand the underlying processes and challenges within a trial. This approach facilitates the development of adaptive recruitment strategies, and supports more realistic planning when designing RCTs involving rare conditions or preference-sensitive treatments.",
+          "doi": "10.1302/0301-620X.108B11.BJJ-2026-0507.R1",
+          "journal_ta": "Bone Joint J",
+          "volume": "108-B",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "1371-1378",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42966372/",
+          "doi_url": "https://doi.org/10.1302/0301-620X.108B11.BJJ-2026-0507.R1",
+          "journal_key": "bjj"
+        },
+        {
+          "pmid": "42966363",
+          "title": "Hip-related tenotomy and progression to severe displacement of the hip in nonambulant children with cerebral palsy : a nationwide cohort study.",
+          "authors": [
+            "Bakhtiyar M",
+            "Iljazi A",
+            "Wong C",
+            "Petersen MM",
+            "Balslev-Clausen A"
+          ],
+          "abstract": "AIMS: The aim of this study was to investigate whether a hip-related tenotomy is associated with a lower risk of severe hip outcomes in nonambulant children with cerebral palsy and established displacement of the hip.\n\nMETHODS: This nationwide register-based cohort study included children classified as Gross Motor Function Classification System (GMFCS) level IV or V who were enrolled in the Danish Cerebral Palsy Follow-Up Program (CPOP) between 1 January 2008 and 31 December 2023. Hips with a baseline migration percentage (MP) of between 30% and 49% were included and followed until the first occurrence of a severe hip outcome, defined as a MP of ≥ 50% or osteotomy of the hip. Death was treated as a competing event. The cumulative incidence was estimated using the Aalen-Johansen estimator. Associations were analyzed using Fine-Gray competing-risk regression with cluster-robust standard errors.\n\nRESULTS: A total of 259 children, contributing 406 hips, were included, of which 110 underwent a tenotomy. At ten years, the cumulative incidence of a severe hip outcome was 34.7% (95% CI 28.8 to 40.7) without tenotomy, and 20.4% (95% CI 12.4 to 28.5) with tenotomy. In adjusted competing-risk regression, tenotomy was associated with a significantly lower risk of a severe hip outcome (sub-distribution hazard ratio (sHR) 0.53 (95% CI 0.34 to 0.84); p = 0.006). GMFCS-specific Fine-Gray analyses showed a significant association in GMFCS level IV (sHR 0.35 (95% CI 0.16 to 0.78); p = 0.010), whereas the association did not reach significance in GMFCS level V (sHR 0.68 (95% CI 0.40 to 1.19); p = 0.180). Spasticity, as classified according to the Modified Ashworth Scale (MAS) 1 and ≥ 3, was independently associated with a significantly increased risk of a severe hip outcome.\n\nCONCLUSION: A hip-related tenotomy was associated with a significantly lower incidence of the subsequent development of a severe hip outcome among nonambulant children with established displacement of the hip, particularly in GMFCS level IV. In GMFCS level V, progression remained substantial irrespective of the soft-tissue release, emphasizing the importance of careful patient selection and continued surveillance.",
+          "doi": "10.1302/0301-620X.108B11.BJJ-2026-0395.R1",
+          "journal_ta": "Bone Joint J",
+          "volume": "108-B",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "1379-1384",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42966363/",
+          "doi_url": "https://doi.org/10.1302/0301-620X.108B11.BJJ-2026-0395.R1",
+          "journal_key": "bjj"
+        },
+        {
+          "pmid": "42966370",
+          "title": "Consensus guidelines in the management of paediatric flexible flatfoot : a Delphi study of the British Society of Children's Orthopaedic Surgery.",
+          "authors": [
+            "Morrow EM",
+            "Bennet S",
+            "Morrison SC",
+            "Bridgens A",
+            "Mavrotas J",
+            "Brousil J",
+            "Knight D",
+            "Kokkinakis M",
+            "BSCOS Flatfoot Consensus Group",
+            "Barry M",
+            "Bartley H",
+            "Carlile G",
+            "Chomicki M",
+            "Dwyer J",
+            "Easton V",
+            "Gibbons P",
+            "Giles S",
+            "Peek A",
+            "Phillips K",
+            "Robinson E"
+          ],
+          "abstract": "AIMS: The assessment and management of flexible flatfoot in children is inconsistent, reflecting a limited and heterogeneous evidence base. This study aimed to develop a British Society for Children's Orthopaedic Surgery (BSCOS)-led consensus guideline for the multidisciplinary assessment and management of flexible flatfoot in children.\n\nMETHODS: A modified Delphi consensus opinion study was conducted among the membership of the BSCOS. A multidisciplinary steering committee developed an initial set of statements based on clinical expertise, current evidence, and recognized variation in practice. A total of 33 statements addressing assessment, conservative, and surgical management were scored over two Delphi rounds using a nine-point Likert scale. Participant responses were anonymized. Consensus was defined prospectively as ≥ 75%. Statements that did not meet the consensus threshold were revised and rescored, or discussed and voted on by the steering committee.\n\nRESULTS: A total of 169 clinicians participated in Round One and 167 in Round Two. Most respondents were consultant orthopaedic surgeons (80%; n = 136), with further representation from registrars/fellows (5%; n = 9), and allied health professionals (AHPs) and advanced nurse practitioners (14%; n = 24). Overall, 24 of 33 statements met the consensus threshold. A further two statements were included following steering committee voting, resulting in 26 final statements. Areas of uncertainty were highlighted in the statements that did not reach consensus, particularly regarding the selection of specific surgical procedures.\n\nCONCLUSION: This national consensus guideline provides a framework for clinicians managing children's flexible flatfoot, establishing a benchmark for future evaluation.",
+          "doi": "10.1302/0301-620X.108B11.BJJ-2026-0143.R1",
+          "journal_ta": "Bone Joint J",
+          "volume": "108-B",
+          "issue": "11",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "1385-1392",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42966370/",
+          "doi_url": "https://doi.org/10.1302/0301-620X.108B11.BJJ-2026-0143.R1",
+          "journal_key": "bjj"
+        },
+        {
+          "pmid": "42966366",
+          "title": "Corrigendum.",
           "authors": [
             "Mancino F",
             "Haddad FS"
           ],
           "abstract": "",
-          "doi": "10.1302/0301-620X.108B10.BJJ-2026-1158",
+          "doi": "10.1302/0301-620X.108B11.BJJ-2026-00067",
           "journal_ta": "Bone Joint J",
           "volume": "108-B",
-          "issue": "10",
+          "issue": "11",
           "pub_year": "2026",
-          "pub_month": "Oct",
-          "pages": "1199-1201",
-          "pub_types": [
-            "Editorial"
-          ],
-          "section": "Editorial",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42853106/",
-          "doi_url": "https://doi.org/10.1302/0301-620X.108B10.BJJ-2026-1158",
-          "journal_key": "bjj"
-        },
-        {
-          "pmid": "42853090",
-          "title": "Diaphyseal zonal fixation in revision total knee arthroplasty.",
-          "authors": [
-            "Sculco PK",
-            "El-Hassan M",
-            "Shichman I",
-            "Lee E",
-            "Morgan-Jones R",
-            "Haddad FS"
-          ],
-          "abstract": "The concept of zonal fixation for the distal femur and proximal tibia has revolutionized our understanding of how to best achieve durable fixation in revision total knee arthroplasty. However, the diaphyseal zone covers most of the femur, and achieving durable diaphyseal fixation is essential for optimizing outcomes for patients undergoing multiple revisions and distal femoral replacements (DFRs), since this may be the only anatomical area available for fixation. Therefore, we detail a standardized methodology that divides the diaphysis into three diaphyseal zones: the distal diaphysis, the isthmus, and the proximal diaphysis. This new classification, which expands on the principles of zonal fixation, and further defines the regions of the diaphysis, could offer a more comprehensive approach to preoperatively plan and analyze diaphyseal fixation, and evaluate how it relates to complex revision and DFR implant survivorship.",
-          "doi": "10.1302/0301-620X.108B10.BJJ-2026-0245.R1",
-          "journal_ta": "Bone Joint J",
-          "volume": "108-B",
-          "issue": "10",
-          "pub_year": "2026",
-          "pub_month": "Oct",
-          "pages": "1202-1207",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42853090/",
-          "doi_url": "https://doi.org/10.1302/0301-620X.108B10.BJJ-2026-0245.R1",
-          "journal_key": "bjj"
-        },
-        {
-          "pmid": "42853096",
-          "title": "New guidelines for the prevention of periprosthetic joint infection : a ten-year update.",
-          "authors": [
-            "Ferrini A",
-            "He M",
-            "Papalia R",
-            "He W",
-            "Gehrke T",
-            "Parvizi J"
-          ],
-          "abstract": "Periprosthetic joint infection (PJI) remains one of the most serious complications of arthroplasty. Since the publication of major guidelines, several aspects of the prevention of PJI have been refined, although high-quality evidence remains limited in many areas. The aim of this annotation was to provide an updated overview of current preventive strategies, and to summarize the latest recommendations in perioperative practice.",
-          "doi": "10.1302/0301-620X.108B10.BJJ-2025-1731.R1",
-          "journal_ta": "Bone Joint J",
-          "volume": "108-B",
-          "issue": "10",
-          "pub_year": "2026",
-          "pub_month": "Oct",
-          "pages": "1208-1215",
-          "pub_types": [
-            "Journal Article",
-            "Review"
-          ],
-          "section": "Review",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42853096/",
-          "doi_url": "https://doi.org/10.1302/0301-620X.108B10.BJJ-2025-1731.R1",
-          "journal_key": "bjj"
-        },
-        {
-          "pmid": "42853108",
-          "title": "In vivo 3D hip kinematics during racket swinging after total hip arthroplasty : evaluation of dynamic range of motion and liner-to-neck contact.",
-          "authors": [
-            "Nakao Y",
-            "Hamai S",
-            "Murakami K",
-            "Harada S",
-            "Kawahara S",
-            "Ikebe S",
-            "Higaki H",
-            "Nakashima Y"
-          ],
-          "abstract": "AIMS: Interest in sports participation after total hip arthroplasty (THA) has grown, and some patients return to playing racket sports after THA. However, dynamic hip kinematics and the risk of liner-to-neck contact during racket swinging remain unclear. This study aimed to evaluate in vivo, 3D dynamic hip kinematics during racket swinging after THA, and to identify factors associated with reduced liner-to-neck clearance, which may indicate an increased risk of liner-to-neck contact.\n\nMETHODS: A total of 19 patients (24 hips) who were playing racket sports after primary THA were evaluated. Dynamic radiological images of forehand and backhand swings were acquired using a flat panel detector. Hip joint kinematics were analyzed using a model-image registration technique. Liner-to-neck contact and clearance were assessed using postoperative CT data and kinematic analysis. Multivariable regression analyses identified factors associated with reduced posterior clearance.\n\nRESULTS: The mean total axial hip rotation during racket swinging was 32°, with the hip maintained in slight flexion and abduction throughout the motion. Liner-to-neck contact occurred in two of 24 hips (8%), all at the elevated rim during maximum external rotation (ER). No bone-to-bone contact was observed. Posterior clearance below 10°, indicating an increased risk of posterior contact, was observed in nine hips (20%) during both extension and external rotation. Multivariable regression analysis identified elevated liner use, greater acetabular component anteversion, and greater hip extension angle at maximum ER as significant factors associated with reduced posterior clearance.\n\nCONCLUSION: In vivo racket swinging after THA was performed within a kinematically safe range of motion without excessive axial rotation. Although liner-to-neck contact was infrequent, elevated liners and excessive acetabular component anteversion were associated with reduced posterior clearance during maximum external rotation. While racket swinging appears generally permissible after THA, careful liner selection and implant orientation are important to minimize the risk of liner-to-neck contact.",
-          "doi": "10.1302/0301-620X.108B10.BJJ-2026-0030.R1",
-          "journal_ta": "Bone Joint J",
-          "volume": "108-B",
-          "issue": "10",
-          "pub_year": "2026",
-          "pub_month": "Oct",
-          "pages": "1216-1223",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42853108/",
-          "doi_url": "https://doi.org/10.1302/0301-620X.108B10.BJJ-2026-0030.R1",
-          "journal_key": "bjj"
-        },
-        {
-          "pmid": "42853100",
-          "title": "Indications for revision following Birmingham Hip Resurfacing : insights from the largest 25-year series from a design centre.",
-          "authors": [
-            "Nasser AAHH",
-            "Samra I",
-            "Treacy RBC",
-            "Hussain S"
-          ],
-          "abstract": "AIMS: The literature reports excellent medium- to long-term results of Birmingham Hip Resurfacing (BHR). However, revision risks after hip resurfacing vary across implant types, particularly as a result of variations in adverse reactions to metal debris (ARMD). We aimed to characterize the indications for BHR revision and to identify factors associated with specific failure modes.\n\nMETHODS: We identified all patients who underwent a BHR at our institution between July 1997 and July 2022. Patients were categorized by sex, age, and BHR head size. Indications for revision were grouped into consensus clinical categories, and Kaplan-Meier survival analysis was performed.\n\nRESULTS: Out of a total of 4,513 BHR cases over 25 years, 392 (8.7%) were revised. Overall implant survival in males was 95.3%. A total of 4.7% (n = 148) of males were revised compared with 17.8% (n = 244) of females (p < 0.001). The most common indication for revision was aseptic loosening (n = 98; 2.2%). A total of 92 patients (2.0%) underwent a revision for adverse reaction to metal debris (ARMD). Female sex was significantly associated with revision for ARMD (p < 0.001). Revision for periprosthetic fractures occurred early while revision for ARMD occurred late (median 0.6 years (IQR 0.1 to 5.6) vs 10.5 (IQR 8.1 to 14.0), respectively; p < 0.001). Revision rates in femoral heads < 50 mm were significantly higher compared with ≥ 50 mm (17.4% (n = 247) vs. 4.7% (n = 145), respectively; p < 0.001). Revision for ARMD in males with heads ≥ 50 mm was 0.4% (n = 13) over 25 years.\n\nCONCLUSION: This 25-year BHR institutional analysis represents the largest series reported to date and demonstrates that the indication for revision is associated with patient and implant factors. Revision rates for males are low and compare favourably to the best results of total hip arthroplasties. These results legitimize the continued use of metal-on-metal resurfacing in selected groups and form a basis for evaluation of all new resurfacing designs using different material combinations.",
-          "doi": "10.1302/0301-620X.108B10.BJJ-2026-0344.R1",
-          "journal_ta": "Bone Joint J",
-          "volume": "108-B",
-          "issue": "10",
-          "pub_year": "2026",
-          "pub_month": "Oct",
-          "pages": "1224-1230",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42853100/",
-          "doi_url": "https://doi.org/10.1302/0301-620X.108B10.BJJ-2026-0344.R1",
-          "journal_key": "bjj"
-        },
-        {
-          "pmid": "42853085",
-          "title": "Higher femoral periprosthetic fracture rate with dual-mobility compared with single-mobility total hip arthroplasty : a retrospective propensity-matched study of 780 uncemented hips.",
-          "authors": [
-            "Komat M",
-            "Sabot L",
-            "Simion F",
-            "Lechien D",
-            "Bhogal H",
-            "Gan El E",
-            "Diaby S",
-            "Hernigou J"
-          ],
-          "abstract": "AIMS: Dual-mobility implants have reduced dislocation rates in total hip arthroplasty (THA), particularly in high-risk populations. However, under conditions of high stress, such as a fall or forced range of motion, the energy that would otherwise cause dislocation is instead transmitted distally along the femoral component and into the surrounding bone. Therefore, concerns remain regarding their potential impact on the risk of periprosthetic fracture (PPF).\n\nMETHODS: In a single-centre study, we retrospectively analyzed 1,415 patients who underwent uncemented THA with either a dual-mobility (DM-THA; 425 hips) or ceramic-on-ceramic (CoC-THA; 990 hips) bearing between January 2017 and December 2024. Propensity score matching (PSM) was performed for age, sex, BMI, and surgical indication, yielding a matched cohort of 260 DM-THA and 520 CoC-THA patients. Incidences of PPF, dislocation, and mortality were compared.\n\nRESULTS: PPF occurred significantly more frequently in the DM-THA group than in the CoC-THA group (4.0% (17/425) vs 0.8% (8/990); odds ratio (OR) 4.8 (95% CI 1.86 to 12.4); p = 0.001), a finding confirmed after PSM (OR 3.5 (95% CI 1.3 to 8.6); p = 0.007). Femoral neck fracture (FNF) as the surgical indication was independently associated with an increased risk of PPF in both the overall and matched cohorts. In contrast, DM-THA was associated with a significantly lower dislocation rate compared with CoC-THA after PSM (0.4% (1/260) vs 4.0% (21/520); OR 0.09 (95% CI 0.02 to 0.49); p = 0.005). FNF was also associated with a higher risk of dislocation. No significant interaction was observed between bearing type and surgical indication for either PPF or dislocation.\n\nCONCLUSION: While DM-THA effectively reduces dislocation risk, it may be associated with a higher incidence of PPF compared with standard constructs in patients undergoing THA for FNF. These findings underscore the need to carefully weigh the risks and benefits of dual-mobility bearings.",
-          "doi": "10.1302/0301-620X.108B10.BJJ-2025-1810.R2",
-          "journal_ta": "Bone Joint J",
-          "volume": "108-B",
-          "issue": "10",
-          "pub_year": "2026",
-          "pub_month": "Oct",
-          "pages": "1231-1237",
-          "pub_types": [
-            "Journal Article",
-            "Comparative Study"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42853085/",
-          "doi_url": "https://doi.org/10.1302/0301-620X.108B10.BJJ-2025-1810.R2",
-          "journal_key": "bjj"
-        },
-        {
-          "pmid": "42853086",
-          "title": "The impact of changing Coronal Plane Alignment of the Knee classification on early functional outcomes after primary robotic-assisted total knee arthroplasty.",
-          "authors": [
-            "Zaidi F",
-            "Goplen CM",
-            "Akbarshahi M",
-            "MacDessi SJ",
-            "Petterwood J",
-            "McEwen P",
-            "Munro JT",
-            "Monk AP"
-          ],
-          "abstract": "AIMS: We aimed to determine the impact of changing a patient's Coronal Plane Alignment of the Knee (CPAK) phenotype on early functional outcomes after robotic-assisted total knee arthroplasty (RA-TKA).\n\nMETHODS: We conducted a retrospective multicentre cohort study of 297 patients undergoing primary RA-TKA. Standardized pre- and postoperative long-leg radiographs were obtained. Radiological measures included the lateral distal femoral angle (LDFA) and medial proximal tibial angle (MPTA). Pre- and postoperative CPAK classification was derived by determining the arithmetic hip-knee-ankle (HKA) angle and joint line obliquity (JLO). Oxford Knee Scores (OKSs) were assessed at preoperative baseline and at three months, six months, and one year postoperatively. We also investigated the isolated impact of changes in LDFA and MPTA on OKS.\n\nRESULTS: Preoperatively, the most common classification was CPAK type II (30.0%; n = 89), followed by type I (27.6%; n = 82). Postoperatively, the majority of patients were CPAK type V (30.0%; n = 89), followed by type IV and type II. Overall, 30.6% (n = 91) of patients remained in the same preoperative CPAK classification, while 62.3% (n = 185) shifted by one CPAK classification and 6.4% (n = 19) moved two phenotypes following RA-TKA. Patients who moved across two CPAK phenotypes after RA-TKA demonstrated significantly smaller improvements in OKS at three months (p = 0.008) and six months (p = 0.036) compared with those who remained in the same CPAK phenotype. Patients with LDFA changes in excess of 4° from the native value demonstrated the smallest improvement in mean three-month (7.14 (SD 9.9)) and six-month (10.95 (SD 7.0)) OKS compared with all other groups.\n\nCONCLUSION: In this exploratory analysis, altering coronal alignment across two CPAK classifications after RA-TKA was associated with lower early functional outcomes as measured by OKS at three months and six months, though this finding was based on a small subgroup (n = 19) and warrants further investigation in larger cohorts. Furthermore, femoral coronal deviation in excess of 4° from native alignment appears to have a greater negative impact on functional outcomes than equivalent tibial changes.",
-          "doi": "10.1302/0301-620X.108B10.BJJ-2025-1378.R2",
-          "journal_ta": "Bone Joint J",
-          "volume": "108-B",
-          "issue": "10",
-          "pub_year": "2026",
-          "pub_month": "Oct",
-          "pages": "1238-1246",
-          "pub_types": [
-            "Journal Article",
-            "Multicenter Study"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42853086/",
-          "doi_url": "https://doi.org/10.1302/0301-620X.108B10.BJJ-2025-1378.R2",
-          "journal_key": "bjj"
-        },
-        {
-          "pmid": "42853089",
-          "title": "Ten-year insert wear and the migration of uncemented tibial and femoral components with either conventional polyethylene or sequentially annealed highly crosslinked polyethylene: a blinded randomized controlled trial using radiostereometric analysis.",
-          "authors": [
-            "de Ridder R",
-            "Kaptein BL",
-            "Pijls BG",
-            "Nelissen RGHH",
-            "Pasma JH",
-            "Oomen R",
-            "Kaptijn HH"
-          ],
-          "abstract": "AIMS: The aims of this randomized controlled trial (RCT) was to compare the long-term insert wear and migration of the tibial and femoral components between highly crosslinked polyethylene (HXLPE) inserts and conventional polyethylene (PE) inserts in an uncemented Triathlon fixed insert cruciate-retaining total knee arthroplasty (TKA).\n\nMETHODS: A double-blinded RCT was conducted including 96 TKAs. The wear of the insert, and migration of both the tibial and femoral components, was measured with model-based radiostereometric analysis up to ten years postoperatively. Patient-reported outcome measures (PROMs) were collected preoperatively and at follow-up.\n\nRESULTS: There was no progression of (medial) wear (from 0.15 mm at five years to 0.13 mm at ten years) for the HXLPE group after five years, whereas the wear rate increased for the PE group (from 0.22 mm at five years to 0.46 mm at ten years). There was no clinically relevant difference in terms of migration of the tibial and femoral component or PROMs between the HXLPE and PE groups at ten years. Migration of the tibial component (maximal total point motion; MTPM) after the ten-year follow-up for the HXLPE group was 0.99 mm (95% CI 0.83 to 1.18), and for the PE group, was 1.05 mm (95% CI 0.87 to 1.24). Migration of the femoral component (MTPM) after the ten-year follow-up for the HXLPE group was 1.16 mm (95% CI 0.99 to 1.35), and for the PE group, MTPM was 1.04 mm (95% CI 0.87 to 1.22).\n\nCONCLUSION: There was no discernible increased wear for the HXLPE group after five years, whereas the wear for the PE group continued. After the initial migration, the uncemented TKA components remain stable at the ten-year follow-up. The use of HXLPE inserts are safe, when used in uncemented TKA, when considering wear and component migration.",
-          "doi": "10.1302/0301-620X.108B10.BJJ-2026-0426.R1",
-          "journal_ta": "Bone Joint J",
-          "volume": "108-B",
-          "issue": "10",
-          "pub_year": "2026",
-          "pub_month": "Oct",
-          "pages": "1247-1254",
-          "pub_types": [
-            "Journal Article",
-            "Randomized Controlled Trial",
-            "Comparative Study"
-          ],
-          "section": "Randomized Trial",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42853089/",
-          "doi_url": "https://doi.org/10.1302/0301-620X.108B10.BJJ-2026-0426.R1",
-          "journal_key": "bjj"
-        },
-        {
-          "pmid": "42853098",
-          "title": "Validation of the European Bone & Joint Infection Society recommendations for debridement, antibiotics, and implant retention in hip and knee periprosthetic joint infection : a study from specialist and non-specialist hospitals in the UK.",
-          "authors": [
-            "Hotchen AJ",
-            "Richards J",
-            "Thumbadoo RP",
-            "Tan SJH",
-            "Foster P",
-            "Canbilen SW",
-            "Patel B",
-            "Palmer A",
-            "Pollalis A",
-            "Sigmund IK",
-            "McNally M",
-            "PJI DAIR Study Group",
-            "Alvand A",
-            "Ferguson J",
-            "Beattie N",
-            "Biring G",
-            "Kelleher J",
-            "Chennagiri R",
-            "Graham A",
-            "Kucheria R",
-            "Pearce O",
-            "Heal J",
-            "Nahas S",
-            "Baldwin M",
-            "Deo S"
-          ],
-          "abstract": "AIMS: The aim of this study was to externally validate the European Bone & Joint Infection Society (EBJIS) recommendations for the use of debridement, antibiotics, and implant retention (DAIR) in the treatment of periprosthetic joint infection (PJI), examining the independent associations of the selection of patients and the operative technique with failure after DAIR.\n\nMETHODS: This was a multicentre retrospective cohort study involving seven UK hospitals and including adults with hip or knee PJI treated with DAIR. Patients were classified by EBJIS recommendations (DAIR-indicated, risk factors, or not recommended) and operative technique (exchange of components vs no exchange). The primary endpoint was the failure of treatment as defined by the need for further surgery for infection, long-term suppressive antibiotics, or death within 90 days, amputation, or arthrodesis. Sensitivity analyses were stratified by joint and repeated, excluding long-term suppressive antibiotics from the composite endpoint.\n\nRESULTS: A total of 411 patients (165 hips; 246 knees) were analyzed: 82 (20.0%) DAIR-indicated, 103 (25.1%) with risk factors, and 226 (55.0%) not recommended. Modular components were exchanged in 213 (51.8%). Over a median 2.1 years of follow-up (IQR 0.58 to 5.5), failure occurred in 193 patients (47.0%). Compared with the DAIR-indicated group, the DAIR not recommended group had a significantly higher risk of failure (hazard ratio (HR) 1.64 (95% CI 1.14 to 2.35); p = 0.007), whereas the risk factor group had a similar risk (HR 1.14 (95% CI 0.60 to 2.15); p = 0.689). DAIR without exchange of components was strongly significantly associated with failure of treatment (HR 2.40 (95% CI 1.89 to 3.06); p < 0.001). Joint-stratified and sensitivity analyses showed a similar direction of effect. Treatment was successful in 78.8% (26/33) in the most favourable scenario (DAIR-indicated with exchange of components) compared with 28.0% (26/93) in the least favourable scenario (DAIR not recommended without exchange of components).\n\nCONCLUSION: In this external validation, both EBJIS patient selection and operative technique were associated with the outcomes after DAIR, with lack of exchange of components showing the strongest association with failure of treatment. The EBJIS framework is pragmatic and generalizable across specialist and non-specialist centres, and can support shared decision-making and the standardization of surgery in these patients.",
-          "doi": "10.1302/0301-620X.108B10.BJJ-2026-0028.R1",
-          "journal_ta": "Bone Joint J",
-          "volume": "108-B",
-          "issue": "10",
-          "pub_year": "2026",
-          "pub_month": "Oct",
-          "pages": "1255-1264",
-          "pub_types": [
-            "Journal Article",
-            "Multicenter Study",
-            "Validation Study"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42853098/",
-          "doi_url": "https://doi.org/10.1302/0301-620X.108B10.BJJ-2026-0028.R1",
-          "journal_key": "bjj"
-        },
-        {
-          "pmid": "42853104",
-          "title": "Preoperative clinical and imaging factors associated with arthroscopically confirmed occult syndesmotic instability in patients undergoing surgery for osteochondral lesions of the talus.",
-          "authors": [
-            "Jia S",
-            "Fu K",
-            "Li Z",
-            "Hao C",
-            "Fang Z"
-          ],
-          "abstract": "AIMS: Osteochondral lesions of the talus (OLTs) are common ankle disorders. Recent clinical observations suggest that a subset of patients with OLTs also exhibit occult syndesmotic instability (OSI) intraoperatively, implying a potential association between the two conditions. This study aimed to investigate the potential clinical association between OLTs and OSI, and to identify preoperative factors associated with OSI in patients with OLTs.\n\nMETHODS: A retrospective review was performed on patients diagnosed with OLTs who underwent ankle arthroscopy between January 2021 and June 2023. Based on arthroscopic probe assessment of distal tibiofibular stability, patients were divided into an OLT with OSI group and an OLT without OSI group. Demographic characteristics, arthroscopic findings, imaging results, physical examination outcomes, and preoperative American Orthopaedic Foot and Ankle Society ankle-hindfoot and visual analogue scale scores were compared between groups. Univariate and multivariate logistic regression analyses were performed to identify independent predictors, and receiver operating characteristic analysis determined diagnostic cut-off values.\n\nRESULTS: Among 175 patients with OLTs, 36 (20.6%) demonstrated OSI. Univariate analysis showed that BMI, symptom duration, height of syndesmotic fluid, lesion size, presence of osteophytes, and Bassett's ligament hypertrophy were significantly associated with OSI. Multivariate analysis identified higher BMI (odds ratio (OR) 1.811 (95% CI 1.418 to 2.312); p < 0.001), presence of osteophytes (OR 0.260 (95% CI 0.087 to 0.775); p = 0.016), and Bassett's ligament hypertrophy (OR 0.108 (95% CI 0.030 to 0.387); p = 0.001) as independent associated factors for OSI.\n\nCONCLUSION: In patients with OLTs, BMI above 25.6 kg/m2, presence of osteophytes, and Bassett's ligament hypertrophy were associated with intraoperative OSI, although these exploratory findings warrant further prospective investigation and external validation.",
-          "doi": "10.1302/0301-620X.108B10.BJJ-2026-0040.R1",
-          "journal_ta": "Bone Joint J",
-          "volume": "108-B",
-          "issue": "10",
-          "pub_year": "2026",
-          "pub_month": "Oct",
-          "pages": "1265-1272",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42853104/",
-          "doi_url": "https://doi.org/10.1302/0301-620X.108B10.BJJ-2026-0040.R1",
-          "journal_key": "bjj"
-        },
-        {
-          "pmid": "42853087",
-          "title": "Evaluation of the clicky hip as a screening tool in the diagnosis of developmental dysplasia of the hip.",
-          "authors": [
-            "Poacher AT",
-            "Bilal M",
-            "Smith A",
-            "Scourfield L",
-            "Hawes E",
-            "Ross M",
-            "Yasin T",
-            "Carpenter EC"
-          ],
-          "abstract": "AIMS: The early diagnosis of developmental dysplasia of the hip (DDH) is important because treatment in early infancy is usually nonoperative. A consensus statement from the British Society for Children's Orthopaedic Surgery identified ongoing uncertainty regarding the predictive value of a documented clicky hip. The aim of this study was to evaluate the association between a clicky hip at the newborn or six- to eight-week examination and pathological DDH requiring treatment in a selective screening programme in the UK.\n\nMETHODS: This was a retrospective analysis of prospectively collected registry data for all live births in the catchment area of a single tertiary centre between January 2016 and December 2023. Infants underwent examination at birth and again at six to eight weeks, with ultrasound screening offered for those with primary risk factors or abnormal findings on examination, including a clicky hip. The primary outcome was pathological DDH requiring treatment. Multivariable logistic regression was used to estimate the adjusted odds ratios (ORs) for DDH. Positive predictive value (PPV), risk difference (RD), and the number needed to screen (NNS) were calculated as programme-level measures.\n\nRESULTS: Of 42,338 infants who were analyzed, 7,564 (17.9%) underwent ultrasound screening. Pathological DDH requiring treatment was identified in 245 (5.8 per 1,000 live births). A clicky hip was recorded in 1,125 infants, of whom 40 (3.56%) had DDH requiring treatment. Clicky hip was independently associated with DDH (adjusted OR 4.68 (95% CI 3.11 to 7.03); p < 0.001). Within the selective screening pathway, the RD was 3.86% (95% CI 2.65 to 5.07), the PPV was 3.56% and the NNS was 26.\n\nCONCLUSION: In this large UK cohort within a selective screening programme, a clicky hip was independently associated with DDH requiring treatment. Although limited by differential ascertainment inherent to selective screening, these findings support the prospective evaluation of an isolated documented clicky hip as an indication for referral in selective screening pathways for DDH.",
-          "doi": "10.1302/0301-620X.108B10.BJJ-2025-1367.R1",
-          "journal_ta": "Bone Joint J",
-          "volume": "108-B",
-          "issue": "10",
-          "pub_year": "2026",
-          "pub_month": "Oct",
-          "pages": "1273-1277",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42853087/",
-          "doi_url": "https://doi.org/10.1302/0301-620X.108B10.BJJ-2025-1367.R1",
-          "journal_key": "bjj"
-        },
-        {
-          "pmid": "42853136",
-          "title": "From bowing to fracture : radiolucent lines as a predictor of progression in congenital pseudarthrosis of the tibia.",
-          "authors": [
-            "Zhang S",
-            "Wang T",
-            "Zeng L",
-            "Xiao B",
-            "Mei H",
-            "Mao X",
-            "Tan Q",
-            "Yang G"
-          ],
-          "abstract": "AIMS: Congenital anterolateral bowing of the tibia represents the prefracture stage of congenital pseudarthrosis of the tibia. However, specific radiological factors which are predictive of fracture remain poorly defined. The aim of this study, therefore, was to investigate whether the presence of radiolucent lines could serve as a predictive factor for the development of a fracture in patients with Crawford types I to III congenital pseudarthrosis of the tibia.\n\nMETHODS: We retrospectively reviewed 251 children with congenital pseudarthrosis of the tibia who were treated between 2015 and 2020. Demographic, clinical, and radiological data were collected, and the presence and extent of radiolucent lines were systematically assessed. Inter- and intraobserver agreement were evaluated using κ coefficients. Group comparisons used the independent-samples t-test, chi-squared test, or Fisher's exact test, as appropriate. Independent predictive factors of fracture were identified with multivariable logistic regression. Fracture-free survival was evaluated using Kaplan-Meier analysis.\n\nRESULTS: A total of 142 children with Crawford types I to III congenital pseudarthrosis of the tibia met the inclusion criteria. The assessment of radiolucent lines showed high inter- and intraobserver agreement. Radiolucent lines were strongly associated with the occurrence of a fracture. The risk of fracture differed significantly across Crawford sub-types (p = 0.002) and the extent of radiolucent lines (quantified by the r-value) (p = 0.037). Crawford types II and III were associated with a significantly higher risk of fracture than type I (both adjusted p < 0.05). Similarly, patients with r ≥ 2/3 had a higher risk of fracture than those with r < 1/3 (adjusted p < 0.05). Multivariable logistic regression identified radiolucent lines and Crawford type as independent risk factors for fracture. A significantly reduced fracture-free survival in patients with radiolucent lines, both in the overall cohort and within the individual Crawford types I to III (p < 0.0001 for types I to III, type I, and type II; p = 0.0002 for type III), was shown in the Kaplan-Meier analysis.\n\nCONCLUSION: Radiolucent lines may represent a new radiological predictive factor of fracture in patients with Crawford types I to III congenital pseudarthrosis of the tibia. Their prognostic value for predicting the time to fracture appears to vary across Crawford types. Combining the assessment of radiolucent lines with the Crawford classification could improve the stratification of the risk of fracture, providing a more precise framework for surveillance and timely intervention in these patients.",
-          "doi": "10.1302/0301-620X.108B10.BJJ-2025-1847.R1",
-          "journal_ta": "Bone Joint J",
-          "volume": "108-B",
-          "issue": "10",
-          "pub_year": "2026",
-          "pub_month": "Oct",
-          "pages": "1278-1286",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42853136/",
-          "doi_url": "https://doi.org/10.1302/0301-620X.108B10.BJJ-2025-1847.R1",
-          "journal_key": "bjj"
-        },
-        {
-          "pmid": "42853143",
-          "title": "Corrigendum.",
-          "authors": [
-            "Xiong S",
-            "Li Y",
-            "Liu Z",
-            "Zhao F",
-            "Jiang D",
-            "Hu Y",
-            "Jiao C",
-            "Xie X",
-            "Guo Q"
-          ],
-          "abstract": "",
-          "doi": "10.1302/0301-620X.108B10.BJJ-2026-00065",
-          "journal_ta": "Bone Joint J",
-          "volume": "108-B",
-          "issue": "10",
-          "pub_year": "2026",
-          "pub_month": "Oct",
-          "pages": "1287",
+          "pub_month": "Nov",
+          "pages": "1393",
           "pub_types": [
             "Journal Article",
             "Published Erratum"
           ],
           "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42853143/",
-          "doi_url": "https://doi.org/10.1302/0301-620X.108B10.BJJ-2026-00065",
-          "journal_key": "bjj"
-        },
-        {
-          "pmid": "42853114",
-          "title": "Corrigendum.",
-          "authors": [
-            "Busby C",
-            "Nightingale J",
-            "Deacon C",
-            "Deakin D",
-            "Valdes A",
-            "Ollivere BJ",
-            "Moran C"
-          ],
-          "abstract": "",
-          "doi": "10.1302/0301-620X.108B10.BJJ-2026-00066",
-          "journal_ta": "Bone Joint J",
-          "volume": "108-B",
-          "issue": "10",
-          "pub_year": "2026",
-          "pub_month": "Oct",
-          "pages": "1288",
-          "pub_types": [
-            "Journal Article",
-            "Published Erratum"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42853114/",
-          "doi_url": "https://doi.org/10.1302/0301-620X.108B10.BJJ-2026-00066",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42966366/",
+          "doi_url": "https://doi.org/10.1302/0301-620X.108B11.BJJ-2026-00067",
           "journal_key": "bjj"
         }
       ]
@@ -1294,7 +1278,7 @@
       "issue": "11",
       "pub_year": "2026",
       "pub_month": "Nov",
-      "is_new": true,
+      "is_new": false,
       "count": 35,
       "articles": [
         {
@@ -9398,7 +9382,7 @@
       "pub_year": "2026",
       "pub_month": "Oct",
       "is_new": false,
-      "count": 18,
+      "count": 21,
       "articles": [
         {
           "pmid": "42962541",
@@ -9428,6 +9412,64 @@
           "journal_key": "injury"
         },
         {
+          "pmid": "42966241",
+          "title": "Province-wide assessment of emergency care capacity and skills in a rural provincial health system: A facility-based cross-sectional assessment in Battambang, Cambodia.",
+          "authors": [
+            "Takaiso H",
+            "Nomura K",
+            "Watanabe T",
+            "Nitta Y",
+            "Heak A",
+            "Im S",
+            "Okubo Y",
+            "Miyachi T"
+          ],
+          "abstract": "BACKGROUND: Emergency care capacity remains critically limited in low- and middle-income countries (LMICs), particularly in rural areas where specialists and infrastructure are scarce. In Cambodia, stroke and ischemic heart disease are leading causes of mortality, and trauma burdens are increasing alongside rapid infrastructure development. Evidence on emergency equipment availability and frontline provider skills at the facility level in rural provinces remains limited.\n\nMETHODS: A facility-based cross-sectional assessment was conducted across all seven public referral hospitals in Battambang Province, Cambodia, in January 2023. Emergency equipment availability was evaluated through structured interviews and direct visual confirmation against the World Health Organization (WHO) Guidelines for Essential Trauma Care. Clinical skill examinations were administered to physicians (two scenario-based cases: acute stroke with airway compromise; traumatic injury with tension pneumothorax and intra-abdominal bleeding) and nurses (a Basic Life Support [BLS] scenario assessed in pairs). Hospitals were stratified by Complementary Package of Activities (CPA) level: CPA1 (basic care only), CPA2 (including surgery and intensive care), and CPA3 (highest provincial level).\n\nRESULTS: At Complementary Package of Activities (CPA)1 (basic care only) hospitals, intubation equipment and 12-lead electrocardiogram were each available in only 25% of facilities. None had a crash cart, blood transfusion capacity, basic metabolic panel, or coagulation testing. In the stroke scenario, airway patency was confirmed by 28.6% of physicians at CPA1 hospitals, compared with 70.0% at CPA2 hospitals (including surgery and intensive care), 57.1% at the CPA3 hospital (highest provincial level), and 75.0% at the Provincial Health Department. In the trauma scenario, no physician at CPA1 hospitals correctly performed spinal immobilization with the spine kept straight or thoracentesis at the correct anatomical location. Among 38 nurse pairs, 97.4% initiated chest compressions promptly, but only 21.1% demonstrated correct compression technique, and 13.2% provided effective bag-valve-mask ventilation. Deficiencies in equipment and clinical skills were most pronounced at CPA1 hospitals.\n\nCONCLUSIONS: Emergency care capacity in Battambang Province was substantially limited, with the greatest deficiencies at CPA1 hospitals. Recurrent low-cost training and targeted strengthening of basic emergency care should be prioritized at lower-level facilities.",
+          "doi": "10.1016/j.injury.2026.113794",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42966241/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113794",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42966240",
+          "title": "A scoping review evaluating artificial intelligence applications across various injury prevention domains.",
+          "authors": [
+            "Othman Y",
+            "Kasabwala D",
+            "Jayagopi K",
+            "Lemoine J",
+            "Park D",
+            "Hamza D",
+            "Elkbuli A"
+          ],
+          "abstract": "INTRODUCTION: Artificial intelligence (AI) has become increasingly utilized for injury prevention across diverse clinical and community settings including machine learning (ML). This scoping review aimed to synthesize the current literature on the applications and predictive performance of AI across multiple injury prevention domains.\n\nMETHODS: This scoping review searched five major databases, including PubMed, Embase, ScienceDirect, ProQuest, and the Cochrane Library, to identify studies evaluating AI applications for injury prevention published through May 2026. Eligible studies included original U.S.-based, English-language research across self-harm and suicide, abuse and violence, fall prevention, and sports injury prediction. Studies were excluded if they lacked measurable prevention outcomes or sufficient methodological detail, or focused on injury treatment rather than prevention, to ensure relevant and interpretable evidence for synthesis.\n\nRESULTS: Nineteen studies met the inclusion criteria. ML models generally outperformed or matched traditional screening methods for self-harm and suicide prediction (AUC 0.81-0.82), while multimodal approaches achieved the highest predictive accuracy (AUC 0.90). In abuse and violence prevention, AI predicted intimate partner violence with an AUC of 0.88 and identified cases before formal disclosure. AI also improved fall risk assessment by accurately categorizing patient risk levels, predicting future falls, and mitigating fall injuries through wearable airbag technology. ML models predicted future sports-related injuries (AUC 0.76-0.84), while identifying modifiable risk factors including workload, strength deficits, prior injury burden, and concussion history.\n\nCONCLUSION: ML-based prediction showed promise for risk stratification in self-harm, suicide, intimate partner violence, and recurrent victimization. Additionally, AI predicted fall risk and identified athletes at risk for future sports-related injuries while detecting modifiable risk factors, including workload, prior injury burden, and strength deficits. Although these findings suggest that AI and ML may have potential applications in supporting earlier risk identification, informing targeted prevention strategies, and facilitating more personalized approaches to injury prevention, the limited available evidence warrants careful interpretation.",
+          "doi": "10.1016/j.injury.2026.113816",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42966240/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113816",
+          "journal_key": "injury"
+        },
+        {
           "pmid": "42950703",
           "title": "Early fecal diversion versus no initial diversion in blunt open pelvic fractures: A systematic review and meta-analysis of pelvic infection and mortality.",
           "authors": [
@@ -9450,6 +9492,32 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42950703/",
           "doi_url": "https://doi.org/10.1016/j.injury.2026.113828",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42966239",
+          "title": "Enhanced wound healing potential of a carboxymethyl cellulose/gelatin-based hydrogel containing decellularized amniotic membrane and Matricaria chamomilla extract: A multifunctional composite dressing.",
+          "authors": [
+            "Zamani S",
+            "Ghorbani M",
+            "Molzemi S",
+            "Farahani MK",
+            "Raei M"
+          ],
+          "abstract": "BACKGROUND: Chronic wound healing remains a complex biological process influenced by excessive inflammation, oxidative stress, microbial invasion, and insufficient tissue regeneration. Therefore, the design of multifunctional biomaterials that integrate structural support with biological regulation has emerged as a promising strategy in advanced wound care. This study sought to develop a composite hydrogel incorporating decellularized amniotic membrane (dAM)-derived extracellular matrix components alongside Matricaria chamomilla extract, with the goal of achieving enhanced regenerative and therapeutic outcomes.\n\nMETHODS: A CMC/GEL-Chamomilla-dAM hydrogel was prepared using decellularized dAM and subsequently evaluated in terms of its physicochemical and biological characteristics. The effectiveness of the decellularization process and preservation of ECM components were first examined, followed by characterization of hydrogel morphology, rheological properties, swelling and degradation behavior, and pH stability. Its biological performance was further assessed through hemocompatibility, cytocompatibility, antioxidant, anti-inflammatory, and antibacterial assays, as well as a full-thickness wound model.\n\nRESULTS: Incorporation of dAM and chamomile extract resulted in a stable hydrogel with favorable physicochemical and biological characteristics. The decellularization procedure removed 97.9% of the DNA. The resulting composite hydrogel exhibited an average pore size of 78.3 ± 9.8 µm, and all hydrogel formulations showed hemolysis rates below the 5% threshold accepted for blood-contacting biomaterials, with values ranging from 3.8% to 4.5%. The composite hydrogel also supported enhanced fibroblast viability (109.6 ± 11.3%) and demonstrated antioxidant, anti-inflammatory, and antibacterial activities against wound-associated pathogens. In vivo, treatment with CMC/GEL-Chamomilla-dAM accelerated wound closure (85.7 ± 6.3% at day 14) and supported tissue regeneration, outperforming both the dAM-containing hydrogel (78.9 ± 9.9%) and the commercial DuoDERM dressing (58.9 ± 4.5%), as evidenced by improved re-epithelialization, collagen deposition, angiogenesis, and early signs of tissue remodeling.\n\nCONCLUSION: The CMC/GEL-Chamomilla-dAM hydrogel combines a dAM-containing extracellular matrix scaffold with chamomile-derived bioactive compounds, creating a favorable microenvironment for tissue repair. The addition of chamomile extract to the dAM-containing scaffold was associated with improved wound closure and tissue regeneration. While the present study design does not permit a definitive assessment of synergy between dAM and chamomile, these findings support the potential of this formulation as a multifunctional biomaterial platform for advanced wound healing applications.",
+          "doi": "10.1016/j.injury.2026.113831",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42966239/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113831",
           "journal_key": "injury"
         },
         {
