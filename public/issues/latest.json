@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-01",
-  "generated_at": "2026-11-01T13:52:53Z",
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T16:38:09Z",
   "counts": {
-    "articles": 476,
+    "articles": 480,
     "journals_with_articles": 10,
     "journals_searched": 11,
-    "new_issues": 1
+    "new_issues": 0
   },
   "groups": [
     {
@@ -867,7 +867,7 @@
       "issue": "11",
       "pub_year": "2026",
       "pub_month": "Nov",
-      "is_new": true,
+      "is_new": false,
       "count": 14,
       "articles": [
         {
@@ -9382,8 +9382,33 @@
       "pub_year": "2026",
       "pub_month": "Oct",
       "is_new": false,
-      "count": 21,
+      "count": 25,
       "articles": [
+        {
+          "pmid": "42967397",
+          "title": "Segmental phase angle as predictor of activities of daily living and muscle health in patients with osteoporotic fracture A retrospective cohort study.",
+          "authors": [
+            "Ito Y",
+            "Yoshimura Y",
+            "Nagano F",
+            "Matsumoto A"
+          ],
+          "abstract": "PURPOSE: This study aimed to determine whether the segmental phase angle is associated with clinical outcomes such as activities of daily living (ADL), muscle strength, and skeletal muscle mass in patients with osteoporotic fractures.\n\nMETHODS: This was a retrospective cohort study of patients with osteoporotic fractures admitted to convalescent rehabilitation wards. The primary outcome was a Functional Independence Measure motor (FIM-motor) score at discharge, and secondary outcomes were handgrip strength and skeletal muscle mass index (SMI) at discharge. Multivariate analysis was used to adjust for confounders and to examine the association between segmental phase angle and outcome.\n\nRESULTS: A total of 115 subjects (97 women, age 81.0 ± 10.0 years) were included in the study. The median baseline phase angle was 3.6°. Multiple regression analysis adjusted for confounders showed that arm phase angle was independently positively associated with handgrip strength (β=0.250, P < 0.001) and SMI (β=0.215, P < 0.001) at discharge. Leg phase angle was independently positively associated with FIM-motor score (β=0.077, P = 0.045), handgrip strength (β=0.174, P < 0.001), and SMI (β=0.154, P < 0.001) at discharge.\n\nCONCLUSIONS: The leg phase angle was associated with ADL, muscle strength, and skeletal muscle mass in patients with osteoporotic fractures at discharge. Segmental phase angle may be a useful indicator for considering intervention methods in patients with osteoporotic fractures.",
+          "doi": "10.1016/j.injury.2026.113833",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42967397/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113833",
+          "journal_key": "injury"
+        },
         {
           "pmid": "42962541",
           "title": "Union rate and time to union following platelet-rich plasma therapy in fracture nonunion: A systematic review and meta-analysis.",
@@ -9518,6 +9543,91 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42966239/",
           "doi_url": "https://doi.org/10.1016/j.injury.2026.113831",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42967400",
+          "title": "Can posterolateral tibial plateau fractures be treated with an anterolateral approach? A biomechanical study on novel plating concepts in artificial tibia models.",
+          "authors": [
+            "Zderic I",
+            "Llano L",
+            "Menze J",
+            "Altmann M",
+            "Breceda A",
+            "Herbst E",
+            "Krause M",
+            "Luo CF",
+            "Gueorguiev B",
+            "Sommer C",
+            "Oh JK"
+          ],
+          "abstract": "BACKGROUND: The aim of this study was to evaluate biomechanically whether fixation of posterolateral tibial plateau fractures (PLTPFs) through the more accessible modified anterolateral approach and by using a newly designed lateral plate with or without posterior plate extension or supplemental anteroposterior screw fixation, can provide comparable stability to direct posterolateral buttress plating.\n\nMETHODS: PLTPFs were simulated on 40 artificial tibiae and subsequently fixed with 5 different plating techniques (n = 8), namely using Variable Angle Locking Compression Plate (VA-LCP) Lateral Proximal Tibia Plate 3.5 (VA Lateral), Variable Angle Optimized Locking Technology (VOLT) Lateral Proximal Tibia Plate 3.5 (VOLT Lateral), VOLT Lateral Proximal Tibia Plate 3.5 with Posterolateral Extension (Hug), VOLT Posterolateral Proximal Tibia Plate 3.5 (PL), and VOLT Lateral Proximal Tibia Plate 3.5 with two anteroposterior parallel 3.5 mm locking screws placed superiorly to the plate's lateral-to-medial rafting locking screws (Jail) using a dedicated guide block. Biomechanical testing was performed under progressively increasing cyclic loading to failure. Interfragmentary movements were monitored via motion tracking.\n\nRESULTS: Fragment displacement and its posterior tilt over the first 40,000 cycles did not differ significantly between Hug, PL, and Jail (all p > 0.999). Hug, PL, and Jail outperformed VA Lateral significantly in terms of fragment displacement over 40,000 cycles (p ≤ 0.004). In addition, Hug was associated with significantly less fragment displacement versus VOLT Lateral (p = 0.018). Posterior fragment tilting over 40,000 cycles was significantly lower in Hug, PL, and Jail versus VA Lateral and VOLT Lateral (p ≤ 0.014). Hug, PL, and Jail demonstrated significantly higher cycles to clinical failure and corresponding loads at clinical failure than VA Lateral and VOLT Lateral (p < 0.001), with no significant differences among Hug, PL, and Jail (p > 0.999). For catastrophic failure, Hug demonstrated significantly higher values than all other groups (p ≤ 0.045).\n\nCONCLUSION: From a biomechanical perspective, VOLT Lateral Proximal Tibia Plate 3.5 with Posterolateral Extension and VOLT Lateral Proximal Tibia Plate with supplemental jail screw fixation provide fixation stability comparable to VOLT Posterolateral Proximal Tibia Plate 3.5 with respect to fragment displacement, posterior tilt, and clinical failure. Whether PLTPFs could be addressed via the more accessible anterolateral approach without compromising the biomechanical stability of fracture fixation remains yet to be clinically validated. Standalone Lateral Proximal Tibia Plate 3.5 (VA-LCP or VOLT) performed inferiorly to their augmented alternatives.",
+          "doi": "10.1016/j.injury.2026.113847",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42967400/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113847",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42967399",
+          "title": "Where is trauma care delivered in New York state? A statewide analysis of distribution and outcomes by trauma center level.",
+          "authors": [
+            "Patel P",
+            "Mon NO",
+            "Angus LDG",
+            "Szydziak E",
+            "Cardozo-Stolberg S",
+            "Swezey E",
+            "Alamprese S",
+            "Angus T",
+            "Mehta V"
+          ],
+          "abstract": "BACKGROUND: Understanding where and how trauma care is delivered is critical to preventing and managing its disease burden. This study identified patterns in trauma care delivery by characterizing the relationship between trauma presentations and outcomes as a function of trauma center level, including trauma presentations at non-trauma centers.\n\nMETHODS: A retrospective review of trauma inpatients aged ≥ 15 years across New York State from 2016 through 2020 was performed, utilizing a comprehensive New York State all-payer data reporting system, the Statewide Planning and Research Cooperative System (SPARCS). The primary endpoint for this study was mortality. Secondary endpoints included overall complications, discharge dispositions, and hospital length of stay.\n\nRESULTS: A total of 361,141 patients were included with 42.1% presenting to Level 1 and 37.3% to Non-Trauma Centers. Older adults were more frequently treated at Level 3 and Non-Trauma Centers, while younger patients and high-energy mechanisms (motor vehicle crashes and penetrating injuries) were more commonly managed at Level 1 and Level 2 Centers. The association between trauma-center group and mortality varied by severity of illness (SOI) (interaction p < 0.0001). Compared with Level 3 and Non-Trauma Centers, Level 1 and 2 Centers had higher adjusted mortality odds among hospitalizations with major SOI (aOR 1.43, 95% CI 1.12-1.83) and extreme SOI (aOR 1.39, 95% CI 1.18-1.62), with no significant difference in moderate SOI (aOR 0.83, 95% CI 0.62-1.11).\n\nCONCLUSIONS: Differences in outcomes across trauma center levels are strongly influenced by case mix and severity. These findings highlight opportunities to improve triage, resource allocation, and system-level performance.",
+          "doi": "10.1016/j.injury.2026.113849",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42967399/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113849",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42967398",
+          "title": "Variations in hip fracture management at trauma vs. non-trauma centers.",
+          "authors": [
+            "Harris B",
+            "Benson E"
+          ],
+          "abstract": "BACKGROUND: Hip fractures represent a growing public health burden. Optimal management relies on timely surgical intervention coordinated by multidisciplinary care and appropriate resource availability, all of which may vary between hospital settings. Differences between trauma hospitals and non-trauma hospitals may influence outcomes, yet these variations have not been well characterized.\n\nMETHODS: We conducted a retrospective cohort study of hip fracture cases over a 2-year period (October 2022 to August 2024), comparing patient and procedural characteristics between a Level II trauma hospital (TH) (n = 104) and a non-trauma hospital (NTH) (n = 31). Polytrauma patients were excluded. Data were extracted from the electronic medical record (EMR). Primary outcomes were hospital length of stay (LOS) and time from admission to surgery. Group comparisons utilized chi-square or Fisher's exact tests for categorical variables and Mann-Whitney U or Welch t-tests for continuous variables, as appropriate. A multivariable random forest model was used to evaluate predictors of operative duration.\n\nRESULTS: ASA physical status distribution differed significantly between facilities (p = 0.03), with more ASA > 2 patients at the NTH (76.6% vs. 65.7%). Osteosynthesis was performed in 73.3% of NTH cases and 82.2% of TH cases; arthroplasty comprised 26.7% and 17.8%, respectively. LOS differed significantly by facility (p < 0.01), with a shorter mean stay at the NTH (4.3 vs. 5.9 days; mean difference, -1.73 days). Time to surgery also differed significantly (p < 0.001): mean 846 min (95% CI, 615-1078) at the NTH vs. 2686 minutes (95% CI, 2391-2981) at the TH. In multivariable modeling, procedure type was the dominant predictor of operative duration (permutation importance 0.686), followed by payer type (0.216); facility identity contributed minimally (0.034) after accounting for case mix.\n\nCONCLUSION: Hip fracture care differed meaningfully between the TH and NTH within the same health care system. The NTH demonstrated significantly shorter time to surgery and LOS despite treating a proportionally higher-acuity patient population by ASA classification. These findings highlight opportunities for optimizing timeliness and resource allocation in hip fracture management across hospital settings and questions whether THs are the optimal location to treat these injuries.",
+          "doi": "10.1016/j.injury.2026.113852",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42967398/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113852",
           "journal_key": "injury"
         },
         {
