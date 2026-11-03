@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T16:38:09Z",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T14:43:09Z",
   "counts": {
-    "articles": 480,
+    "articles": 484,
     "journals_with_articles": 10,
     "journals_searched": 11,
     "new_issues": 0
@@ -1981,9 +1981,9 @@
           "pub_month": "Nov",
           "pages": "2274-2275",
           "pub_types": [
-            "Journal Article"
+            "Letter"
           ],
-          "section": "Article",
+          "section": "Letter",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42961353/",
           "doi_url": "https://doi.org/10.1097/CORR.0000000000004054",
           "journal_key": "corr"
@@ -2144,9 +2144,9 @@
           "pub_month": "Nov",
           "pages": "2287-2288",
           "pub_types": [
-            "Journal Article"
+            "Letter"
           ],
-          "section": "Article",
+          "section": "Letter",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42961354/",
           "doi_url": "https://doi.org/10.1097/CORR.0000000000004092",
           "journal_key": "corr"
@@ -9382,8 +9382,68 @@
       "pub_year": "2026",
       "pub_month": "Oct",
       "is_new": false,
-      "count": 25,
+      "count": 29,
       "articles": [
+        {
+          "pmid": "42970958",
+          "title": "Geography matters: Variations in neck trauma between urban and rural level-II trauma centers.",
+          "authors": [
+            "Goldstein AL",
+            "Nino E",
+            "Biton D",
+            "Kruyer VN",
+            "Bar-Haim R",
+            "Laks S",
+            "Soroksky A",
+            "Levit B",
+            "Awad A",
+            "Wiesel O"
+          ],
+          "abstract": "BACKGROUND: Geodemographic factors create divergent clinical patterns between urban and rural settings. Level-II trauma centers are a vital trauma-care infrastructure for both urban and rural communities. This study compares neck trauma patterns, resource utilization, and outcomes at these distinct geodemographic nodes.\n\nMETHODS: Retrospective analysis (2014-2024) of neck trauma at an urban center (UC, n = 65) and a rural center (RC, n = 60). Demographics, mechanism, treatments, interventions, and outcomes were analyzed.\n\nRESULTS: RC patients sustained more blunt, transport-related multisystem trauma with higher ISS. UC patients predominantly presented with localized penetrating injuries. Rural patients had higher ICU admission rates, longer ICU stays, more transfers to level-I centers yet underwent fewer operative interventions, invasive airway procedures, and CT angiogrophy.\n\nCONCLUSIONS: There are significant variations in neck trauma between urban and rural level-II trauma centers. An \"intervention paradox\" exists were rural centers stabilize high-severity blunt trauma for transfer, while urban centers provide definitive care for penetrating wounds. These findings necessitate geodemographically tailored protocols. Understanding geodemographic variations is a critical aspect of optimizing trauma systems.\n\nLEVEL OF EVIDENCE: II Retrospective cohort.",
+          "doi": "10.1016/j.injury.2026.113837",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42970958/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113837",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42970959",
+          "title": "Limb preservation and optimization: A whole-patient approach to comprehensive care after catastrophic extremity injuries.",
+          "authors": [
+            "Cook JL",
+            "Rucinski K",
+            "Nuelle JAV",
+            "Royse LA",
+            "London DA",
+            "Lalonde SP",
+            "Schweser KM",
+            "Crist BD"
+          ],
+          "abstract": "INTRODUCTION: The objective of this study was to describe the Limb Preservation and Optimization Center's (LPOC) components and mechanisms in treating catastrophic extremity injuries and report the initial patient demographics, indications, and outcomes using data from an established registry.\n\nMETHODS: A retrospective observational study was performed including all patients entered in the LPOC registry since January 1, 2014. Patient demographics, injury types and treatments, and outcomes, including functional outcomes. Descriptive statistics were calculated to determine proportions, means, standard deviations, and ranges.\n\nRESULTS: 992 patients were included with a mean final follow-up of 20.5 months (SD:22.1, range 0-114); 178 (17.9%) underwent an amputation. Of those who reported RTW, 164 patients (71.6%) reporting RTW at full capacity. Lower extremity injuries were most common (74.9%). Demographic, health insurance, living setting, and presentation variables were similar among LPOC patients. Fractures and soft tissue injuries predominated across all injury categories with fracture fixation and wound coverage treatments most common. Upper extremity joint injuries and all types of combined injuries were associated with the highest reoperation rates. Treatment failure rates ranged from 11% to 100% with fracture and bone-related injuries being associated with the most favorable outcomes across categories.\n\nDISCUSSION: Fractures and soft tissue injuries were the primary types of problems affecting all patients utilizing the LPOC. Fracture fixation and wound coverage treatments were the most performed procedures. Return to the operating room to address the limb preservation and optimization goal was extremely common across categories such that patients may expect at least 4 reoperations. Patients return to some type of work 75-88%. Treatment failure rates varied from 11% to 100%, with fracture and bone-related injuries being associated with the most favorable outcomes across categories. Overall, the results are encouraging and will help shape care in these patients.",
+          "doi": "10.1016/j.injury.2026.113845",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42970959/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113845",
+          "journal_key": "injury"
+        },
         {
           "pmid": "42967397",
           "title": "Segmental phase angle as predictor of activities of daily living and muscle health in patients with osteoporotic fracture A retrospective cohort study.",
@@ -9975,6 +10035,32 @@
           "journal_key": "injury"
         },
         {
+          "pmid": "42970960",
+          "title": "Pediatric flexor tendon injuries: A 13-year retrospective review of injury characteristics, treatment, and outcomes.",
+          "authors": [
+            "İbrahimov J",
+            "Bagır M",
+            "Bolat İ",
+            "Kocaer Ö",
+            "Bozkurt O"
+          ],
+          "abstract": "BACKGROUND: Pediatric flexor tendon injuries are rare but potentially devastating. Due to low incidence, optimal perioperative management remains poorly defined, and evidence is scarce. This study evaluates the injury characteristics, surgical treatment, age-specific functional outcomes, and challenges in this population.\n\nMETHODS: A retrospective review was conducted on 79 pediatric patients (mean age 6.84 ± 4.27 years; 67.1% male) who underwent surgical repair for flexor tendon lacerations between 2010 and 2023. Outcomes were assessed using Total Active Motion (TAM), Strickland score, grip/pinch strength, Semmes-Weinstein monofilament, two-point discrimination, and QuickDASH questionnaire, with a mean follow-up of 59.9 ± 32.8 months.\n\nRESULTS: Zone 2 was the most common injury site (45.6%), with glass being the predominant mechanism (67.1%). Nerve injury was present in 35.4% of cases. Overall, good/excellent results were achieved in 81.9% (TAM) and 89.0% (Strickland) of patients. The 0-5 years age group had significantly lower Strickland scores than the 6-12 years group (74.28% vs. 82.9%, p < 0.05). Zone 5 injuries demonstrated significantly better outcomes than Zone 2 and 3 (p < 0.001). The overall complication rate was low (5.1%), with a rerupture rate of 2.5%.\n\nCONCLUSION: Pediatric flexor tendon repairs yield favorable functional outcomes with low complication rates. Age-related differences in functional outcomes should be interpreted cautiously because of developmental differences in patient cooperation and age-dependent rehabilitation strategies. Concomitant nerve injury was associated with poorer functional outcomes. The modified Kessler technique remains a reliable repair method.",
+          "doi": "10.1016/j.injury.2026.113798",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42970960/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113798",
+          "journal_key": "injury"
+        },
+        {
           "pmid": "42933143",
           "title": "Quantitative decision-support strategies to enhance emergency medical service accessibility in high-risk freeway tunnels.",
           "authors": [
@@ -10074,6 +10160,35 @@
           "section": "Editorial",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42925616/",
           "doi_url": "https://doi.org/10.1016/j.injury.2026.113772",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42970957",
+          "title": "Gabapentinoid-opioid co-prescription after long bone fracture fixation is associated with increased 1-year nonunion.",
+          "authors": [
+            "Mahatme RJ",
+            "Moore SA",
+            "Gangavaram A",
+            "Moon E",
+            "Khadilkar S",
+            "Woolnough T",
+            "Ellis JD",
+            "Beltran MJ"
+          ],
+          "abstract": "PURPOSE: Gabapentinoids are increasingly incorporated into multimodal analgesia after orthopaedic surgery, yet their impact on outcomes following fracture fixation remains unclear. This study evaluated the association between early postoperative gabapentinoid-opioid co-prescription and clinical outcomes after operative fixation of closed long bone fractures.\n\nMETHODS: Using TriNetX, we identified opioid-naïve and gabapentinoid-naïve adults undergoing intramedullary or plate-and-screw fixation of isolated closed diaphyseal tibia, humerus, or femur fractures. Patients prescribed gabapentin or pregabalin and opioids within three days after surgery were compared with patients receiving opioids alone. Propensity score matching (1:1) incorporated demographics, medical comorbidities, fracture location, fixation method, mental health disorders, and substance use disorders. Primary outcomes were prolonged (30-90 days) and chronic (90-180 days) postoperative opioid use. Secondary outcomes included 30-day emergency department (ED) visits and readmissions, and 1-year nonunion and reoperation.\n\nRESULTS: After matching, each cohort consisted of approximately 2000 patients (range, 1946-2012). Gabapentinoid-opioid therapy was associated with higher rates of prolonged (21.0% vs 16.1%; RR 1.31; p < 0.001) and chronic (9.8% vs 7.4%; RR 1.33; p = 0.007) postoperative opioid use. Gabapentinoid-opioid therapy was associated with fewer 30-day ED visits (25.1% vs 42.5%; RR 0.59; p < 0.001), while 30-day readmission rates were similar between cohorts (p = 0.174). One-year rates of nonunion (4.3% vs 1.9%; RR 2.21; p < 0.001) and reoperation (7.1% vs 4.2%; RR 1.68; p < 0.001) were significantly higher among patients receiving gabapentinoid-opioid therapy. In a sensitivity analysis that defined the opioid-only cohort based on the absence of gabapentinoid prescriptions during the first 3 postoperative days, rather than the 1-year postoperative medication window used in the primary analysis, the associations with prolonged and chronic opioid use and reoperation were no longer statistically significant, whereas the association with nonunion remained significant (RR 1.62; p = 0.001).\n\nCONCLUSION: Gabapentinoid-opioid therapy was associated with fewer ED visits and higher rates of prolonged and chronic opioid use, nonunion, and reoperation; in sensitivity analysis, ED visits and nonunion remained significant, whereas opioid use and reoperation did not. These findings suggest that potential short-term analgesic benefits may be offset by adverse long-term outcomes, warranting caution and further study of gabapentinoid-opioid prescribing for acute perioperative fracture pain.",
+          "doi": "10.1016/j.injury.2026.113762",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42970957/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113762",
           "journal_key": "injury"
         }
       ]
