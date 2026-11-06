@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T14:59:49Z",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T14:40:05Z",
   "counts": {
-    "articles": 496,
+    "articles": 497,
     "journals_with_articles": 10,
     "journals_searched": 11,
-    "new_issues": 2
+    "new_issues": 0
   },
   "groups": [
     {
@@ -2018,9 +2018,9 @@
           "pub_month": "Nov",
           "pages": "2272-2273",
           "pub_types": [
-            "Journal Article"
+            "Letter"
           ],
-          "section": "Article",
+          "section": "Letter",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42328727/",
           "doi_url": "https://doi.org/10.1097/CORR.0000000000004046",
           "journal_key": "corr"
@@ -2065,9 +2065,9 @@
           "pub_month": "Nov",
           "pages": "2276-2277",
           "pub_types": [
-            "Journal Article"
+            "Letter"
           ],
-          "section": "Article",
+          "section": "Letter",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42413953/",
           "doi_url": "https://doi.org/10.1097/CORR.0000000000004062",
           "journal_key": "corr"
@@ -2088,9 +2088,9 @@
           "pub_month": "Nov",
           "pages": "2278",
           "pub_types": [
-            "Journal Article"
+            "Letter"
           ],
-          "section": "Article",
+          "section": "Letter",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42419292/",
           "doi_url": "https://doi.org/10.1097/CORR.0000000000004063",
           "journal_key": "corr"
@@ -2110,9 +2110,9 @@
           "pub_month": "Nov",
           "pages": "2279-2280",
           "pub_types": [
-            "Journal Article"
+            "Letter"
           ],
-          "section": "Article",
+          "section": "Letter",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42555908/",
           "doi_url": "https://doi.org/10.1097/CORR.0000000000003912",
           "journal_key": "corr"
@@ -2132,9 +2132,9 @@
           "pub_month": "Nov",
           "pages": "2281-2282",
           "pub_types": [
-            "Journal Article"
+            "Letter"
           ],
-          "section": "Article",
+          "section": "Letter",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42417467/",
           "doi_url": "https://doi.org/10.1097/CORR.0000000000004057",
           "journal_key": "corr"
@@ -2157,9 +2157,9 @@
           "pub_month": "Nov",
           "pages": "2283-2284",
           "pub_types": [
-            "Journal Article"
+            "Letter"
           ],
-          "section": "Article",
+          "section": "Letter",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42696646/",
           "doi_url": "https://doi.org/10.1097/CORR.0000000000004119",
           "journal_key": "corr"
@@ -2180,9 +2180,9 @@
           "pub_month": "Nov",
           "pages": "2285-2286",
           "pub_types": [
-            "Journal Article"
+            "Letter"
           ],
-          "section": "Article",
+          "section": "Letter",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42447320/",
           "doi_url": "https://doi.org/10.1097/CORR.0000000000004067",
           "journal_key": "corr"
@@ -2222,7 +2222,7 @@
       "issue": "21",
       "pub_year": "2026",
       "pub_month": "Nov",
-      "is_new": true,
+      "is_new": false,
       "count": 18,
       "articles": [
         {
@@ -2694,7 +2694,7 @@
       "issue": "12",
       "pub_year": "2026",
       "pub_month": "Dec",
-      "is_new": true,
+      "is_new": false,
       "count": 48,
       "articles": [
         {
@@ -6283,6 +6283,33 @@
       "count": 120,
       "articles": [
         {
+          "pmid": "42988892",
+          "title": "Avascular necrosis of the femur following COVID-19: an updated systematic review.",
+          "authors": [
+            "Azadvari M",
+            "Akbari N",
+            "Hatam S",
+            "Rastkar M",
+            "Razavi SZE"
+          ],
+          "abstract": "BACKGROUND: One of the complications of COVID-19 infection is avascular necrosis of the femoral head. To date, various studies have reported a wide range of osteonecrosis of the femoral head in patients with COVID-19. The previous systematic review included only 14 studies. So, this systematic review aims to update the findings of these studies.\n\nMETHODS: Databases such as PubMed, Scopus, EMBASE, PsycINFO, Web of Science, and Google Scholar were systematically searched by two independent researchers on April 1st, 2024.\n\nRESULTS: A literature search revealed 1229 records, 161 full-texts were evaluated, and finally, 55 studies remained for systematic review. Fifty-five studies were included in this systematic review. Four studies were cross-sectional studies, six were retrospective studies, and the remaining (45studies) were case reports or case-series studies. Totally, 864 cases were included. Except for 12 studies, 43 studies reported the administration of steroid therapy in included cases. The most common underlying conditions were hypertension, followed by diabetes. In 274 (31.7%) of included cases, AVN was bilateral, and both hips were involved. In some studies, non-surgical treatments-including supplement therapy, anticoagulant therapy, physiotherapy, and hyperbaric oxygen therapy-were administered. Several studies reported symptomatic improvement in patients treated with the core decompression approach. Total hip arthroplasty (THA) was the most commonly used surgical treatment.\n\nCONCLUSIONS: Avascular necrosis of the femoral head in cases that have survived COVID-19 should be considered carefully as early diagnosis helps to preserve the joint and its function.",
+          "doi": "10.1007/s00402-026-06545-4",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Systematic Review"
+          ],
+          "section": "Systematic Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42988892/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06545-4",
+          "journal_key": "aots"
+        },
+        {
           "pmid": "42980840",
           "title": "From fluoroscopy to artificial intelligence: three decades of percutaneous pelvic ring fixation-a bibliometric and science-mapping analysis (1996-2026).",
           "authors": [
@@ -9562,36 +9589,6 @@
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42545541/",
           "doi_url": "https://doi.org/10.1007/s00402-026-06451-9",
           "journal_key": "aots"
-        },
-        {
-          "pmid": "42545503",
-          "title": "The incidence and epidemiology of patellar fractures following medial patellofemoral ligament reconstruction: a systematic review and meta-analysis.",
-          "authors": [
-            "Abelleyra Lastoria DA",
-            "Hunt A",
-            "Ross CK",
-            "Yemane M",
-            "Keynes S",
-            "Ghosh A",
-            "Hing CB"
-          ],
-          "abstract": "INTRODUCTION: Patellar instability can arise from a traumatic event with anatomical predisposing factors increasing the risk of dislocation. Medial patellofemoral ligament reconstruction (MPFLR) is commonly performed to treat patellar instability. The aim of this systematic review was to determine the incidence of and risk factors for patellar fractures after MPFLR.\n\nMATERIALS AND METHODS: The protocol for this review was registered on PROSPERO with registration number CRD420251066107. The PRISMA 2020 checklist was followed. Electronic databases and conference proceedings were searched to the 15th of May 2025. Studies were eligible if they reported incidence of patellar fractures after MPFLR. A random-effects meta-analysis was performed. Included studies were appraised using tools respective of study design.\n\nRESULTS: A total of 4,972 records were screened in the initial search. A total of 110 studies satisfied the inclusion criteria, evaluating 115,496 patients. The evidence was moderate to low in quality. The incidence of patellar fracture ranged from 0 to 9.50%, with a pooled incidence of 1.17% (95% confidence interval [CI] 0.76- 1.68%). There was no difference in incidence of patellar fractures between patients who did and did not undergo bone tunnel fixation (0.94%, 95% CI 0.69-1.24 vs. 1.00%, 95% CI 0.15-2.44%, respectively). There was no difference in fracture incidence between patients who underwent concomitant procedures (1.26%, 95% CI 0.51-2.32) and those who underwent MPFLR alone (0.53%, 95% CI 0.13-1.16%).\n\nCONCLUSION: Patellar fractures are a known complication of MPFLR, with a higher incidence observed in patients undergoing this procedure compared to the baseline population risk. Current evidence suggests its incidence is not affected by tunnel location or the performance of concomitant procedures, though further prospective studies are required to corroborate this. Appropriate post-operative follow-up is required to monitor the occurrence of patellar fractures during the post-operative period.",
-          "doi": "10.1007/s00402-026-06440-y",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Aug",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Systematic Review",
-            "Meta-Analysis"
-          ],
-          "section": "Systematic Review",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42545503/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06440-y",
-          "journal_key": "aots"
         }
       ]
     },
@@ -9604,8 +9601,53 @@
       "pub_year": "2026",
       "pub_month": "Nov",
       "is_new": false,
-      "count": 36,
+      "count": 37,
       "articles": [
+        {
+          "pmid": "42987463",
+          "title": "Is surgeon technique a modifiable risk factor for heterotopic ossification after posterior acetabular fracture fixation? A multi-surgeon study.",
+          "authors": [
+            "Kumar DS",
+            "Luther L",
+            "Schaffer NE",
+            "Litten RM",
+            "Traven SA",
+            "Moore RS",
+            "Moreno-Diaz AF",
+            "Velasco-Castro J",
+            "Maxson R",
+            "Sumpter AE",
+            "Agarwal A",
+            "Boyce RH",
+            "Collinge CA",
+            "Evans JM",
+            "Jahangir AA",
+            "Johnson JP",
+            "Mir HR",
+            "Perdue AM",
+            "Quade JH",
+            "Sethi MK",
+            "Spitler C",
+            "Stinner DJ",
+            "Tatman LM",
+            "Mitchell PM"
+          ],
+          "abstract": "INTRODUCTION: Heterotopic ossification (HO) is a well-recognized complication following operative fixation of acetabular fractures through a posterior approach. Established risk factors largely reflect nonmodifiable patient and injury characteristics. Whether surgeon-controlled aspects of operative technique influence HO remains poorly defined. The purpose of this study was to determine if the individual surgeon and specific technique variables are associated with HO after accounting for established patient and injury factors.\n\nMETHODS: We retrospectively reviewed 1292 patients who underwent acetabular fracture fixation through a Kocher-Langenbeck approach at two Level 1 trauma centers between 2010 and 2025 by 14 fellowship-trained orthopaedic traumatologists. Patients receiving any form of HO prophylaxis were excluded. Four surgeon-controlled variables were examined: aggressiveness of gluteus minimus debridement, trochanteric osteotomy, thrombin gel use, and closed suction drainage. HO was graded on final radiographs by two independent reviewers using the Brooker classification, with third-reader adjudication for disagreements, and categorized as little-to-no (grade 0-I), moderate (grade II), or severe (grade III-IV). Mixed-effects logistic regression models with surgeon as a random effect were used to assess the associations between patient, injury, and surgeon-controlled technique variables, as well as the individual surgeon, with severe and moderate HO formation.\n\nRESULTS: Little-to-no HO occurred in 1132 patients (87.6%), moderate HO in 96 (7.4%), and severe HO in 64 (5.0%). Aggressive gluteus minimus debridement was not associated with HO severity. For severe HO, the surgeon did not contribute meaningfully to model performance, and no surgeon-controlled technique variables were significant; severe head injury, mechanical ventilation beyond 72 h, African-American race, and dual surgical approaches were associated with severe HO. For moderate HO, the surgeon contributed moderately, and both trochanteric osteotomy (odds ratio [OR] 3.7, 95% confidence interval [CI] 1.1-12) and closed suction drainage (OR 1.8, 95% CI 1.0-3.1) were associated with increased odds of moderate HO.\n\nCONCLUSION: Severe HO following posterior acetabular fracture fixation is predominantly driven by patient and injury characteristics rather than surgeon technique. Aggressive gluteus minimus debridement does not appear to reduce HO risk, and prevention efforts should prioritize patient-level risk stratification.",
+          "doi": "10.1016/j.injury.2026.113874",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42987463/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113874",
+          "journal_key": "injury"
+        },
         {
           "pmid": "42981909",
           "title": "Impact of sarcopenic obesity phenotype on long-term survival in geriatric trauma: A nationwide cohort study using weight-adjusted waist index.",
