@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-06",
-  "generated_at": "2026-11-06T14:40:05Z",
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T13:37:49Z",
   "counts": {
-    "articles": 497,
+    "articles": 506,
     "journals_with_articles": 10,
     "journals_searched": 11,
     "new_issues": 0
@@ -3133,7 +3133,6 @@
           "pages": "3689-3696",
           "pub_types": [
             "Journal Article",
-            "Comparative Study",
             "Observational Study"
           ],
           "section": "Observational Study",
@@ -6282,6 +6281,33 @@
       "is_new": false,
       "count": 120,
       "articles": [
+        {
+          "pmid": "42993318",
+          "title": "Trochleoplasty combined with MPFL reconstruction is associated with a postoperative reduction in the measured Caton-Deschamps index.",
+          "authors": [
+            "Coppola C",
+            "Nardelli P",
+            "Liebensteiner M",
+            "Lindtner RA",
+            "Khosravi I",
+            "Mayr R"
+          ],
+          "abstract": "INTRODUCTION: To investigate changes in MRI-measured Caton-Deschamps index (CDI) at mid- to long-term follow-up following groove-deepening trochleoplasty (TP) combined with medial patellofemoral ligament reconstruction (MPFLR) and to compare these changes between single-bundle quadriceps tendon graft (QTG) and double-bundle hamstring tendon graft (HTG) reconstruction.\n\nMATERIALS AND METHODS: Seventeen patients who had undergone TP with concomitant MPFLR were analyzed retrospectively. Patellar height was assessed preoperatively and postoperatively on sagittal magnetic resonance images by three independent observers using the CDI. Preoperative and postoperative CDI values were compared using a paired t-test. CDI changes were compared between single-bundle QTG (n = 9) and double-bundle HTG (n = 8) reconstruction using an independent-samples t-test. Interobserver reliability was assessed using the intraclass correlation coefficient (ICC).\n\nRESULTS: The mean CDI decreased significantly from 1.06 ± 0.13 preoperatively to 0.95 ± 0.15 postoperatively (Δ = -0.10 ± 0.07; P < 0.001). Significant postoperative reductions in CDI were observed in both subgroups (QTG: P = 0.002; HTG: P = 0.004), with no significant difference in CDI change between the groups (P = 0.77). Interobserver reliability was good for single measurements and excellent for measurements averaged across the three observers.\n\nCONCLUSIONS: Combined trochleoplasty and MPFL reconstruction was associated with a significant postoperative reduction in MRI-measured CDI at mid- to long-term follow-up, with an average decrease of - 0.10. Whether this finding reflects true anatomical patellar distalization cannot be determined from the present study.",
+          "doi": "10.1007/s00402-026-06542-7",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42993318/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06542-7",
+          "journal_key": "aots"
+        },
         {
           "pmid": "42988892",
           "title": "Avascular necrosis of the femur following COVID-19: an updated systematic review.",
@@ -9565,30 +9591,6 @@
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42545542/",
           "doi_url": "https://doi.org/10.1007/s00402-026-06443-9",
           "journal_key": "aots"
-        },
-        {
-          "pmid": "42545541",
-          "title": "Variability in United States online rehabilitation protocols after open and endoscopic hip abductor repair.",
-          "authors": [
-            "Anwunah C",
-            "Rosenberg S",
-            "Hartwell M"
-          ],
-          "abstract": "PURPOSE: The purpose of this study was to evaluate readily accessible U.S. based online physical therapy protocols for open and endoscopic hip abductor repairs and to assess the variability in post-operative rehabilitation protocols.\n\nMETHODS: Online physical therapy protocols from U.S. based orthopaedic institutions for gluteus medius/minimus repair were collected using a web-based query utilizing search terms \"hip abductor repair rehabilitation protocol\" and \"gluteus repair rehabilitation protocol.\" Published protocols from both Electronic Residency Application Service (ERAS) academic orthopaedic surgery programs and private groups were collected. All publicly available protocols were included. Protocols were analyzed using a standardized spreadsheet to assess rehabilitation components and timelines. Descriptive statistics (median values, percentages, ranges) were calculated.\n\nRESULTS: 54 rehabilitation protocols were assessed, including 22 (41%) from ERAS-affiliated academic programs or associated physicians. Postoperative weight-bearing was addressed in 53/54 (98%) protocols, with 41 (77%) recommending toe-touch/touchdown/flat-foot/20-lb weightbearing. Median duration of restricted weight-bearing was 6 weeks (range, 2-8 weeks). Regarding range of motion restrictions, 37 (69%) protocols limited hip flexion to 90°, 42 (78%) advised against passive adduction past neutral, and 49 (91%) against active abduction. Bracing was recommended in 30 (56%) protocols, with 25 (83%) lacking brace specification and only 5 (17%) recommending an abduction brace. Return-to-sport timelines were included in 19 (35%) protocols, with a median 16 weeks (range 12-24). Functional testing was mentioned in 22 (41%) protocols, though tests and criteria varied.\n\nCONCLUSION: Substantial variability exists in the composition and timing of rehabilitation protocols following hip abductor tendon repair. A majority of protocols advised limited weight bearing for the first 6 weeks after surgery and avoidance of active hip abduction and passive hip adduction, however there was wide variation in the recommendations regarding brace use, strengthening progressions, the role of functional testing, and the timeline for return to activity and sport.",
-          "doi": "10.1007/s00402-026-06451-9",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Aug",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42545541/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06451-9",
-          "journal_key": "aots"
         }
       ]
     },
@@ -9601,8 +9603,178 @@
       "pub_year": "2026",
       "pub_month": "Nov",
       "is_new": false,
-      "count": 37,
+      "count": 46,
       "articles": [
+        {
+          "pmid": "42994066",
+          "title": "Surgical anatomy of the Over-the-Rectus Extrapelvic (OREX) approach defines safe zones for W-plate fixation of the anterior pelvic ring.",
+          "authors": [
+            "Da Cunha Q",
+            "Hellwinkel JE",
+            "Mauffrey C",
+            "David G"
+          ],
+          "abstract": "OBJECTIVES: To define the procedure-specific surgical anatomy of the pre-symphyseal region relevant to W-plate fixation by characterizing the soft-tissue layers, identifying critical neurovascular structures, and defining quantitative safe zones for dissection and plate placement.\n\nMETHODS: Fresh-frozen adult cadavers underwent standardized low Pfannenstiel dissections reproducing the Over-the-Rectus Extrapelvic (OREX) exposure required for W-plate fixation. Pre-symphyseal soft-tissue layers were sequentially dissected from the skin to the anterior pubic symphysis. The locations of critical neurovascular structures relative to the pubic midline and pubic tubercles were recorded, together with anatomical layers, dimensions of the prepubic ligamentous-aponeurotic complex, soft-tissue thickness, sex-related anatomical differences, and surgical safe zones.\n\nRESULTS: Three reproducible anatomical layers were identified in ten specimens. The superficial layer contained the pre-symphyseal fat pad and superficial epigastric vessels. The intermediate layer contained the spermatic cord or round ligament, ilioinguinal and genitofemoral nerves, and suprapubic artery, with these critical structures located at a mean distance of approximately 3.2 cm from the midline. The deep layer was consistently formed by the Pyramidalis-anterior pubic Ligament-Adductor longus Complex (PLAC), which covered the anterior pubic symphysis and measured a mean of 4.6 × 3.1 cm. No critical neurovascular structure crossed the central trajectory corresponding to W-plate placement. Female specimens demonstrated greater preperitoneal soft-tissue thickness, whereas lateral surgical safe zones were narrower in male specimens.\n\nCONCLUSION: The pre-symphyseal region demonstrated a reproducible three-layer surgical anatomy with a predictable distribution of critical neurovascular structures. Quantitative anatomic mapping defined procedure-specific safe zones for extrapelvic W-plate fixation and provided practical guidancefor surgical exposure, implant positioning, and avoidance of iatrogenic injury.\n\nLEVEL OF EVIDENCE: Level IV, therapeutic study.",
+          "doi": "10.1016/j.injury.2026.113889",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42994066/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113889",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42994063",
+          "title": "Risk factors for complications following surgical fixation of pelvic ring fractures: a retrospective cohort study.",
+          "authors": [
+            "Kojima KE",
+            "Argotte PLP",
+            "Esteves DS",
+            "Guimarães MGV",
+            "Medina R",
+            "Abe Puccetti VLY",
+            "de Camargo Leonhardt M",
+            "Santos Silva JD"
+          ],
+          "abstract": "BACKGROUND: Surgical fixation of pelvic ring fractures carries a substantial risk of postoperative complications, particularly surgical site infection, yet the relative contribution of fracture pattern and associated soft tissue injury to this risk remains incompletely defined.\n\nOBJECTIVE: To describe the rate and spectrum of complications following surgical fixation of pelvic ring fractures and to identify factors independently associated with these complications, with particular attention to acute surgical site infection.\n\nMETHODS: Retrospective, single-center cohort study of 126 patients who underwent surgical fixation of pelvic ring fractures between December 2014 and November 2024, reported in accordance with the STROBE statement. Candidate demographic, injury-related, and treatment-related exposures were compared against a composite primary outcome (any postoperative complication) and against acute infection using Fisher's exact test, Pearson chi-square test, the Mann-Whitney U test, and multivariable logistic regression.\n\nRESULTS: Overall, 39 of 126 patients (31.0%) experienced at least one postoperative complication; chronic pain (22.2%) and acute surgical site infection (16.7%) were the most frequent individual components. In bivariate analysis, the presence of a Morel-Lavallée lesion at baseline was significantly associated with both the composite outcome (OR 12.65, 95% CI 1.42-112.27, p = 0.011) and acute infection (OR 12.12, 95% CI 2.06-71.37, p = 0.007); Young-Burgess fracture pattern was also associated with infection (p = 0.018). After multivariable adjustment for infection, a Morel-Lavallée lesion (adjusted OR 17.69, 95% CI 2.46-126.95, p = 0.004) and combined-mechanism fracture pattern (adjusted OR 8.25 versus anteroposterior compression, 95% CI 1.91-35.58, p = 0.005) remained independently associated with infection. Neither the presence, technique, nor surgical approach of posterior ring fixation was associated with any complication type, and time from injury to definitive fixation (median 13 days) showed no significant association with either outcome.\n\nCONCLUSION: A Morel-Lavallée lesion identified at initial evaluation was associated with postoperative complications in bivariate analysis and, together with a combined-mechanism fracture pattern, remained an independent predictor of surgical site infection after multivariable adjustment. No statistically significant association was identified between posterior fixation technique and complication risk.\n\nLEVEL OF EVIDENCE: III, retrospective cohort study.",
+          "doi": "10.1016/j.injury.2026.113876",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42994063/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113876",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42994067",
+          "title": "Aspirin is safe and effective for prevention of deep vein thrombosis following acetabular fracture surgery.",
+          "authors": [
+            "Dinesh A",
+            "Poursalehian M",
+            "Billow D",
+            "Peirish RW",
+            "Cereijo C",
+            "Padubidri A",
+            "Patterson B",
+            "Vallier HA"
+          ],
+          "abstract": "BACKGROUND: Patients with acetabular fractures are at significant risk for venous thromboembolism (VTE), yet the optimal chemoprophylactic agent remains undefined. Emerging evidence from elective arthroplasty and general orthopaedic trauma populations suggests that aspirin (ASA) may be a safe and effective alternative to traditional anticoagulants. The purpose of this study was to evaluate the safety and efficacy of ASA compared to other anticoagulants for deep vein thrombosis (DVT) prevention following acetabular fracture surgery.\n\nMETHODS: A retrospective cohort analysis was performed using a global, web-based health research network that provides on-demand access to de-identified, real-world data from electronic health records and claims. Adult patients (≥18 years) who underwent surgical treatment for acetabular fractures between January 2014 and December 2025 and received VTE prophylaxis within 14 days of surgery were identified. Patients were stratified into ASA (n = 1189) and other anticoagulant (n = 5478) cohorts. Propensity score matching (1:1) was performed to balance baseline characteristics, yielding 1174 patients per cohort. Rates and odds of DVT, emergency department (ED) visits, deep infection, stroke, and readmission were assessed at 14-, 30-, and 90-day postoperative intervals. Temporal trends in VTE prophylaxis utilization were also analyzed.\n\nRESULTS: Compared to other anticoagulants, ASA was associated with significantly lower odds of DVT at 14 days (1.11% vs. 2.22%; odds ratio [OR]: 0.494; 95% confidence interval [CI]: 0.253-0.967; P = 0.036), 30 days (1.45% vs. 2.73%; OR: 0.524; 95% CI: 0.290-0.950; P = 0.030), and 90 days (2.56% vs. 4.34%; OR: 0.577; 95% CI: 0.365-0.913; P = 0.018). ASA was also associated with significantly lower odds of ED visits at 90 days (OR: 0.741; 95% CI: 0.570-0.963; P = 0.024). There were no significant differences in deep infection, stroke, or readmission rates. ASA utilization increased from 7.2% in 2014-39.5% in 2025.\n\nCONCLUSIONS: ASA is safe and effective for DVT prevention following acetabular fracture surgery and is associated with fewer ED visits compared to other anticoagulants. These findings support the growing adoption of ASA as a VTE prophylactic agent in the acetabular fracture population.",
+          "doi": "10.1016/j.injury.2026.113877",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42994067/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113877",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42994065",
+          "title": "Common acetabular fracture patterns in patients with femoroacetabular impingement.",
+          "authors": [
+            "Garlapaty AR",
+            "Townsley S",
+            "Touhey DC",
+            "Walz JW",
+            "Duren D",
+            "Cook JL",
+            "Crist BD"
+          ],
+          "abstract": "INTRODUCTION: The incidence of acetabular fractures is rising, affecting both younger and elderly patient populations. Developmental abnormalities such as femoroacetabular impingement (FAI) and hip dysplasia alter hip biomechanics, potentially predisposing younger patients to fracture. FAI, resulting from a cam and/or pincer deformity, is common, affecting 25% of asymptomatic males and 5% of asymptomatic females, and has been linked to hip pain and early osteoarthritis. However, the relationship between FAI morphology and acetabular fracture pattern remains unclear.\n\nMETHODS: Patients, 18-55 years old, treated between 2005 and 2023 for acetabular fracture, hip dislocation, or femoral head fracture were reviewed for FAI morphology using the Judet and Letournel classification systems. Statistical comparisons were conducted using Fisher's exact tests and unpaired t-tests, with significance set at p < 0.05.\n\nRESULTS: A total of 294 patients (72%) exhibited plain radiographic FAI morphology, while 115 (28%) served as controls. The most common fracture pattern in both groups was posterior wall (PW) fractures (23.1% FAI, 31.3% control). Male FAI patients were significantly more likely to experience transverse fractures (p = 0.032, OR=4.6) and posterior column plus PW fractures (p = 0.035, OR=2.5) than controls. Among FAI patients, posterior column fractures were significantly more likely to occur in females (p = 0.011, OR=19). A total of 31 (27.0%) control patients and 63 (21.4%) FAI patients experienced complications.\n\nCONCLUSIONS: In our data set, FAI patients accounted for 72% of patients undergoing acetabular fracture ORIF. FAI patients most commonly sustained posterior wall fractures, but male FAI patients had a significantly higher rate of transverse and posterior column plus PW. FAI patients experienced a complication rate of 21.4% compared to 27.0% in non-FAI patients.",
+          "doi": "10.1016/j.injury.2026.113878",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42994065/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113878",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42994064",
+          "title": "Robotic navigation-assisted versus conventional freehand placement of the infra-acetabular screw in acetabular fracture surgery: A retrospective comparative study.",
+          "authors": [
+            "Cao W",
+            "Chen Z",
+            "Liu H",
+            "Zhan N",
+            "He J",
+            "Qi L",
+            "Li J",
+            "Zheng Y",
+            "Tang J",
+            "Li M",
+            "Chen H"
+          ],
+          "abstract": "BACKGROUND: The infra-acetabular screw (IAS) is an important component of fixation constructs for complex acetabular fractures, but accurate freehand placement is technically demanding, and evidence on robotic navigation-assisted IAS placement remains limited. This study compared robotic navigation-assisted (RA) and conventional fluoroscopic freehand (CF) IAS placement in acetabular fracture surgery.\n\nMETHODS: In this retrospective study, 53 patients with acetabular fractures who underwent IAS fixation between June 2022 and July 2024 were included, 28 underwent RA placement using the HoloSight robotic navigation system and 25 underwent CF placement. The primary outcome was screw-placement accuracy, graded on postoperative CT according to the Lonstein criteria. Secondary outcomes included the number of guide-wire adjustments, fluoroscopy frequency, IAS insertion time, total operative time, intraoperative blood loss, fracture reduction quality, hip function, and complications.\n\nRESULTS: The grade 0 (no cortical penetration) rate was higher in the RA group than in the CF group (96.4% [27/28] vs. 60.0% [15/25], p = 0.005). RA placement was associated with fewer guide-wire adjustments (0.07 ± 0.26 vs. 3.60 ± 1.15), fewer fluoroscopies (9.32 ± 1.66 vs. 21.28 ± 3.18), shorter IAS insertion time (10.36 ± 2.50 vs. 26.68 ± 4.11 min), shorter total operative time (134.54 ± 15.46 vs. 155.80 ± 18.48 min), and less intraoperative blood loss (468.21 ± 84.68 vs. 588.40 ± 80.76 mL) (all p < 0.001). The mean follow-up duration was 15.7 ± 2.0 months (range, 13-22 months). Reduction quality, hip function, and complication rates did not differ significantly between the two groups.\n\nCONCLUSIONS: Robotic navigation-assisted IAS placement was associated with significantly higher screw-placement accuracy and greater procedural efficiency than the conventional freehand technique, without compromising fracture reduction quality, hip function, or safety.",
+          "doi": "10.1016/j.injury.2026.113875",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42994064/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113875",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42994061",
+          "title": "The prevalence of mental health service use after long-term minor-to-moderate motor vehicle crash injury: a retrospective cohort study.",
+          "authors": [
+            "Yu S",
+            "Griffiths D",
+            "Armfield N",
+            "Gray S",
+            "Di Donato M",
+            "Collie A"
+          ],
+          "abstract": "BACKGROUND: Minor to moderate motor vehicle crash (MVC) injuries can lead to persistent psychological distress, yet evidence regarding mental health service (MHS) use is limited. This study aimed to estimate the prevalence and characterise the determinants of MHS use after minor to moderate MVC injury.\n\nMETHODS: This retrospective cohort study examined Australians with work-related, MVC injuries and workers' compensation claims exceeding 24 months duration. Claims and services data were linked with healthcare records to capture MHS use before and after injury. The injured group was divided into severity sub-groups based on hospital admission status (hospitalised, non-hospitalised). A community comparator group was matched to the non-hospitalised group based on gender and injury year. The primary outcome was MHS period prevalence within 24 months. Determinants of MHS were identified through binomial logistic regression.\n\nRESULTS: There were 574 non-hospitalised, 293 hospitalised, and 8294 community comparators included in the study cohort. The prevalence of MHS use at 24 months post injury was highest for the hospitalised group (36.9%), followed by the non-hospitalised group (31.5%) and community comparators (13.5%). The non-hospitalised group had 3.14 times greater odds (95% CI 2.53, 3.88) of MHS use compared to community comparators, and had the highest prevalence of publicly-funded MHS (18.8%). Hospitalised participants (28.3%) had a higher prevalence of workers' compensation funded MHS compared to non-hospitalised participants (19.3%). The adjusted odds of MHS use were higher among females (OR 2.05 [1.42, 2.97]), and people who had used MHS in the 12 months prior to injury (OR 4.66 [2.41, 9.50]).\n\nCONCLUSION: People with non-hospitalised MVC injuries had a significantly higher prevalence of MHS use compared with their matched community comparator group, and people with hospitalised MVC injuries had the highest prevalence at 24 months-follow up. The highest proportion of people assessing publicly funded MHS was by people in the non-hospitalised group. These findings highlight the ongoing mental health needs of people with minor to moderate MVC injury. Monitoring for the early post injury psychological signs and symptoms, and timely referral to MHS, could reduce psychological burden following MVC injury.",
+          "doi": "10.1016/j.injury.2026.113839",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42994061/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113839",
+          "journal_key": "injury"
+        },
         {
           "pmid": "42987463",
           "title": "Is surgeon technique a modifiable risk factor for heterotopic ossification after posterior acetabular fracture fixation? A multi-surgeon study.",
@@ -9649,6 +9821,29 @@
           "journal_key": "injury"
         },
         {
+          "pmid": "42994062",
+          "title": "Long-term functional and orthopaedic outcomes in patients with severe pelvic ring injury requiring REBOA: A two-center matched cohort study.",
+          "authors": [
+            "Yoon YC",
+            "Song HK"
+          ],
+          "abstract": "BACKGROUND: Resuscitative endovascular balloon occlusion of the aorta (REBOA) is used for life-threatening hemorrhage, but evidence has largely focused on acute outcomes. Long-term functional and orthopaedic outcomes among survivors treated with REBOA remain poorly characterized.\n\nMETHODS: This retrospective two-center matched cohort included 98 adults with severe, hemodynamically unstable pelvic ring injuries who survived at least 24 h; hospital survivors required at least 12 months of follow-up. Forty-nine REBOA-treated patients were matched 1:1 to 49 non-REBOA patients by major Young-Burgess category, Injury Severity Score, and age. The primary outcome was functional status among hospital survivors, categorized as good/fair/poor. Deep surgical site infection (SSI) after definitive pelvic fixation was the key secondary outcome, and nonunion was exploratory. Main models used a propensity-score linear predictor based on age, Injury Severity Score, initial systolic blood pressure, and lactate.\n\nRESULTS: Seventy-five patients survived hospitalization (30 REBOA; 45 non-REBOA); median follow-up was 19 months. Good/fair/poor outcomes were 16.7%/46.7%/36.7% in REBOA survivors and 51.1%/37.8%/11.1% in non-REBOA survivors. REBOA exposure was associated with worse functional status after adjustment (common odds ratio [cOR], 3.14; 95% CI, 1.11-8.92; P = 0.032). Among 68 definitive-fixation survivors, deep SSI occurred in 44.0% versus 9.3% (adjusted OR, 7.01; 95% CI, 1.88-31.07; P = 0.003); all observed events occurred within 60 days. Nonunion occurred in 26.7% versus 6.7% (adjusted OR, 9.09; 95% CI, 2.00-53.71; P = 0.004). Sensitivity analyses for deep SSI were directionally consistent.\n\nCONCLUSIONS: Among hospital survivors, REBOA exposure was associated with poorer long-term functional recovery and a higher burden of deep SSI. Nonunion was more frequent but remained exploratory. These findings characterize a high-risk orthopaedic survivor phenotype but do not establish a direct causal effect of REBOA.",
+          "doi": "10.1016/j.injury.2026.113872",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42994062/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113872",
+          "journal_key": "injury"
+        },
+        {
           "pmid": "42981909",
           "title": "Impact of sarcopenic obesity phenotype on long-term survival in geriatric trauma: A nationwide cohort study using weight-adjusted waist index.",
           "authors": [
@@ -9671,6 +9866,36 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42981909/",
           "doi_url": "https://doi.org/10.1016/j.injury.2026.113848",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42994068",
+          "title": "Osteoporosis treatment gaps and risk of recurrent hip fracture following initial fragility fracture: Insights from over one million cases.",
+          "authors": [
+            "Laurore C",
+            "Lezak BA",
+            "Xie J",
+            "Avila A",
+            "Hong C",
+            "Yassin S",
+            "Ganta A",
+            "Egol KA",
+            "Konda SR"
+          ],
+          "abstract": "INTRODUCTION: Patients who sustain a hip fracture are at high risk of a second hip fracture, yet most do not receive osteoporosis pharmacotherapy. We evaluated the association between bone-health medication initiation after a first hip fracture and the risk of a second hip fracture.\n\nMETHODS: This retrospective cohort study used Epic Cosmos, a de-identified multi-institutional electronic health record database. Adults who underwent surgery for a first femoral neck, intertrochanteric or subtrochanteric hip fracture were classified as having no bone-health medication, as baseline users (medication documented at admission), or as initiators within six months of the index fracture. Second hip fracture was assessed over fixed 1-, 2- and 5-year horizons. We estimated absolute risks, cumulative incidence accounting for death as a competing risk, and multivariable cause-specific Cox proportional hazards models.\n\nRESULTS: Overall, 1,051,020 patients were eligible for the 5-year analysis: 705,059 (67.1%) had no medication, 83,452 (7.9%) were baseline users and 262,509 (25.0%) initiated medication within six months. Five-year cumulative incidence of second hip fracture was 17.2% (95% confidence interval [CI] 17.1-17.3) with no medication, 14.1% (95% CI 13.8-14.4) among baseline users and 8.9% (95% CI 8.8-9.1) among initiators. In adjusted models, the hazard of second hip fracture was lower among baseline users (hazard ratio [HR] 0.71, 95% CI 0.69-0.73) and initiators (HR 0.38, 95% CI 0.37-0.39) than among patients with no medication.\n\nCONCLUSIONS: Initiation of bone-health medication within six months of a first hip fracture was associated with a lower risk of a second hip fracture. Baseline users had intermediate risk, which may reflect confounding by indication, agent selection or adherence. These findings support early, coordinated post-fracture osteoporosis treatment; the observational design precludes causal inference.",
+          "doi": "10.1016/j.injury.2026.113865",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42994068/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113865",
           "journal_key": "injury"
         },
         {
@@ -9962,6 +10187,32 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42962541/",
           "doi_url": "https://doi.org/10.1016/j.injury.2026.113826",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42994069",
+          "title": "Does greater orthoplastic integration reduce deep infection after open tibial fracture? A systematic review and meta-analysis.",
+          "authors": [
+            "Choi B",
+            "Ghaie S",
+            "Shah A",
+            "Boriani F"
+          ],
+          "abstract": "OBJECTIVE: Combined orthoplastic management of open tibial fractures is widely recommended, but existing evidence has not quantified whether the degree of care-pathway integration, beyond a binary orthoplastic-versus-orthopaedic distinction, is associated with a graded difference in outcome. This systematic review and meta-analysis quantified deep infection and secondary outcome rates across four care-pathway models of increasing team continuity.\n\nMETHODS: MEDLINE, Embase, Cochrane CENTRAL, and grey literature were searched in collaboration with a specialist medical librarian. Studies were classified into four care-pathway groups: Group 1, single-setting simultaneous fixation and soft tissue coverage; Group 2, staged care with continuous orthoplastic team involvement; Group 3, discontinuous or delayed plastic surgical involvement; Group 4, purely orthopaedic management. Random-effects meta-analysis pooled deep infection, limb salvage, reoperation, and non-union rates per group. Comparative meta-analyses used genuine within-study comparator arms. Confounding was assessed via meta-regression and subgroup analysis. Risk of bias was assessed using ROBINS-I and certainty of evidence was rated using GRADE.\n\nRESULTS: Fifty-eight studies (81 classified arms) were included. Pooled deep infection rates rose progressively with decreasing care-pathway integration: 8% (95% CI 5-12%) in Group 1, 16% (9-24%) in Group 2, 28% (11-49%) in Group 3, and 37% (25-50%) in Group 4. A similar gradient was observed for non-union (4-26% across groups). Limb salvage was near-universal (94-99%) and did not discriminate between pathways. Leave-one-out and sensitivity analyses confirmed robustness for Groups 1, 2, and 4; Group 3's estimate was substantially influenced by a single Critical-risk-of-bias study, with deep infection rates attenuating from 28% to 23% on exclusion. No significant publication bias was detected. Certainty of evidence, per GRADE, was Very Low for majority of the pooled estimates, reflecting serious risk of bias and inconsistency, and Low where heterogeneity was minimal.\n\nCONCLUSION: Progressive care-pathway integration is associated with a consistent, graded reduction in deep infection and non-union risk following open tibial fracture, independent of injury mechanism. These findings support continued investment in combined orthoplastic care, including partial integration models where single-setting surgery is not achievable.",
+          "doi": "10.1016/j.injury.2026.113853",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42994069/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113853",
           "journal_key": "injury"
         },
         {
