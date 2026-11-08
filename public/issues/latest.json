@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-07",
-  "generated_at": "2026-11-07T13:37:49Z",
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T13:56:16Z",
   "counts": {
-    "articles": 506,
+    "articles": 507,
     "journals_with_articles": 10,
     "journals_searched": 11,
     "new_issues": 0
@@ -6282,6 +6282,32 @@
       "count": 120,
       "articles": [
         {
+          "pmid": "42995283",
+          "title": "The impact of arthroscopic repair of the tibionavicular bundle of the deltoid ligament on ankle fractures.",
+          "authors": [
+            "Kürüm H",
+            "Akcan A",
+            "Çakır M",
+            "İpekten F"
+          ],
+          "abstract": "BACKGROUND: Notwithstanding well-established ligament repair with ankle arthroscopy and a thorough understanding of deltoid ligament anatomy, evidence supporting early arthroscopic repair of the deltoid ligament (EAR-DL) remains limited. The purpose of this study was to compare EAR-DL with conservative treatment following ankle fracture.\n\nMETHODS: This retrospective study evaluated 45 patients with deltoid ligament tears among 1165 ankle fractures. Patients were grouped based on the EAR-DL decision or conservative treatment. The EAR-DL decision is based on evidence gathered from clinical, radiological, and surgical findings. Patients with imaging-confirmed deltoid ligament injury and ≥ 12 months of follow-up were included; those with major concomitant injuries were excluded. Clinical and radiological outcomes, including instability, functional scores, return to sport, and medial clear space (MCS), were compared. The concomitant injury count (CIC) was developed to measure injury complexity; yet this exploratory score has not yet been validated or assessed for reliability. Final outcomes were evaluated using analysis of covariance (ANCOVA), controlling for baseline values. MCS ≤ 4 mm was considered normal, and ankle stability was assessed using anteromedial drawer and valgus stress tests.\n\nRESULTS: C3 was the most common fracture pattern in 14 patients (31.1%), followed by B3 in 9 patients (20.0%). The most common CIC level was 3, observed in 28 patients (62.2%). No recurrent instability occurred following EAR-DL, compared with 4 (15.4%) cases in the conservative group (p = 0.126). The return to sports was observed at an average of 33.04 ± 3.18 weeks in the conservative group and at 29.32 ± 1.60 weeks in the EAR-DL group (p < 0.001).\n\nCONCLUSIONS: In this retrospective cohort study, no statistically significant difference was found between the groups in recurrent instability. EAR-DL was associated with a smaller MCS and exploratory, unadjusted clinical outcomes compared with conservative management. Prospective, adequately powered studies are required to determine whether EAR-DL provides clinically meaningful benefits.\n\nLEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+          "doi": "10.1007/s00402-026-06564-1",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Comparative Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42995283/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06564-1",
+          "journal_key": "aots"
+        },
+        {
           "pmid": "42993318",
           "title": "Trochleoplasty combined with MPFL reconstruction is associated with a postoperative reduction in the measured Caton-Deschamps index.",
           "authors": [
@@ -9562,35 +9588,6 @@
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42545544/",
           "doi_url": "https://doi.org/10.1007/s00402-026-06418-w",
           "journal_key": "aots"
-        },
-        {
-          "pmid": "42545542",
-          "title": "Minced cartilage implantation for cartilage regeneration: a survey of current clinical practices.",
-          "authors": [
-            "Yilmaz T",
-            "Leutheuser S",
-            "Niemeyer P",
-            "Behrendt P",
-            "Roessler P",
-            "Gille J",
-            "Mumme M",
-            "Vogt S"
-          ],
-          "abstract": "INTRODUCTION: The objective of this study is to evaluate how minced cartilage implantation (MCI) is currently applied in clinical settings, focusing on the selection criteria, procedural execution, handling of concomitant joint pathologies, and postoperative management.\n\nMATERIAL AND METHOD: An online survey was conducted among all 4,915 members of the German Society for Arthroscopy and Joint Surgery (AGA). Invitations with a survey link were emailed, and the questionnaire was accessible anonymously from January 10 to February 20, 2024. A total of 927 responses were received and analyzed, resulting in a 19% response rate. Demographic data were described descriptively; survey answers were reported as percentages. The 25-item questionnaire, developed by AGA and the Quality Circle for Cartilage Repair & Joint Preservation (QKG e.V.), included single- and multiple-choice questions on experience with cartilage therapy, minced cartilage procedure application and postoperative care, and the overall assessment of this technique within cartilage repair.\n\nRESULTS: MCI has emerged as one of the three most commonly used cartilage repair techniques in the knee joint. Defect sizes up to 4 cm² represent the largest treated group. The application of the procedure is quite heterogeneous, with some practitioners using a shaver and others manually mincing with a scalpel. Fixation methods also vary, including the use of autologous and allogeneic fibrin as well as collagen membranes. The targeted fragment size is largely consistent across users. Postoperative management is similar, with most recommending partial weight-bearing for six weeks.\n\nCONCLUSION: Minced cartilage implantation has become an increasingly utilized technique for cartilage repair. Although the current evidence has improved - particularly due to the growing number of case series - there are still notable variations in how the procedure is performed.",
-          "doi": "10.1007/s00402-026-06443-9",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Aug",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42545542/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06443-9",
-          "journal_key": "aots"
         }
       ]
     },
@@ -9603,7 +9600,7 @@
       "pub_year": "2026",
       "pub_month": "Nov",
       "is_new": false,
-      "count": 46,
+      "count": 47,
       "articles": [
         {
           "pmid": "42994066",
@@ -9818,6 +9815,30 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42987463/",
           "doi_url": "https://doi.org/10.1016/j.injury.2026.113874",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "42998459",
+          "title": "Association of tranexamic acid with early death or massive transfusion after severe pelvic ring fractures: A nationwide registry-based cohort study.",
+          "authors": [
+            "Matsumoto S",
+            "Aoki M",
+            "Shimizu M"
+          ],
+          "abstract": "INTRODUCTION: Evidence for tranexamic acid during emergency treatment of severe pelvic ring fractures is limited. We examined its association with early death or massive transfusion.\n\nMETHODS: We studied adults in the Japan Trauma Data Bank from 2019 to 2023 with blunt pelvic ring fractures of Abbreviated Injury Scale severity 3 or higher. Exposure was any in-hospital tranexamic acid. The primary outcome was death within 24 h after arrival or transfusion of at least 20 Japanese red blood cell units within 24 h after injury. We used multiple imputation, propensity-score overlap weighting, and hospital-clustered standard errors.\n\nRESULTS: Among 5288 patients, 1985 (37.5%) received tranexamic acid. The weighted primary-outcome risks were 13.0% with tranexamic acid and 18.1% without it (risk ratio 0.72, 95% confidence interval 0.60-0.87). The association was driven by 24-hour mortality (risk ratio 0.62, 95% confidence interval 0.48-0.80); massive transfusion alone (risk ratio 0.94, 95% confidence interval 0.73-1.21) and mean red blood cell use did not differ. Any red blood cell transfusion was more frequent with tranexamic acid (risk ratio 1.20, 95% confidence interval 1.11-1.30). The primary-outcome risk ratio was 0.76 (0.62-0.93) after excluding deaths within 2 h and 0.81 (0.65-1.00) when both components were assessed within 24 h after injury.\n\nCONCLUSION: The mortality association was not accompanied by lower transfusion requirements and weakened when outcome time origins were aligned. Because treatment timing was unavailable, these findings do not establish an independent survival benefit and provide no corroborating transfusion evidence of a pelvic-specific hemostatic benefit.",
+          "doi": "10.1016/j.injury.2026.113871",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42998459/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113871",
           "journal_key": "injury"
         },
         {
