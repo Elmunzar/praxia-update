@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-08",
-  "generated_at": "2026-11-08T13:56:16Z",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T16:55:50Z",
   "counts": {
     "articles": 507,
     "journals_with_articles": 10,
@@ -6282,6 +6282,38 @@
       "count": 120,
       "articles": [
         {
+          "pmid": "42999006",
+          "title": "Hip arthroscopy for femoroacetabular impingement in American football athletes: examining factors associated with outcomes at a mean follow-up time of 6.3 years.",
+          "authors": [
+            "Atkinson A",
+            "Crick M",
+            "Froom R",
+            "Westbrooks B",
+            "King E",
+            "Mussell E",
+            "Crawford A",
+            "Aiken C",
+            "Ithurburn M",
+            "Ryan M",
+            "Emblom B"
+          ],
+          "abstract": "INTRODUCTION: Femoroacetabular impingement (FAIS) is a common cause of hip pain and performance limitation in athletes. Hip arthroscopy is the gold standard of treatment in professional American football athletes, with numerous studies demonstrating favorable outcomes and high return-to-sport (RTS) rates. However, limited outcomes data exists in collegiate athletes and fewer still in high school athletes. The purpose of this study was to evaluate long-term patient-reported outcomes (PROs), RTS rates, and predictors of outcomes following hip arthroscopy for symptomatic FAIS in high school and collegiate football athletes.\n\nMATERIALS AND METHODS: A retrospective cohort study was performed which included high-school and collegiate football athletes who underwent hip arthroscopy for symptomatic FAIS. Outcomes were assessed using the modified Harris Hip Score (mHHS), International Hip Outcome Tool-12 (IHOT-12), and Hip Outcomes Score-Sport Specific Subscale (HOS-Sport). Data regarding return to preinjury sport were also collected. Pre-operative radiographic data, including alpha angle, lateral center edge angle, and Tönnis grade, were collected.\n\nRESULTS: This cohort had a mean post-operative follow up of 6.3 years, with mean PRO scores of 82.2 on the mHHS, 84.6 on the iHOT-12, and 88.3 on the HOS-Sport. PASS thresholds were achieved by 69%, 77% and 80% of athletes for the same outcomes, respectively. 60% of the cohort attempted to return to sport, and 91% of the athletes who attempted to return to preinjury level of sport were successful. Increased age at time of surgery and larger pre-operative alpha angles were associated with worse PRO scores at follow-up.\n\nCONCLUSIONS: Hip arthroscopy for FAIS in high school and collegiate football players yielded favorable long-term outcomes and RTS rates. This is similar to current outcomes data in professional athletes. Increased alpha angle and age at surgery were associated with worse outcomes, emphasizing the importance of early recognition and appropriate surgical treatment. Comparisons of outcomes between blocking and nonblocking positions may warrant further investigation in larger cohorts.",
+          "doi": "10.1007/s00402-026-06551-6",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42999006/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06551-6",
+          "journal_key": "aots"
+        },
+        {
           "pmid": "42995283",
           "title": "The impact of arthroscopic repair of the tibionavicular bundle of the deltoid ligament on ankle fractures.",
           "authors": [
@@ -9559,34 +9591,6 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42545580/",
           "doi_url": "https://doi.org/10.1007/s00402-026-06456-4",
-          "journal_key": "aots"
-        },
-        {
-          "pmid": "42545544",
-          "title": "Complications and outcomes after operative treatment of low-energy pelvic ring and acetabular fractures.",
-          "authors": [
-            "Salonpää KB",
-            "Nurkkala J",
-            "Lantto I",
-            "Kakko S",
-            "Kaakinen T",
-            "Aitavaara-Anttila M",
-            "Liisanantti J"
-          ],
-          "abstract": "BACKGROUND: Fragility fracture of the pelvis (FFP) with a low-energy mechanism of injury is relatively common among the growing geriatric population. The incidence of postoperative complications after surgically treated FFP is not well documented. The aim of this study was to report complications after operatively treated FFP and to determine whether these complications would have a detrimental effect on outcomes.\n\nMETHODS: Retrospective study of 200 consecutive patients who underwent operative treatment at Oulu University Hospital, Oulu, Finland, between 1.1.2010 and 15.4.2021 for FFP with a low-energy injury mechanism. Postoperative complications were recorded, and associations with outcomes were depicted.\n\nRESULTS: Postoperative complications were recorded in 31 (15.5%) patients. Patients with complications had higher intraoperative bleeding (OR 2.8 (1.0-7.9), p = 0.048) and higher ASA classification 3.4 (1.3-8.4), P = 0.009). Patients with complications had longer hospital stays, but no clear association between complications and mortality or discharge location was observed.\n\nCONCLUSIONS: The incidence of postoperative complications was comparable with that reported in previous literature. Patients who experienced complications had longer hospital stays; however, no definitive association between complications and outcomes was identified.",
-          "doi": "10.1007/s00402-026-06418-w",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Aug",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42545544/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06418-w",
           "journal_key": "aots"
         }
       ]
