@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09T16:55:50Z",
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T15:17:12Z",
   "counts": {
-    "articles": 507,
+    "articles": 508,
     "journals_with_articles": 10,
     "journals_searched": 11,
     "new_issues": 0
@@ -9604,7 +9604,7 @@
       "pub_year": "2026",
       "pub_month": "Nov",
       "is_new": false,
-      "count": 47,
+      "count": 48,
       "articles": [
         {
           "pmid": "42994066",
@@ -10106,6 +10106,32 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42970958/",
           "doi_url": "https://doi.org/10.1016/j.injury.2026.113837",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "43002888",
+          "title": "Synovial fluid biomarker changes after acute anterior cruciate ligament injury: comparison with primary osteoarthritis as a biological comparator.",
+          "authors": [
+            "Lan J",
+            "Zhao W",
+            "Gao X",
+            "Lin Y",
+            "Huang Z"
+          ],
+          "abstract": "BACKGROUNDS: Post-traumatic osteoarthritis (PTOA) typically develops 10-20 years after anterior cruciate ligament (ACL) injury, but reliable early biomarkers are lacking. We examined synovial fluid biomarker changes in patients with acute ACL injury (PTOA-risk group) and in patients with primary OA. The primary OA group served as a biological comparator representing established degenerative OA, not as a healthy or matched control.\n\nMETHODS: Our study included patients from January 1, 2021 to September 30, 2023: 51 with primary OA biological comparator and 53 with acute ACL injury (PTOA-risk group). Levels of Interleukin (IL)-1β, sulfated glycosaminoglycans (sGAG), aggrecan neoepitope fragment (ARGS-aggrecan), and cartilage oligomeric matrix protein (COMP) were measured in synovial fluid and compared between the two groups at baseline and one year later. Patients underwent unilateral knee MRI and bilateral weight-bearing radiography at follow-up.\n\nRESULTS: The findings demonstrated that synovial fluid from acute ACL injury (PTOA-risk group) and primary OA biological comparator contained inflammatory mediators, collagen markers, and aging-related indicators such as CRP. Following one year of surgical follow-up, PCT, GAG, CTxI, osteocalcin, β-aspartate, and COMP all showed significant decreases. Biomarker comparisons between groups revealed that the primary OA biological comparator had significantly lower levels of CRP, GAG, ARGS, BMP2, FGF-10, and ADAM-TS5 than the ACL-injured (PTOA-risk) group, while CTX-II showed no discernible difference. The Spearman rank correlation was used to examine synovial fluid biomarker concentrations relative to injury duration. Significant time-dependence was observed for: IL-1b (p = 0.025, Rs=-0.112), GAG (p = 0.011, Rs=-0.265), ARGS aggrecan (p = 0.032, Rs=-0.021), C1,2 C (p = 0.002, Rs=0.665), CTxI (p = 0.025, Rs=0.251), C2C (p = 0.011, Rs=0.055), CPII (p = 0.015, Rs=0.336), Osteocalcin (p = 0.029, Rs=0.114), β-aspartate (p = 0.001, Rs=-0.77), D-Asx (p = 0.0215, Rs=-0.425), MMP-3 (p = 0.0201, Rs=0.356), and WOMAC (p = 0.001, Rs=0.264). Univariate regression analysis demonstrated significant associations of IL-1β and osteocalcin with ACL-injured (PTOA-risk) group membership. Multivariate logistic regression revealed significant associations with increased levels of β-aspartate, WOMAC, GAG, IL-1β, and osteocalcin. LASSO regression analysis was employed as an exploratory feature selection method to identify the biomarker panel that best distinguished between the ACL-injured (PTOA-risk) group and primary OA biological comparators within this cohort. Among the 20 variables included in the analysis, five demonstrated non-zero coefficients in the LASSO model: WOMAC, GAG, β-aspartate, IL-1β, and osteocalcin. These findings suggest that inflammatory markers, matrix turnover products, and functional status are prominent features differentiating the acute post-injury state from chronic degenerative OA in this dataset. However, given the exploratory nature of this analysis and the lack of external validation, these results should be interpreted with caution and require confirmation in independent cohorts.\n\nCONCLUSION: Our findings demonstrate that patients with acute ACL injury (PTOA-risk group) exhibit distinct synovial fluid molecular signatures compared with a primary OA biological comparator. These signatures encompass acute inflammatory responses and early matrix remodeling. However, this study cannot explain why only approximately 18.8% of ACL-injured patients later develop PTOA. Future longitudinal studies including ACL-injured non-progressors and age-, sex-, and activity-matched controls are required.",
+          "doi": "10.1016/j.injury.2026.113827",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43002888/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113827",
           "journal_key": "injury"
         },
         {
