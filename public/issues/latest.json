@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T15:17:12Z",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T14:46:12Z",
   "counts": {
-    "articles": 508,
+    "articles": 514,
     "journals_with_articles": 10,
     "journals_searched": 11,
     "new_issues": 0
@@ -4047,7 +4047,7 @@
       "pub_year": "2026",
       "pub_month": "Nov",
       "is_new": false,
-      "count": 63,
+      "count": 64,
       "articles": [
         {
           "pmid": "41329416",
@@ -4393,6 +4393,37 @@
           "section": "Observational Study",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42752738/",
           "doi_url": "https://doi.org/10.1186/s10195-026-00967-x",
+          "journal_key": "jot_trauma"
+        },
+        {
+          "pmid": "43004091",
+          "title": "Autologous costochondral transplantation in the treatment of Hepple V osteochondral lesions of talus: a retrospective analysis.",
+          "authors": [
+            "Wang J",
+            "Li G",
+            "Zhang J",
+            "Fu S",
+            "Wang C",
+            "Wu C",
+            "Zhang S",
+            "Ma X",
+            "Shi Z"
+          ],
+          "abstract": "OBJECTIVE: To investigate the surgical technique and therapeutic effect of autologous costochondral transplantation (ACT) in patients with Hepple V osteochondral lesions of the talus (OLT) and to compare both methods with osteoperiosteum transplantation (OPT).\n\nMETHODS: Clinical data from 53 patients (53 ankles) with Hepple V OLT admitted to Shanghai Jiao Tong University School of Medicine Affiliated Sixth People's Hospital between February 2020 and February 2022 were retrospectively analyzed, including 27 ankles treated with ACT and 26 with OPT. General information, operative time, and hospitalization duration were recorded. Preoperative and final follow-up assessments used the Foot and Ankle Ability Measure (FAAM) activities of daily living subscale (FAAM-ADL) and sports subscale (FAAM-Sp), the EuroQol-Visual Analogue Scale (EQ VAS), and the Magnetic Resonance Observation of Cartilage Repair Tissue 2.0 (MOCART 2.0) to evaluate efficacy and function, verify whether clinical satisfaction with ACT exceeded that of OPT, and document related complications during follow-up.\n\nRESULTS: No statistically significant differences in baseline characteristics and scores were observed between the two groups preoperatively. At final follow-up, FAAM-ADL, FAAM-Sp, and EQ VAS scores in both groups were significantly higher than preoperative values (P < 0.05). The mean MOCART 2.0 scores in the ACT group at final follow-up showed significant improvement compared with 12 months postoperatively (P < 0.05), whereas no such difference was observed in the OPT group. Postoperative scores at each follow-up point favored the ACT group over the OPT group. Three patients (11.1%) in the ACT group and two patients (7.7%) in the OPT group underwent removal of internal fixation; one patient experienced poor healing of the surgical incision. No complications, such as neurovascular injury, non-union, or delayed union, were reported in either group.\n\nCONCLUSION: Compared with OPT, ACT showed superior functional outcomes, clinical efficacy, higher satisfaction rates, fewer complications, and quicker early mobilization.\n\nLEVEL OF EVIDENCE: Level IV, retrospective cohort study.",
+          "doi": "10.1186/s10195-026-00961-3",
+          "journal_ta": "J Orthop Traumatol",
+          "volume": "27",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Aug",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Comparative Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43004091/",
+          "doi_url": "https://doi.org/10.1186/s10195-026-00961-3",
           "journal_key": "jot_trauma"
         },
         {
@@ -6281,6 +6312,37 @@
       "is_new": false,
       "count": 120,
       "articles": [
+        {
+          "pmid": "43004003",
+          "title": "Operative versus nonoperative management of olecranon fractures in older adults: a systematic review and meta-analysis.",
+          "authors": [
+            "Lima JPC",
+            "Morales Ribeiro V",
+            "Segatti R",
+            "Butturi Varone B",
+            "Dos Santos Cardoso F",
+            "Giordano V"
+          ],
+          "abstract": "INTRODUCTION: Displaced olecranon fractures in the frail geriatric patient represent a therapeutic challenge, involving the decision between operating to achieve anatomical reduction of the articular surface or not operating due to the high risks associated with poor bone quality and failure of mechanical fixation.\n\nMATERIALS AND METHODS: PubMed, Embase, and Cochrane were systematically searched for studies published from inception through February 2026 comparing tension band wiring, plate fixation, or cerclage wiring with nonoperative treatment for displaced olecranon fractures in geriatric patients. Risk ratio (RR) was used to evaluate binary outcomes, and standard mean difference (SMD) for continuous outcomes, with 95% confidence intervals (CIs).\n\nRESULTS: Of 459 articles, eight studies were included. A total of 723 older adults were included. Most patients had Mayo type IIA or IIB fractures. Tension band wiring was the most frequently performed surgical technique, followed by plate fixation and cerclage wiring. Operative treatment was associated with a lower risk of radiographic nonunion (RR 0.19; 95% CI 0.04, 0.8) but increased the risk of overall complications (RR 3.21; 95% CI 1.63, 6.35) and reoperation (RR 4.85; 95% CI 1.72, 13.65) compared to nonoperative treatment. Physical function showed a non-significant trend toward improvement with operative treatment (SMD -0.29; 95% CI -0.72, 0.14). At final follow-up, pain intensity was low and comparable between the two treatment groups across the majority of studies. Approximately half of the reoperation excess comprised elective or symptomatic implant removal, and the overall certainty of the evidence is low.\n\nCONCLUSION: In older adults with displaced olecranon fractures, operative management was associated with a reduced risk of radiographic nonunion and with a higher risk of complications and reoperation compared to nonoperative management.\n\nLEVEL OF EVIDENCE: Level III Systematic Review/MetaAnalysis Treatment Study.",
+          "doi": "10.1007/s00402-026-06553-4",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Systematic Review",
+            "Meta-Analysis",
+            "Comparative Study",
+            "Review"
+          ],
+          "section": "Systematic Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43004003/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06553-4",
+          "journal_key": "aots"
+        },
         {
           "pmid": "42999006",
           "title": "Hip arthroscopy for femoroacetabular impingement in American football athletes: examining factors associated with outcomes at a mean follow-up time of 6.3 years.",
@@ -9564,34 +9626,6 @@
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42562957/",
           "doi_url": "https://doi.org/10.1007/s00402-026-06466-2",
           "journal_key": "aots"
-        },
-        {
-          "pmid": "42545580",
-          "title": "Short- to mid-term clinical outcomes and return to sport and work after arthroscopic debridement of the extensor carpi radialis brevis in patients with chronic lateral epicondylopathy.",
-          "authors": [
-            "Siebenlist S",
-            "Doucas A",
-            "Hatt FL",
-            "Lappen S",
-            "Vieider RP",
-            "Lacheta L",
-            "Kadantsev P"
-          ],
-          "abstract": "BACKGROUND: This study aimed to evaluate the short- to mid-term clinical outcomes following arthroscopic extensor carpi radialis brevis (ECRB) debridement in patients with chronic epicondylopathy humeri radialis (cEHR). We hypothesized that arthroscopic ECRB debridement would result in favorable short- to mid-term patient-reported outcomes, improving pain levels, strength, range of motion (ROM) and patient satisfaction.\n\nMETHODS: A retrospective case series was conducted on patients who underwent arthroscopic ECRB debridement for cEHR with symptoms > 6 months. Patients were assessed at a minimum of 12 months postoperatively using the Mayo Elbow Performance Score (MEPS), Patient-Rated Tennis Elbow Evaluation (PRTEE), Disabilities of the Arm, Shoulder, and Hand (DASH) score, and Visual Analog Scale (VAS) for pain. Pre- and postoperative scores were compared using DASH and VAS. Maximum isometric wrist extension strength and postoperative ROM were measured bilaterally. Return to sport and work, patient satisfaction, and complications were documented.\n\nRESULTS: Of the 35 eligible patients, 30 completed follow-up (86% follow-up rate; mean age 48.4 ± 6.6 years; range: 36-65 years; 47% male). The mean duration of symptoms before surgery was 12 months (IQR 8-20, range 6-62). The mean follow-up duration was 28.13 ± 10.9 months (range 12-45). At final follow-up, median outcome scores were 100 (IQR 100-100; range 65-100) for the MEPS, 8.7 (IQR 0.8-13.9; range 0-39.2) for the DASH, 0 (IQR 0-1; range 0-7) for the VAS and 10.3 (IQR 0.8-26.8; 0-79.5) for the PRTEE. In comparison to preoperative values, VAS scores significantly improved (6 [IQR 2.75-7, range 9] vs. 0 [IQR 0-1, range 0-7], p < 0.01), as did DASH scores (46.6 ± 20 vs. 10.3 ± 10.5, p < 0.01). Post-operatively, all patients recovered full range of motion, with an arc of at least 140°. The median wrist extension strength in the operated arm was 98.6% (IQR: 87.4-107%, range: 69.5-121%) when compared to the healthy side, with no significant differences (p = 0.681). Overall, 80% of patients returned to sports at the same or a slightly reduced level, including 12% who achieved a higher activity level than before. The vast majority of patients (97%) successfully returned to their previous professional activities, while only a small proportion (3%) retired from a part-time manual labor position post-surgery, primarily due to age. Furthermore, 83% of patients indicated they would undergo the procedure again. One patient developed posterolateral rotational instability six months after index surgery and consequently required reconstruction of the lateral ulnar collateral ligament (LUCL).\n\nCONCLUSION: Arthroscopic ECRB debridement for cEHR was associated with improved pain and function and high rates of return to sport and work at short- to mid-term follow-up.\n\nLEVEL OF EVIDENCE: IV Retrospective case series.",
-          "doi": "10.1007/s00402-026-06456-4",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Aug",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42545580/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06456-4",
-          "journal_key": "aots"
         }
       ]
     },
@@ -9604,8 +9638,177 @@
       "pub_year": "2026",
       "pub_month": "Nov",
       "is_new": false,
-      "count": 48,
+      "count": 53,
       "articles": [
+        {
+          "pmid": "43008641",
+          "title": "A bedside score using arrival data to identify major hemorrhage after blunt pelvic ring fracture: Development and validation.",
+          "authors": [
+            "Salman SG",
+            "Phadke RA",
+            "Carlin T",
+            "Rosenfelt T",
+            "Ramirez J",
+            "Mendez-Reyes JE",
+            "Hoffman MK",
+            "Leonard J",
+            "Davis RW",
+            "Ward JL",
+            "Vera RM",
+            "Silberfein EJ",
+            "Rana A",
+            "Atassi OH",
+            "Perkins CH",
+            "Dawson JR",
+            "Wilson C",
+            "Fitzgerald CA",
+            "Seger CP",
+            "Zielinski MD",
+            "Mattox KL",
+            "Dumas RP"
+          ],
+          "abstract": "BACKGROUND: Early recognition of major hemorrhage after blunt pelvic ring injury could guide mobilization of transfusion and hemorrhage-control resources. We developed an arrival-based bedside score and compared its performance with shock index.\n\nMETHODS: We studied 239,736 adults with documented blunt pelvic ring fractures in the 2019-2024 National Trauma Data Bank. Major hemorrhage was defined as a hemorrhage-control procedure, hemorrhagic death, or transfusion of ≥ 1000 mL or ≥ 4 units of red blood cells within 4 h. Penalized logistic regression selected arrival variables for an integer score. We assessed performance in a held-out test set (n = 79,912) and at approximately matched alert volume. A model refitted on 2019-2022 admissions was evaluated in 2023-2024. Subgroup analyses were post hoc.\n\nRESULTS: Major hemorrhage occurred in 26,479 patients (11.0%); 31.0% were aged ≥ 75 years, and 45.9% had fallen. In the test set, the score achieved an AUROC of 0.882 (95% CI, 0.879-0.886), exceeding shock index by 0.060 (95% CI, 0.055-0.064; P < 0.001). At approximately 15.6% of patients flagged, the score identified 678 additional major hemorrhage cases with 684 fewer false-positive alerts. The temporally validated model achieved an AUROC of 0.885 (95% CI, 0.881-0.888). Discrimination exceeded shock index for pelvic ring disruption (0.830 vs 0.778) and high-energy mechanisms (0.811 vs 0.764), but was lower after falls (0.779 vs 0.800).\n\nCONCLUSIONS: In patients with documented blunt pelvic ring fractures, an arrival-based score identified major hemorrhage more accurately than shock index at a similar alert burden. Reduced performance after falls and uncertain applicability to suspected fractures warrant caution. External validation and prospective impact assessment are needed before clinical use.",
+          "doi": "10.1016/j.injury.2026.113897",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43008641/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113897",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "43008639",
+          "title": "Does the number of debridement procedures impact risk of infection in open fractures?",
+          "authors": [
+            "Bateman LM",
+            "Fisher LA",
+            "Diaz-Coto S",
+            "O'Hara NN",
+            "Bzovsky S",
+            "Zura RD",
+            "Miller AN",
+            "Slobogean GP",
+            "Sprauge S",
+            "Gitajn IL",
+            "PREP-IT investigators"
+          ],
+          "abstract": "OBJECTIVE: This study aimed to evaluate the relationship between the number of debridements and risk of infection, while stratifying by degree of wound contamination. It was hypothesized that patients with severe contamination, a higher number of debridements would be associated with lower risk of infection.\n\nMETHODS: This is a retrospective secondary analysis of prospectively collected data in the PREP-IT trial (Program of Randomized trials to Evaluate Preoperative antiseptic skin solutions in orthopaedic Trauma). The primary outcome measure was adjudicated surgical site infection. Independent variables were number of debridement procedures and time from injury to definitive wound closure. Analysis was stratified by degree of contamination and multivariable analyses were performed to control for confounders.\n\nRESULTS: 3502 total open fractures corresponding to 3222 patients with a median (interquartile range, IQR) age of 42 (29-58) years (2199 [62.8%] men; median (IQR) body mass index 27.7 [24.3-32.6]) were included in this analysis. 2199 patients were included in the non/minimal contamination group, 970 in the surface contamination group, and 333 in the embedded contamination group. After controlling for patient-level characteristics there was a 27% increase in the risk of infection for each debridement performed in the overall patient cohort (OR 1.27 [1.12-1.43] p < 0.001), and a 45% increase in the embedded contamination group (OR, 1.45 [1.12-1.88] p = 0.004). There was no statistically significant difference between minimal contamination groups and the surface contamination group.\n\nCONCLUSION: The results of this study indicate that increased number of debridement procedures was not associated with lower infectious rates. Patients with the highest degree of contamination demonstrated significantly increased risk of developing an infection with each additional debridement. These findings support the importance of limiting unnecessary additional debridement procedures to reduce infection risk and optimize outcomes.",
+          "doi": "10.1016/j.injury.2026.113890",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43008639/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113890",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "43008638",
+          "title": "Cone-Beam CT-Guided SpineJack® vertebral augmentation: A reproducible technique for accurate pedicular access and implant deployment.",
+          "authors": [
+            "Dien E",
+            "Grange S",
+            "Mondon P",
+            "Peraldi L",
+            "Lavigne J",
+            "Chalamet B",
+            "Ben-Rejeb MI",
+            "Bouchet M",
+            "Gleyzolle A",
+            "Ahoury N Guessan J",
+            "Barrey C",
+            "Amoretti N",
+            "Pialat JB",
+            "Stacoffe N"
+          ],
+          "abstract": "BACKGROUND: SpineJack® vertebral augmentation requires precise bilateral transpedicular access and accurate implant deployment. This study evaluated the feasibility, safety, and technical performance of cone-beam computed tomography (CBCT)-guided SpineJack augmentation.\n\nMETHODS: This retrospective single-institution, two-site study included consecutive CBCT-guided procedures performed between May 2021 and April 2026. Technical success required planned bilateral implantation, expansion, and cement augmentation without pedicle breach or implant malposition on final CBCT. Secondary outcomes included immediate vertebral height restoration, complications, procedure duration, radiation exposure, and treatment setting.\n\nRESULTS: The analysis included 178 procedures; median age was 45 years (interquartile range [IQR], 27-59), and 158 procedures (88.8%) involved traumatic fractures. Technical success was 100% (178/178), including 64 procedures (36.0%) with pedicle-implant clearance < 0.8 mm. Median absolute vertebral body height gain was 4.1 mm (IQR, 2.7-6.1), and median restoration of baseline height loss reached 77% (IQR, 47-98). All 24 cement leaks (13.5%) were asymptomatic. No neurological, vascular, infectious, or implant-related complications occurred. Median procedure duration was 60 min (IQR, 50-90), and median dose-area product was 33.2 Gy·cm² (IQR, 19.4-53.1). One hundred procedures (56.2%) were performed on an outpatient basis.\n\nCONCLUSIONS: CBCT-guided SpineJack augmentation achieved accurate bilateral implant deployment and substantial immediate vertebral height restoration without major procedure-related complications. These findings support CBCT as a reliable guidance strategy for vertebral augmentation, with demonstrated feasibility in outpatient practice.",
+          "doi": "10.1016/j.injury.2026.113891",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43008638/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113891",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "43008637",
+          "title": "The MIS-Diamond fixation: A minimally invasive diamond-shaped construct for spinopelvic dissociation in polytrauma patients.",
+          "authors": [
+            "Giorgi PD",
+            "Ramponi A",
+            "Legrenzi S",
+            "Bove F",
+            "Mezzadri U",
+            "Addevico F",
+            "Prina A",
+            "Schirò GR"
+          ],
+          "abstract": "INTRODUCTION: Sacral fracture with spinopelvic dissociation (SPD) is a rare, high-energy injury associated with substantial mortality and morbidity. Surgical stabilization is technically challenging and has historically been associated with relatively high rates of construct failure. The present study describes and evaluates a novel minimally invasive spinopelvic diamond-shaped construct (The MIS-Diamond fixation), designed to improve rigid triangular stabilization while minimizing soft-tissue morbidity and facilitate the fracture reduction.\n\nMETHODS: A retrospective observational study was conducted including patients who underwent MIS-Diamond fixation for AO Type C3 sacral fractures at a single Level-I Trauma Center between January 2014 and December 2024, with a minimum follow-up of 12 months. Neurological status, operative parameters, perioperative complications, and radiological outcomes were systematically assessed. Fractures were classified according to the AO Spine Sacral Injury Classification System.\n\nRESULTS: Thirty-two patients (mean age 39 years) were included. Surgery was performed at a median of 5 days post-injury, with a mean operative time of 115.8 min and mean estimated blood loss of 82.7 mL. No intraoperative complications occurred. One patient developed a postoperative S1 motor impairment attributed to indirect radicular injury during reduction. Implant-related complications were recorded in 4 patients (12.5%), including one late-onset surgical site infection and three cases of asymptomatic iliac screw loosening. No soft tissue or wound healing complications were observed. Implant removal was successfully completed in 28 patients (87.5%) at 12 months postoperatively.\n\nDISCUSSION: MIS-Diamond fixation demonstrated a favourable safety profile while enabling early postoperative mobilization. The incorporation of a 5.5 mm transverse iliac rod converts the classical triangular construct into a rigid box-like configuration, enhancing rotational stability and preventing coronal diastasis during vertical distraction. Limiting instrumentation to L4-L5 reduces the number of immobilized motion segments compared to previously described longer constructs, potentially mitigating long-term degenerative sequelae.\n\nCONCLUSIONS: The MIS-Diamond fixation represents a safe and effective minimally invasive surgical option for SPD, providing reliable multiplanar stabilization with a low complication profile. Routine implant removal at 12 months is feasible and recommended to preserve motion segment function. Prospective multicentre studies are warranted to further validate these findings.",
+          "doi": "10.1016/j.injury.2026.113895",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43008637/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113895",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "43008640",
+          "title": "Traumatic hip dislocation: Clinical and epidemiological features, management and prognostic factors in a series of 44 cases from a tertiary centre.",
+          "authors": [
+            "Mencía González JP",
+            "Sánchez Cózar L",
+            "Martínez Alfaro A",
+            "Maes ASM",
+            "Eckardt Haag ME",
+            "Huguet Carmona JL",
+            "Marco Sabater A",
+            "Alcázar Pérez Á",
+            "González Rojo P"
+          ],
+          "abstract": "INTRODUCTION: Traumatic hip dislocation is an uncommon but potentially severe injury requiring emergency management. We aimed to describe the clinical and epidemiological features and associated injuries of patients with traumatic hip dislocation treated at a tertiary centre, and to analyse the factors related to complications and to the need for salvage surgery.\n\nPATIENTS AND METHODS: Retrospective observational study of 44 patients aged 15 years or older treated between 2010 and 2024. Demographic variables, injury mechanism, direction of the dislocation, associated fractures (Judet-Letournel and Pipkin classifications), management and complications were recorded. Bivariate analysis used Fisher's exact test for categorical variables and the Mann-Whitney U test for continuous variables; a p value < 0.05 was considered significant.\n\nRESULTS: Mean age was 37.4 years (SD 19.3) and 70.5% of patients were men. The commonest mechanism was a road traffic accident (52.3%) and the posterior direction was the most frequent (72.7%). A complex dislocation (with an associated fracture) was present in 72.7% of patients, and 36.4% occurred in the context of polytrauma. Closed reduction was performed in 88.6% of cases, with a median time to reduction of 2 h. The most frequent complication was sciatic nerve injury (20.5%). Femoral head osteonecrosis occurred in 2 patients (4.5%). Male sex was associated with more late complications (p = 0.043), and a prolonged hospital stay was associated with both early (p = 0.002) and late (p = 0.017) complications. Complex dislocations showed a consistent trend towards greater morbidity.\n\nCONCLUSIONS: Traumatic hip dislocation predominantly affects young men after high-energy trauma. Prompt reduction was associated with a low rate of osteonecrosis. The presence of associated fractures and a prolonged hospital stay identify patients with a worse course.",
+          "doi": "10.1016/j.injury.2026.113885",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43008640/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113885",
+          "journal_key": "injury"
+        },
         {
           "pmid": "42994066",
           "title": "Surgical anatomy of the Over-the-Rectus Extrapelvic (OREX) approach defines safe zones for W-plate fixation of the anterior pelvic ring.",
@@ -10974,6 +11177,35 @@
       "is_new": false,
       "count": 120,
       "articles": [
+        {
+          "pmid": "43007338",
+          "title": "Hospital cost structures and resource utilisation across representative treatment pathways relevant to complex orthopaedic infection care: a nationwide DRG-based analysis in Germany.",
+          "authors": [
+            "Anees H",
+            "Georgievski G",
+            "Pawelke J",
+            "Muelke M",
+            "Knapp G",
+            "Khassawna TE",
+            "Rupp M",
+            "Heiss C"
+          ],
+          "abstract": "PURPOSE: Implant-associated orthopaedic infections require prolonged inpatient treatment, repeated surgery and multidisciplinary care, yet nationwide evidence on how hospital resources are distributed across clinically distinct treatment pathways is limited. This study characterised hospital-side case costs, resource utilisation and aggregate expenditure across representative German diagnosis-related groups (DRGs) relevant to complex orthopaedic infection care.\n\nMETHODS: Publicly available 2024 data from the German Institute for the Hospital Remuneration System (InEK) were analysed. Twelve representative DRGs were selected a priori from official definitions and diagnostic/procedural profiles and grouped into six treatment pathways. The InEK cost matrix reflects standardised hospital-side resource costs from participating calculation hospitals and does not represent actual DRG reimbursement. National case frequencies, length of stay and mean case costs were analysed using frequency-weighted pathway estimates, while pathway-level cost composition was calculated from aggregate component expenditure.\n\nRESULTS: The included DRGs represented 36,212 hospitalisations and €305.2 million in aggregate annual hospital-side expenditure represented by the selected DRGs. Mean hospital-side costs ranged from €5,859 to €22,495 per case. Ward care accounted for approximately 34-69% of pathway expenditure; operating theatre services contributed up to 39% in revision arthroplasty. Geriatric rehabilitation generated the largest aggregate expenditure (€119.0 million; 39.0%) because of high case volume, whereas complex vacuum-assisted wound care had the highest per-case cost but only 2.9% of aggregate expenditure. At the aggregated DRG level, mean length of stay was associated with mean case cost (Pearson r = 0.87, 95% CI 0.60-0.96; P < 0.001); leave-one-out correlations ranged from r = 0.79 to r = 0.96.\n\nCONCLUSION: Resource requirements differ markedly across representative DRG pathways relevant to complex orthopaedic infection care. Because the selected DRGs are not infection-exclusive, the reported expenditure should not be interpreted as the national economic burden of implant-associated orthopaedic infection. The findings may inform hospital resource planning and future cost-revenue analyses.",
+          "doi": "10.1007/s00068-026-03391-2",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43007338/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03391-2",
+          "journal_key": "ejtes"
+        },
         {
           "pmid": "42975679",
           "title": "Fixation of patellar fractures using bioabsorbable hydroxyapatite/poly-L-lactide cannulated screws and subperiosteal nonabsorbable sutures.",
@@ -14394,32 +14626,6 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42429795/",
           "doi_url": "https://doi.org/10.1007/s00068-026-03267-5",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42418011",
-          "title": "Interface stability of intramedullary nail locking configurations under combined axial and torsional loading.",
-          "authors": [
-            "Marianne H",
-            "Martin W",
-            "Claus G",
-            "Anja B",
-            "Peter A"
-          ],
-          "abstract": "The biomechanical performance of intramedullary nails in metaphyseal regions strongly depends on distal locking configuration. This study aimed to evaluate screw-bone interface stability under combined axial and torsional cyclic loading for different distal locking configurations of intramedullary nails, focusing on the effects of screw number, spatial distribution, interscrew distance, and multiplanar versus coplanar fixation using a standardized synthetic bone model. Six distal locking configurations (n = 5 per group) were tested under stepwise cyclic axial compression, superimposed with a constant torsional moment (± 2 Nm, 2 Hz). Primary endpoints were cycles to failure, cycles to 1 mm axial displacement, and cycles to 0.5° rotation. All constructs failed by progressive screw cut-through within the synthetic bone. The three-screw multiplanar configuration exhibited the highest endurance (≈ 36,000 cycles to failure) and lowest micromotion (≈ 34,000 cycles to 1 mm displacement), significantly outperforming the two-screw configurations overall (p = 0.002). Increasing interscrew distance from 10 mm to 34 mm improved migration resistance by approximately 25%, whereas the short 10 mm spacing led to premature failure. Blocked and free-hand configurations showed comparable behavior to the standard setup, indicating no added benefit from toggle elimination alone. Locking configuration decisively influences the performance of the implant-bone interface in intramedullary nail constructs. Multiplanar distal locking with adequate screw spacing enhances interface stability and may provide biomechanical advantages for metaphyseal fixation to reduce screw migration and early loss of fixation.",
-          "doi": "10.1007/s00068-026-03235-z",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42418011/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03235-z",
           "journal_key": "ejtes"
         }
       ]
