@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T14:46:12Z",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T15:39:07Z",
   "counts": {
-    "articles": 514,
+    "articles": 523,
     "journals_with_articles": 10,
     "journals_searched": 11,
     "new_issues": 0
@@ -4047,7 +4047,7 @@
       "pub_year": "2026",
       "pub_month": "Nov",
       "is_new": false,
-      "count": 64,
+      "count": 65,
       "articles": [
         {
           "pmid": "41329416",
@@ -4393,6 +4393,33 @@
           "section": "Observational Study",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42752738/",
           "doi_url": "https://doi.org/10.1186/s10195-026-00967-x",
+          "journal_key": "jot_trauma"
+        },
+        {
+          "pmid": "43009671",
+          "title": "One-year mortality of the anterior approach compared with other approaches in elderly patients with hip fracture treated with hemiarthroplasty: a national registry study.",
+          "authors": [
+            "de Koningh TJM",
+            "Bosch TP",
+            "Poolman RW",
+            "Gademan MGJ",
+            "de Witte PB"
+          ],
+          "abstract": "INTRODUCTION: Hip fractures in elderly patients present significant challenges to healthcare systems. The direct anterior approach (DAA) has shown advantages in total hip arthroplasty (THA) with regards to blood loss, postoperative mobilization, and hospital stay. How these potential benefits translate to outcomes in hemiarthroplasty (HHA), specifically for elderly and often frail patients with hip fractures, remains unclear. This study investigates whether the DAA associates with lower 1-year mortality rates in this fragile population compared with conventional surgical approaches for HHA.\n\nMETHODS: We emulated a target trial using data from the Dutch Arthroplasty Register (LROI). Patients aged ≥ 75 years undergoing HHA (2007-2021) for hip fractures were included. Propensity score matching was used to create comparable treatment arms based on surgical approach: DAA, posterolateral (PLA), anterolateral (ALA), and straight lateral (SLA). Primary outcome was 1-year mortality. Secondary outcomes included the prevalence of the analyzed surgical approaches over time. Statistical analyses were done with Cox proportional hazard models and illustrated by Kaplan-Meier survival curves.\n\nRESULTS: Overall, 40,981 eligible patients were included. In this population, the proportion of DAA for HHA increased from 0% in 2007 to 13% in 2020. After propensity score matching, 21,393 patients were successfully included for further analysis. The 1-year mortality rates were comparable across approaches: 26% (DAA), 26% (PLA), 26% (SLA), and 27% (ALA). Cox proportional hazard models showed no significant differences in mortality between approaches.\n\nCONCLUSIONS: This study found no significant differences in 1-year mortality between the DAA and conventional surgical approaches for HHA in elderly patients with hip fractures. Hence, the acknowledged DAA advantages in THA did not translate into reduced mortality for HHA in elderly hip fracture patients. Further research is required to explore other clinical outcomes which might substantiate the DAA's potential benefit in this fragile population.\n\nLEVEL OF EVIDENCE: Level III, retrospective cohort study, target trial emulation.",
+          "doi": "10.1186/s10195-026-00960-4",
+          "journal_ta": "J Orthop Traumatol",
+          "volume": "27",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Aug",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Comparative Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43009671/",
+          "doi_url": "https://doi.org/10.1186/s10195-026-00960-4",
           "journal_key": "jot_trauma"
         },
         {
@@ -6312,6 +6339,29 @@
       "is_new": false,
       "count": 120,
       "articles": [
+        {
+          "pmid": "43015513",
+          "title": "Letter to Editor-Acetabular superior wall fractures: a distinct acetabular fracture entity.",
+          "authors": [
+            "Salášek M",
+            "Džupa V"
+          ],
+          "abstract": "A short comment to the original paper Acetabular superior wall fractures: a distinct acetabular fracture entity (doi: https://doi.org/10.1007/s00402-026-06407-z ) is included in our Letter to Editor. This comment focused on potential pediatric equivalent of acetabular superior wall fracture. Diagnostics and treatment management of these pediatric fractures were discussed.",
+          "doi": "10.1007/s00402-026-06483-1",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43015513/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06483-1",
+          "journal_key": "aots"
+        },
         {
           "pmid": "43004003",
           "title": "Operative versus nonoperative management of olecranon fractures in older adults: a systematic review and meta-analysis.",
@@ -9597,35 +9647,6 @@
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42563010/",
           "doi_url": "https://doi.org/10.1007/s00402-026-06441-x",
           "journal_key": "aots"
-        },
-        {
-          "pmid": "42562957",
-          "title": "Patient mortality exceeds implant revision risk with equivalent survival following unicompartmental versus total knee arthroplasty in octogenarians.",
-          "authors": [
-            "Innocenti M",
-            "Leggieri F",
-            "Massenzi M",
-            "Stimolo D",
-            "Akkaya M",
-            "Matassi F",
-            "Civinini R"
-          ],
-          "abstract": "BACKGROUND: While traditional surgical decision-making emphasizes long-term implant survivorship for octogenarians knee reconstruction, this paradigm may be inappropriate when patient mortality risk substantially exceeds revision risk. This study compared mid-term mortality between unicompartmental knee arthroplasty (UKA) and total knee arthroplasty (TKA) in octogenarians, hypothesizing that implant type would not significantly influence patient survival.\n\nMETHODS: A retrospective cohort study was conducted on 238 consecutive octogenarian patients (age ≥ 80 years) who underwent primary knee arthroplasty at a single tertiary orthopaedic center between January 2018 and December 2020. Patients with revision arthroplasty, fracture, tumor, inflammatory arthropathy, or incomplete data were excluded. The primary outcome was all-cause mortality at minimum 5-year follow-up. Secondary outcomes included age-stratified mortality (80-84, 85-89, ≥ 90 years) and identification of independent mortality predictors. Statistical analyses included independent t-tests, chi-square/Fisher's exact tests, standardized mean differences, and multivariable logistic regression adjusting for age, follow-up duration, and registry year.\n\nRESULTS: Of 238 patients, 185 (77.7%) underwent TKA and 53 (22.3%) underwent UKA. Overall mortality was 35.3% (84/238): 33.5% in TKA versus 41.5% in UKA (OR = 1.41, 95% CI: 0.75-2.63, p = 0.329). Age-stratified mortality showed no significant differences: 80-84 years (31.2% TKA vs. 37.2% UKA, p = 0.467), 85-89 years (42.3% vs. 50.0%, p = 1.000). Multivariable analysis identified age as the only significant mortality predictor (adjusted OR = 1.16 per year, 95% CI: 1.03-1.32, p = 0.013), while implant type was not associated with mortality (adjusted OR = 1.40, 95% CI: 0.72-2.73, p = 0.319). Patient mortality exceeded registry-reported revision rates 3-5 fold.\n\nCONCLUSIONS: In octogenarians, patient mortality substantially exceeds implant revision risk, with no significant difference between UKA and TKA. Surgeons should prioritize patient-specific clinical indications over theoretical implant durability concerns when selecting procedures in this population.\n\nLEVEL OF EVIDENCE: III.",
-          "doi": "10.1007/s00402-026-06466-2",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Aug",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Comparative Study"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42562957/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06466-2",
-          "journal_key": "aots"
         }
       ]
     },
@@ -9638,8 +9659,111 @@
       "pub_year": "2026",
       "pub_month": "Nov",
       "is_new": false,
-      "count": 53,
+      "count": 61,
       "articles": [
+        {
+          "pmid": "43014226",
+          "title": "Corrigendum to \"Optimization of a fracture-related infection (FRI) rat model to mimic bacterial contaminated open fractures in orthopaedic patients-a model development study\" [57(2026) 113171].",
+          "authors": [
+            "Muire PJ",
+            "Baldridge M",
+            "Brown A",
+            "Callaci JJ",
+            "Levack AE"
+          ],
+          "abstract": "",
+          "doi": "10.1016/j.injury.2026.113899",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Published Erratum"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43014226/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113899",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "43014230",
+          "title": "Preoperative CT-derived psoas attenuation and correction loss after traumatic thoracolumbar fracture fixation: A construct-dependent association.",
+          "authors": [
+            "Özdemir M",
+            "Latifoğlu F",
+            "Uğur OT",
+            "Peksoy F",
+            "Kamaşak K"
+          ],
+          "abstract": "BACKGROUND: Postoperative correction loss remains a concern after posterior fixation of traumatic thoracolumbar fractures. Although bone quality and construct characteristics influence mechanical stability, the role of preoperative muscle quality remains poorly defined. We examined whether CT-derived psoas attenuation was associated with correction loss and whether fracture-level screw placement modified this association.\n\nMETHODS: This retrospective single-center cohort included 78 adults who underwent posterior pedicle screw fixation for traumatic AO Spine A3 thoracolumbar fractures. Preoperative psoas and paravertebral attenuation and cross-sectional area were measured at L3. Correction loss was defined as the difference between final-follow-up and immediate postoperative Cobb angles measured on supine sagittal CT reconstructions. Multivariable linear regression tested the interaction between centered psoas attenuation and fracture-level screw placement, adjusting for age, sex, vertebral attenuation, instrumented levels, and follow-up duration. An extended model added vertebral height loss and canal compromise. HC3 robust variance estimation and sensitivity analyses were performed.\n\nRESULTS: Mean correction loss was 4.1 ± 5.4°, and 23 patients (29.5%) experienced loss greater than 5°. The psoas attenuation-by-fracture-level screw interaction was significant (B=0.311°/HU; 95% CI, 0.091-0.530; p = .006; HC3 p = .037). Without fracture-level screws, each 10-HU increase in psoas attenuation corresponded to approximately 2.6° less correction loss (B=-0.255°/HU; 95% CI, -0.440 to -0.071; p = .007), although HC3 inference crossed the null (p = .068). No clear association was observed with fracture-level screws. The interaction persisted after adjustment for vertebral height loss and canal compromise (B=0.342°/HU; 95% CI, 0.127-0.556; p = .002; HC3 p = .016), when short- versus long-segment fixation replaced instrumented-level count, and in patients with at least 12 months of follow-up. Paravertebral attenuation showed a similar pattern, whereas muscle cross-sectional area did not.\n\nCONCLUSIONS: Preoperative psoas attenuation showed a construct-dependent association with correction loss after fixation of traumatic AO Spine A3 fractures. Lower attenuation may identify mechanical vulnerability when the fractured vertebra is not incorporated into the construct. These findings are hypothesis-generating and require prospective validation before CT-based muscle assessment can guide construct selection.",
+          "doi": "10.1016/j.injury.2026.113893",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43014230/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113893",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "43014232",
+          "title": "Predictors and clinical outcomes of extubation failure in patients with cervical spinal cord injury.",
+          "authors": [
+            "Yeremian S",
+            "Wilensky AH",
+            "Kuhls DA",
+            "McNickle AG"
+          ],
+          "abstract": "INTRODUCTION: Respiratory compromise is common in cervical spinal cord injury (SCI) and poses a challenge in deciding whether to extubate or perform a tracheostomy. This study evaluated the characteristics of failed extubations and hypothesized that those with unsuccessful extubation attempts would have a higher trauma burden and worse weaning parameters.\n\nMETHODS: This was a retrospective review of intubated cervical SCI at a Level 1 trauma center from 2018 to 2024. Demographics, injury, surgical and airway management data were collected. Location of intubation and extubation, weaning parameters, and time to airway event or failure were tabulated. Statistical analysis was completed using Stata with p < 0.05 as significant.\n\nRESULTS: Seventy patients with SCI were analyzed with a mean age of 54 years (range 18-89) and 62 (89%) males. Twenty successful extubations (SE) were compared to 36 failed extubations (FE), excluding the direct to tracheostomy (10) or terminally extubated (4) patients. Frequency of TBI (5% FE vs 14% SE, p = 0.3), blunt cerebrovascular injury (25% vs. 32%, p = 0.63) and ISS (30 vs 23, p = 0.13) were not statistically different. Documented weaning parameters - rapid shallow breathing index and negative inspiratory force were similar, although more FE patients were extubated in the OR/PACU. FE patients had significantly fewer hospital and ICU-free days; however, mortality differences did not reach statistical significance.\n\nCONCLUSIONS: Failed extubation in SCI is associated with longer length of stay. Trauma burden and weaning parameters were not correlated with FE; however, extubation outside of the ICU may increase the risk of failure.",
+          "doi": "10.1016/j.injury.2026.113894",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43014232/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113894",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "43014229",
+          "title": "Comparative mortality of pelvic ring fractures vs. hip fractures in adults ≥55 years: A propensity-matched cohort study.",
+          "authors": [
+            "Sabat L",
+            "Johnson M",
+            "Pasha M",
+            "Perdue P",
+            "Zuelzer D"
+          ],
+          "abstract": "BACKGROUND: Hip and pelvic fragility fractures are associated with substantial mortality in older adults. While standardized care pathways are established for hip fractures, management of pelvic fragility fractures remains less defined. This study compared mortality between matched hip and pelvic ring fracture patients managed operatively or nonoperatively.\n\nHYPOTHESIS: Pelvic and hip fractures would demonstrate comparable mortality within operative and nonoperative treatment groups.\n\nPATIENTS AND METHODS: This retrospective cohort study used the TriNetX network to identify adults aged ≥ 55 years with hip or pelvic ring fractures. Patients were stratified by operative or nonoperative management, and cohorts were propensity score matched 1:1 based on demographic and clinical characteristics. The primary outcome was 1-year all-cause mortality; secondary outcomes were mortality at 30 days, 90 days, and 2 years. Cox proportional hazards models evaluated 1-year mortality.\n\nRESULTS: After matching, 255,202 patients per cohort were included in the nonoperative subgroup and 11,448 per cohort in the operative subgroup. Among nonoperative patients, 1-year mortality was higher after hip than pelvic fracture (11.13% vs 10.68%; HR 1.123, 95% CI 1.105-1.141). Among operative patients, 1-year mortality was also higher after hip fracture (8.84% vs 5.94%; HR 1.424, 95% CI 1.314-1.545). However, 30-day mortality was higher after operative pelvic fracture (3.11% vs 2.49%; p = 0.004). Male sex, older age, diabetes, and chronic kidney disease were associated with increased mortality.\n\nDISCUSSION: Hip fractures were associated with greater 1-year mortality across management strategies; however, operative pelvic fractures demonstrated greater early mortality. These findings highlight pelvic fragility fractures as high-risk injuries warranting further evaluation of standardized geriatric care pathways.\n\nLEVEL OF EVIDENCE: III.",
+          "doi": "10.1016/j.injury.2026.113898",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43014229/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113898",
+          "journal_key": "injury"
+        },
         {
           "pmid": "43008641",
           "title": "A bedside score using arrival data to identify major hemorrhage after blunt pelvic ring fracture: Development and validation.",
@@ -9777,6 +9901,35 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43008637/",
           "doi_url": "https://doi.org/10.1016/j.injury.2026.113895",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "43014231",
+          "title": "Fracture-related infection after operative fixation of acetabular fractures: Incidence and factors independently associated with infection.",
+          "authors": [
+            "Ramesh P",
+            "Imran A",
+            "Devendra A",
+            "M S S",
+            "Mogan K",
+            "Sp S",
+            "Dheenadhayalan J",
+            "Rajasekaran S"
+          ],
+          "abstract": "BACKGROUND: The purpose of this study was to determine the incidence of fracture-related infection following acetabular fracture fixation and to identify factors independently associated with its occurrence.\n\nMETHODS: A retrospective single-center cohort study was conducted at a Level I trauma center. Patients aged ≥ 18 years who underwent operative fixation of an acetabular fracture between January 2021 and July 2025 were included. Fracture-related infection was defined according to the AO/EBJIS consensus definition. Patients were followed for a minimum of 12 months. Multivariable analysis was performed using Firth penalized logistic regression.\n\nRESULTS: Of 359 patients, 27 (7.5%) developed fracture-related infection. All 27 met at least 1 confirmatory criterion. The median time to diagnosis was 9 days (IQR, 7-14), with 20 infections (74.1%) diagnosed within 14 days of fixation. Sixteen infections (59.3%) were culture-positive, with gram-negative organisms more common than Staphylococcus aureus. Eleven infections (40.7%) were culture-negative, including 6 patients who had received empirical linezolid before tissue sampling. All infected patients underwent infection-related reoperation; 23 (85.2%) were managed with debridement, antibiotics, and implant retention, and 4 (14.8%) underwent implant removal. On Firth penalized multivariable analysis, higher body mass index (adjusted OR, 1.33; 95% CI, 1.15-1.55), longer operative duration (1.63; 1.11-2.36), diabetes mellitus (2.55; 1.09-6.05), and a longer admission-to-surgery interval (1.08; 1.00-1.16) were independently associated with infection. Polytrauma was not independently associated with infection (2.10; 0.89-5.09). At final follow-up, fracture union was achieved in 20 patients (74.1%).\n\nCONCLUSIONS: Fracture-related infection after acetabular fracture fixation appears to reflect a combination of patient-related and operative factors. Recognizing these factors may help identify patients at higher risk and allow closer postoperative surveillance.\n\nLEVEL OF EVIDENCE: Prognostic Level III.",
+          "doi": "10.1016/j.injury.2026.113882",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43014231/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113882",
           "journal_key": "injury"
         },
         {
@@ -10094,6 +10247,33 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42981909/",
           "doi_url": "https://doi.org/10.1016/j.injury.2026.113848",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "43014228",
+          "title": "Facial burns as functional trauma: Integrating expression, identity and long-term recovery: A narrative review.",
+          "authors": [
+            "Kornhaber R",
+            "Beylin D",
+            "Cleary M",
+            "Goverman J",
+            "Haik J"
+          ],
+          "abstract": "Advances in acute burn care have improved survival, shifting focus toward long-term functional recovery. Facial burns present a distinct clinical challenge due to the concentration of ocular, oral, respiratory, and expressive functions within a highly visible anatomical region. This narrative review synthesises functional and psychosocial literature to examine facial burns as trauma that disrupts dynamic facial movement, communication, and participation, and to evaluate limitations in current outcome frameworks. The face supports ocular protection, articulation, alimentation, airway patency, and non-verbal signalling. Contracture patterns, including microstomia, ectropion, nasal distortion, and midfacial contracture, may impair both mechanical function and expressive range. Recovery is typically longitudinal and iterative, addressing evolving distortion rather than restoring pre-injury dynamics. Even subtle restrictions of facial movement may alter speech clarity, eye contact, and self-recognition, with consequences extending beyond visible scarring. Existing outcome measures, including body image scales, burn-specific health instruments, and isolated physical metrics, do not adequately capture the interaction between structural repair, expressive mobility, and communicative participation. Recognition of facial burns as functional trauma supports the need for facial-specific composite outcome models and coordinated multidisciplinary care to optimise long-term recovery.",
+          "doi": "10.1016/j.injury.2026.113866",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43014228/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113866",
           "journal_key": "injury"
         },
         {
@@ -10553,6 +10733,33 @@
           "journal_key": "injury"
         },
         {
+          "pmid": "43014227",
+          "title": "A tale of two nails: A retrospective cohort comparison of TFNA and PFNA in proximal femoral fracture fixation.",
+          "authors": [
+            "Leibner G",
+            "Gurion R",
+            "Mohammad S",
+            "Jammal M",
+            "Liebergall M",
+            "Weill Y"
+          ],
+          "abstract": "INTRODUCTION: The aging population has transformed proximal femoral fractures into a public health crisis, resulting in an increased burden of postoperative complications and revision surgeries. While the Proximal Femoral Nail Antirotation (PFNA) has been a standard in certain countries, the Trochanteric Fixation Nail Advanced (TFNA) was introduced with engineering refinements intended to enhance fixation. This study aims to compare the two implants, specifically focusing on fixation failure rates and distinct biomechanical failure mechanisms.\n\nMETHODS: We conducted a retrospective cohort study at an Academic Level I trauma center involving 1006 patients treated between January 2020 and March 2025. Patients with a minimum six-month follow-up were included (681 PFNA, 325 TFNA). Radiographic assessments, including reduction quality, Tip-Apex Distance (TAD), and blade positioning, were independently performed by two senior fellowship-trained surgeons. The primary outcome was fixation failure requiring reoperation.\n\nRESULTS: The fixation failure rate was 1.6% (n = 11) in the PFNA group and 3.4% (n = 11) in the TFNA group; however, this difference was not statistically significant. While radiographic parameters such as TAD and reduction quality did not differ significantly between the failure groups, a distinct shift in biomechanical failure modes was identified. PFNA failures were overwhelmingly characterized by the classic \"cut-out\" mechanism (91%), whereas TFNA failures frequently involved medial migration or \"cut-through\" (55%).\n\nCONCLUSION: Although the TFNA was associated with a higher absolute rate of fixation failure, no statistically significant difference in fixation failure rates was observed between the two implants. However, the failure profile shifted toward medial \"cut-through\" migration with the TFNA. These findings suggest that the TFNA may possess a unique failure profile, potentially reflecting a learning curve or specific biomechanical properties. Suboptimal reduction and blade positioning were frequent among the failures and may have contributed to them; however, a considerable proportion of failures occurred after a reduction graded as good. These findings emphasize that technical precision remains the primary determinant of stability, regardless of the cephalomedullary device used.",
+          "doi": "10.1016/j.injury.2026.113843",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43014227/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113843",
+          "journal_key": "injury"
+        },
+        {
           "pmid": "42966239",
           "title": "Enhanced wound healing potential of a carboxymethyl cellulose/gelatin-based hydrogel containing decellularized amniotic membrane and Matricaria chamomilla extract: A multifunctional composite dressing.",
           "authors": [
@@ -10576,6 +10783,32 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42966239/",
           "doi_url": "https://doi.org/10.1016/j.injury.2026.113831",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "43014233",
+          "title": "Implementation of a low-cost trauma intake form with real-time clinical decision support: Mixed-methods findings from a stepped-wedge clinical trial in Ghana.",
+          "authors": [
+            "Mesic A",
+            "Amponsah-Manu F",
+            "Awuku K",
+            "Stewart B",
+            "Gyedu A"
+          ],
+          "abstract": "BACKGROUND: Most injured patients in low- and middle-income countries (LMICs) receive care from non-specialist providers at smaller hospitals lacking trauma experience and standardized protocols. A trauma intake form (TIF) with real-time clinical decision support prompts was developed to address this gap. This study examined key implementation outcomes, including adoption, usability, acceptability, appropriateness, feasibility, and sustainability.\n\nMETHODS: This study was conducted at six district and two regional hospitals in Ghana as part of a hybrid effectiveness-implementation stepped-wedge clinical trial. Direct observation of 4077 injured patients over 17.5 months was combined with a structured questionnaire administered to all 241 participating clinicians, alongside thematic analysis of open-ended responses.\n\nRESULTS: Overall observed TIF uptake was 85.6%, with five of eight hospitals classified as adopters. Implementation outcomes were consistently positive across qualitative and quantitative measures, with high levels of acceptability, appropriateness, feasibility, and usability reported across both adopting and non-adopting facilities. Barriers included time constraints, a lack of pre-existing documentation culture, and a perception among some clinicians that patients were too sick to prioritize use of the form.\n\nCONCLUSION: The TIF achieved high adoption among non-specialist providers in a resource-limited setting, demonstrating that low-cost, contextually developed tools can bridge the gap between clinical effectiveness and implementation success. Sustained scale-up will require structural solutions to address time and documentation barriers, targeted training to correct the misperception that the tool is unsuitable for the most severely injured patients, and embedded feedback mechanisms to maintain clinician engagement.",
+          "doi": "10.1016/j.injury.2026.113829",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Oct",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43014233/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113829",
           "journal_key": "injury"
         },
         {
