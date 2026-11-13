@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-12",
-  "generated_at": "2026-11-12T15:39:07Z",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T14:57:50Z",
   "counts": {
-    "articles": 523,
+    "articles": 524,
     "journals_with_articles": 10,
     "journals_searched": 11,
     "new_issues": 0
@@ -6340,6 +6340,32 @@
       "count": 120,
       "articles": [
         {
+          "pmid": "43018753",
+          "title": "Maintenance of periarticular joint angles after varization double-level osteotomy for severe valgus deformity: a technical and radiographic mid-term case series.",
+          "authors": [
+            "Herbst M",
+            "Schröter S",
+            "Ateschrang A",
+            "Histing T",
+            "Ahrend MD"
+          ],
+          "abstract": "PURPOSE: To assess the restoration and mid-term course of mechanical alignment and periarticular femoral and tibial joint angles after varization double-level osteotomy (DLO) in patients with severe valgus malalignment.\n\nMETHODS: This retrospective case series included 13 knees treated with medial closing-wedge distal femoral and high tibial osteotomy between 2011 and 2015. Eight knees were available at a minimum follow-up of five years. Mechanical alignment and periarticular joint angles were assessed preoperatively, six weeks postoperatively, and at final follow-up. Individual radiographic trajectories, conversion to total knee arthroplasty, complications, and postoperative patient-reported outcomes were evaluated descriptively.\n\nRESULTS: Seven patients with eight knees were assessed after a mean follow-up of 7.5 ± 1.2 years. Mean mTFA changed from 9.6 ± 2.6° valgus preoperatively to - 1.4 ± 1.5° six weeks postoperatively and 0.1 ± 4.7° at final follow-up. Mean mLDFA changed from 86.1 ± 2.2° to 90.5 ± 2.5° postoperatively and 90.2 ± 2.4° at final follow-up; mean mMPTA changed from 92.4 ± 1.6° to 86.4 ± 1.5° and 87.3 ± 2.1°, respectively. Individual trajectories were heterogeneous; one knee developed recurrent valgus alignment with a marked increase in JLCA. None of the eight knees underwent conversion to total knee arthroplasty. Three complications occurred, and implant removal was performed in all knees.\n\nCONCLUSION: Within the limitations of this small retrospective case series, varization DLO restored mechanical alignment and periarticular femoral and tibial joint angles in selected patients with severe valgus malalignment. Group-level periarticular bony angles remained close to the early postoperative values at mid-term follow-up, although individual radiographic trajectories were heterogeneous. Larger prospective comparative studies are required to determine clinical effectiveness, complication rates, survivorship, and valgus-specific indication criteria.",
+          "doi": "10.1007/s00402-026-06539-2",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43018753/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06539-2",
+          "journal_key": "aots"
+        },
+        {
           "pmid": "43015513",
           "title": "Letter to Editor-Acetabular superior wall fractures: a distinct acetabular fracture entity.",
           "authors": [
@@ -6355,7 +6381,8 @@
           "pub_month": "Nov",
           "pages": "",
           "pub_types": [
-            "Review"
+            "Review",
+            "Letter"
           ],
           "section": "Review",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43015513/",
@@ -9620,33 +9647,6 @@
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42563017/",
           "doi_url": "https://doi.org/10.1007/s00402-026-06396-z",
           "journal_key": "aots"
-        },
-        {
-          "pmid": "42563010",
-          "title": "Isometric points in cerclage for patellar tendon repair: a 3-dimensional, weightbearing computed tomography kinematic simulation.",
-          "authors": [
-            "Zindel C",
-            "Hodel S",
-            "Luo Y",
-            "Meisterhans M",
-            "Fucentese SF",
-            "Vlachopoulos L"
-          ],
-          "abstract": "PURPOSE: The gold standard for the management of ruptured patellar tendon is the surgical repair with nonabsorbable sutures and additional reinforcement e.g. cerclage wires as described by McLaughlin in 1947. Despite the early description, the exact placement of such cerclage wires remains unclear. The aim of the study was (1) to analyze how the cerclage elongates during knee flexion and (2) to define the insertion points with the most isometric behavior at the patella and tibial tuberosity (TT).\n\nMETHODS: 3D simulations of 10 healthy knees in the range from 0° to 120° of flexion using weightbearing computed tomography scans were generated. 12 insertion points were defined at the patella in equal distances along the lateral and medial border from the proximal to the distal pole. 42 insertion points were defined at the tibial tuberosity (TT) in a 3.0 × 3.0 cm large grid around its center. An automatic string simulation algorithm was used to calculate the length for all possible combinations of the cerclage from 0° to 120° flexion. The most isometric combination of insertion points was found using the isometric score.\n\nRESULTS: The most isometric insertion at the TT is distally (p < 0.01) and towards the center of the TT (p < 0.01). The most isometric points at the TT is located 61 mm distal to the joint line and 5 mm from the anterior border of the TT in a true lateral view fluoroscopy. The insertion on the patella is insensible, as long as the patella is not bypassed proximally (p < 0.01).\n\nCONCLUSION: Elongation of patella tendon augmentation or cerclage can be reduced when choosing a distal and central insertion at the TT, while the insertion on the patella does not affect elongation as long as the patella is not by passed proximally. This might help to reduce excessive stress and prevent cerclage or augmentation failure.",
-          "doi": "10.1007/s00402-026-06441-x",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Aug",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42563010/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06441-x",
-          "journal_key": "aots"
         }
       ]
     },
@@ -9659,7 +9659,7 @@
       "pub_year": "2026",
       "pub_month": "Nov",
       "is_new": false,
-      "count": 61,
+      "count": 62,
       "articles": [
         {
           "pmid": "43014226",
@@ -10014,6 +10014,40 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42994063/",
           "doi_url": "https://doi.org/10.1016/j.injury.2026.113876",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "43019680",
+          "title": "Intraoperative visualization with 3D fluoroscopy for posterior pelvic fixation is associated with lower cumulative imaging-related radiation exposure.",
+          "authors": [
+            "Tse S",
+            "Chinweze RO",
+            "Velasco-Castro J",
+            "Andring N",
+            "Jbeily E",
+            "Robinson C",
+            "Saade A",
+            "Simister S",
+            "Campbell ST",
+            "Fitzpatrick E",
+            "Lee MA",
+            "Saiz AM",
+            "Soles GL"
+          ],
+          "abstract": "INTRODUCTION: Achieving optimal screw positioning in posterior pelvic ring (PR) fracture fixation is critical for fracture stability and safety. Formerly, our institution used intraoperative plain-film fluoroscopy followed by postoperative computed tomography (CT) to assess fracture reduction and screw placement. Introduction of the 3D mobile C-arm enables immediate volumetric intraoperative assessment, may improve intraoperative visualization, and may alter conventional imaging requirements. This study compared cumulative imaging-related radiation exposure between cases performed with intraoperative 3D fluoroscopy (3DF) against standard intraoperative plain-film fluoroscopy (2DF), including postoperative CT utilization.\n\nMETHODS: A retrospective review was conducted on patients treated for posterior PR fractures at a level 1 trauma center between 2014 and 2023. Utilization of 3DF or plain-film fluoroscopy, and any intraoperative screw changes were documented. Rates and details of postoperative complications and subsequent reoperations were recorded for patients with > 3 months follow-up. Radiation doses for 3DF, 2DF, and postoperative CT were extracted from radiology reports.\n\nRESULTS: Among 245 patients (mean age 47.2, 52.2% male) undergoing fixation for posterior PR fractures, 89 (36.3%) had 3DF intraoperatively, while 156 (63.7%) had 2DF. 27 patients (8 3DF, 19 2DF, p = 0.443) had screws changed intraoperatively, primarily to modify screw path (n = 16, 59.3%), to achieve better purchase/reduction (n = 5, 18.5%), to modify screw size (n = 3, 11.1%), to change screw type (n = 2, 7.4%), and failure to advance screw (n = 1, 3.7%). Mean radiation dose for the 3DF group was significantly lower (179.2 mGy vs 526.1 mGy, p < 0.001). When excluding postoperative CT dose (n = 194), intraoperative-only radiation remained lower with 3DF (median 79.1 (IQR 51.5-148.7) vs 318.0 (IQR 71.6-751.5) mGy; p < 0.001). Among 119 patients with > 3 months follow-up, reoperation was less frequent with 3DF (9.5% vs 31.2%, p = 0.012), predominantly for symptomatic implant removal.\n\nDISCUSSION AND CONCLUSION: Intraoperative 3DF was associated with lower cumulative radiation exposure compared to traditional fluoroscopy with routine postoperative CT, and intraoperative dose alone was also lower. Reoperation was less frequent in the 3DF group, but most reoperations were implant removals for symptomatic or planned indications. These findings highlight the potential of 3DF as a practical radiation efficient quality assurance tool in posterior pelvic fixation.",
+          "doi": "10.1016/j.injury.2026.113886",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43019680/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113886",
           "journal_key": "injury"
         },
         {
@@ -11410,6 +11444,32 @@
       "is_new": false,
       "count": 120,
       "articles": [
+        {
+          "pmid": "43018744",
+          "title": "Traumatic renal injuries: the prevalence, management and outcome of renal vascular injury.",
+          "authors": [
+            "Koskinen SK",
+            "Sun S",
+            "Alagic Z",
+            "Enocson A",
+            "Kistner A"
+          ],
+          "abstract": "PURPOSE: To assess the prevalence, management and outcome of renal vascular injuries (RVIs; active bleeding and contained vascular injuries) seen on admission CT. Also, we wanted to find out the prevalence and survival of patients with concomitant injury to liver, spleen, and kidney seen on admission CT.\n\nMETHODS: We conducted a retrospective, single-center, longitudinal cohort study with nine-year data (2013-2021) of all ≥ 15-year-old patients with renal injury identified in a trauma registry. Admission CT and angiographic examinations were reviewed to assess RVIs, including active bleeding, arterial dissection, segmental infarct, pseudoaneurysm or AV-fistulae. Medical records were reviewed for treatment, hospital length of stay and 30-day survival rate.\n\nRESULTS: Out of 2805 patients with abdominal trauma, 243 (8.7%) had a renal injury, of whom 182 (74.9%) underwent CT on admission. RVI was found in 56 patients (30.8%). Among these 56 patients, 42 (75%) had active bleeding, eight (14.3%) segmental infarct, six (10.7%) pseudoaneurysm, and three (5.4%) arterial dissection. Of these, ten patients (17.9%) underwent angioembolization, and three (5.4%) underwent laparotomy. Patients with RVI were slightly older than those without RVI (43.6 vs. 37.8 years, p = 0.0409) and had more often a penetrating trauma (OR 2.836; 95% CI 1.127-7.136, p = 0.0416). Hospital length of stay (14.7 vs. 14.9 days, p = 0.9520) and 30-day survival (95.2% vs. 92.6%, p = 0.3165) did not differ significantly between patients without and with RVI. Among patients with available CT, fourteen (14/182; 7.7%) had concomitant injuries to the liver, spleen and kidney, with no statistically significant difference in 30-day survival compared with patients without such concomitant injuries (92.9% vs. 94.6%; p = 0.5237).\n\nCONCLUSION: RVI was not uncommon in our study cohort, occurring in 30.8% of patients with renal injury who underwent CT on admission. Of these, 17.9% were treated with angioembolization. Patients with RVI were slightly older and were more likely to have a penetrating injury than patients without RVI. No statistically significant difference in hospital length of stay or 30-day survival was found between patients without and with RVI.",
+          "doi": "10.1007/s00068-026-03389-w",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43018744/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03389-w",
+          "journal_key": "ejtes"
+        },
         {
           "pmid": "43007338",
           "title": "Hospital cost structures and resource utilisation across representative treatment pathways relevant to complex orthopaedic infection care: a nationwide DRG-based analysis in Germany.",
@@ -14833,32 +14893,6 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42461284/",
           "doi_url": "https://doi.org/10.1007/s00068-026-03268-4",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42429795",
-          "title": "The DRoPH score: development of a tool for predicting reduction difficulty in proximal humerus fracture osteosynthesis.",
-          "authors": [
-            "Barthel C",
-            "Rudolph F",
-            "Kraus M",
-            "Pape HC",
-            "Allemann F"
-          ],
-          "abstract": "BACKGROUND: Proximal humerus fractures (PHFs) are among the most common and challenging fractures due to complex anatomy and variable fracture patterns. While anatomical reduction is critical for successful outcomes, no tool currently predicts the intraoperative difficulty of achieving it. Despite advances in surgical techniques, complications persist. Existing classification systems, such as Codman's, Neer's, AO/OTA, and Mayo-FJD, focus on fracture morphology and displacement but do not address intraoperative complexity. This study aims to develop a new score for the early prediction of intraoperative reduction difficulty in proximal humerus fracture surgery, the DRoPH score (Difficulty of Reduction of Proximal Humerus Fractures).\n\nMETHODS: An online survey was conducted among experienced upper extremity surgeons in Switzerland to identify factors influencing the difficulty of reducing and retaining proximal humerus fractures. Inclusion criteria for surgeon grading comprised experience with more than 100 surgically treated proximal humerus fractures. Eligible surgeons rated the relevance of factors influencing reduction difficulty using a five-point Likert scale. A rank-based weighting system derived from expert ratings was applied, assigning two points to the three highest-ranked factors. The resulting DRoPH-Score ranged from 0 to 10, with higher values indicating greater surgical complexity.\n\nRESULTS: Eleven shoulder surgeons fulfilled the inclusion criteria and completed the survey, identifying the number of fracture fragments, metaphyseal comminution, and fracture-dislocation as the most significant factors influencing surgical difficulty, each with a mean rating > 4.0. These were followed by varus fracture pattern, poor bone quality (DTI < 1.4), anatomical neck fracture, and short calcar segment. Based on these results, a DRoPH-Score was developed, assigning two points to the top three factors and one point to the next four. Factors with lower influence received no points. The resulting score ranged from 0 to 10, with higher values indicating greater surgical complexity.\n\nCONCLUSION: The DRoPH criteria represent a structured expert-derived framework for estimating anticipated intraoperative reduction difficulty in proximal humerus fracture surgery, addressing a conceptual gap not specifically covered by existing classification systems. By quantifying factors identified by experienced surgeons as technically relevant, the criteria may support future applications in preoperative planning, resource allocation, and surgical training. Formal clinical validation, including assessment of operative time, reduction quality, complication rates, and reproducibility, is required before broader clinical implementation can be recommended.\n\nLEVEL OF EVIDENCE: Level V - Expert opinion / survey-based score development.",
-          "doi": "10.1007/s00068-026-03267-5",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42429795/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03267-5",
           "journal_key": "ejtes"
         }
       ]
