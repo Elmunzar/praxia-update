@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13T14:57:50Z",
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T13:50:24Z",
   "counts": {
-    "articles": 524,
+    "articles": 525,
     "journals_with_articles": 10,
     "journals_searched": 11,
-    "new_issues": 0
+    "new_issues": 1
   },
   "groups": [
     {
@@ -5995,335 +5995,270 @@
       "journal": "Journal of Orthopaedic Trauma",
       "ta": "J Orthop Trauma",
       "volume": "40",
-      "issue": "11",
+      "issue": "12S",
       "pub_year": "2026",
-      "pub_month": "Nov",
-      "is_new": false,
-      "count": 11,
+      "pub_month": "Dec",
+      "is_new": true,
+      "count": 10,
       "articles": [
         {
-          "pmid": "42118914",
-          "title": "Reproducibility of Two Novel Bone Defect Classification Systems.",
+          "pmid": "43023659",
+          "title": "What Is New With Patient-Reported Outcomes Measurement Information System in Orthopaedic Trauma.",
           "authors": [
-            "Campbell ST",
-            "Agel J",
-            "Levack AE",
-            "Bernstein M",
-            "Wallace SJ",
-            "Meinberg E",
-            "Quinnan S",
-            "Hernandez-Irizarry R",
-            "Saiz AM",
-            "Crist BD",
-            "Marmor M",
-            "Shymon SJ",
-            "Lee P",
-            "Githens MF",
-            "Marecek GS",
-            "Orthopaedic Trauma Association"
+            "Sajid MI",
+            "Mir A",
+            "Mir HR"
           ],
-          "abstract": "OBJECTIVES: To determine the reproducibility of 2 novel bone defect classification systems, the Tetsworth classification system and the universal long bone defect (ULBD) classification system.\n\nMETHODS: Two independent reproducibility studies were undertaken. A series of cases with bone defects was collected and sent to a panel of orthopaedic surgeons who were members of the OTA or Limb Lengthening and Reconstruction Society who routinely manage bone defects. The surgeons were provided with a measurement calibration scale for defect length assessment. Analysis of reproducibility was performed using a Fleiss multirater kappa model, where a Fleiss kappa of 0 indicated agreement no better than random chance, and 1 indicated perfect agreement. Surgeons also rated their confidence in their rating from 1 to 3, with 3 as \"very confident.\"\n\nRESULTS: For the Tetsworth classification, the Fleiss kappa was 0.264 for the overall classification system (fair agreement) (95% CI, 0.224-0.305). The kappa for the D1, D2, D3 part of the code related to defect completeness (incomplete, subcritical, or critical) was 0.557 (moderate agreement) (95% CI, 0.446-0.648). The kappa for the A, B, C part of the code related to defect shape was 0.402 (moderate agreement) (95% CI, 0.323-0.480). The mean confidence for all cases was 2.46 (range, 1.86-3). For the ULBD classification, the Fleiss kappa for the entire classification was 0.133 (slight agreement) (95% CI, 0.123-0.144). The kappa for the location and segment was 0.568 (moderate agreement) (95% CI, 0.526-0.610). The kappa for the morphology component was 0.124 (slight agreement) (95% CI, 0.114-0.135). The mean confidence for all cases was 2.0 (range, 1.0-3.0).\n\nCONCLUSIONS: The bone defect classification system proposed by Tetsworth et al was reproducible by surgeons familiar with bone defects. The system can be considered for future research use. The ULBD classification system had low overall reproducibility.\n\nLEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
-          "doi": "10.1097/BOT.0000000000003225",
+          "abstract": "Patient-reported outcome measures provide standardized assessment of recovery from the patient's perspective. This review evaluates the emergence of Patient-Reported Outcomes Measurement Information System (PROMIS) as a preferred instrument compared with legacy measures across upper extremity, lower extremity, pelvic, and pediatric injuries. There is evolving evidence to suggest that PROMIS has a strong correlation with traditional scores, reduced respondent fatigue through computer-adaptive testing, and lower floor and ceiling effects. PROMIS holds potential to dictate key clinical decision making and assess cost-effectiveness while highlighting influences of socioeconomic and psychological factors on patient-perceived recovery. Overall, PROMIS offers efficient, sensitive, and comprehensive evaluation, supporting its expanding role in patient-centered orthopaedic outcomes research. The aim of this article was to address the differences and similarities between PROMIS scores and legacy measures and underscore its importance in health care decision making.",
+          "doi": "10.1097/BOT.0000000000003261",
           "journal_ta": "J Orthop Trauma",
           "volume": "40",
-          "issue": "11",
+          "issue": "12S",
           "pub_year": "2026",
-          "pub_month": "Nov",
-          "pages": "e244-e248",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42118914/",
-          "doi_url": "https://doi.org/10.1097/BOT.0000000000003225",
-          "journal_key": "jorthotr"
-        },
-        {
-          "pmid": "42200532",
-          "title": "Technical Tricks to Improve Iliosacral Screw Safety Using Three-dimensional Computed Tomography Imaging.",
-          "authors": [
-            "Zuelzer DA",
-            "Routt MLC"
-          ],
-          "abstract": "This technical note describes a method used to facilitate iliosacral screw fixation with three-dimensional (3D) computed tomography (CT) imaging. Preoperative pelvis CT scans were used to generate 3D reconstructions, which were then manipulated into inlet and outlet orientations. The inlet position for S1 was achieved when the anterior cortex of the S1 body became superimposed on itself; the outlet position was when the S1 nerve root tunnel was viewed en face. On the fluoroscopic inlet view of S1, multiple cortical densities were often visible and could be difficult to distinguish as S1 versus other sacral segments. 3D CT helped distinguish the position and shape of the anterior cortical limit of S1 by referencing preoperative 3D CT inlet images that were reproduced intraoperatively on fluoroscopy using the appearance of the anterior pelvic ring and the relative obliquity of the obturator foramen. This technique was especially valuable in the setting of common posterior pelvic anatomic variations-including asymmetry, degenerative osteophytes, severe sacral slope, and dramatic cortical recesses of the upper sacral segment. These variations were often difficult to anticipate with conventional plain film or standard CT imaging alone, underscoring the potential clinical utility of this technique.",
-          "doi": "10.1097/BOT.0000000000003231",
-          "journal_ta": "J Orthop Trauma",
-          "volume": "40",
-          "issue": "11",
-          "pub_year": "2026",
-          "pub_month": "Nov",
-          "pages": "e249-e254",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42200532/",
-          "doi_url": "https://doi.org/10.1097/BOT.0000000000003231",
-          "journal_key": "jorthotr"
-        },
-        {
-          "pmid": "42390346",
-          "title": "Preoperative High-Sensitivity Troponin and Risk of In-Hospital Mortality and Cardiac Events After Hip Fracture Surgery.",
-          "authors": [
-            "Touré A",
-            "Okafor K",
-            "Medilien B",
-            "Mather R",
-            "Parry J",
-            "Hernandez-Irizarry RC",
-            "Bradley CA",
-            "Ahn J",
-            "Schenker ML"
-          ],
-          "abstract": "OBJECTIVES: To evaluate whether preoperative high-sensitivity cardiac troponin (hs-cTn) elevation predicted in-hospital cardiac events and mortality after hip fracture surgery, and whether surgical delay modified this relationship.\n\nDESIGN: Retrospective cohort study.\n\nSETTING: Single Level 1 trauma center in the United States.\n\nPATIENT SELECTION CRITERIA: Adult patients who underwent hip fracture surgery between January 1, 2020, and December 31, 2024, and had a preoperative hs-cTn measurement as part of routine perioperative assessment were included.\n\nOUTCOME MEASURES AND COMPARISONS: The primary outcome was a composite of in-hospital cardiac event or mortality. Secondary outcomes were in-hospital mortality and in-hospital cardiac events analyzed separately. Outcomes were compared across preoperative troponin categories defined as normal (<30 ng/L), elevated (30-100 ng/L), and significantly elevated (>100 ng/L), and across surgical delay categories defined as <24, 24-48, and >48 hours.\n\nRESULTS: A total of 510 patients were included. The mean age was 76.3 ± 14.1 years, and 291 patients (57.1%) were female. Preoperative troponin was normal in 424 patients (83.1%), elevated in 58 patients (11.4%), and significantly elevated in 28 patients (5.5%). Thirty-five patients (6.9%) experienced the composite outcome. The composite outcome occurred in 19 of 424 patients (4.5%) with normal troponin, 6 of 58 patients (10.3%) with elevated troponin, and 10 of 28 patients (35.7%) with significantly elevated troponin ( P < 0.001). Mortality occurred in 8 of 424 patients (1.9%), 2 of 58 patients (3.4%), and 3 of 28 patients (10.7%), respectively ( P = 0.015). Cardiac events occurred in 13 of 424 patients (3.1%), 4 of 58 patients (6.9%), and 9 of 28 patients (32.1%), respectively ( P < 0.001). In adjusted models, elevated hs-cTn was associated with increased odds of the composite outcome (odds ratio 4.4, 95% confidence interval 1.1-17.9, P = 0.038), and significantly elevated troponin was associated with higher odds of the composite outcome (odds ratio 16.1, 95% confidence interval 3.6-72.4, P < 0.001). Higher American Society of Anesthesiologists class independently predicted the composite outcome and mortality, and longer length of stay was associated with cardiac events.\n\nCONCLUSIONS: Preoperative hs-cTn elevation was independently associated with in-hospital cardiac events and mortality after hip fracture surgery. Troponin levels greater than 100 ng/L identified patients at highest risk, independent of surgical delay.\n\nLEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
-          "doi": "10.1097/BOT.0000000000003241",
-          "journal_ta": "J Orthop Trauma",
-          "volume": "40",
-          "issue": "11",
-          "pub_year": "2026",
-          "pub_month": "Nov",
-          "pages": "e255-e260",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42390346/",
-          "doi_url": "https://doi.org/10.1097/BOT.0000000000003241",
-          "journal_key": "jorthotr"
-        },
-        {
-          "pmid": "42407994",
-          "title": "Ballistic Forearm Fractures are Associated with Higher Neurovascular Injury, Nonunion, and Complications Compared With Blunt Forearm Injuries.",
-          "authors": [
-            "Barber HF",
-            "Pereira DE",
-            "Rust BD",
-            "Perugini JM",
-            "Reaver CN",
-            "Guissé NF",
-            "Wilson JL",
-            "Obey MR",
-            "McAndrew CM",
-            "Berkes MB"
-          ],
-          "abstract": "OBJECTIVES: To characterize injury patterns, treatment differences, and clinical outcomes associated with ballistic and blunt forearm fractures.\n\nDESIGN: Retrospective cohort study.\n\nSETTING: Single Level 1 tertiary trauma center, 2018-2023.\n\nPATIENT SELECTION CRITERIA: The study included adults (≥18) who underwent operative fixation of diaphyseal radius and/or ulna fractures. Exclusion criteria were ipsilateral intraarticular or unstable elbow injuries, pathologic fractures, or fractures involving preexisting implants. Patients were stratified into 2 groups: ballistic and blunt injuries, which were further subclassified as blunt-closed or blunt-open.\n\nOUTCOME MEASURES AND COMPARISONS: Primary outcomes included nerve deficit, complication rate, unplanned reoperation, nonunion, and postoperative infection.\n\nRESULTS: The study included 395 patients with 398 forearm fractures: 81 ballistic fractures in 78 patients [32 years (18-69), 88.9% male], 213 blunt-closed fractures [41 years (18-82), 59.2% male], and 104 blunt-open fractures [46 years (19-92), 71.2% male]. Ballistic fractures had significantly higher rates of nerve deficits (48.2% vs. 6.3%, P < 0.001), complications (38.5% vs. 21.1%, P = 0.020), and unplanned reoperation (30.8% vs. 14.2%, P = 0.012) compared with blunt injuries. Infection rates were similar between ballistic and blunt groups (10.3% vs. 5.8%, P = 0.294). Nonunion differed only between ballistic and blunt-closed fractures (18.0% vs. 5.6%, P = 0.042), not blunt-open fractures (18.0% vs. 9.2%, P = 0.228). On multivariable analysis, injury group remained an independent predictor of nerve deficit ( P < 0.001), complication ( P = 0.008), and unplanned reoperation ( P = 0.015), with ballistic injuries demonstrating the highest rates.\n\nCONCLUSIONS: Ballistic forearm fractures posed unique challenges compared with blunt injuries. They were associated with significantly higher rates of nerve deficit, unplanned reoperations, and overall complications, with higher nonunion observed when compared with blunt-closed injuries. These injuries warrant a high index of suspicion for nerve injury and close long-term follow-up to optimize patient outcomes and address the needs of a disproportionately affected, high-risk population.\n\nLEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
-          "doi": "10.1097/BOT.0000000000003242",
-          "journal_ta": "J Orthop Trauma",
-          "volume": "40",
-          "issue": "11",
-          "pub_year": "2026",
-          "pub_month": "Nov",
-          "pages": "e261-e269",
+          "pub_month": "Dec",
+          "pages": "S1-S4",
           "pub_types": [
             "Journal Article",
-            "Comparative Study"
+            "Review"
           ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42407994/",
-          "doi_url": "https://doi.org/10.1097/BOT.0000000000003242",
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43023659/",
+          "doi_url": "https://doi.org/10.1097/BOT.0000000000003261",
           "journal_key": "jorthotr"
         },
         {
-          "pmid": "42268047",
-          "title": "A Primer on Statistical Certainty and Its Distinction From Clinical Importance.",
+          "pmid": "43023658",
+          "title": "Patient-Reported Outcomes in Orthopaedic Trauma: Transforming Care Delivery and Quality Improvement.",
           "authors": [
-            "Ebramzadeh E",
-            "Slobogean GP",
-            "Ricci WM",
-            "McKellop H"
+            "Nguyen MP",
+            "Cunningham BP"
           ],
           "abstract": "",
-          "doi": "10.1097/BOT.0000000000003226",
+          "doi": "10.1097/BOT.0000000000003271",
           "journal_ta": "J Orthop Trauma",
           "volume": "40",
-          "issue": "11",
+          "issue": "12S",
           "pub_year": "2026",
-          "pub_month": "Nov",
-          "pages": "577-582",
+          "pub_month": "Dec",
+          "pages": "S1-S2",
           "pub_types": [
             "Journal Article"
           ],
           "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42268047/",
-          "doi_url": "https://doi.org/10.1097/BOT.0000000000003226",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43023658/",
+          "doi_url": "https://doi.org/10.1097/BOT.0000000000003271",
           "journal_key": "jorthotr"
         },
         {
-          "pmid": "42200514",
-          "title": "Nail-Plate Constructs Permit Early Weight Bearing and Improved Outcomes Compared With Single Device Constructs in the Treatment of Distal Femur Fractures at One-Year Follow-Up: A Retrospective Analysis.",
+          "pmid": "43023660",
+          "title": "Lessons Learned from Patient-Reported Outcome Measure Databases for Orthopaedic Trauma Patients: A Rapid Scoping Review.",
           "authors": [
-            "Patel UJ",
-            "Holloway MR",
-            "Guedikian CR",
-            "Soin SP",
-            "Joseph NM",
-            "Ketz JP"
+            "Saxby NE",
+            "Wilson P",
+            "Saxby SM",
+            "Malloy M",
+            "Bagley P",
+            "Miller AN"
           ],
-          "abstract": "OBJECTIVES: To investigate clinical, radiographic, and patient reported outcomes in patients undergoing surgical fixation for distal femur fractures with single device construct (lateral locked plate or intramedullary nail) or nail-plate combination.\n\nDESIGN: Retrospective cohort study.\n\nSETTING: Single, academic, tertiary Level I trauma center.\n\nPATIENT SELECTION CRITERIA: The inclusion criteria were patients with DFFs (OTA/AO 33) treated operatively with lateral locked plate, IM nail, or nail-plate combination between January 2011 and December 2023 with a minimum follow up of 1 year.\n\nOUTCOME MEASURES AND COMPARISONS: Radiographic fracture healing, complication rates, weight-bearing status, length of stay, gait impairment, and patient-reported outcomes using the Patient-Reported Outcomes Measurement Information System were investigated. Multivariable regression models were used to identify predictors of union, reoperation, discharge disposition, and postoperative complications.\n\nRESULTS: A total of 191 patients were included, with 153 (131 lateral locked plate, 22 intramedullary nail) treated with a single device construct (mean age 72 years [range 22-95], 16% male) and 38 treated with nail-plate combination constructs (mean age 70 years [range 19-94], 16% male). At one-year postoperatively, nail-plate combination versus single device constructs were associated with significantly lower rates of nonunion (0% vs. 12%, P = 0.03), reoperation (10% vs. 26%, P = 0.05), and gait impairment (26% vs. 58%, P < 0.01). Patients in the nail-plate combination group versus the single device group were more likely to be weight bearing as tolerated at discharge (63% vs. 3%, P < 0.01) and more frequently discharged home (42% vs. 15%, P = 0.04).\n\nCONCLUSIONS: Fixation with nail-plate combination constructs, compared with single device constructs, in DFFs seemed to support immediate weight bearing and was associated with improved short-term and midterm outcomes, including reduced rates of nonunion, reoperation, and functional impairment at 1 year. These advantages may be especially relevant for geriatric patients and those with complex or periprosthetic fracture patterns, or with preoperative risk factors for nonunion and functional decline.\n\nLEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
-          "doi": "10.1097/BOT.0000000000003232",
+          "abstract": "OBJECTIVES: Patient-reported outcome measures (PROMs) have become increasingly important in orthopaedic surgery as a means to evaluate treatment effectiveness and track patient recovery. Databases that focus on the orthopaedic trauma population and collect PROMs are needed to improve research on patient outcomes. This study aimed to identify large databases currently collecting PROMs in the orthopaedic trauma population.\n\nDATA SOURCES: In collaboration with a research librarian, a rapid scoping review search strategy was developed and searched in PubMed to identify relevant manuscripts published from database inception through February 2026.\n\nSTUDY SELECTION: Studies were included if they evaluated orthopaedic trauma populations and reported PROMs collected within a large, multicenter database or registry. Single-center and single-study datasets were excluded.\n\nDATA EXTRACTION: Title/abstract screening and full-text review, as well as data extraction, were conducted independently by 2 reviewers using Covidence, at each stage. Discrepancies were resolved through discussion and consensus with the research team.\n\nDATA SYNTHESIS: Extracted data included study and registry characteristics, types of PROMs used, and timing of PROM collection. Findings were summarized using a narrative synthesis approach, with descriptive statistics used to characterize the data.\n\nRESULTS: A total of 360 studies were retrieved from PubMed, with 38 proceeding to full-text review and 24 to data extraction. Most studies (87.5%) used the Victorian Orthopaedic Trauma Outcomes Registry, with additional studies using the Swedish Fracture Register and the Norwegian Hip Fracture Register. The most commonly reported PROM was EQ-5D-3L (70.8%), with Glasgow Outcome Scale-Extended, SF-12, and Short Musculoskeletal Function Assessment also reported.\n\nCONCLUSIONS: Few large databases seem to be collecting PROMs, and those contributing to research on patient outcomes are based in Australia, Sweden, and Norway. The development of a large, dedicated orthopaedic trauma database in the United States that systematically collects validated PROMs would substantially expand opportunities for patient-centered outcomes research in this region.\n\nLEVEL OF EVIDENCE: Level III. See Instructions for Authors for a complete description of levels of evidence.",
+          "doi": "10.1097/BOT.0000000000003273",
           "journal_ta": "J Orthop Trauma",
           "volume": "40",
-          "issue": "11",
+          "issue": "12S",
           "pub_year": "2026",
-          "pub_month": "Nov",
-          "pages": "583-589",
+          "pub_month": "Dec",
+          "pages": "S5-S10",
           "pub_types": [
             "Journal Article",
-            "Comparative Study"
+            "Scoping Review"
           ],
           "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42200514/",
-          "doi_url": "https://doi.org/10.1097/BOT.0000000000003232",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43023660/",
+          "doi_url": "https://doi.org/10.1097/BOT.0000000000003273",
           "journal_key": "jorthotr"
         },
         {
-          "pmid": "42200564",
-          "title": "Comparative Analysis of Nail Plate Combination Over Alternative Fixation Constructs in Low-Energy Distal Femur Fractures: Recovery of Ambulatory Status and Outcomes.",
+          "pmid": "43023661",
+          "title": "Utility of Patient-Reported Outcome Measures in Clinical Trauma Practice.",
           "authors": [
-            "Pereira DE",
-            "Rust B",
-            "Barton D",
-            "Eggebrecht Z",
-            "Wilson JL",
-            "Obey MR",
-            "McAndrew CM",
-            "Berkes MB"
+            "Agoro KS",
+            "Shapiro LM",
+            "Jones CB",
+            "Cunningham BP"
           ],
-          "abstract": "OBJECTIVES: To compare ambulatory status, union, mortality, and operative complications in patients with distal femur fracture treated with the nail plate combination (NPC) and alternative fixation constructs.\n\nDESIGN: Retrospective Cohort Study.\n\nSETTING: Single Level 1, tertiary referral Academic center.\n\nPATIENT SELECTION CRITERIA: This study included adults with a low-energy distal femur fracture (OTA/AO33A/C and Su 1-3) that received ORIF within 2018-2024. Exclusions were pathologic fractures, antegrade intramedullary devices, and baseline nonambulators (from ambulatory status evaluation only).\n\nOUTCOME MEASURES AND COMPARISONS: The primary outcome was ambulatory status at postoperative intervals using Koval-Walking-Score. Secondary outcomes included radiographic union, mortality, and reoperation.\n\nRESULTS: A total of 404 patients with a low-energy distal femur fracture were included, with 342 included for mobility analysis. Fixation constructs included 189 NPC (mean age 75.0 ± 10.2, 83.1% female), 118 lateral locking plate (LLP) (mean age 73.4 ± 10.2; 76.3% female), 79 retrograde intramedullary nail (rIMN) (mean age 73.7 ± 11.1, 74.7% female), and 18 dual plate combination (mean age 74.6 ± 10.9, 83.3% female) (age P = 0.567, sex P = 0.701). NPC was more frequently selected for Su 2 (56.2%) and Su 3 (65.9%) ( P = 0.001). NPC demonstrated lower average ambulatory impairment score over LLP: 3 weeks (-0.8; P = 0.002), 6 weeks (-1.1; P < 0.001), and both LLP and rIMN at 3 months (-0.9/-0.8; P = 0.049/0.013) and 6 months (-0.9/-0.8; P = 0.043/0.021). After Bonferroni correction to account for multiple testing, post hoc pairwise comparisons showed that NPC ambulation scores remained lower at 3 and 6 weeks (-0.8, P = 0.024; -1.1, P < 0.001). Six-month mortality was lower in NPC than rIMN (9% vs. 19%; P = 0.04). Dual plate combination showed higher infection (22.2%; P = 0.012), wound dehiscence (11.1%; P = 0.013), and drainage (5.6%; P < 0.001); although sample size limited analysis. Radiographic union was comparable (36.3% vs. 52.9% vs. 39.6% vs. 54.5%, P = 0.104).\n\nCONCLUSIONS: In this study, NPC was associated with superior ambulatory recovery rates to preinjury status over single-implant constructs and improved mortality rates over rIMN. Thus, NPC represented a reliable construct for early ambulation and recovery in these injuries.\n\nLEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
-          "doi": "10.1097/BOT.0000000000003230",
+          "abstract": "The integration of patient-reported outcomes (PROs) into orthopaedic trauma practice has become increasingly important as health care shifts toward value-based, patient-centered models. While traditional clinical metrics such as radiographic healing and range of motion remain essential, they do not fully capture the functional and psychosocial impact of traumatic injury. PROs provide a means of assessing outcomes directly from the patient perspective, including pain, functional recovery, and quality of life. In orthopaedic trauma, the acute and heterogeneous nature of injury presents unique challenges in clinical decision making, recovery assessment, and long-term outcome evaluation. PROs can enhance shared decision making by aligning treatment strategies with patient goals, providing insight into recovery trajectories over time, and offering a more comprehensive understanding of functional outcomes. In addition, integration of PRO measures into clinical workflows supports more patient-centered care and may contribute to quality improvement initiatives and value-based reimbursement models. Despite challenges, including loss to follow-up, incomplete data collection, and variability in injury patterns, continued refinement of PRO implementation strategies and advancements in data integration and predictive analytics offer opportunities to expand their clinical utility. PROs are an important tool for advancing the assessment and delivery of care in orthopaedic trauma.",
+          "doi": "10.1097/BOT.0000000000003263",
           "journal_ta": "J Orthop Trauma",
           "volume": "40",
-          "issue": "11",
+          "issue": "12S",
           "pub_year": "2026",
-          "pub_month": "Nov",
-          "pages": "590-597",
+          "pub_month": "Dec",
+          "pages": "S11-S15",
           "pub_types": [
             "Journal Article",
-            "Comparative Study"
+            "Review"
           ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42200564/",
-          "doi_url": "https://doi.org/10.1097/BOT.0000000000003230",
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43023661/",
+          "doi_url": "https://doi.org/10.1097/BOT.0000000000003263",
           "journal_key": "jorthotr"
         },
         {
-          "pmid": "42200576",
-          "title": "Single Antibiotic Use With Ceftriaxone for Prophylaxis of All Open Fractures.",
+          "pmid": "43023662",
+          "title": "Selecting Appropriate Patient-Reported Outcome Measures in Orthopaedic Trauma: A Framework With Foot and Ankle Trauma as a Case Example.",
           "authors": [
-            "Koulopoulos MW",
-            "Buseck A",
-            "Lynch CP",
-            "Lutz K",
-            "Brand O",
-            "Sommers E",
-            "Pompo I",
-            "Laychur A",
-            "Vaughn J",
-            "Mann K",
-            "Sullivan MP"
+            "Schweser KM"
           ],
-          "abstract": "OBJECTIVES: To compare outcomes for open fractures treated with a prophylactic antibiotic protocol using ceftriaxone (CTX) for all open fractures, referred to as group \"CTX,\" versus a previous protocol using cefazolin for Gustilo I/II fractures and cefazolin plus gentamicin or CTX monotherapy for Gustilo type III fractures only, referred to as group \"Classic.\"\n\nDESIGN: Retrospective cohort study.\n\nSETTING: Single level I trauma center.\n\nPATIENT SELECTION CRITERIA: This study included adult patients undergoing surgery for an open fracture from December 2016 to December 2022 with a minimum follow-up of 3 months.\n\nOUTCOME MEASURES AND COMPARISONS: The primary outcome of deep infection and secondary outcomes of superficial infection rates, nonunion rate, and time to antibiotic administration were compared between overall groups and subgroups based on Gustilo type.\n\nRESULTS: A total of 521 patients were included. Baseline characteristics were similar between groups, with no differences in age (CTX 41.1 ± 19.7 vs. classic 39.5 ± 19.3), sex (68.5% vs. 72.0% male), or comorbidities ( P > 0.05). There were no differences in deep infection (7.8% vs. 12.7%, P = 0.095), superficial infection (7.0% vs. 4.7%, P = 0.427), or nonunion (10.3% vs. 7.9%, P = 0.500) between CTX and Classic groups for all Gustilo types. Similarly for only type I/II fractures, rates of deep infection (3.5% vs. 8.9%, P = 0.145), superficial infection (2.9% vs. 3.6%, P = 0.683), and nonunion (3.6% vs. 0.0%, P = 0.340) did not differ. Noninferiority of CTX for deep infection was demonstrated for all Gustilo types (intergroup difference -0.048, P = 0.027) and type I/II fractures (-0.054, P = 0.035). The CTX protocol was associated with shorter time to antibiotic administration (63.9 ± 116.9 vs. 114.1 ± 199.0 minutes, P = 0.002).\n\nCONCLUSIONS: The use of CTX for prophylaxis of all open fractures, regardless of Gustilo type, was associated with noninferior outcomes in deep infection as well as shorter time to antibiotic administration, compared with a regimen where type I/II fractures received cefazolin. No significant differences in rates of superficial infection or nonunion were noted after transition to CTX protocol. The study was notably underpowered to detect a difference in the primary outcome of deep infection. Prophylaxis of all open fractures with CTX may be a safe and effective method of standardizing and expediting care for orthopaedic trauma patients.\n\nLEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
-          "doi": "10.1097/BOT.0000000000003229",
+          "abstract": "Patient-reported outcome measures (PROMs) have become central to orthopaedic trauma research, quality assessment, and value-based care. However, selecting an appropriate PROM is a nuanced process. Choosing an instrument that lacks validation for a specific injury type may fail to capture clinically relevant domains, systematically misrepresent outcomes in key patient subgroups, introduce bias, obscure treatment effects, and ultimately mislead clinical decision making. This review used foot and ankle trauma as a case example to provide orthopaedic trauma surgeons with a practical, stepwise framework for PROM selection.",
+          "doi": "10.1097/BOT.0000000000003269",
           "journal_ta": "J Orthop Trauma",
           "volume": "40",
-          "issue": "11",
+          "issue": "12S",
           "pub_year": "2026",
-          "pub_month": "Nov",
-          "pages": "598-605",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42200576/",
-          "doi_url": "https://doi.org/10.1097/BOT.0000000000003229",
-          "journal_key": "jorthotr"
-        },
-        {
-          "pmid": "42200508",
-          "title": "Temporal Effects on Intraoperative Bacterial Contamination of Surgical Gloves in Noninfection Orthopaedic Trauma Cases.",
-          "authors": [
-            "Amirhekmat A",
-            "Shimabukuro J",
-            "Bittencourt C",
-            "Beyer RS",
-            "Learned JR",
-            "Scolaro JA",
-            "Lim PK"
-          ],
-          "abstract": "OBJECTIVES: Surgical site infections (SSIs) are among the most serious complications in orthopaedic trauma surgery, contributing to patient morbidity, mortality, and substantial financial costs. With direct inoculation from intraoperative bacterial contamination being a large contributor to these infections, the temporal dynamics of intraoperative bacterial colonization on surgical gloves in orthopaedic trauma cases was investigated.\n\nMETHODS: Surgical glove bacterial cultures were taken by firmly pressing the operating room staff member's gloved fingertips onto a sheep's blood agar plate. Cases, without known preexisting infection, were chosen from a single level 1 trauma center at random between 2023 and 2025. Samples were obtained at 2 intraoperative time points: (1) immediately after draping and (2) after implant placement but before final irrigation. These samples were compared with negative controls of freshly donned, but unused sterile gloves. Glove imprints were then incubated for 2 weeks, and bacterial isolates were identified using MALDI-TOF mass spectrometry.\n\nRESULTS: Of 276 total gloves sampled, 70 (25.4% 70/138) demonstrated bacterial growth, compared with 0 controls (0%, 0/138 P < 0.001). Contamination was detected in 18.8% of gloves after draping and 31.9% after implant placement. Pelvic procedures had the highest contamination rate by surgical location (58.3%, P < 0.05 vs. 20.2% upper extremities and 25.5% lower extremities). Compared with gloves without bacterial growth, mean glove wear duration was longer for contaminated gloves (86.5 vs. 77.4 minutes, P = 0.043), with significantly lower rates observed at ≤75 minutes of wear ( P = 0.049). The most common isolate was Staphylococcus epidermidis (20.5%), which was more commonly grown at the second collection time point.\n\nCONCLUSIONS: Intraoperative surgical gloves demonstrated high rates of bacterial contamination, particularly with longer procedure times. Routine glove changes after draping, after final implant placement, and after >75 minutes of operating time may be a simple, low-cost strategy to reduce potential SSI risk.\n\nLEVEL OF EVIDENCE: Prognostic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
-          "doi": "10.1097/BOT.0000000000003227",
-          "journal_ta": "J Orthop Trauma",
-          "volume": "40",
-          "issue": "11",
-          "pub_year": "2026",
-          "pub_month": "Nov",
-          "pages": "606-609",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42200508/",
-          "doi_url": "https://doi.org/10.1097/BOT.0000000000003227",
-          "journal_key": "jorthotr"
-        },
-        {
-          "pmid": "42390361",
-          "title": "Functional Outcomes After Bipolar Hip Hemiarthroplasty by Using the Direct Anterior Approach Versus Posterior and Direct Lateral Approaches: A Retrospective Cohort Study.",
-          "authors": [
-            "Tham SYY",
-            "Ng JPH",
-            "Zhang X",
-            "Tan TL"
-          ],
-          "abstract": "OBJECTIVES: To compare functional recovery and length of hospital stay in patients undergoing bipolar hip hemiarthroplasty (BHH) for displaced femoral neck fractures using the direct anterior approach (DAA) versus the posterior approach (PA) and direct lateral approach (DLA).\n\nDESIGN: Retrospective cohort study using a prospectively maintained hip fracture registry.\n\nSETTING: Single tertiary care institution in Singapore.\n\nPATIENT SELECTION CRITERIA: Patients aged 60 years and older who underwent BHH for displaced femoral neck fractures (OTA/AO 31-B) between 2020 and 2023 were identified from the institutional hip fracture registry.\n\nOUTCOME MEASURES AND COMPARISONS: Functional outcomes were assessed using the Modified Barthel Index (MBI; higher scores indicate better independence) and Parker Mobility Score (higher scores indicate better mobility) at discharge, 6 and 12 months. Mobility status, length of stay, postoperative complications, reoperation, and 1-year mortality were evaluated. Outcomes were compared between DAA and PA after propensity score matching, with an exploratory comparison with the DLA.\n\nRESULTS: A total of 504 patients were identified; 400 PA, 79 DAA, and 25 DLA. After matching, 67 DAA cases and 134 PA cases were analyzed. Age and sex distribution were similar between DAA and PA groups (80.7 ± 6.3 vs. 81.1 ± 6.5 years, P = 0.655; female: 79.1% vs. 75.4%, P = 0.556). The DAA group demonstrated a smaller decline in MBI from premorbid baseline to discharge as compared with the PA group [DAA: -49.85 ± 17.88 vs. PA: -55.47 ± 18.90, 95% confidence interval (CI): 0.11-11.13, P = 0.045]. No significant differences were observed between the DAA and PA groups in changes from premorbid to 12-month MBI (DAA: -23.97 ± 27.46 vs. PA: -18.52 ± 26.38, 95% CI: -13.67 to 2.78, P = 0.193) or from premorbid to 12-month Parker Mobility Score (DAA: -2.72 ± 2.90 vs. PA: -2.18 ± 2.46, 95% CI: -1.37 to 0.29, P = 0.198). Length of stay (DAA: 9.88 ± 5.08 vs. PA: 10.20 ± 5.20 days; P = 0.684) and 1-year mortality (DAA: 3.0% vs. PA: 8.2%; P = 0.156) were comparable between DAA and PA groups.\n\nCONCLUSIONS: DAA for BHH was associated with better early functional recovery at hospital discharge than PA. However, this advantage did not persist at 12 months, with no significant differences in functional outcomes, length of hospital stay, or 1-year mortality between DAA and PA groups.\n\nLEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
-          "doi": "10.1097/BOT.0000000000003245",
-          "journal_ta": "J Orthop Trauma",
-          "volume": "40",
-          "issue": "11",
-          "pub_year": "2026",
-          "pub_month": "Nov",
-          "pages": "610-619",
+          "pub_month": "Dec",
+          "pages": "S16-S21",
           "pub_types": [
             "Journal Article",
-            "Comparative Study"
+            "Review"
           ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42390361/",
-          "doi_url": "https://doi.org/10.1097/BOT.0000000000003245",
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43023662/",
+          "doi_url": "https://doi.org/10.1097/BOT.0000000000003269",
           "journal_key": "jorthotr"
         },
         {
-          "pmid": "42200544",
-          "title": "Patient-Reported Outcomes after Distal Radius Fractures Differ Across Geographic and Cultural Populations: A Global Systematic Review and Meta-Analysis.",
+          "pmid": "43023663",
+          "title": "The Emergence of Patient Reported Outcomes for the Chest Wall: A PRO Frontier for Orthothoracic Surgery.",
           "authors": [
-            "Bilodeau RE",
-            "Bhadouriya RS",
-            "Klinger CE",
-            "van der List JP",
-            "Oquendo YA",
-            "Haeberle HS",
-            "Victory L",
-            "Katzir A",
-            "Barth KA",
-            "Dvorzhinskiy A",
-            "Ricci WM"
+            "Xu JL",
+            "Winter JD",
+            "Cole PA"
           ],
-          "abstract": "OBJECTIVES: To assess patient reported outcome (PRO) heterogeneity across different cultural and geographical regions through a systematic review and meta-analysis of PROs after volar plate fixation of distal radius fractures.\n\nDATA SOURCES: PubMed, EMBASE, and Cochrane Central Register of Controlled Trials were queried for randomized controlled trials from 2010 to 2023 reporting Disabilities of the Arm, Shoulder, and Hand (DASH), QuickDASH, Patient-Rated Wrist Evaluation (PRWE), or Visual Analog Scale (VAS) PROs.\n\nSTUDY SELECTION: Randomized controlled trials with treatment arms consisting of open reduction and internal fixation using a volar locking plate for adult distal radius fracture (OTA/AO 23) and reported DASH, QuickDASH, PRWE, or VAS PROs were included. Studies not published in English or that provided insufficient extraction data were excluded.\n\nDATA EXTRACTION: Studies were characterized by country of origin, continent of origin, and cultural region of origin. Extracted data included PRO outcomes, patient demographics, and follow-up ranges.\n\nDATA SYNTHESIS: Random-effects meta-analysis was performed with restricted maximum likelihood method, and subgroup analyses were performed to determine differences in pooled PROs across geographical and cultural regions.\n\nRESULTS: A total of 52 treatment arms met inclusion criteria for DASH analysis, 33 for PRWE, and 23 for VAS. Significant mean DASH score heterogeneity existed across all studies ( P < 0.01). Nine cultural regions were represented in the DASH analysis and demonstrated significantly different pooled mean PRO scores ( P < 0.01). Significant mean PRWE score heterogeneity existed across all studies ( P < 0.01). Seven cultural regions were represented in the PRWE analysis and demonstrated significantly different pooled mean PRO scores ( P < 0.01). Significant mean VAS score heterogeneity existed across all studies ( P < 0.01). Eight cultural regions were represented in the VAS analysis and demonstrated significantly different pooled mean PRO scores ( P < 0.01).\n\nCONCLUSIONS: PROs after distal radius volar plate fixation demonstrated meaningful variation across cultural and geographic contexts. Outcomes from one cultural region may not be globally generalizable.\n\nLEVEL OF EVIDENCE: Therapeutic Level II. See Instructions for Authors for a complete description of levels of evidence.",
-          "doi": "10.1097/BOT.0000000000003228",
+          "abstract": "Although multiple patient-reported outcomes (PROs) exist and are integrated into clinical practice for extremities in orthopaedics, the scope of orthopaedics is starting to include chest wall injury. Only recently has a general chest wall injury-specific PRO been developed, the Chest Wall Injury Quality of Life questionnaire (C-QoL). Previous legacy PROs used for patients with chest wall injuries vary between the PROMIS (Patient-Reported Outcomes Measurement Information System) Global Health (PROMIS 10), 36-Item Short-Form Health Survey (SF-36), 12-Item Short-Form (SF-12), RAND 36-Item Health Survey, EuroQol (EQ-5D-5L), and McGill Pain Questionnaire (MPQ). These tools, intentionally general, do not capture the nuances of symptoms and have not been validated in populations with chest wall injuries. Future research would benefit from standardized and specific chest wall functional outcome tools, as the field is multidisciplinary and guidelines continue to be developed.",
+          "doi": "10.1097/BOT.0000000000003268",
           "journal_ta": "J Orthop Trauma",
           "volume": "40",
-          "issue": "11",
+          "issue": "12S",
           "pub_year": "2026",
-          "pub_month": "Nov",
-          "pages": "620-630",
+          "pub_month": "Dec",
+          "pages": "S22-S26",
           "pub_types": [
             "Journal Article",
-            "Systematic Review",
-            "Meta-Analysis"
+            "Review"
           ],
-          "section": "Systematic Review",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42200544/",
-          "doi_url": "https://doi.org/10.1097/BOT.0000000000003228",
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43023663/",
+          "doi_url": "https://doi.org/10.1097/BOT.0000000000003268",
+          "journal_key": "jorthotr"
+        },
+        {
+          "pmid": "43023664",
+          "title": "Quantifying the Impact of Postoperative Complications Using PROMIS-Global Physical Health Scores in Orthopaedic Trauma Patients.",
+          "authors": [
+            "Thomas GM",
+            "Zeller NP",
+            "Dornan LD",
+            "Rivard RL",
+            "Vang S",
+            "Agoro KS",
+            "Cunningham BP",
+            "Nguyen MP",
+            "Busel GA"
+          ],
+          "abstract": "OBJECTIVES: This study aimed to (1) correlate orthopaedic trauma postoperative complications and PROMIS-GPH scores and (2) quantify the impact of complications on reduction of scores.\n\nDESIGN: Retrospective cohort study.\n\nSETTING: Multicenter of 3 institutions.\n\nPATIENT SELECTION CRITERIA: Included were all orthopaedic trauma patients with operative injuries from 2018 to 2024 who completed at least 1 postoperative PROMIS-Global Physical Health (PROMIS-GPH) survey at 6 weeks, 3 months, 6 months, or 1 year.\n\nOUTCOME MEASURES AND COMPARISONS: Primary study outcome was the development of major or minor complications. Major complications were defined as any fracture-related reoperation within 1 year or fracture-related readmission within 90 days. Minor complications were defined as symptomatic hardware removal within 1 year or 90-day readmission or emergency department visit. Average PROMIS-GPH scores at each timepoint was compared between patients with major or minor complications and no complications.\n\nRESULTS: A total of 3475 orthopaedic trauma patients with operative injuries who completed at least 1 postoperative PROMIS-GPH survey were included. Female patients were 62.1% of the cohort. Average age of the entire cohort was 58.4 (range 18-103). The most common fracture subtypes were ankle injuries (21.9%) and hip injuries (21.8%). Of all patients, 9.2% had major complications and 13.6% minor complications. Of patients with no complications, 29.3% were in the lowest PROMIS-GPH quartile at some timepoint compared with 36.1% with minor complications and 43.6% with major complications (P < 0.0001). Being in the lowest quartile of PROMIS-GPH scores was a significant predictor of major complications (aOR 1.5, 95% confidence interval: 1.2-2.0, P = 0.002). At all timepoints, patients with no complications had significantly higher scores than patients with major or minor complications, by at least an average 1.5 points.\n\nCONCLUSIONS: Significant associations between postoperative major or minor complications and poor PROMIS-GPH scores existed in orthopaedic trauma patients presenting for operative management.\n\nLEVEL OF EVIDENCE: Level III, Retrospective Cohort Study. See Instructions for Authors for a complete description of levels of evidence.",
+          "doi": "10.1097/BOT.0000000000003279",
+          "journal_ta": "J Orthop Trauma",
+          "volume": "40",
+          "issue": "12S",
+          "pub_year": "2026",
+          "pub_month": "Dec",
+          "pages": "S27-S32",
+          "pub_types": [
+            "Journal Article",
+            "Multicenter Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43023664/",
+          "doi_url": "https://doi.org/10.1097/BOT.0000000000003279",
+          "journal_key": "jorthotr"
+        },
+        {
+          "pmid": "43023665",
+          "title": "Impact of Social Determinants of Health on Patient-Reported Outcome Measures and Survey Completion in Orthopaedic Trauma.",
+          "authors": [
+            "Zeller NP",
+            "Thomas GM",
+            "Rivard RL",
+            "Vang S",
+            "Peterson TA",
+            "Agoro KS",
+            "Cunningham BP",
+            "Nguyen MP",
+            "Morshed S"
+          ],
+          "abstract": "OBJECTIVES: To compare demographic characteristics and social determinants of health between patients who completed at least one Patient-Reported Outcomes Measurement Information System Global Health 10 (PROMIS) survey and patients who did not, and to identify patient factors associated with worse PROMIS outcomes among patients who completed surveys.\n\nDESIGN: Retrospective cohort.\n\nSETTING: Multicenter metropolitan health care system.\n\nPATIENT SELECTION CRITERIA: Orthopaedic trauma surgical patients from 2018 to 2024.\n\nOUTCOME MEASURES AND COMPARISONS: Completion of at least one PROMIS survey defined patients as completers, and those who did not complete a survey was classified as noncompleters. Area Deprivation Index (ADI) was calculated from 1 (least deprived) to 10 (most deprived) and grouped into quintiles. A logistic regression model was used to identify predictors of PROMIS completion and outcomes based on demographics, comorbidities, and ADI.\n\nRESULTS: A total of 5713 patients were included (3433 women; average age 60.0 ± 20.2 years). There were 3451 PROMIS completers (60.4%). Asian patients (odds ratio [OR]: 0.49, 95% CI: 0.34-0.70, P < 0.001), Black or African American patients (OR: 0.36, 95% CI: 0.29-0.45, P < 0.001), Hispanic or Latino patients (OR: 0.44, 95% CI: 0.33-0.58, P < 0.001), and patients in the highest quintile ADI (OR: 0.51, 95% CI: 0.41-0.65, P < 0.001), as well as those with higher ADI (OR: 0.53, 95% CI: 0.45-0.63, P < 0.001) and medium ADI (OR: 0.76, 95% CI: 0.65-0.90, P = 0.004), were significantly less likely to complete PROMIS surveys. Black or African American patients (OR: 2.89, 95% CI: 2.04-4.08, P < 0.001), Hispanic or Latino patients (OR: 2.43, 95% CI: 1.59-3.73, P < 0.001), and patients in the highest ADI quintile (OR: 1.86, 95% CI: 1.34-2.59, P < 0.001), as well as those with higher ADI (OR: 1.52, 95% CI: 1.20-1.92, P = 0.004), medium ADI (OR: 1.43, 95% CI: 1.17-1.76, P = 0.002), and lower ADI (OR: 1.22, 95% CI: 1.01-1.48, P = 0.04), were significantly more likely to be in the lowest PROMIS score quartile.\n\nCONCLUSIONS: Race/ethnicity and higher ADI were independently associated with poor PROMIS survey completion and worse outcomes following orthopaedic trauma. These findings underscore the need for targeted interventions to improve survey completion and outcomes among socioeconomically disadvantaged populations.\n\nLEVEL OF EVIDENCE: Prognostic, Level III. See Instructions for Authors for a complete description of levels of evidence.",
+          "doi": "10.1097/BOT.0000000000003272",
+          "journal_ta": "J Orthop Trauma",
+          "volume": "40",
+          "issue": "12S",
+          "pub_year": "2026",
+          "pub_month": "Dec",
+          "pages": "S33-S38",
+          "pub_types": [
+            "Journal Article",
+            "Multicenter Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43023665/",
+          "doi_url": "https://doi.org/10.1097/BOT.0000000000003272",
+          "journal_key": "jorthotr"
+        },
+        {
+          "pmid": "43023666",
+          "title": "The Intersection of Mental Health and Orthopaedic Trauma Outcomes.",
+          "authors": [
+            "Vallier HA"
+          ],
+          "abstract": "Trauma not only causes physical injuries but also creates long-lasting psychological effects. Posttraumatic stress disorder, anxiety, or depression can be commonly observed in patients after major trauma. Recent evidence has recommended the implementation of supportive recovery programs by trauma centers to address these important mental health conditions in trauma patients. Patient-reported outcomes play an essential role in both screening for and monitoring improvement in various mental health conditions. The purpose of the study was to review common patient-reported outcome measures and their impact on trauma recovery and patient outcomes.",
+          "doi": "10.1097/BOT.0000000000003262",
+          "journal_ta": "J Orthop Trauma",
+          "volume": "40",
+          "issue": "12S",
+          "pub_year": "2026",
+          "pub_month": "Dec",
+          "pages": "S39-S43",
+          "pub_types": [
+            "Journal Article",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43023666/",
+          "doi_url": "https://doi.org/10.1097/BOT.0000000000003262",
+          "journal_key": "jorthotr"
+        },
+        {
+          "pmid": "43023667",
+          "title": "Current Challenges and Future Directions for Patient-Reported Outcome Measures in Orthopaedic Research.",
+          "authors": [
+            "Parry JA",
+            "Slobogean GP",
+            "O'Hara NN"
+          ],
+          "abstract": "The use of patient-reported outcome measures (PROMs) in orthopaedic surgery is widespread. The American Board of Orthopaedic Surgeons recently incorporated PROM collection into the board approval process, and the Centers for Medicare & Medicaid Services has instituted mandates for PROM collection in hip and knee arthroplasty patients. However, the use of PROMs as the sole primary outcome in orthopaedic research has challenges including (1) a high administrative and cognitive burden in their collection, leading to low participation rates; (2) using PROMs that were developed without the input of the specific patient population being investigated; (3) challenges comparing the relative recovery of individual patients, limiting the interpretability of their findings; and (4) insensitivity to detecting meaningful differences in adverse events between treatment groups. The purpose of this review was to examine these challenges and to offer future directions for conducting PROMs research that is meaningful to both patients and physicians, specifically by incorporating PROMs into patient-centered hierarchical composite outcomes for analysis using the win ratio method.",
+          "doi": "10.1097/BOT.0000000000003276",
+          "journal_ta": "J Orthop Trauma",
+          "volume": "40",
+          "issue": "12S",
+          "pub_year": "2026",
+          "pub_month": "Dec",
+          "pages": "S44-S47",
+          "pub_types": [
+            "Journal Article",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43023667/",
+          "doi_url": "https://doi.org/10.1097/BOT.0000000000003276",
           "journal_key": "jorthotr"
         }
       ]
@@ -6339,6 +6274,33 @@
       "is_new": false,
       "count": 120,
       "articles": [
+        {
+          "pmid": "43026377",
+          "title": "Occipital pressure injury in the beach-chair position: a report of two cases and a review of the literature.",
+          "authors": [
+            "Alshanqiti B",
+            "Imam M",
+            "Gokaraju K",
+            "Gulihar A"
+          ],
+          "abstract": "Pressure-related occipital complications of the beach-chair position have been attributed to headrest compression, prolonged immobilisation or systemic hypoperfusion. We present two patients who developed postoperative pressure alopecia and lesser occipital neuropraxia after shoulder arthroscopy on a T-MAX (Smith & Nephew, Andover, MA) beach-chair, used in its standard articulating-cradle and foam-mask configuration. Both remained normotensive throughout, with continuous cerebral oximetry showing no desaturation, and both were positioned in neutral alignment without rotation. One developed a well-demarcated patch of occipital alopecia after 92 min; the other developed lesser occipital neuropraxia after a 180-minute procedure. Both recovered fully, at four and five months respectively. Building on earlier reports implicating the retention straps alongside rotation and duration, we propose that in the near-upright position used here, at a trunk inclination of approximately 80 degrees, the load pressing on the occiput is supplied in part by the straps rather than by gravity alone. Because interface pressures were not measured, this remains a hypothesis requiring direct testing. We describe the layered padding and repositioning protocol subsequently adopted in our unit, emphasising pressure redistribution and repeated intraoperative checks of head position. LEVEL OF EVIDENCE: Level V, Case Report.",
+          "doi": "10.1007/s00402-026-06560-5",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Case Reports",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43026377/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06560-5",
+          "journal_key": "aots"
+        },
         {
           "pmid": "43018753",
           "title": "Maintenance of periarticular joint angles after varization double-level osteotomy for severe valgus deformity: a technical and radiographic mid-term case series.",
@@ -9619,34 +9581,6 @@
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42563065/",
           "doi_url": "https://doi.org/10.1007/s00402-026-06464-4",
           "journal_key": "aots"
-        },
-        {
-          "pmid": "42563017",
-          "title": "Long-term outcomes of arthroscopic single-anchor fixation versus microfracture for osteochondral fractures of the knee weight-bearing area in adolescents and young adults.",
-          "authors": [
-            "Yang W",
-            "Pan Q",
-            "Wang H",
-            "Peng Y",
-            "Meng C",
-            "Huang W"
-          ],
-          "abstract": "PURPOSE: Osteochondral fractures involving the weight-bearing area of the knee in young patients require stable restoration of the native osteochondral fragment whenever possible. This study aimed to evaluate the long-term clinical and radiological outcomes of arthroscopic single-anchor fixation and to compare them with those of microfracture.\n\nMETHODS: This retrospective comparative study included 24 adolescents and young adults with osteochondral fractures of the femoral condyle or trochlear region treated between 2016 and 2017. Twelve patients underwent arthroscopic single-anchor in situ fixation, and 12 underwent microfracture. The fixation technique used one double-loaded suture anchor to obtain multi-point compression of the osteochondral fragment while preserving the subchondral plate. Clinical outcomes were assessed using the Lysholm, International Knee Documentation Committee, and Tegner scores. Magnetic resonance imaging was evaluated using the MOCART 2.0 score. The mean follow-up was 93.7 months.\n\nRESULTS: The single-anchor group showed a significantly higher intraoperative contact area ratio than the microfracture group (96.5% ± 3.2% vs. 85.8% ± 5.6%, P < 0.001). At final follow-up, the single-anchor group had superior Lysholm scores (91 ± 5 vs. 83 ± 8, P = 0.009), IKDC scores (86 ± 6 vs. 78 ± 7, P = 0.010), and Tegner activity levels (5.0 ± 1.1 vs. 3.9 ± 0.9, P = 0.012). MRI evaluation also favored single-anchor fixation, with higher MOCART 2.0 scores at 12 months (82.3 ± 6.4 vs. 61.7 ± 8.1, P < 0.001) and at final follow-up (79.4 ± 7.0 vs. 57.9 ± 9.0, P < 0.001). No fixation failure or revision occurred in the single-anchor group, whereas two patients in the microfracture group required reoperation.\n\nCONCLUSION: Arthroscopic single-anchor in situ fixation provided durable clinical improvement and superior long-term MRI repair quality compared with microfracture in adolescents and young adults with osteochondral fractures of the knee weight-bearing area. By preserving the native osteochondral fragment and minimizing subchondral disruption, this technique may represent a useful joint-preserving option for selected young patients with reducible osteochondral fragments.",
-          "doi": "10.1007/s00402-026-06396-z",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Aug",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Comparative Study"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42563017/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06396-z",
-          "journal_key": "aots"
         }
       ]
     },
@@ -9659,8 +9593,40 @@
       "pub_year": "2026",
       "pub_month": "Nov",
       "is_new": false,
-      "count": 62,
+      "count": 64,
       "articles": [
+        {
+          "pmid": "43025392",
+          "title": "Task-specific gait biomechanics following unilateral iliosacral screw fixation for posterior pelvic ring injury.",
+          "authors": [
+            "Jäckle K",
+            "Kramer M",
+            "Meier MP",
+            "Hawellek T",
+            "Roch PJ",
+            "Homann C",
+            "Castro WHM",
+            "Wagner H",
+            "Boström K",
+            "Lehmann W",
+            "Weiser L"
+          ],
+          "abstract": "BACKGROUND: Patients treated with unilateral iliosacral screw fixation for posterior pelvic ring injury may experience residual functional limitations. It remains unclear how these limitations manifest during tasks with different biomechanical demands. This exploratory study compared task-specific gait biomechanics between patients after fixation and healthy controls.\n\nMETHODS: In this prospective cross-sectional observational study, 11 patients after unilateral iliosacral screw fixation (mean age 68.73 ± 9.89 years; 10 women) were compared with 21 healthy controls (52.48 ± 20.36 years; 11 women). Participants performed level walking, stair climbing, and step crossing using an Xsens MVN inertial motion capture system. Pelvic kinematics and model-estimated muscle activation and joint contact forces were evaluated using Computed MyoGraphy. Repeated trials were analyzed using participant-level random-intercept mixed models adjusted for age and sex. Pelvic rotation during stair climbing was the primary outcome; other outcomes were secondary or exploratory.\n\nRESULTS: Pelvic rotation during stair climbing was lower in patients (adjusted difference -5.45°, 95% CI -7.98 to -2.92°; within-family FDR-adjusted q = 0.0003). Contralateral pelvic tilt during step crossing was greater (adjusted difference 1.44°, 95% CI 0.46-2.41°; q = 0.011). No statistically significant group differences were detected in the analyzed level-walking parameters, thoracic counter-rotation, lower-limb muscle activation, or hip joint contact-force asymmetry. Model-estimated peak L5-S1 joint contact force during stair climbing was lower in patients (adjusted difference -0.70 × body weight; q = 0.001).\n\nCONCLUSIONS: Patients after posterior pelvic ring injury treated with unilateral iliosacral screw fixation showed task-specific differences in pelvic movement during demanding locomotor activities. The findings support including stair and step tasks in functional assessment, but do not establish that fixation caused the observed differences. Small sample size, demographic imbalance, and the absence of patient-reported outcomes limit clinical interpretation.",
+          "doi": "10.1016/j.injury.2026.113884",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43025392/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113884",
+          "journal_key": "injury"
+        },
         {
           "pmid": "43014226",
           "title": "Corrigendum to \"Optimization of a fracture-related infection (FRI) rat model to mimic bacterial contaminated open fractures in orthopaedic patients-a model development study\" [57(2026) 113171].",
@@ -9685,6 +9651,34 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43014226/",
           "doi_url": "https://doi.org/10.1016/j.injury.2026.113899",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "43025391",
+          "title": "Fragility fractures: An increasing issue in the ageing population worldwide.",
+          "authors": [
+            "Ruggieri P",
+            "Pala E",
+            "Giannini S",
+            "Sergi G",
+            "Arcidiacono GP",
+            "Angelini A",
+            "Trovarelli G"
+          ],
+          "abstract": "",
+          "doi": "10.1016/j.injury.2026.113902",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Editorial"
+          ],
+          "section": "Editorial",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43025391/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113902",
           "journal_key": "injury"
         },
         {
@@ -11444,6 +11438,29 @@
       "is_new": false,
       "count": 120,
       "articles": [
+        {
+          "pmid": "43024050",
+          "title": "Time to Surgery after Hip Fracture: Anticoagulation May Confound Surgical Delay and Outcome.",
+          "authors": [
+            "Barrett L",
+            "Metcalfe D"
+          ],
+          "abstract": "",
+          "doi": "10.1007/s00068-026-03395-y",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Letter"
+          ],
+          "section": "Letter",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43024050/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03395-y",
+          "journal_key": "ejtes"
+        },
         {
           "pmid": "43018744",
           "title": "Traumatic renal injuries: the prevalence, management and outcome of renal vascular injury.",
@@ -14866,33 +14883,6 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42461297/",
           "doi_url": "https://doi.org/10.1007/s00068-026-03272-8",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42461284",
-          "title": "Impact of a comprehensive trauma pathway on workflow and clinical processes in a level III trauma center.",
-          "authors": [
-            "Neitzert L",
-            "Druetto C",
-            "Forno D",
-            "Molino P",
-            "Vitale D",
-            "Grio M"
-          ],
-          "abstract": "PURPOSE: Organized trauma systems improve coordination of care and may enhance the efficiency of trauma management, potentially improving outcomes and reducing hospital length of stay and costs. The aim of the study was to evaluate key process-of-care indicators and clinical outcomes before and after the introduction of a comprehensive trauma pathway.\n\nMETHODS: We conducted a single-center retrospective-prospective cohort study at Rivoli Hospital, Italy. Trauma patients admitted to the Emergency Department (ED) between 2024 and 2025 who met the criteria for trauma team activation were prospectively included. Outcomes were compared with a retrospective cohort from the period prior to the implementation of the dedicated trauma pathway (2023-2024).\n\nRESULTS: A total of 465 patients were included. Implementation of a comprehensive trauma pathway was associated with significant improvements in several time-dependent quality indicators, including ED boarding time (888 vs. 1021 min; p = 0.02), time to imaging (48 vs. 78 min; p < 0.01), time to surgery (183 vs. 237 min; p = 0.03), time to ICU admission (226 vs. 343 min; p = 0.02), and time to interhospital transfer (238 vs. 305 min; p = 0.04). We observed a trend toward a reduction in early mortality (2% vs. 3.6%; p = 0.41) and 30-day mortality (3.7% vs. 5.9%; p = 0.62).\n\nCONCLUSIONS: The adoption of a structured multidisciplinary trauma management pathway was associated with improved timeliness of care for trauma patients. Although mortality rates were lower after pathway implementation, the study was not powered to demonstrate a survival benefit.",
-          "doi": "10.1007/s00068-026-03268-4",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42461284/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03268-4",
           "journal_key": "ejtes"
         }
       ]
