@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T14:23:44Z",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T16:31:59Z",
   "counts": {
     "articles": 525,
     "journals_with_articles": 10,
@@ -6275,6 +6275,69 @@
       "count": 120,
       "articles": [
         {
+          "pmid": "43035607",
+          "title": "Five-year outcomes after brace-free versus brace-based rehabilitation following isolated anterior cruciate ligament reconstruction with hamstring tendon autograft: long-term follow-up of a randomized controlled trial.",
+          "authors": [
+            "Schoepp C",
+            "Praetorius A",
+            "Tennler J",
+            "Raeder C",
+            "Schroeder M",
+            "Hax J",
+            "Seelmann C",
+            "Ohmann T",
+            "Efe T",
+            "Dudda M",
+            "Neidlein C"
+          ],
+          "abstract": "INTRODUCTION: Postoperative knee bracing following anterior cruciate ligament reconstruction (ACLR) remains common practice despite growing evidence questioning its clinical benefit. Previous studies demonstrated that brace-free rehabilitation was noninferior to brace-based rehabilitation one year after isolated ACLR using hamstring tendon autograft; however, its long-term effects remain unknown. The purpose of this study was to evaluate long-term effects five years after surgery.\n\nMATERIALS AND METHODS: Patients enrolled in a prospective randomized controlled trial conducted between 2016 and 2019 were recontacted approximately five years after isolated primary ACLR with hamstring tendon autograft for a long-term follow-up. In the original trial, 139 patients had been randomized to postoperative rehabilitation without a brace (n = 71) or with a functional knee brace (n = 68). Participants completed several patient-reported outcome measures. Furthermore, a standardized telephone interview was performed. Changes between the one-year and five-year follow-up were analyzed.\n\nRESULTS: Ninety-seven patients participated in the long-term follow-up (n = 45 brace-free group, n = 52 brace group). Mean follow-up was 5.2 ± 1.0 years. No significant differences were observed between groups regarding subjective knee function, activity level, quality of life, rerupture rate, revision surgery, or persistent knee-related complaints at final follow-up. However, there was a significant interaction between treatment group and time for the subjective IKDC score. Patients treated without postoperative bracing showed stable or slightly improved subjective knee function, whereas patients treated with a brace demonstrated a significant decline between one and five years.\n\nDISCUSSION: Brace-free rehabilitation after isolated ACL reconstruction with hamstring tendon autograft remains safe and effective more than five years after surgery. Postoperative bracing did not reduce rerupture rates, revision surgery, or long-term functional impairment. Instead, brace-free rehabilitation demonstrated a more favorable longitudinal development of subjective knee function. These findings further question the routine postoperative prescription of rehabilitative knee braces following isolated ACL reconstruction.",
+          "doi": "10.1007/s00402-026-06555-2",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Randomized Controlled Trial",
+            "Comparative Study"
+          ],
+          "section": "Randomized Trial",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43035607/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06555-2",
+          "journal_key": "aots"
+        },
+        {
+          "pmid": "43035570",
+          "title": "Osteomyelitis after open supracondylar fracture in a child: a case report and review of the literature.",
+          "authors": [
+            "Stubenböck E",
+            "Mindler G",
+            "Öhner T",
+            "Moser V",
+            "Beer T",
+            "Quadlbauer S"
+          ],
+          "abstract": "The management of open fractures in children relies on several critical strategies to minimize the risk of infection, including the timing of surgical debridement, appropriate antibiotic prophylaxis, and the choice of osteosynthesis technique. Despite these considerations, the overall rate of postoperative infection in children remains relatively low. Consequently, clinical experience with deep postoperative infections in pediatric patients is limited. Furthermore, the highly variable and often subtle clinical presentation can make early diagnosis challenging. We present the case of an 8-year-old child who developed osteomyelitis following a Gustilo-Anderson grade III open supracondylar humerus fracture.",
+          "doi": "10.1007/s00402-026-06546-3",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Case Reports",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43035570/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06546-3",
+          "journal_key": "aots"
+        },
+        {
           "pmid": "43026377",
           "title": "Occipital pressure injury in the beach-chair position: a report of two cases and a review of the literature.",
           "authors": [
@@ -9521,65 +9584,6 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42573613/",
           "doi_url": "https://doi.org/10.1007/s00402-026-06472-4",
-          "journal_key": "aots"
-        },
-        {
-          "pmid": "42565864",
-          "title": "A comparative analysis of three knee arthrodesis techniques to manage failed total knee arthroplasty due to infection: intramedullary nailing, LRS external fixator, and compression plating.",
-          "authors": [
-            "Rajasekaran RB",
-            "Ponniah HS",
-            "Palanisami DR",
-            "Sundaram VP",
-            "Palanivelayutham SS",
-            "Jayaramaraju D",
-            "Dhanasekaran S",
-            "Rajasekaran S"
-          ],
-          "abstract": "INTRODUCTION: This study compared external fixation (EF), intramedullary nailing (IMN), and compression plating (CP) for knee arthrodesis (KA) following failed total knee arthroplasty (TKA) due to periprosthetic joint infection, focusing on complications, radiological, and functional outcomes.\n\nMETHODS: Patients aged ≥ 18 who underwent knee arthrodesis following failed TKA due to infection from 2008 to 2023 were included. Four surgeons used three techniques: EF, IMN, and CP. Retrospective data on demographics, surgical techniques, complications, and outcomes were collected. Postoperative patient-reported outcome measures (PROMs), pain, and functional status were assessed. Radiographic data was reviewed for limb shortening and union status.\n\nRESULTS: 46 patients (mean age 61.9 years, BMI 28.2), predominantly male (84.8%) were involved in this study. Twenty patients underwent EF, 16 underwent CP, and 10 underwent IMN, all for infected primary TKA. Pseudomonas was the most common infecting organism (15.2%). Average follow-up was 29.1 months. Bony fusion was achieved in 41 knees (89.1%), with five requiring additional surgery; four eventually required amputation due to non-fusion. EF group had the shortest time to union and no major complications or amputations. Time to union was significantly shorter in the CP group compared to the IMN group (p < 0.001), and EF group also had a significantly shorter time to union compared to IMN (p = 0.02). Infection eradication was 100% in the EF group, with significantly fewer additional surgeries and complications compared to the IMN group. Overall patient satisfaction was high (82.6%), with most patients reporting no pain and functional outcomes ranging from mild limitation to fully normal function.\n\nCONCLUSION: KA has shown to be an effective method to control infection, achieve fusion and provide pain relief following failed infected TKA. EF emerged as the preferable method for knee arthrodesis, showing fewer complications, shorter union times, and no additional surgeries compared to IMN and CP.",
-          "doi": "10.1007/s00402-026-06469-z",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Aug",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Comparative Study"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42565864/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06469-z",
-          "journal_key": "aots"
-        },
-        {
-          "pmid": "42563065",
-          "title": "Accuracy of iliac crest reference pin placement in total hip arthroplasty: a CT-based analysis of risk factors for cortical perforation.",
-          "authors": [
-            "Masada Y",
-            "Tetsunaga T",
-            "Yamada K",
-            "Inoue T",
-            "Okuda R",
-            "Tetsunaga T",
-            "Okazaki Y",
-            "Ozaki T"
-          ],
-          "abstract": "INTRODUCTION: Accurate iliac crest reference pin placement is essential for safe navigation-assisted total hip arthroplasty (THA). Although complications are uncommon, inaccurate placement may cause neurovascular injury. This study aimed to evaluate pin insertion accuracy using postoperative computed tomography (CT), identify risk factors for cortical perforation, and determine whether CT-detected cortical perforation was associated with postoperative acetabular cup positioning accuracy.\n\nMATERIALS AND METHODS: We retrospectively analyzed 200 primary THAs performed using portable or CT-based navigation between December 2022 and July 2025. Pin position was assessed on CT 1 week postoperatively and classified as complete intraosseous insertion or cortical perforation. Risk factors were examined using univariable and multivariable logistic regression analyses. Perforation direction was evaluated using Firth's penalized logistic regression. Postoperative cup positioning accuracy was assessed using CT-based radiographic inclination (RI), radiographic anteversion (RA), and absolute errors from target angles of 40° for RI and 15° for RA.\n\nRESULTS: Cortical perforation occurred in 70 of 200 hips (35.0%): 32 medial and 38 lateral. On a pin-by-pin basis, 113 of 400 pins (28.3%) demonstrated perforation. In multivariable analysis, smaller ASIS width, lateral decubitus positioning, and 4-mm pin use independently predicted cortical perforation. Medial perforation was independently associated with lateral decubitus positioning, 4-mm pin use, and smaller iliac wing angle in Firth's model. RI, RA, absolute RI error, and absolute RA error did not differ significantly between the intraosseous and cortical perforation groups. All hips in both groups were within 10° of the target angles for both RI and RA. No dislocation or revision surgery occurred in either group.\n\nCONCLUSIONS: CT-detected cortical perforation of iliac crest reference pins was common but was rarely accompanied by clinically apparent complications and was not associated with inferior postoperative cup positioning accuracy. Perforation risk was influenced by insertion position, platform-associated instrumentation, and pelvic morphology. These findings should be interpreted primarily as a technical accuracy endpoint rather than as evidence of clinically proven harm. The clinical significance of CT-detected cortical perforation remains uncertain, and particular attention should be paid to minimizing medial cortical breach.",
-          "doi": "10.1007/s00402-026-06464-4",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Aug",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42563065/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06464-4",
           "journal_key": "aots"
         }
       ]
