@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-16",
-  "generated_at": "2026-11-16T16:31:59Z",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T16:31:43Z",
   "counts": {
-    "articles": 525,
+    "articles": 527,
     "journals_with_articles": 10,
     "journals_searched": 11,
     "new_issues": 0
@@ -4047,7 +4047,7 @@
       "pub_year": "2026",
       "pub_month": "Nov",
       "is_new": false,
-      "count": 65,
+      "count": 66,
       "articles": [
         {
           "pmid": "41329416",
@@ -4393,6 +4393,37 @@
           "section": "Observational Study",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42752738/",
           "doi_url": "https://doi.org/10.1186/s10195-026-00967-x",
+          "journal_key": "jot_trauma"
+        },
+        {
+          "pmid": "43037862",
+          "title": "Open fractures in children: a retrospective observational study.",
+          "authors": [
+            "van Veenendaal CG",
+            "Tromp TN",
+            "Hermans E",
+            "Backes M",
+            "Ten Ham AM",
+            "Timmermans L",
+            "de Jong T",
+            "Nelen SD"
+          ],
+          "abstract": "BACKGROUND: Fractures are among the most common traumatic musculoskeletal injuries in children. A small fraction of these are open fractures. The risks of complications such as infection and soft tissue damage are suggested to be higher than closed fractures. The aim is to describe the characteristics, treatment, and outcomes of paediatric open fractures treated at a single level-1 trauma centre in the Netherlands.\n\nMATERIALS AND METHODS: Patient and trauma characteristics were extracted from the Dutch National Trauma Registry, whereafter the data were completed with treatment and outcome information obtained from clinical patient records. Descriptive statistics were performed.\n\nRESULTS: Overall, 52 cases of paediatric open fractures were identified. The majority was male (73.1%) and the most common injury cause was a road traffic accident (55.8%), followed by low-energy falls (11.5%). Only 27.0% had an Injury Severity Score (ISS) > 15. The most frequently fractured bones were tibia (38.5%), fibula (25.0%), hand (21.2%), radius (7.7%) and ulna (7.7%). Physeal involvement was seen in 9.5%. Complications were documented in 26.9% of all patients. Infections were seen in 15.4%, malunion and non-union in 3.8% of the research population.\n\nCONCLUSIONS: Paediatric open fractures are relatively rare and most often occur after road traffic accidents with mostly ISS scores below 15. Physeal involvement is rare. Bone healing problems seem to be infrequent in the paediatric population.\n\nLEVEL OF EVIDENCE: Level 4.",
+          "doi": "10.1186/s10195-026-00959-x",
+          "journal_ta": "J Orthop Traumatol",
+          "volume": "27",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Aug",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Observational Study",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43037862/",
+          "doi_url": "https://doi.org/10.1186/s10195-026-00959-x",
           "journal_key": "jot_trauma"
         },
         {
@@ -6437,8 +6468,7 @@
             "Journal Article",
             "Systematic Review",
             "Meta-Analysis",
-            "Comparative Study",
-            "Review"
+            "Comparative Study"
           ],
           "section": "Systematic Review",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43004003/",
@@ -7003,8 +7033,7 @@
           "pub_types": [
             "Journal Article",
             "Systematic Review",
-            "Meta-Analysis",
-            "Review"
+            "Meta-Analysis"
           ],
           "section": "Systematic Review",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42918921/",
@@ -9597,8 +9626,32 @@
       "pub_year": "2026",
       "pub_month": "Nov",
       "is_new": false,
-      "count": 64,
+      "count": 65,
       "articles": [
+        {
+          "pmid": "43038945",
+          "title": "Is it necessary to distally lock all pertrochanteric cephalo-medullary fixation in the geriatric population?",
+          "authors": [
+            "Ali M",
+            "Locke E",
+            "Buckley R"
+          ],
+          "abstract": "",
+          "doi": "10.1016/j.injury.2026.113903",
+          "journal_ta": "Injury",
+          "volume": "57",
+          "issue": "12",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43038945/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113903",
+          "journal_key": "injury"
+        },
         {
           "pmid": "43025392",
           "title": "Task-specific gait biomechanics following unilateral iliosacral screw fixation for posterior pelvic ring injury.",
@@ -11442,6 +11495,115 @@
       "is_new": false,
       "count": 120,
       "articles": [
+        {
+          "pmid": "43037693",
+          "title": "Research on the morphology and injury mechanism of pilon fractures.",
+          "authors": [
+            "Chen H",
+            "Wang S",
+            "Shao A",
+            "Sun K"
+          ],
+          "abstract": "INTRODUCTION: Understanding the relationship between injury mechanisms and fracture morphology in high-energy Pilon fractures is essential for optimizing preoperative planning and surgical outcomes. To investigate the associations between injury mechanisms and fracture morphology in high-energy Pilon fractures and to provide a theoretical basis for precision diagnosis and treatment.\n\nMETHODS: This retrospective study included 192 patients with high-energy Pilon fractures treated at Lianyungang Second People's Hospital between January 2010 and December 2024. Using a standardized \"trauma history-first plus imaging cross-validation\" protocol, patients were categorized into 5 groups: dorsiflexion, varus, valgus, plantarflexion, and neutral. Two senior orthopedic surgeons (≥ 10 years of experience) independently and blindly assessed anteroposterior and lateral tibiofibular radiographs, CT scans, and three-dimensional reconstructions. Evaluated parameters included fibular fracture level and type, tibial fragment distribution, fracture angle, and Topliss classification. Interobserver reliability was assessed using Cohen's kappa coefficient. Group comparisons were performed using the chi-square (χ²) test or Fisher's exact test with Bonferroni correction for multiple comparisons. Statistical significance was defined as P < 0.05.\n\nRESULTS: Among the 192 patients, 154 (80.2%) were male and 38 (19.8%) were female. The mean (SD) age was 43.38 (12.56) years (range, 14-71 years). Interobserver agreement was substantial for injury mechanism classification (κ = 0.82; 95% CI, 0.75-0.89) and core morphological assessments (κ = 0.87; 95% CI, 0.81-0.93). Fracture morphology differed significantly among mechanism groups (P < 0.05). Dorsiflexion injuries were characterized by the \"medial + anterolateral + Die-punch\" fragment pattern (45.0%; 95% CI, 23.1%-66.9%), fracture angles > 90° (65.0%), and coronal Y-shaped fractures (25.0%). Varus injuries predominantly showed the \"anterolateral + posterolateral + medial + Die-punch\" pattern (32.5%) and simple sagittal split fractures (40.0%). Valgus injuries were associated with comminuted fibular fractures (64.3%) and coronal V/Y-shaped tibial fractures (35.7%). Plantarflexion injuries typically involved posterolateral fragments (61.5%) and fracture angles > 90° (80.8%). Neutral injuries were characterized by complex multifragmentary comminuted fractures with Die-punch collapse (33.7%).\n\nCONCLUSION: There is a significant and reproducible association between injury mechanisms and fracture morphology in high-energy Pilon fractures. This mechanism-based morphological characterization may provide an objective reference for preoperative assessment and individualized surgical planning. The clinical utility and prognostic value of this classification framework still need to be verified in further prospective studies with clinical outcome endpoints.",
+          "doi": "10.1007/s00068-026-03388-x",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43037693/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03388-x",
+          "journal_key": "ejtes"
+        },
+        {
+          "pmid": "43037679",
+          "title": "Critically ill trauma in Portugal: a multicenter intensive care cohort study of frailty, organ dysfunction, and outcomes.",
+          "authors": [
+            "Gonçalves Pereira M",
+            "Pinho A",
+            "Guimarães T",
+            "Correia F",
+            "Simões L",
+            "Gomes E",
+            "Oliveira HM",
+            "Mendes JJ",
+            "RNMI - Trauma investigators"
+          ],
+          "abstract": "PURPOSE: Multicenter data on critically ill trauma patients admitted to Portuguese intensive care units (ICUs) are lacking. We aimed to characterize their epidemiology, injury profile, organ dysfunction trajectories and outcomes, and to evaluate the prognostic performance of severity and frailty measures.\n\nMETHODS: Multicenter retrospective cohort study within the National Intensive Care Registry (RNMI) of adults (≥ 18 years) admitted to an ICU as a direct consequence of trauma (1 October-31 December 2024) in 32 of 50 voluntarily participating Portuguese ICUs; not nationally representative. SAPS II, ISS, TRISS, the Clinical Frailty Scale, daily SOFA scores, organ support, quality of life and mortality were collected. Prognostic performance was assessed by ROC analysis, multivariable logistic regression, calibration, and mixed-effects modelling of serial SOFA.\n\nRESULTS: 457 patients were included; median age 61 years (IQR 45-74), 72.0% male. Falls were the leading injury mechanism (46.9%). Traumatic brain injury (32.9%) and thoracic trauma (21.4%) predominated. Observed ICU and hospital mortality were 11.0% and 15.3%, respectively. SOFA scores were consistently higher in non-survivors from day one. SAPS II showed the highest discrimination for hospital mortality (AUC 0.874, 95% CI 0.825-0.924), followed by TRISS (0.758) and the Clinical Frailty Scale (0.702). SAPS II, day-1 SOFA, and frailty were independently associated with hospital mortality. SAPS II over-predicted mortality (observed/expected 0.64), whereas TRISS showed a non-significant tendency to under-predict it (1.32, 95% CI 0.99-1.72).\n\nCONCLUSIONS: In this multicenter cohort from 32 voluntarily participating ICUs, patients were older, with frequent falls, neurotrauma and thoracic injury, and moderate mortality. Organ dysfunction trajectories and frailty were associated with hospital mortality, but incremental predictive value was not assessed; both merit inclusion in future trauma registry frameworks.",
+          "doi": "10.1007/s00068-026-03385-0",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Multicenter Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43037679/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03385-0",
+          "journal_key": "ejtes"
+        },
+        {
+          "pmid": "43037678",
+          "title": "Influence of cerebrospinal fluid dynamics on aseptic bone flap resorption: a single-center retrospective study.",
+          "authors": [
+            "Jaber M",
+            "Lampmann T",
+            "Asoglu H",
+            "Banat M",
+            "Vatter H",
+            "Hamed M"
+          ],
+          "abstract": "OBJECTIVE: Aseptic bone flap resorption (ABFR) remains a common complication after autologous cranioplasty following decompressive craniectomy (DC), with reported prevalences varying widely-often reported between 10% and 30%-likely due to inconsistent follow-up. Data on cerebrospinal fluid (CSF) dynamics in pathogenesis of ABFR are scarce. Aim of the present study was therefore to identify potential risk factors, with a particular focus on CSF drainage procedures.\n\nMETHODS: In this retrospective single-center study, we reviewed consecutive patients who underwent DC followed by autologous cranioplasty from 2015 to 2022. We collected demographics, clinical details, perioperative variables, and CSF interventions. Univariate and multivariate analyses identified associations, with subgroup focus on patients completing structured follow-up.\n\nRESULTS: ABFR was diagnosed in 39/259 patients (15.1%), resulting in 38/101 (37.6%) in the 6-months follow-up cohort. Changes in CSF dynamics such as preoperative lumbar CSF drainage (p = 0.035) were identified as a risk factor, whereas ventriculoperitoneal shunt pressure adjustment was not associated with an increased risk of ABFR. After differentiation of the direction of adjustment, pressure reduction was not associated with ABFR. Especially preoperative lumbar CSF drainage remains an independent risk factor (p = 0.023) in multivariate analysis.\n\nCONCLUSIONS: Without structured imaging follow-up, ABFR rates are likely underestimated. CSF dynamic alterations beyond shunt presence alone may represent a relevant risk factor for ABFR. Our findings emphasize that primary alloplastic cranioplasty could be considered in at least a subgroup of patients.",
+          "doi": "10.1007/s00068-026-03386-z",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43037678/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03386-z",
+          "journal_key": "ejtes"
+        },
+        {
+          "pmid": "43037677",
+          "title": "Trauma-associated cardiac arrest - insights and results from a German rescue helicopter station.",
+          "authors": [
+            "Zinser L",
+            "Schmid S",
+            "Hossfeld B",
+            "Gässler H"
+          ],
+          "abstract": "INTRODUCTION: In comparison with cardiac arrest attributable to other causes, trauma-associated out-of-hospital cardiac arrest has low survival rates, but survivors often show good neurological recovery. This study aimed to provide a deeper understanding of trauma-associated cardiopulmonary resuscitation (CPR) in terms of trauma mechanisms, injury patterns, CPR measures, and outcomes.\n\nMETHODS: In this retrospective single-center study, emergency physician reports on trauma-associated CPRs performed by the Christoph 22 helicopter emergency medical service (HEMS) from 2013 to 2023 at the study site in Ulm were analyzed using the chi-square test and binary logistic regression.\n\nRESULTS: In total, 126 cases of prehospital trauma-associated CPR at the Ulm HEMS site were included. Four patients (3.2%) survived, with all four showing good neurological recovery. The most common cause of trauma was motorcycle accident. The patients most frequently presented with traumatic brain injury (TBI) (69.6%) and/or chest injuries (79.2%). Chest decompression was performed in 93.9% of the patients with chest injuries. TBI was the only injury to show a (negative) association with 30-day survival (1.1% vs. 7.9%; p = 0.049), this observation was independent of whether the TBI was isolated or occurred in combination with pelvic, abdominal, and/or chest injuries.\n\nCONCLUSION: In this study on trauma-associated CPR, the survival rate remained low, but the neurological recovery of survivors was often good. TBI, both isolated and in combination with chest, abdomen, and/or pelvic injuries, seemed to be a prognostically unfavorable factor. However, with only four long-term survivors, it is hardly possible to draw reliable conclusions.",
+          "doi": "10.1007/s00068-026-03393-0",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43037677/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03393-0",
+          "journal_key": "ejtes"
+        },
         {
           "pmid": "43024050",
           "title": "Time to Surgery after Hip Fracture: Anticoagulation May Confound Surgical Delay and Outcome.",
@@ -14768,125 +14930,6 @@
           "section": "Systematic Review",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42479212/",
           "doi_url": "https://doi.org/10.1007/s00068-026-03263-9",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42479210",
-          "title": "Extension of the fluidics NTF-Biobank of polytraumatized patients with extracellular vesicles: improved vesicle preservation through local processing.",
-          "authors": [
-            "Weber B",
-            "Leppik L",
-            "Han J",
-            "Becker N",
-            "Wang T",
-            "Groven RVM",
-            "Balmayor ER",
-            "Zhao Q",
-            "Sturm R",
-            "Relja B",
-            "Hildebrand F",
-            "Marzi I"
-          ],
-          "abstract": "PURPOSE: Extracellular vesicles (EVs) show diagnostic relevance in trauma, prompting the development of the NTF‑EV‑Biobank as an extension of the established Network Trauma Research (NTF) plasma/serum biobank. After optimizing the EV isolation and characterization standard operating procedure (SOP) at a single center, this multicenter study evaluates its transferability and examines how sample transport affects EV quality before large‑scale implementation in a nationwide biobank setting.\n\nMETHODS: Plasma and serum from polytrauma patients and healthy controls (n=10) were processed under the standardized NTF‑Biobank protocol and distributed to three centers. EVs were isolated using the unified NTF‑EV‑Biobank workflow, exchanged between centers, and analyzed for protein markers, particle size and concentration (NTA), total protein content, and morphology (TEM) to compare EV quality across sites.\n\nRESULTS: Implementation of the EV biobank protocol across participating centers, as well as inter-center transport on dry ice, was successfully performed without complications. All samples arrived at the analyzing centers in a frozen state. EVs exhibited typical vesicular morphology as confirmed by transmission electron microscopy and remained positive for CD9 and CD81, indicating that transportation did not affect morphology or surface marker expression. However, transportation did reduce EV yield as assessed by NTA, while total protein content remained unchanged.\n\nCONCLUSION: Transport of isolated EVs between centers resulted in a significant reduction in EV yield, accompanied by a partial increase in particle size. Based on these findings, the storage and distribution of EVs in isolated form within the NTF-EV-Biobank were deemed unsuitable. Instead, samples should be stored and transported as plasma/serum, with EV isolation performed at the destination site.",
-          "doi": "10.1007/s00068-026-03280-8",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Multicenter Study"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42479210/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03280-8",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42479172",
-          "title": "Whole blood first resuscitation and association of blood product utilization based on mechanism of injury.",
-          "authors": [
-            "Hadley J",
-            "Conner J",
-            "Thomas C",
-            "Llorente K",
-            "Gilani A",
-            "White B",
-            "Miller Iii P",
-            "Nunn A",
-            "Stettler G"
-          ],
-          "abstract": "INTRODUCTION: Studies evaluating the effect of whole blood (WB) vs. component-based resuscitation accounting for mechanism of injury are lacking. We sought to evaluate the effects of a WB first resuscitation strategy regarding mechanism of injury.\n\nMETHODS: This is a retrospective cohort study of trauma patients who received any blood product during resuscitation from January 2016 to November 2021. The primary outcomes were total blood volume utilized within 24 h and 30-day mortality. Multivariable gamma regression with a log link was used for blood volume and logistic regression for mortality. A likelihood ratio test evaluated whether injury mechanism modified the treatment effect.\n\nRESULTS: Between January 2016 and November 2021, 1,013 injured patients received blood products (785 WB-first). We did not detect statistically significant effect modification by injury mechanism for either outcome (interaction p = 0.44 for blood volume, p = 0.25 for mortality). In multivariable gamma regression, WB-first resuscitation was associated with a ratio of mean total blood volume of 0.71 (95% CI 0.55 to 0.90, p = 0.005) relative to components, representing approximately 29% lower utilization. WB-first was not associated with 30-day mortality (OR 0.90, 95% CI 0.48 to 1.71, p = 0.73).\n\nCONCLUSIONS: A WB-first resuscitation strategy is associated with lower blood volume utilized within the first 24 h, without statistically significant effect modification by injury mechanism (though clinically meaningful mechanism-specific differences cannot be excluded). The mortality estimate was non-significant across all analytic approaches but varied in direction (OR 0.66 to 1.48) and was sensitive to handling of approximately 30% of patients with incomplete laboratory data. Further studies are needed to determine which populations most benefit from WB-based resuscitation.",
-          "doi": "10.1007/s00068-026-03266-6",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42479172/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03266-6",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42461313",
-          "title": "Reported complications after spinopelvic fixation for U-type sacral fractures in older adults: a systematic review with narrative synthesis.",
-          "authors": [
-            "Giordano V",
-            "Pinheiro HRS",
-            "Pires RE",
-            "Varga P",
-            "Freitas A",
-            "Giannoudis PV"
-          ],
-          "abstract": "BACKGROUND: Spinopelvic fixation (SPF), alone or combined with iliosacral or transiliac-transsacral fixation, is often used for highly unstable posterior pelvic ring injuries and some fragility fracture patterns in older adults. However, the evidence specifically describing complications after SPF in older patients with U-type sacral fractures is limited.\n\nMETHODS: This systematic review was conducted according to the Cochrane Handbook and PRISMA recommendations. PubMed, Embase, and grey-literature sources were searched from January 1, 2000 to July 31, 2025. Eligible studies included adults aged 60 years or older with U-type sacral fractures or closely related spinopelvic dissociation/FFP IVb patterns treated with SPF, and reporting at least one complication. Because of the small number of eligible studies, probable cohort overlap, heterogeneity in fracture definitions, treatment indications, fixation constructs, and outcome reporting, findings were synthesized narratively rather than pooled quantitatively.\n\nRESULTS: Three studies met the eligibility criteria, comprising 157 patients overall; however, only a subset underwent SPF, and two studies were produced by the same group with probable cohort overlap. The available cohorts mixed bilateral sacral fragility fractures, FFP IVb patterns, and comparative SPF-versus-trans-sacral constructs. Reported adverse events included wound or infectious complications, urinary tract infection and other medical complications, reoperation, and mortality. Construct-specific complication rates for true SPF-treated U-type fractures in older adults could not be estimated reliably.\n\nCONCLUSION: The available literature on SPF for U-type sacral fractures in older adults is extremely limited, clinically heterogeneous, and partly overlapping. Current evidence permits only a cautious narrative description of reported complications; it does not allow reliable estimation of complication rates, meaningful comparison with alternative fixation strategies, or definitive conclusions regarding indications for routine SPF use in this population.",
-          "doi": "10.1007/s00068-026-03271-9",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Systematic Review"
-          ],
-          "section": "Systematic Review",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42461313/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03271-9",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42461297",
-          "title": "Influence of allograft augmentation on surgical outcomes and complications in proximal humerus fractures: a matched-pair analysis.",
-          "authors": [
-            "Barthel C",
-            "Rudolph F",
-            "Kalbas Y",
-            "Russek R",
-            "Pape HC",
-            "Allemann F"
-          ],
-          "abstract": "BACKGROUND: Proximal humerus fractures predominantly affect elderly patients and pose a growing clinical burden. This study evaluates the impact of allograft augmentation on operative time, fracture reduction quality, and complication rates compared with standard fixation across different fracture morphologies.\n\nMETHODS: This retrospective matched-pair study included patients surgically treated for proximal humerus fractures with locking plate fixation at a single tertiary trauma center between 01.01.2014 and 31.12.2024. Patients treated with allograft augmentation (Group A) were matched 1:1 to patients without allograft (Group NA) using exact matching for Mayo FJD fracture morphology and sex, and propensity score matching for age. Radiological outcomes were assessed using pre- and postoperative neck-shaft angles, with normalization defined as correction into the physiological range (120°-150°). Complications and operative parameters were recorded. Paired statistical analyses were applied.\n\nRESULTS: A total of 1,012 patients were treated during the study period; after selection and matching, 102 matched patient pairs (204 patients) were analyzed. Operative time was longer with allograft augmentation (141.3 ± 40.3 vs. 126.9 ± 50.0 min; p = 0.08), reaching statistical significance only in varus posteromedial fractures (144.4 ± 37.8 vs. 122.2 ± 39.6 min; p = 0.007). Although overall postoperative alignment rates were comparable, allograft augmentation more frequently achieved correction to a physiological neck-shaft angle (62.7% vs. 48.0%; p = 0.044). Overall complication rates were comparable (20.6% vs. 26.5%; p = 0.43), while functional complications occurred less frequently with allograft augmentation (1.0% vs. 7.8%; p = 0.035).\n\nCONCLUSIONS: Allograft augmentation was associated with a higher rate of restoration to a physiological neck-shaft angle without an increase in overall complication rates, although at the cost of slightly longer operative time in selected fracture patterns. The clinical relevance of these radiographic findings requires further evaluation using validated patient-reported outcome measures. While secondary analyses were exploratory, the findings suggest that allograft augmentation may be useful in situations where achieving and maintaining anatomical alignment is challenging.\n\nLEVEL OF EVIDENCE: III, retrospective comparative study.",
-          "doi": "10.1007/s00068-026-03272-8",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42461297/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03272-8",
           "journal_key": "ejtes"
         }
       ]
