@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T16:00:36Z",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T16:07:08Z",
   "counts": {
-    "articles": 467,
+    "articles": 468,
     "journals_with_articles": 10,
     "journals_searched": 11,
     "new_issues": 1
@@ -2219,469 +2219,522 @@
       "journal": "JBJS (American)",
       "ta": "J Bone Joint Surg Am",
       "volume": "108",
-      "issue": "21",
+      "issue": "22",
       "pub_year": "2026",
       "pub_month": "Nov",
-      "is_new": false,
-      "count": 18,
+      "is_new": true,
+      "count": 19,
       "articles": [
         {
-          "pmid": "42980650",
-          "title": "Transparency and Accountability in the Age of AI: Updated Policy for JBJS Authors.",
+          "pmid": "43049737",
+          "title": "Fracture Care in Older Individuals.",
           "authors": [
-            "Strelzow J",
-            "Ghert M",
-            "Bini SA"
+            "Okike K",
+            "Schemitsch E"
           ],
           "abstract": "",
-          "doi": "10.2106/JBJS.26.01081",
+          "doi": "10.2106/JBJS.26.01099",
           "journal_ta": "J Bone Joint Surg Am",
           "volume": "108",
-          "issue": "21",
+          "issue": "22",
           "pub_year": "2026",
           "pub_month": "Nov",
-          "pages": "1655-1657",
+          "pages": "1745",
           "pub_types": [
             "Journal Article"
           ],
           "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42980650/",
-          "doi_url": "https://doi.org/10.2106/JBJS.26.01081",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43049737/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.01099",
           "journal_key": "jbjs"
         },
         {
-          "pmid": "42479821",
-          "title": "Acing the Base in Adult Spinal Deformity: Commentary on an article by Benjamin D. Elder, MD, PhD, et al.: \" Placement of Triangular Titanium Implants Suprajacent to Pelvic Fixation Screws Reduces Pelvic Fixation Failure in Multilevel Spinal Fusion Surgery. Results of a Randomized Controlled Trial \".",
+          "pmid": "42312478",
+          "title": "Does the Use of Liposomal Bupivacaine in Hip Fracture Surgery Have Any Advantage Over Conventional Analgesia for Postoperative Pain Control?: Commentary on an article by Xiang Yu, MD, et al.: \" Incisional Infiltration of Liposomal Bupivacaine in Geriatric Hip Fracture Surgery. A Randomized Parallel-Group Trial \".",
           "authors": [
-            "Soh RCC"
+            "Keating JF"
           ],
           "abstract": "",
-          "doi": "10.2106/JBJS.26.00263",
+          "doi": "10.2106/JBJS.26.00574",
           "journal_ta": "J Bone Joint Surg Am",
           "volume": "108",
-          "issue": "21",
+          "issue": "22",
           "pub_year": "2026",
           "pub_month": "Nov",
-          "pages": "1658-1659",
+          "pages": "1746-1747",
           "pub_types": [
             "Journal Article"
           ],
           "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42479821/",
-          "doi_url": "https://doi.org/10.2106/JBJS.26.00263",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42312478/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00574",
           "journal_key": "jbjs"
         },
         {
-          "pmid": "42848850",
-          "title": "Design Matters: Rethinking Femoral Stem Choices: Commentary on an article by P.A. Bouché, MD, PhD, et al.: \" Impact of Stem Design on Periprosthetic Femoral Fracture Risk. Findings from 182,118 Primary Total Hip Arthroplasties in the Swiss National Joint Registry \".",
+          "pmid": "41996527",
+          "title": "Does Intraoperative Bone-Quality Assessment Correlate with Opportunistic CT-Based Hounsfield Unit Measurements?: Commentary on an article by Jennifer Lewis, BA, et al.: \" Intraoperative Bone-Quality Assessments Are Reliable Compared with Opportunistic CT-Based Hounsfield Unit Measurements \".",
           "authors": [
-            "Gjertsen JE"
+            "Tischler EH"
           ],
           "abstract": "",
-          "doi": "10.2106/JBJS.25.01634",
+          "doi": "10.2106/JBJS.26.00211",
           "journal_ta": "J Bone Joint Surg Am",
           "volume": "108",
-          "issue": "21",
+          "issue": "22",
           "pub_year": "2026",
           "pub_month": "Nov",
-          "pages": "1660-1661",
+          "pages": "1748-1749",
           "pub_types": [
             "Journal Article"
           ],
           "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42848850/",
-          "doi_url": "https://doi.org/10.2106/JBJS.25.01634",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41996527/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00211",
           "journal_key": "jbjs"
         },
         {
-          "pmid": "42207858",
-          "title": "Beyond the Echo Chamber: Upholding Clinical Objectivity in the Era of Sycophantic Large Language Models: Commentary on an article by Arthur J. Perry, BS, et al.: \" Current Artificial Intelligence Large Language Models Exhibit Sycophantic Behavior in Orthopaedic Contexts \".",
+          "pmid": "42837432",
+          "title": "Don't Just Own the Bone: Commentary on an article by Ryutaro Shibata, MD, et al.: \" Distal Radial Fracture as an Early Marker of Bone Fragility. A Population-Based Study in Japan \".",
           "authors": [
-            "Shea GKH",
-            "Wang H"
+            "Aziz KT"
           ],
           "abstract": "",
-          "doi": "10.2106/JBJS.26.00241",
+          "doi": "10.2106/JBJS.26.00984",
           "journal_ta": "J Bone Joint Surg Am",
           "volume": "108",
-          "issue": "21",
+          "issue": "22",
           "pub_year": "2026",
           "pub_month": "Nov",
-          "pages": "1662-1663",
+          "pages": "1750-1751",
           "pub_types": [
             "Journal Article"
           ],
           "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42207858/",
-          "doi_url": "https://doi.org/10.2106/JBJS.26.00241",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42837432/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00984",
           "journal_key": "jbjs"
         },
         {
-          "pmid": "42331358",
-          "title": "Early Periprosthetic Femoral Fracture After Total Hip Arthroplasty Is Not a Complication; It Is a Crisis: Commentary on an article by Alexander J. Acuña, MD, et al.: \"Alarmingly High Rates of Complications and Refracture Among Patients with Early Periprosthetic Femoral Fracture Within 30 Days After THA\".",
+          "pmid": "42842637",
+          "title": "Delay Is Associated with Death: Commentary on an article by S.W. King, BMBCh, MRCS, et al.: \" Effects of Capacity-Related Delay to Hip Fracture Surgery on Mortality. A Matched-Cohort Study \".",
           "authors": [
-            "Linke P"
+            "Bhattacharyya T"
           ],
           "abstract": "",
-          "doi": "10.2106/JBJS.26.00128",
+          "doi": "10.2106/JBJS.26.01058",
           "journal_ta": "J Bone Joint Surg Am",
           "volume": "108",
-          "issue": "21",
+          "issue": "22",
           "pub_year": "2026",
           "pub_month": "Nov",
-          "pages": "1664-1665",
+          "pages": "1752",
           "pub_types": [
             "Journal Article"
           ],
           "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42331358/",
-          "doi_url": "https://doi.org/10.2106/JBJS.26.00128",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42842637/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.01058",
           "journal_key": "jbjs"
         },
         {
-          "pmid": "42848849",
-          "title": "Between-Domain Interactions in Multi-Domain Platform Trials: Commentary on an article by Nathan N. O'Hara, PhD, MHA, et al.: \" Reimagining Orthopaedic Research: The Musculoskeletal Adaptive Platform Trial (MAPT) Design Rationale \".",
+          "pmid": "43049738",
+          "title": "Nonoperative Management Deserves Consideration for Select Patients with Valgus-Impacted Femoral Neck Fractures.",
           "authors": [
-            "Greenstreet P"
+            "Bishop JA",
+            "Goodnough LH"
           ],
-          "abstract": "",
-          "doi": "10.2106/JBJS.26.00397",
+          "abstract": "The valgus-impacted femoral neck fracture is unique among hip fractures. Patients are often relatively comfortable, and the fracture pattern is inherently more stable than other femoral neck fracture types. In situ fixation remains the default treatment for most surgeons, and this remains a reasonable approach, particularly for patients unable to reliably protect their weight-bearing. However, multiple randomized controlled trials and meta-analyses have revealed that, when surgery is chosen, arthroplasty carries a lower risk of reoperation and implant-related complications than fixation, with no difference in mortality. Additionally, nonoperative management has achieved rates of uneventful healing comparable with those of fixation in appropriately selected patients who were able to protect their weight-bearing, and delayed arthroplasty after failed nonoperative treatment has not been associated with excess morbidity compared with acute arthroplasty across measured outcomes. Given that fixation in situ may not have dramatically better efficacy than nonoperative care and that failed nonoperative management can be salvaged with delayed arthroplasty without excess morbidity, we propose that nonoperative management is a reasonable initial treatment for select patients. The best candidates are patients who are cognitively intact, living independently, and medically stable and who are reasonably comfortable and capable of mobilizing while protecting their weight-bearing. Close clinical and radiographic follow-up is required, with a low threshold for conversion to arthroplasty in the setting of uncontrolled pain, poor mobilization, or radiographic evidence of loss of reduction. Dementia, high comorbidity burden, and assisted living status are associated with failure of nonoperative management. In all circumstances, both fixation and acute arthroplasty remain valid alternative strategies. We advocate a shared decision-making approach that accounts for the risks and benefits of all treatment strategies as well as patient factors.",
+          "doi": "10.2106/JBJS.26.00939",
           "journal_ta": "J Bone Joint Surg Am",
           "volume": "108",
-          "issue": "21",
+          "issue": "22",
           "pub_year": "2026",
           "pub_month": "Nov",
-          "pages": "1666",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42848849/",
-          "doi_url": "https://doi.org/10.2106/JBJS.26.00397",
-          "journal_key": "jbjs"
-        },
-        {
-          "pmid": "42735231",
-          "title": "What's New in Musculoskeletal Basic Science.",
-          "authors": [
-            "Goodman SB",
-            "Ahn J",
-            "Ebramzadeh E"
-          ],
-          "abstract": "",
-          "doi": "10.2106/JBJS.26.00996",
-          "journal_ta": "J Bone Joint Surg Am",
-          "volume": "108",
-          "issue": "21",
-          "pub_year": "2026",
-          "pub_month": "Nov",
-          "pages": "1667-1673",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42735231/",
-          "doi_url": "https://doi.org/10.2106/JBJS.26.00996",
-          "journal_key": "jbjs"
-        },
-        {
-          "pmid": "42308468",
-          "title": "The Variable Axis Knee Prosthesis: A Legacy of Dr. David G. Murray.",
-          "authors": [
-            "Shaw JA"
-          ],
-          "abstract": "An important and often overlooked legacy and orthopaedic innovation of Dr. David G. Murray is the Variable Axis knee prosthesis. Conceptualized by Dr. Murray in 1972 and engineered over the ensuing 2 years, the unique \"ball-in-socket\" design of the prosthesis represented the first unconstrained cruciate-substituting knee prosthesis. Its metal-backed tibial component with modular polyethylene inserts of varying thicknesses and angular designs was also an innovative first and is a design feature that was incorporated into virtually all subsequent prosthetic knees. Released for clinical application in 1974, the Variable Axis knee prosthesis enjoyed over a decade of successful clinical use but was ultimately supplanted by the more anatomically configured Total Condylar-type designs.",
-          "doi": "10.2106/JBJS.26.00401",
-          "journal_ta": "J Bone Joint Surg Am",
-          "volume": "108",
-          "issue": "21",
-          "pub_year": "2026",
-          "pub_month": "Nov",
-          "pages": "1674-1677",
-          "pub_types": [
-            "Journal Article",
-            "Historical Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42308468/",
-          "doi_url": "https://doi.org/10.2106/JBJS.26.00401",
-          "journal_key": "jbjs"
-        },
-        {
-          "pmid": "42430768",
-          "title": "Radiation Safety in Orthopaedic Surgery.",
-          "authors": [
-            "Florentino SA"
-          ],
-          "abstract": "",
-          "doi": "10.2106/JBJS.26.00768",
-          "journal_ta": "J Bone Joint Surg Am",
-          "volume": "108",
-          "issue": "21",
-          "pub_year": "2026",
-          "pub_month": "Nov",
-          "pages": "1678-1680",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42430768/",
-          "doi_url": "https://doi.org/10.2106/JBJS.26.00768",
-          "journal_key": "jbjs"
-        },
-        {
-          "pmid": "42475624",
-          "title": "The 2025 North American Traveling Fellowship.",
-          "authors": [
-            "Puvanesarajah V",
-            "Chrea B",
-            "Parisien RL",
-            "Stepan JG",
-            "Ekhtiari S"
-          ],
-          "abstract": "",
-          "doi": "10.2106/JBJS.26.00665",
-          "journal_ta": "J Bone Joint Surg Am",
-          "volume": "108",
-          "issue": "21",
-          "pub_year": "2026",
-          "pub_month": "Nov",
-          "pages": "1681-1684",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42475624/",
-          "doi_url": "https://doi.org/10.2106/JBJS.26.00665",
-          "journal_key": "jbjs"
-        },
-        {
-          "pmid": "42430783",
-          "title": "Postoperative Rehabilitation Milestones and Functional Recovery Among Geriatric Patients After Total Knee Arthroplasty.",
-          "authors": [
-            "Kamal H"
-          ],
-          "abstract": "",
-          "doi": "10.2106/JBJS.26.00703",
-          "journal_ta": "J Bone Joint Surg Am",
-          "volume": "108",
-          "issue": "21",
-          "pub_year": "2026",
-          "pub_month": "Nov",
-          "pages": "1685-1686",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42430783/",
-          "doi_url": "https://doi.org/10.2106/JBJS.26.00703",
-          "journal_key": "jbjs"
-        },
-        {
-          "pmid": "42748210",
-          "title": "Reimplantation in 2-Stage Exchange: Breaking the Dogma of the 2-Week Antibiotic Holiday.",
-          "authors": [
-            "Ascione T",
-            "Balato G",
-            "Pagliano P",
-            "Parvizi J"
-          ],
-          "abstract": "➢ The optimal timing for reimplantation in patients with periprosthetic joint infection undergoing 2-stage exchange revision is challenging. The metrics used to determine reimplantation timing, such as serum inflammatory markers and culture results, often have low predictive value and can be misleading or discordant. ➢ A combination of clinical signs indicating infection resolution together with declining serological and synovial markers may be used to guide the timing of reimplantation. ➢ The rationale for an antibiotic holiday is to allow for a persistent infection to \"resurface\" in that period, prior to reimplantation. ➢ Available data have shown no clear evidence of improved outcomes when an antibiotic holiday is implemented. ➢ However, continuous antibiotic therapy offers important advantages, including a shorter overall treatment duration and higher cure rates, particularly in immunocompromised patients. There is a dire need to develop a tool to guide the optimal timing of reimplantation.",
-          "doi": "10.2106/JBJS.25.01550",
-          "journal_ta": "J Bone Joint Surg Am",
-          "volume": "108",
-          "issue": "21",
-          "pub_year": "2026",
-          "pub_month": "Nov",
-          "pages": "1687-1694",
+          "pages": "1753-1757",
           "pub_types": [
             "Journal Article",
             "Review"
           ],
           "section": "Review",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42748210/",
-          "doi_url": "https://doi.org/10.2106/JBJS.25.01550",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43049738/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00939",
           "journal_key": "jbjs"
         },
         {
-          "pmid": "42507762",
-          "title": "Lexicon on the Pathomechanics of the Native Hip Joint at Risk for Arthritis.",
+          "pmid": "42664363",
+          "title": "Beyond the Fracture Clinic: 3 Things a Surgeon Can Do to Help Older Patients Stay Out of the Hospital.",
           "authors": [
-            "Beaulé PE",
-            "Beck M",
-            "Wagner M",
-            "Witt J",
-            "Grammatopoulos G",
-            "Zaltz I",
-            "Sugano N",
-            "Anderson AE",
-            "Ferguson SJ",
-            "Gill R",
-            "Clohisy JC",
-            "Leunig M",
-            "Peters CL",
-            "Safran M",
-            "Laboudie P",
-            "Siebenrock K",
-            "Millis M"
+            "Ziebart C",
+            "Heckman G",
+            "Giangregorio LM",
+            "Jiwa F",
+            "Thain J"
           ],
-          "abstract": "BACKGROUND: Degenerative osteoarthritis (OA) of the hip often arises from structural abnormalities that alter load distribution, which leads to progressive chondrolabral damage. Although substantial advances have been made, the existing terminology in the field of hip preservation remains heterogeneous and inconsistently applied, limiting scientific communication and treatment standardization. The aim of this article is to link evidence from existing literature to develop a framework in the form of a structured lexicon, one that defines the morphological features and pathomechanical mechanisms that are relevant to the symptomatic, pre-arthritic hip.\n\nMETHODS: This descriptive framework was developed through the synthesis of current biomechanical, radiographic, and clinical evidence, combined with expert consensus from an international, multidisciplinary panel. Foundational concepts were derived from basic science research, including tribology, mechanobiology, and contact mechanics, to establish a unified terminology.\n\nRESULTS: Three principal wear modes-instability, impingement, and mixed mechanisms-are proposed, corresponding to distinct pathological loading environments. Wear mechanisms include dysplasia with rim overload and stress-related cartilage failure, impingement with cam-induced shear or pincer rim conflict, and secondary inflammatory degeneration. Wear damage is classified by tissue involvement, encompassing labral degeneration, chondrolabral detachment, staged cartilage delamination, and subchondral bone changes (sclerosis, cystic change). By linking lesion topography to underlying mechanics, this framework has diagnostic and therapeutic relevance as well as encompasses radiographic measurements and clinical features of wear that are pertinent to hip instability and femoroacetabular impingement.\n\nCONCLUSIONS: This lexicon provides a coherent framework for pre-arthritic hip disease, establishing a shared terminology to guide basic-science research integration and the interpretation of current clinical practice in hip preservation.",
-          "doi": "10.2106/JBJS.26.00112",
+          "abstract": "Musculoskeletal conditions, particularly osteoarthritis, account for >40 million disability-adjusted life years worldwide among persons aged 60 years and above. Research has also demonstrated that up to half of older adults have multimorbidity, which requires optimization for positive surgical outcomes. The World Health Organization introduced the concept of intrinsic capacity, which refers to the physical, mental, and psychosocial capacities that a person can draw upon to maintain their health and that are foundational components of healthy aging. Intrinsic capacity includes 5 domains: locomotion, vitality, cognition, sensory function, and psychological well-being. Two of these domains, locomotion and vitality, are directly relevant to orthopaedic surgery, as they focus on neuromuscular function, skeletal muscle mass, bone health, and related metabolic and nutritional factors. Substantial increases in the rates of primary arthroplasty worldwide create an important opportunity to incorporate interventions into existing orthopaedic surgical care processes in order to optimize locomotion and vitality and keep older adults healthy and out of the hospital. Orthopaedic surgeons are uniquely positioned to influence healthy aging well beyond the operating room. Three simple and effective interventions that can be championed by orthopaedic surgeons are (1) encouraging locomotion by giving patients a written prescription for muscle strengthening and balance training, (2) supporting vitality through malnutrition screening and reinforcing optimal nutrient intake, and (3) being a leader in bone health optimization. Addressing these factors can optimize intrinsic capacity, reduce falls and fragility fractures, improve surgical outcomes, and keep older adults out of the hospital long after the surgical episode has ended.",
+          "doi": "10.2106/JBJS.26.00954",
           "journal_ta": "J Bone Joint Surg Am",
           "volume": "108",
-          "issue": "21",
+          "issue": "22",
           "pub_year": "2026",
           "pub_month": "Nov",
-          "pages": "1695-1702",
+          "pages": "1758-1761",
           "pub_types": [
             "Journal Article",
             "Review"
           ],
           "section": "Review",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42507762/",
-          "doi_url": "https://doi.org/10.2106/JBJS.26.00112",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42664363/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00954",
           "journal_key": "jbjs"
         },
         {
-          "pmid": "42462059",
-          "title": "Placement of Triangular Titanium Implants Suprajacent to Pelvic Fixation Screws Reduces Pelvic Fixation Failure in Multilevel Spinal Fusion: Results of a Randomized Controlled Trial.",
+          "pmid": "42715350",
+          "title": "High-Energy Skeletal Trauma in Older Adults: Best Care When We All Work Together.",
           "authors": [
-            "Elder BD",
-            "Mundis G",
-            "Eastlack R",
-            "Arrigoni P",
-            "Franke J",
-            "Lee R",
-            "Polly D",
-            "the SILVIA Investigator Group"
+            "Switzer JA"
           ],
-          "abstract": "BACKGROUND: The purpose of this study was to determine whether placement of triangular titanium implants (TTI) suprajacent to S2-alar-iliac (S2AI) pelvic fixation screws during multilevel spinal fusion surgery for adult spine deformity reduces pelvic fixation failures.\n\nMETHODS: This prospective, multicenter, international, partially blinded randomized clinical trial included 222 patients scheduled for multilevel spinal fusion surgery with S2AI-based pelvic fixation. In the S2AI+TTI group, the mean age was 64.9 years, 54.1% were female, 3.7% were Hispanic, 5.5% were African American, and 1.8% were Asian. In the S2AI-alone group, the mean age was 64.8 years, 58.4% were female, 3.5% were Hispanic, 7.1% were African American, and 0.9% were Asian. Subjects were randomized to pelvic fixation using S2AI screws alone versus S2AI+TTI. Scheduled follow-up included a 24-month full-spine radiograph and a high-resolution computed tomography (CT) scan, which was independently interpreted.\n\nRESULTS: The primary composite radiographic end point (S2AI screw breakage, lucency, or pullout, or posterior spinal rod breakage distal to S1) occurred less frequently in the S2AI+TTI group than in the S2AI-alone group (11.0% versus 20.4%, p = 0.0415). Except for rod-screw dissociation and rod fracture distal to S1, all components of the primary composite end point occurred less frequently in the S2AI+TTI group. TTI placement did not affect sagittal or coronal spinal alignment parameters. The rate of rod fracture throughout the spinal construct was slightly higher in the S2AI+TTI group (9.2% versus 5.3%) but the difference was not significant (p = 0.197).\n\nCONCLUSIONS: Placement of TTI suprajacent to S2AI screws reduced the rate of pelvic fixation failure in patients undergoing multilevel spinal fusion with pelvic fixation.\n\nLEVEL OF EVIDENCE: Therapeutic Level I . See Instructions for Authors for a complete description of levels of evidence.",
-          "doi": "10.2106/JBJS.25.01415",
+          "abstract": "",
+          "doi": "10.2106/JBJS.26.00934",
           "journal_ta": "J Bone Joint Surg Am",
           "volume": "108",
-          "issue": "21",
+          "issue": "22",
           "pub_year": "2026",
           "pub_month": "Nov",
-          "pages": "1703-1711",
+          "pages": "1762-1763",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42715350/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00934",
+          "journal_key": "jbjs"
+        },
+        {
+          "pmid": "42607111",
+          "title": "Movement Matters.",
+          "authors": [
+            "Federspiel PA"
+          ],
+          "abstract": "",
+          "doi": "10.2106/JBJS.26.00944",
+          "journal_ta": "J Bone Joint Surg Am",
+          "volume": "108",
+          "issue": "22",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "1764",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42607111/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00944",
+          "journal_key": "jbjs"
+        },
+        {
+          "pmid": "42789679",
+          "title": "The Current Landscape of Fragility Fracture Care in the People's Republic of China.",
+          "authors": [
+            "Wong RMY",
+            "Yang M",
+            "Zhao C",
+            "Liu C",
+            "Cheng KYK",
+            "Cheung WH",
+            "Xu W",
+            "Zhang J",
+            "Zhang X",
+            "Law SW",
+            "Wu X",
+            "Tian M"
+          ],
+          "abstract": "➢ Robotic systems are an emerging technology for the treatment of fragility fractures. ➢ An emerging treatment paradigm is to manage fragility fractures of the acetabulum with acute total hip arthroplasty or a combined hip procedure. ➢ Multidisciplinary care and orthogeriatric comanagement are fundamental components of the management of fragility fractures of the hip. ➢ Sarcopenia is highly prevalent among patients with fragility fractures.",
+          "doi": "10.2106/JBJS.26.00865",
+          "journal_ta": "J Bone Joint Surg Am",
+          "volume": "108",
+          "issue": "22",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "1765-1769",
           "pub_types": [
             "Journal Article",
-            "Randomized Controlled Trial",
-            "Multicenter Study"
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42789679/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00865",
+          "journal_key": "jbjs"
+        },
+        {
+          "pmid": "42743295",
+          "title": "Bridging the Global Implementation Gap in Immediate Weight-Bearing After Hip Fracture Surgery: The WAIT-Free Consensus for Low-Adoption Regions.",
+          "authors": [
+            "Mao W",
+            "Jiang J",
+            "Shi ZM",
+            "Hong CC",
+            "Turabi RY",
+            "Karim MA",
+            "Sukati F",
+            "Giordano V",
+            "Altamirano-Cruz MA",
+            "Reyes AL",
+            "Li Y",
+            "Trikha V",
+            "Rasheed MA",
+            "Saengsin J",
+            "Tekin C",
+            "Grünberg L",
+            "Nashi N",
+            "Sammy Loh KY",
+            "Rui YF",
+            "Tian KW",
+            "Wang ZH",
+            "Liu T",
+            "Zhang L",
+            "Yang AL",
+            "Chen M",
+            "Hu SJ",
+            "Du SC",
+            "Chang SM",
+            "Huat Chua IT",
+            "Jia WT",
+            "Ma X"
+          ],
+          "abstract": "Postoperative care for hip fractures remains globally inequitable. Immediate weight-bearing as tolerated (WBAT) after surgery is widely recommended in North America and Europe, yet it is not routinely implemented across regions that collectively represent over half of the world's population, including the People's Republic of China, South Asia, Southeast Asia, the Middle East, Latin America, and Africa (hereafter referred to as low-adoption regions [LARs]). To address this gap, the WAIT-Free Consensus was developed to support the safe and sustainable implementation of immediate WBAT for older adults with a hip fracture in these settings. A multidisciplinary Consensus Development Group of 31 international experts from 15 countries reviewed the available evidence and used a structured, 3-round Delphi process with a consensus threshold of ≥2/3 to develop and refine recommendations. The final consensus statement comprised 13 recommendations organized around 4 domains: (1) shared decision-making with proportionate documentation of informed discussions about benefits and realistic risks, (2) mobility-based stratification that prioritizes immediate WBAT for patients who were independently ambulatory before the fracture, (3) structured fall prevention and multidisciplinary perioperative optimization, and (4) postoperative stability-related triage to individualize weight-bearing protocols after internal fixation versus arthroplasty. In addition, a pragmatic supportive-factor checklist is provided to guide phased implementation. This consensus statement provides a structured, evidence-informed pathway for LARs to adopt immediate WBAT after hip fracture surgery in older adults. The recommendations can be adapted to local resource constraints, with implementation audited using context-specific indicators and refined iteratively as capacity and evidence evolve.",
+          "doi": "10.2106/JBJS.26.00980",
+          "journal_ta": "J Bone Joint Surg Am",
+          "volume": "108",
+          "issue": "22",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "1770-1779",
+          "pub_types": [
+            "Journal Article",
+            "Consensus Statement"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42743295/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00980",
+          "journal_key": "jbjs"
+        },
+        {
+          "pmid": "42758781",
+          "title": "The Management of Pelvic and Vertebral Fragility Fractures: An Unmet Care Need.",
+          "authors": [
+            "Anderson PA",
+            "Giangregorio LM",
+            "Routt MLC"
+          ],
+          "abstract": "➢ Vertebral compression fractures and pelvic insufficiency fractures are common and result in increased mortality and morbidity. ➢ These fractures can be difficult to diagnose because many patients are asymptomatic or have symptoms ascribed to other causes. Additionally, pelvic and sacral fractures are difficult to visualize radiographically. ➢ Nonoperative treatment is appropriate for most patients and focuses on pain management, the improvement of mobility and activities of daily living, and nutritional support. ➢ The surgical indications are intractable pain, poor functional ability, radiographic evidence of deterioration, and neurologic deficits. ➢ Secondary fracture prevention is critical to prevent further fractures and may speed up recovery.",
+          "doi": "10.2106/JBJS.26.00966",
+          "journal_ta": "J Bone Joint Surg Am",
+          "volume": "108",
+          "issue": "22",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "1780-1788",
+          "pub_types": [
+            "Journal Article",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42758781/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00966",
+          "journal_key": "jbjs"
+        },
+        {
+          "pmid": "42696559",
+          "title": "Global Perspectives on the Care Gap in Fragility Fracture Management: Bridging Evidence and Clinical Practice.",
+          "authors": [
+            "Tabu I",
+            "Armstrong E",
+            "Costa ML",
+            "Frihagen F",
+            "Magaziner J",
+            "Lee JK",
+            "Sawaguchi T"
+          ],
+          "abstract": "➢ Fragility fracture care remains suboptimal worldwide despite strong evidence supporting timely surgery, orthogeriatric care, early mobilization, unrestricted weight-bearing, and secondary fracture prevention. ➢ International quality standards and registry-based audits have translated this evidence into measurable indicators that improve care in many high-income health-care systems. ➢ Implementation in low- and middle-income countries (LMICs) is limited primarily by health-system constraints, including workforce shortages, delayed presentation, limited infrastructure, and fragmented care pathways, rather than by lack of evidence. ➢ Emerging initiatives demonstrate that evidence-based quality standards can be successfully adapted to local contexts while preserving their core clinical principles. ➢ Orthopaedic surgeons have a central role in leading multidisciplinary care, promoting secondary fracture prevention, and driving quality improvement across the entire fragility fracture pathway. ➢ Future progress depends on strengthening health systems, embedding auditing and certification programs, and implementing context-sensitive quality standards that bridge the gap between evidence and routine.",
+          "doi": "10.2106/JBJS.26.00940",
+          "journal_ta": "J Bone Joint Surg Am",
+          "volume": "108",
+          "issue": "22",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "1789-1794",
+          "pub_types": [
+            "Journal Article",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42696559/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00940",
+          "journal_key": "jbjs"
+        },
+        {
+          "pmid": "42771715",
+          "title": "Prevention of Periprosthetic Fractures: What Should We Be Doing to Address This Impending Epidemic?",
+          "authors": [
+            "Lamb JN",
+            "Whitehouse M"
+          ],
+          "abstract": "➢ Periprosthetic fractures after total hip arthroplasties represent a growing surgical emergency with high associated morbidity and mortality. ➢ Projections from national joint registries indicate that the absolute number of these fractures will rise substantially over the coming decades as the volume of primary arthroplasties increases and the population with implants ages. ➢ The consequences for patients and health systems are severe: mortality following periprosthetic fractures rivals that following hip fragility fractures, reoperation rates are high, and implant survival after fixation is substantially compromised. Therefore, prevention must be considered an integral part of arthroplasty care. ➢ We examine the mechanisms and classification of periprosthetic fractures with a focus on periprosthetic proximal femoral fractures after a total hip arthroplasty. ➢ Arthroplasty surgeons must adopt a holistic, multidisciplinary approach to reduce harm to patients.",
+          "doi": "10.2106/JBJS.26.00882",
+          "journal_ta": "J Bone Joint Surg Am",
+          "volume": "108",
+          "issue": "22",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "1795-1801",
+          "pub_types": [
+            "Journal Article",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42771715/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00882",
+          "journal_key": "jbjs"
+        },
+        {
+          "pmid": "42302095",
+          "title": "Incisional Infiltration of Liposomal Bupivacaine in Geriatric Hip Fracture Surgery: A Randomized Parallel-Group Trial.",
+          "authors": [
+            "Yu X",
+            "Yuan Y",
+            "Zhao S",
+            "Sun Z",
+            "Han F",
+            "Wang S",
+            "Zhang Z",
+            "Sun K",
+            "Duan F",
+            "Jia Y",
+            "Ma Y",
+            "Li T"
+          ],
+          "abstract": "BACKGROUND: Hip fracture volumes are rising with population aging, and inadequate analgesia following hip fracture surgery has been shown to impede early mobilization and recovery. Liposomal bupivacaine (LB) may extend analgesia, but previous orthopaedic trials have yielded mixed results. We therefore tested whether adding local incisional infiltration of LB to multimodal analgesia confers clinically relevant advantages in geriatric hip fracture surgery.\n\nMETHODS: This study was a single-center, prospective, randomized, participant and assessor-blinded, parallel-group exploratory trial in older adults undergoing hemiarthroplasty or total hip arthroplasty for a hip fracture. The intervention was local LB infiltration; the control was no local infiltration. The primary end point was resting pain measured on a visual analog scale (VAS, 0 to 10) at 48 hours postoperatively. Prespecified key secondary end points included early pain with activity, morphine milligram equivalents (MME) of the patient-controlled analgesia (PCA) infusion volume and of the total perioperative oral and intramuscular rescue counts, sleep quality measured on a numerical rating scale (NRS, 0 to 10), total sleep time, and nocturnal awakenings.\n\nRESULTS: A total of 76 patients (median age, 77 years; 49 female) were included in the analysis. The primary end point did not differ between the groups (median 0 for both; p = 0.143; point estimate of between-group difference: Cohen d = -0.506, 95% confidence interval: -0.962, -0.048), whereas several secondary outcomes significantly favored LB, including resting pain at 24 hours; activity pain at 8, 24, and 48 hours; and oral rescue administrations (median and interquartile range: 25 [0, 50] versus 50 [25, 100] MME). The LB group had a higher NRS sleep quality score after surgery, with a longer total sleep duration on the operative night, than the control group; the number of awakenings was similar between the groups. Ambulation at 48 and 72 hours and the number of postoperative days to discharge did not differ between the groups.\n\nCONCLUSIONS: In the context of a standardized multimodal analgesic pathway, local incisional infiltration of LB did not improve the prespecified primary end point of resting pain at 48 hours after geriatric hip fracture surgery. Overall, the current evidence does not support routine clinical use, and further investigation is warranted.\n\nLEVEL OF EVIDENCE: Therapeutic Level I . See Instructions for Authors for a complete description of levels of evidence.",
+          "doi": "10.2106/JBJS.25.01498",
+          "journal_ta": "J Bone Joint Surg Am",
+          "volume": "108",
+          "issue": "22",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "1802-1809",
+          "pub_types": [
+            "Journal Article",
+            "Randomized Controlled Trial"
           ],
           "section": "Randomized Trial",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42462059/",
-          "doi_url": "https://doi.org/10.2106/JBJS.25.01415",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42302095/",
+          "doi_url": "https://doi.org/10.2106/JBJS.25.01498",
           "journal_key": "jbjs"
         },
         {
-          "pmid": "41985069",
-          "title": "Impact of Stem Design on Periprosthetic Femoral Fracture Risk: Findings from 182,118 Primary Total Hip Arthroplasties in the Swiss National Joint Registry.",
+          "pmid": "41961974",
+          "title": "Intraoperative Bone-Quality Assessments Are Reliable Compared with Opportunistic CT-Based Hounsfield Unit Measurements.",
           "authors": [
-            "Bouché PA",
-            "Lübbeke A",
-            "Brand C",
-            "Gonzalez AI",
-            "Beck M",
-            "Hannouche D"
+            "Lewis J",
+            "Christiano A",
+            "Erdman MK",
+            "Upp L",
+            "Hynes K",
+            "Wolf J",
+            "Strelzow J"
           ],
-          "abstract": "BACKGROUND: Periprosthetic femoral fractures (PFFs) are an increasingly common indication for revision total hip arthroplasty (THA). While patient-related risk factors are well documented, the influence of femoral stem design on PFF risk remains poorly characterized. In this study using nationwide data, we assessed the association between stem design and PFF risk.\n\nMETHODS: We analyzed 182,118 primary THAs (performed from 2015 to 2023) from the Swiss National Joint Registry (SIRIS). Cementless stems were categorized according to the Kheir classification, and cemented stems were categorized as double-tapered polished, triple-tapered polished, composite-beam, or custom. A multivariable Cox regression model, including variables such as age, sex, American Society of Anesthesiologists (ASA) class, body mass index (BMI), surgical indication, prior ipsilateral hip surgery, stem design, collar, dual-mobility cup, bearing, and head size, was analyzed. Hazard ratios (HRs) with 95% confidence intervals (CIs) are reported.\n\nRESULTS: Among 182,118 THAs (mean patient age, 68.9 ± 11.5 years; female sex in 53.1% of cases), 1,226 (0.7%) were complicated by PFF. The cumulative incidence of PFF reached 0.7% at 5 years and 1.3% at 10 years. Higher PFF risk was associated with an age of 75 to 84 years (HR = 1.68 [95% CI = 1.44 to 1.96]) and ≥85 years (HR = 1.86 [95% CI = 1.47 to 2.35]), ASA class of 3 to 5 (females, HR = 1.70; males, HR = 1.73), BMI of <18.5 kg/m 2 (HR = 1.61) or ≥40 kg/m 2 (HR = 1.64), prior ipsilateral hip surgery (HR = 1.32), and use of a dual-mobility cup (HR = 1.56). Elective procedures (HR = 0.36) and collared stems (HR = 0.26) were associated with a lower risk. Compared with cementless type-3 stems, cementless type-7 (anatomic) stems showed a higher risk of PFF (HR = 1.88), whereas cementless type-1B (HR = 0.62) and composite-beam cemented stems (HR = 0.45) were protective.\n\nCONCLUSIONS: In this large nationwide registry study, femoral stem design independently influenced PFF risk after primary THA. Cementless anatomic stems increased the risk, whereas composite-beam cemented stems and the presence of a collar conferred a protective effect. These findings support personalized implant selection, particularly for older patients or those with frailty.\n\nLEVEL OF EVIDENCE: Prognostic Level III . See Instructions for Authors for a complete description of levels of evidence.",
-          "doi": "10.2106/JBJS.25.01203",
+          "abstract": "BACKGROUND: Bone density can impact treatment decisions for orthopaedic conditions. While ad-hoc intraoperative surgeon assessment of bone quality is common, the accuracy of such evaluation remains unknown. The primary purpose of this study was to determine whether orthopaedic surgeons' intraoperative assessment of bone quality closely correlated with validated measures.\n\nMETHODS: In this prospective cross-sectional study, we enrolled adult patients undergoing orthopaedic surgery at a Level-I trauma center. Eligibility required an opportunistic computed tomography (CT) scan of the lumbar spine, glenoid, wrist, pelvis/femur, proximal tibia, or calcaneus. Seven surgeons, blinded to objective measures of bone quality, provided intraoperative bone-quality assessments using a 10-point Likert scale and categorized bone quality as normal, osteopenic, or osteoporotic. Hounsfield units (HUs) were measured on CT using a previously published technique. All images were reviewed by a single orthopaedic surgeon, blinded to intraoperative bone-quality assessments.\n\nRESULTS: Of the 229 patients enrolled, 215 had available CT data and were included in the study. The average age of these patients was 44 years (range, 18 to 95 years), with 40.5% being female. Over half of the patients (61%) were Black or African American, while a quarter of the patients (25%) were White. The most common surgical sites included the femur (39 patients, 18.1%), ankle (31, 14.4%), and acetabulum (26, 12.1%). A positive linear relationship between HU and surgeon bone-quality assessments was observed (r = 0.66; p < 0.0001), which was consistent across surgical anatomic sites. Abnormal bone quality was correctly identified by surgeon assessment with 84% sensitivity and 97% specificity.\n\nCONCLUSIONS: This study demonstrated that surgeons can reliably detect abnormal bone quality through intraoperative assessment across numerous surgical sites. Intraoperative assessments may provide actionable and reliable feedback regarding bone density without additional cost or radiation in cases when opportunistic scans are not available. This information can inform intraoperative decision-making and presents opportunities for bone-health interventions.\n\nLEVEL OF EVIDENCE: Diagnostic Level II . See Instructions for Authors for a complete description of levels of evidence.",
+          "doi": "10.2106/JBJS.25.00551",
           "journal_ta": "J Bone Joint Surg Am",
           "volume": "108",
-          "issue": "21",
+          "issue": "22",
           "pub_year": "2026",
           "pub_month": "Nov",
-          "pages": "1712-1719",
+          "pages": "1810-1816",
+          "pub_types": [
+            "Journal Article",
+            "Comparative Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41961974/",
+          "doi_url": "https://doi.org/10.2106/JBJS.25.00551",
+          "journal_key": "jbjs"
+        },
+        {
+          "pmid": "42424416",
+          "title": "Edema-Enhanced CT Derived from Quantitative Dual-Energy CT Reduces Experience-Related Variability in Sacral Fragility Fracture Diagnosis.",
+          "authors": [
+            "Oda T",
+            "Kitada S",
+            "Hirase H",
+            "Iwasa K",
+            "Niikura T"
+          ],
+          "abstract": "BACKGROUND: Sacral fractures are difficult to diagnose. In dual-energy computed tomography (DECT) water/Ca images, edema at fracture sites appears as locally increased water-equivalent density. This study developed an edema-enhanced CT (EECT) technique based on DECT and evaluated its diagnostic performance for sacral fractures.\n\nMETHODS: Fifty Japanese patients with suspected sacral fractures (mean age, 82.4 years; 41 women) underwent single-energy CT (SECT), DECT, and magnetic resonance imaging (MRI). On sagittal DECT, the water-equivalent density at the S1 vertebral midline was defined as the standard value (SV); in 16 regions of interest per patient, the relative standard value (RSV) was calculated as the ratio relative to the SV and classified according to MRI findings. Receiver operating characteristic curve analysis determined the optimal RSV cutoff for fracture detection, and EECT images highlighted regions exceeding this threshold. Thirty patients were then independently assessed twice (>3-month interval) by orthopaedic surgeons with <3 years (group A) or >10 years (group B) of experience using SECT (S group), DECT (D group), and EECT (E group) to evaluate fracture presence and localization. Sensitivity, specificity, inter- and intraobserver reliability, and diagnostic accuracy were compared among groups using Cochran Q, McNemar, and Fisher exact tests.\n\nRESULTS: The optimal RSV cutoff was 1.000. For both fracture detection and localization, EECT showed the highest sensitivity, specificity, and diagnostic accuracy, particularly for fracture site identification. Inter- and intraobserver reliability were also the highest with EECT, and the performance gap between less experienced and experienced observers seen with SECT was not observed when using EECT.\n\nCONCLUSIONS: EECT showed better performance than DECT and SECT in sacral fracture detection and localization, providing high accuracy and reliability regardless of observer experience, and it may be useful for sacral fractures.\n\nLEVEL OF EVIDENCE: Diagnostic Level IV . See Instructions for Authors for a complete description of levels of evidence.",
+          "doi": "10.2106/JBJS.26.00200",
+          "journal_ta": "J Bone Joint Surg Am",
+          "volume": "108",
+          "issue": "22",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "1817-1823",
           "pub_types": [
             "Journal Article"
           ],
           "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41985069/",
-          "doi_url": "https://doi.org/10.2106/JBJS.25.01203",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42424416/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00200",
           "journal_key": "jbjs"
         },
         {
-          "pmid": "42166556",
-          "title": "Current Artificial Intelligence Large Language Models Exhibit Sycophantic Behavior in Orthopaedic Contexts.",
+          "pmid": "42658904",
+          "title": "Distal Radial Fracture as an Early Marker of Bone Fragility: A Population-Based Study in Japan.",
           "authors": [
-            "Perry AJ",
-            "Kalva S",
-            "Fucich D",
-            "Muppidi S",
-            "Aggarwal M",
-            "Virk MS",
-            "Zuckerman JD",
-            "Yao JJ"
+            "Shibata R",
+            "Sato Y",
+            "Tanaka Y"
           ],
-          "abstract": "BACKGROUND: The use of large language models (LLMs) is increasingly common. However, LLMs may exhibit sycophancy, echoing users' beliefs while avoiding contradiction. In the present study, we describe sycophancy in general-purpose LLMs when applied to orthopaedic contexts.\n\nMETHODS: We investigated sycophancy in 2 general-purpose LLMs. We evaluated performance on 3 tasks: (1) accuracy on benchmark answering: LLMs were tested on validated benchmark orthopaedic questions, with correct and incorrect cues, and the change in accuracy and sycophancy error rate were determined; (2) user belief agreement: LLMs were provided with ambiguous statements and a user belief, and LLM agreement, contradiction, and uncertainty were described; and (3) false information detection: false information was placed within a task prompt to measure noncontradiction and propagation rates.\n\nRESULTS: Baseline factual accuracy on benchmark questioning was 78%, decreasing with correct hints (71%) (p = 0.49). With incorrect hints, LLM accuracy declined significantly (48%) (p < 0.001), with a sycophancy error rate of 52%. Presented with user beliefs about an indefinite, controversial statement, models echoed user beliefs in 56%, expressed uncertainty in 12%, and contradicted users in 32% of statements. In noncontradiction tasks, models perpetuated incorrect attributions 99% of the time yet reliably corrected statistical distortions 97% of the time.\n\nCONCLUSIONS: Although popular general-purpose LLMs have useful orthopaedic applications, they exhibit sycophancy, with a tendency toward agreement and without recognition of ambiguity. This is a key weakness to be addressed. Findings should be interpreted cautiously given the variability in model design, prompting, and models evaluated.\n\nCLINICAL RELEVANCE: The tendency of general-purpose LLMs to agree without recognizing clinical ambiguity may limit their reliability in orthopaedic applications.",
-          "doi": "10.2106/JBJS.25.01576",
+          "abstract": "BACKGROUND: Distal radial fractures (DRFs) are common fragility fractures in older adults and often indicate skeletal deterioration. However, whether DRFs reflect underlying systemic frailty or occur predominantly in relatively active individuals with preserved physical function remains unclear.\n\nMETHODS: This retrospective cohort study analyzed data from the Shizuoka Kokuho Database, which includes the health and long-term care (LTC) claims of 2.4 million residents. Individuals aged 65 to 89 years who were newly diagnosed with a DRF between 2012 and 2022 were compared with patients with an upper-limb contusion. Propensity score matching was used to balance baseline characteristics between these groups. The primary outcome was all-cause mortality. The secondary outcomes included secondary fragility fractures, hospitalization, LTC deterioration, and osteoporosis treatment initiation. Cox proportional hazards and Poisson regression models were used for the analysis. Causal mediation analysis was conducted to explore the indirect effects of secondary fractures and treatment initiation.\n\nRESULTS: After propensity score matching, the final analysis included 47,178 patients (23,589 matched pairs; mean age, 77.6 ± 6.7 years; 87.8% female) with balanced baseline characteristics. In the matched cohort, patients with a DRF had lower all-cause mortality than controls in the unadjusted analysis (hazard ratio [HR], 0.90; 95% confidence interval [CI], 0.86 to 0.94), but this association was attenuated after multivariable adjustment that included baseline LTC certification (HR, 0.98; 95% CI, 0.93 to 1.02). Subgroup analysis showed that a DRF was associated with lower mortality among individuals with higher LTC needs, particularly women. In the matched cohort, patients with a DRF had higher rates of subsequent hip fractures (2.58 [95% CI, 2.48 to 2.69] versus 2.00 [95% CI, 1.91 to 2.10] fractures per 100 person-years) and more frequent osteoporosis treatment initiation within 1 year after injury (17.6% [95% CI, 17.1% to 18.1%] versus 7.7% [95% CI, 7.4% to 8.0%] of patients). The mediation analysis suggested modest indirect effects of secondary hip fractures and vitamin-D supplementation on mortality.\n\nCONCLUSIONS: DRFs in older adults may reflect preserved function and skeletal fragility rather than advanced frailty. These fractures may represent a critical window for initiating osteoporosis treatment to prevent subsequent fractures and improve long-term outcomes.\n\nLEVEL OF EVIDENCE: Prognostic Level III . See Instructions for Authors for a complete description of levels of evidence.",
+          "doi": "10.2106/JBJS.25.01269",
           "journal_ta": "J Bone Joint Surg Am",
           "volume": "108",
-          "issue": "21",
+          "issue": "22",
           "pub_year": "2026",
           "pub_month": "Nov",
-          "pages": "1720-1728",
+          "pages": "1824-1831",
           "pub_types": [
             "Journal Article"
           ],
           "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42166556/",
-          "doi_url": "https://doi.org/10.2106/JBJS.25.01576",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42658904/",
+          "doi_url": "https://doi.org/10.2106/JBJS.25.01269",
           "journal_key": "jbjs"
         },
         {
-          "pmid": "42308497",
-          "title": "Alarmingly High Rates of Complications and Refracture Among Patients with Early Periprosthetic Femoral Fracture Within 30 Days After THA.",
+          "pmid": "42679021",
+          "title": "Effects of Capacity-Related Delay to Hip Fracture Surgery on Mortality: A Matched-Cohort Study.",
           "authors": [
-            "Acuña AJ",
-            "Forlenza EM",
-            "Jones CM",
-            "DeBenedetti A",
-            "Terhune EB",
-            "Della Valle CJ"
+            "King SW",
+            "Wakefield SM",
+            "Giannoudis VP",
+            "Relton SD",
+            "Giannoudis PV",
+            "Pandit HG",
+            "Rodham PL"
           ],
-          "abstract": "BACKGROUND: The purpose of this study was to compare the outcomes of patients who underwent a total hip arthroplasty (THA) and sustained a postoperative periprosthetic femoral fracture either within the early postoperative period, within 30 days, or at later time points.\n\nMETHODS: A large, all-payer national database was queried to identify patients who underwent a primary THA between 2010 and 2022. Patients who underwent a primary THA and sustained a periprosthetic femoral fracture within 30 days postoperatively were propensity-score matched on the basis of age, sex, and comorbidity burden to 3 separate cohorts based on timing: fracture between 31 and 90 days postoperatively (n = 1,725), fracture between 91 days and 1 year (n = 1,887), and no fracture within 1 year (n = 4,465). The 30-day fracture group had a mean age of 66.63 ± 10.15 years, and 75% of patients in this group were female. Regression analyses were utilized to evaluate outcomes at 90 days and 2 years. Survivorship analyses utilizing death as a competing end-point were conducted for rates of infection, refracture, and reoperation at up to 2 years.\n\nRESULTS: Patients who sustained a periprosthetic femoral fracture within 30 days after primary THA demonstrated significantly greater rates of complications within 90 days relative to each comparison cohort. The 2-year survivorships free of refracture and reoperation were significantly lower (p < 0.05) for the early fracture cohort relative to matched patients who sustained a fracture at other time points. Additionally, 2-year survivorships were poorer in the ≤30-day cohort than in the comparison cohort who had not sustained a fracture within 1 year postoperatively: survivorships free of infection (87.8% [95% confidence interval (CI), 86.8% to 88.8%] compared with 97.7% [95% CI, 97.3% to 98.1%]), refracture (57.4% [95% CI, 56.0% to 58.9%] compared with 99.5% [95% CI, 99.3% to 99.7%]), and reoperation (48.5% [95% CI, 47.1% to 50.0%] compared with 97.6% [95% CI, 97.2% to 98.1%]) were all significantly lower (p < 0.05).\n\nCONCLUSIONS: Patients who sustained an early periprosthetic femoral fracture within 30 days following primary THA were at significantly greater risk for complications than patients who sustained a periprosthetic femoral fracture at later time points. The exceedingly high rates of complications compared with patients without a periprosthetic femoral fracture stresses the importance of not only prevention but potential interventions both perioperatively and postoperatively in an attempt to mitigate the risk of complications for these at-risk patients.\n\nLEVEL OF EVIDENCE: Therapeutic Level III . See Instructions for Authors for a complete description of levels of evidence.",
-          "doi": "10.2106/JBJS.25.01355",
+          "abstract": "BACKGROUND: Timely surgery is emphasized in hip fracture care. Prior studies examining this have failed to distinguish adequately between delays for medical optimization and those due to limited operative capacity, introducing important confounders. This study aimed to determine the impact of capacity-related delays on mortality after a hip fracture in older individuals, as well as the factors moderating these effects.\n\nMETHODS: This retrospective cohort study involved patients treated in a U.K. teaching hospital from January 2020 to June 2024. Primary outcomes were mortality at 30 and 365 days. The exposure of interest was capacity-delayed hip fracture surgery, defined as operative anesthesia for hip fracture surgery occurring >36 hours after emergency department presentation. Patients aged ≥65 years with an operatively managed fracture of the native proximal femur were included. Patients were excluded if surgery was delayed for medical reasons. Multivariable logistic regression was used to examine mortality risk factors, and propensity-score matching was performed on the basis of covariates affecting mortality and survival analysis.\n\nRESULTS: Of 3,094 screened patients, 2,358 were eligible. Mortality status was available for 96.9% of patients at 365 days. One thousand and eighty-seven (46%) received timely surgery while 1,271 (54%) experienced capacity-related delay. After propensity-score matching, the median age was 85 years (interquartile range, 78 to 90 years), 73% were female, and 98% were White. Capacity delay was associated with a greater hazard of 365-day mortality (hazard ratio [HR] = 1.37, 95% confidence interval [CI]: 1.15 to 1.63), and the hazard was most pronounced in the first 30 days (HR = 1.71, 95% CI: 1.11 to 2.65). Shorter-term (30-day) mortality in patients with a higher Clinical Frailty Scale score (>4) was most affected by delay (odds ratio [OR] = 1.76, 95% CI: 1.06 to 3.02), while effects on less frail patients were not significant.\n\nCONCLUSIONS: Capacity-related delays in hip fracture surgery were associated with greater mortality after accounting for patient-related risk factors. This study overcomes a key confounder by isolating capacity-related delay. The results may support prioritizing timely hip fracture surgery for more vulnerable patients.\n\nLEVEL OF EVIDENCE: Prognostic Level III . See Instructions for Authors for a complete description of levels of evidence.",
+          "doi": "10.2106/JBJS.26.00596",
           "journal_ta": "J Bone Joint Surg Am",
           "volume": "108",
-          "issue": "21",
+          "issue": "22",
           "pub_year": "2026",
           "pub_month": "Nov",
-          "pages": "1729-1736",
+          "pages": "1832-1840",
           "pub_types": [
             "Journal Article"
           ],
           "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42308497/",
-          "doi_url": "https://doi.org/10.2106/JBJS.25.01355",
-          "journal_key": "jbjs"
-        },
-        {
-          "pmid": "42201994",
-          "title": "Reimagining Orthopaedic Research: The Musculoskeletal Adaptive Platform Trial (MAPT) Design Rationale.",
-          "authors": [
-            "O'Hara NN",
-            "Sprague SA",
-            "Patterson JP",
-            "Druker V",
-            "Connor JT",
-            "Marvel D",
-            "Slobogean GP"
-          ],
-          "abstract": "UNLABELLED: Musculoskeletal disorders are common and can profoundly affect the survival, mobility, and independence of patients. The overall objective of the Musculoskeletal Adaptive Platform Trial (MAPT) is to incrementally compare the effectiveness of available interventions to improve outcomes for adult patients with health conditions affecting physical mobility. The MAPT framework is flexible, allowing the detection of varying levels of meaningful benefit or harm (or equivalence) on the basis of the burden of disease and the available treatments. Treatment comparisons will be evaluated as intervention domains on the platform in order to achieve the overarching objective. Specific objectives for each intervention domain will be included in intervention domain-specific protocol appendices. The primary outcome is a hierarchically assessed composite of death within 120 days, ambulation status at 120 days, and days alive and out of the hospital within 120 days of randomization. Secondary outcomes will include the components of the composite outcome and patient-reported outcomes. Participants will be contacted at 6 weeks, 4 months, 8 months, and 12 months after randomization to ascertain trial outcomes. The MAPT will enable researchers to efficiently evaluate multiple treatment options for patients with musculoskeletal impairments, which may improve patient care and outcomes globally.\n\nCLINICAL RELEVANCE: The MAPT is clinically relevant because it provides a practical framework for rapidly identifying which treatments improve survival, mobility, and recovery in patients with musculoskeletal conditions. It can directly guide better treatment decisions regarding a leading cause of disability.",
-          "doi": "10.2106/JBJS.25.01436",
-          "journal_ta": "J Bone Joint Surg Am",
-          "volume": "108",
-          "issue": "21",
-          "pub_year": "2026",
-          "pub_month": "Nov",
-          "pages": "1737-1743",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42201994/",
-          "doi_url": "https://doi.org/10.2106/JBJS.25.01436",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42679021/",
+          "doi_url": "https://doi.org/10.2106/JBJS.26.00596",
           "journal_key": "jbjs"
         }
       ]
@@ -6206,9 +6259,10 @@
           "pages": "S27-S32",
           "pub_types": [
             "Journal Article",
-            "Multicenter Study"
+            "Multicenter Study",
+            "Observational Study"
           ],
-          "section": "Article",
+          "section": "Observational Study",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43023664/",
           "doi_url": "https://doi.org/10.1097/BOT.0000000000003279",
           "journal_key": "jorthotr"
@@ -9625,7 +9679,7 @@
       "issue": "2",
       "pub_year": "2026",
       "pub_month": "Nov",
-      "is_new": true,
+      "is_new": false,
       "count": 5,
       "articles": [
         {
@@ -9792,6 +9846,66 @@
       "is_new": false,
       "count": 120,
       "articles": [
+        {
+          "pmid": "43052529",
+          "title": "Predicting mortality in pediatric cases with severe traumatic brain injury: is the Eppendorf-Cologne Scale more reliable than Glasgow Coma Scale?",
+          "authors": [
+            "Middelkamp M",
+            "Lefering R",
+            "Czorlich P",
+            "Emami P",
+            "TraumaRegister DGU® of the German Trauma Society (Deutsche Gesellschaft für Unfallchirurgie; DGU)"
+          ],
+          "abstract": "PURPOSE: Severe traumatic brain injury (TBI) in children is a major cause of morbidity and mortality, requiring reliable tools for early assessment and prognosis. While the Glasgow Coma Scale (GCS) is the standard neurological evaluation tool, it has limitations in pediatric patients. The Eppendorf-Cologne Scale (ECS), originally developed for adults, emphasizes pupil size, reactivity, and motor response and may offer advantages in children.\n\nMETHODS: This multicenter cohort study analyzed TraumaRegister DGU® data from 5,851 pediatric patients (mean age 9.6 years). Documentation included prehospital and in-hospital assessments, injury characteristics, and outcomes. ECS and GCS scores were evaluated based on first recorded prehospital values. Predictive performance for mortality and severe TBI was assessed using AUROC analysis.\n\nRESULTS: Among the cohort, 2,582 patients (44.1%) had severe TBI and 476 (8.1%) died in hospital. GCS showed slightly higher accuracy for predicting severe TBI (AUROC 0.778, 95% CI 0.766-0.791) than ECS (AUROC 0.745, 95% CI 0.731-0.758). For mortality prediction, ECS performed marginally better (AUROC 0.943, 95% CI 0.929-0.957) than GCS (AUROC 0.910, 95% CI 0.896-0.924). Mortality rates were 90% in the worst ECS category and 55% in the worst GCS category.\n\nCONCLUSION: GCS showed higher discrimination for severe TBI, whereas ECS showed higher discrimination for in-hospital mortality among patients with severe TBI. ECS may provide complementary prognostic information, but its clinical utility and role alongside GCS require prospective evaluation.",
+          "doi": "10.1007/s00068-026-03382-3",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Multicenter Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43052529/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03382-3",
+          "journal_key": "ejtes"
+        },
+        {
+          "pmid": "43052526",
+          "title": "Blunt anatomical cardiac injury (BACI) - lessons from a single trauma center cohort.",
+          "authors": [
+            "Spencer Netto F",
+            "Afifi I",
+            "ElMenyar A",
+            "Alahmad M",
+            "Khan N",
+            "Kloub A",
+            "Abdelrahman H",
+            "AlHassani A",
+            "AlMadani A",
+            "Peralta R",
+            "Rizoli S",
+            "AlThani H"
+          ],
+          "abstract": "INTRODUCTION: Patients with anatomical damage to the heart after blunt trauma are rarely seen in hospital settings due to their elevated prehospital mortality. The aim of this study is to review our center experience with this entity.\n\nMETHODS: After institutional research board approval, a local Trauma Databank search (Qatar National Trauma Registry) was performed from 2016 to 2025. Cases presented with blunt trauma and anatomical changes to pericardium or heart, detected in imaging or surgery, in patients above 13 years old were diagnosed as blunt anatomical cardiac injury - BACI and included.\n\nRESULTS: Amongst 17542 blunt trauma cases admitted to our Trauma Center during the study period, 15 patients (0.09% incidence) met the inclusion/exclusion criteria. All patients were males, with average age of 43 years (ranges 26-75), with ISS of 32 (ranges 10-75). The most common mechanism of injury was pedestrian struck (5cases -33%). Hypotension at trauma room assessment was common (8 cases - 53% of patients) and 8 patients (53%) required surgery. FAST, echocardiogram and computed tomography were used as diagnostic tools. The patients presented in 4 anatomical patterns: (a) intracardiac/valve damage; (b) pericardial effusion; (c) pericardial laceration and (d) cardiac rupture. Three patients (20%) died, all during emergent surgery and sustaining cardiac rupture.\n\nCONCLUSION: BACI is uncommonly seen at Emergency Departments and carries elevated early mortality in cases with cardiac rupture, requiring high index of suspicion for diagnosis. Different clinical presentations of BACI were observed and described in this series. Further studies with larger number of patients are needed to further clarify possible differences in severity, surgical requirement and mortality according to the BACI structural presentation.",
+          "doi": "10.1007/s00068-026-03358-3",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43052526/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03358-3",
+          "journal_key": "ejtes"
+        },
         {
           "pmid": "43043438",
           "title": "Association of Walch glenoid morphology and fracture patterns in proximal humeral fractures.",
@@ -13172,64 +13286,6 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42496898/",
           "doi_url": "https://doi.org/10.1007/s00068-026-03260-y",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42489732",
-          "title": "Acute-on-chronic versus isolated acute subdural hematoma in complicated mild traumatic brain injury: association with radiological mass effect markers in a multicenter cohort.",
-          "authors": [
-            "Crombé A",
-            "Benhamed A",
-            "Seux M",
-            "Frassin L",
-            "Matichard R",
-            "L'Huillier R",
-            "Millon D",
-            "Gorincour G"
-          ],
-          "abstract": "PURPOSE: The clinical impact of acute-on-chronic subdural hematoma (acSDH) in mild traumatic brain injury (mTBI) remains incompletely characterized. We assessed whether acSDH, compared with isolated acute SDH (aSDH), is associated with worse neurological presentation and increased radiological markers of mass effect.\n\nMETHODS: We conducted a retrospective multicenter cohort study using the IMADIS teleradiology head trauma workflow (103 emergency departments in France, January 2020 to December 2022). Adult patients with complicated mTBI (i.e., GCS 13-15 plus intracranial hemorrhage or skull fracture) and acute SDH on non-contrast head CT were eligible. Exposure was acSDH versus aSDH based on structured radiology reports. Outcomes were (1) GCS < 15 at presentation, (2) SDH maximal thickness ≥ 7 mm, (3) radiological brain herniation, and (4) intermediate or high QueBIC risk category. Univariable and multivariable logistic regression models were used to estimate associations.\n\nRESULTS: Among 935 included patients, 107 (11.4%) had acSDH. Patients with acSDH were older (≥ 75 years: 57.0% vs. 39.7%, p < .0001) and more frequently had dementia (8.4% vs. 3.7%, p = .0465). Compared with aSDH, acSDH was associated with GCS < 15 (37.4% vs. 21.7%, P = .0010) and confusion (41.0% vs. 25.8%, p = .0016). On CT, acSDH was associated with SDH thickness ≥ 7 mm (54.2% vs. 20.4%, OR 4.50, 95%CI 2.90 to 7.01) and brain herniation (27.1% vs. 10.7%, OR 3.61, 95%CI 2.20 to 5.85). AcSDH was independently associated with intermediate or high QueBIC category (OR 3.38, 95%CI 1.95 to 6.27) and with the other severity markers.\n\nCONCLUSION: In complicated mTBI with acute SDH, acSDH is associated with worse neurological presentation and substantially higher radiological markers of mass effect, as well as a higher QueBIC risk category. These findings support considering acSDH as a high-risk imaging phenotype that may warrant closer early monitoring and timely neurosurgical discussion. Future studies should evaluate associations with patient-centered clinical outcomes and neurosurgical interventions. This retrospective, observational, multicenter study was approved by the French National Radiological Review Board (CRM-2507-489, on 16 July 2025).",
-          "doi": "10.1007/s00068-026-03275-5",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Multicenter Study",
-            "Comparative Study"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42489732/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03275-5",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42479227",
-          "title": "Persistent neuropathic pain symptoms after FPV drone-related thoracic blast injury without rib fractures: a pilot observational study from the Ukraine War.",
-          "authors": [
-            "Battle C",
-            "Baker E",
-            "Giamello JD",
-            "Melchio R",
-            "Dmytriiev D"
-          ],
-          "abstract": "PURPOSE: The aim of this exploratory pilot study was to describe First Person View drone (FPV) related, blast-mechanism thoracic trauma with no rib fractures in Ukrainian military patients sustained during the Russia-Ukraine Conflict, and report the prevalence of persistent neuropathic pain symptoms at three months among patients admitted to a rehabilitation and pain medicine service.\n\nMETHODS: A retrospective, single-centre observational, exploratory study design was used. Military patients (≥ 16 years old) with blast-mechanism thoracic injuries with no rib fractures, admitted to a hospital's rehabilitation and pain medicine service in Ukraine for ≥ 24 h were included. The PainDETECT survey was completed at three months post-injury. Participant characteristics were summarised using descriptive statistics. Exploratory univariate and multivariate analyses were performed to explore possible associations between variables and the development of persistent neuropathic pain symptoms.\n\nRESULTS: 217 patients were included in the final analysis. Median age was 39 years (IQR: 32-47.5). 131 (60.4%) patients were admitted to critical care with 91 (41.9%) patients requiring mechanical ventilation. The median hospital length of stay was 22 days (IQR: 16-25) and critical care length of stay was 4 days (IQR: 2-5). Persistent neuropathic pain symptoms were reported in 173 out of 217 patients (79.7% absolute event rate). Univariate analysis revealed a stark contrast in absolute rates based on the mechanism: 99.4% (172/173) of patients exposed to blasts developed persistent symptoms compared to just 0.6% (1/45) in the low-energy and bullet-like injury group, representing an absolute risk difference of 0.97 (95% CI: 0.93-0.99, p < 0.001).\n\nCONCLUSIONS: The results of this pilot study demonstrate a very high rate of persistent neuropathic pain symptoms at three months in this cohort of military patients admitted to a rehabilitation and pain medicine service, highlighting significant implications for rehabilitation of long-term complications. We highlight that FPV-drone blasts can lead to significant soft tissue injuries to the thorax, in the absence of rib fractures.",
-          "doi": "10.1007/s00068-026-03265-7",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Observational Study"
-          ],
-          "section": "Observational Study",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42479227/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03265-7",
           "journal_key": "ejtes"
         }
       ]
