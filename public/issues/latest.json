@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19T16:07:08Z",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T15:48:09Z",
   "counts": {
     "articles": 468,
     "journals_with_articles": 10,
     "journals_searched": 11,
-    "new_issues": 1
+    "new_issues": 0
   },
   "groups": [
     {
@@ -2222,7 +2222,7 @@
       "issue": "22",
       "pub_year": "2026",
       "pub_month": "Nov",
-      "is_new": true,
+      "is_new": false,
       "count": 19,
       "articles": [
         {
@@ -6360,6 +6360,64 @@
       "count": 120,
       "articles": [
         {
+          "pmid": "43058320",
+          "title": "Prolonged prophylactic antibiotic regimens may reduce periprosthetic infection in megaprosthetic reconstruction: a case series.",
+          "authors": [
+            "Stauss R",
+            "Bugdoll F",
+            "Graulich T",
+            "Tuecking LR",
+            "Savov P",
+            "Ettinger M",
+            "Omar M"
+          ],
+          "abstract": "INTRODUCTION: Megaprosthetic reconstruction (MPR) is associated with a substantially higher risk of periprosthetic joint infection (PJI) compared to primary total joint arthroplasty. However, evidence guiding the optimal duration of antibiotic prophylaxis remains limited, and institutional practices vary considerably. The purpose of this study was to evaluate the incidence of PJI, antibiotic-related complications, and surgical outcomes in patients undergoing MPR followed by a prolonged prophylactic antibiotic regimen.\n\nMATERIALS AND METHODS: This retrospective single-centre study included patients undergoing MPR between May 2020 and November 2022 at a tertiary sarcoma referral centre. All patients received a standardised postoperative 12-week prophylactic antibiotic regimen consisting of two weeks of intravenous ampicillin/sulbactam followed by 10 weeks of oral rifampin and levofloxacin. The primary outcome was the incidence of PJI. Secondary outcomes included surgery-related complication and revision rates, antibiotic-related adverse events, and mortality.\n\nRESULTS: A total of 47 patients were included into the study, of which 83% underwent MPR for oncologic conditions. The overall PJI rate was 2.1% at a mean follow-up of 39 months. Surgery-related complications occurred in 4.3%, and the revision rate was 4.3%. No antibiotic-related adverse events were documented during inpatient treatment or follow-up. All-cause mortality was 21.3%.\n\nCONCLUSIONS: In this retrospective case series, a low incidence of PJI was observed in patients undergoing MPR followed by a standardised 12-week prophylactic antibiotic regimen. Thus, these findings might support the notion that extended prophylaxis could be a safe and effective strategy in high-risk patients undergoing MPR. However, the study design, limited sample size and absence of a control group restrict the conclusions that can be drawn from these findings, and comparative prospective studies are required to determine the effectiveness of prolonged antibiotic prophylaxis following MPR.",
+          "doi": "10.1007/s00402-026-06567-y",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43058320/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06567-y",
+          "journal_key": "aots"
+        },
+        {
+          "pmid": "43055975",
+          "title": "Pericapsular nerve group versus quadratus lumborum block for hip surgery: a systematic review and meta-analysis of randomized controlled trials.",
+          "authors": [
+            "Adio AA",
+            "Moser AM",
+            "Barros A",
+            "Khela H",
+            "Schweppe E",
+            "Sheth NP"
+          ],
+          "abstract": "INTRODUCTION: The pericapsular nerve group (PENG) block and the quadratus lumborum block (QLB) are both used to provide analgesia after hip surgery, but their comparative efficacy remains uncertain. We performed a systematic review and meta-analysis of randomized controlled trials (RCTs) comparing PENG and QLB.\n\nMATERIALS AND METHODS: PubMed, Embase, and Google Scholar were searched through March 2025 for RCTs comparing PENG and QLB in adults undergoing hip surgery. Risk of bias was assessed with the Cochrane RoB 2 tool. Random-effects meta-analyses (DerSimonian-Laird estimator with Knapp-Hartung adjustment) pooled standardized mean differences (SMD) for pain, mean differences in intravenous morphine milligram equivalents (MME) for opioid consumption, and risk ratios (RR) for dichotomous outcomes. Heterogeneity was quantified with I². Prespecified subgroup analyses (surgical population and QLB approach) and leave-one-out sensitivity analyses were performed.\n\nRESULTS: Seven RCTs (554 patients; 283 PENG, 271 QLB) were included. PENG showed a non-significant trend toward lower early (~ 2 h) resting pain (SMD - 0.25; 95% CI - 0.60 to 0.09; I²=55%). No significant differences were found for resting pain at 24 h (SMD - 0.40; -1.44 to 0.64; I²=92%), pain on movement at 24 h (SMD 0.08; -0.27 to 0.43; I²=0%), or cumulative opioid consumption (mean difference - 0.50 intravenous morphine milligram equivalents; 95% CI - 5.92 to 4.93; I²=84%).\n\nCONCLUSIONS: No clear difference between PENG and QLB was demonstrated for pain, opioid consumption, or safety after hip surgery. The available evidence is insufficient to establish superiority between the techniques, and the early-pain and motor-sparing signals favoring PENG should be regarded as uncertain. Larger standardized randomized trials are required.\n\nLEVEL OF EVIDENCE: Level I, systematic review and meta-analysis of randomized controlled trials.",
+          "doi": "10.1007/s00402-026-06554-3",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Systematic Review",
+            "Meta-Analysis",
+            "Comparative Study"
+          ],
+          "section": "Systematic Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43055975/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06554-3",
+          "journal_key": "aots"
+        },
+        {
           "pmid": "43043496",
           "title": "Robot-assisted total hip arthroplasty for Crowe type II or higher hip dysplasia.",
           "authors": [
@@ -9614,60 +9672,6 @@
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42573805/",
           "doi_url": "https://doi.org/10.1007/s00402-026-06462-6",
           "journal_key": "aots"
-        },
-        {
-          "pmid": "42573794",
-          "title": "Can ChatGPT pass the polish national medical specialization examination in orthopedics and traumatology?",
-          "authors": [
-            "Maciąg B",
-            "Bujak K",
-            "Jegierski D",
-            "Stolarczyk A"
-          ],
-          "abstract": "INTRODUCTION: Artificial intelligence (AI) has evolved rapidly in recent years and is becoming increasingly integrated into many areas of medicine. In the medical field, these systems have attracted considerable attention because of their potential applications in clinical decision support, medical education, scientific communication, and postgraduate training. The aim of the present study was to evaluate whether ChatGPT could achieve a passing score on the Polish National Medical Specialization Examination (Panstwowy Egzamin Specjalizacyjny, PES) in orthopedics and traumatology and to determine how different prompting strategies influenced its performance.\n\nMATERIALS AND METHODS: Authors systematically assessed the performance of ChatGPT-4 across five consecutive official PES exams (from Autumn 2023 to Spring 2025) in orthopedics and traumatology. Each exam was administered using three distinct prompting strategies: Professor prompt, Specialist prompt, Resident prompt. For each exam session (e.g., Spring 2024, Autumn 2023), the prompts were submitted to ChatGPT sequentially. The model's responses were evaluated against the official answer key published by the Polish Center of Medical Exams (Centrum Egzaminów Medycznych, CEM).\n\nRESULTS: The results were averaged across all prompts. The overall accuracy was 81% (range: 68.33%-85.83%). The highest score (85.83%) was recorded multiple times across different prompt types, indicating that the model could approach or exceed the minimum passing threshold depending on prompt structure. Agreement between prompting strategies was moderate to substantial (Cohen's κ 0.518-0.632; Fleiss' κ = 0.571). Radiology-related questions demonstrated the highest error rate among all question categories.\n\nCONCLUSIONS: Large language models such as ChatGPT can perform well on knowledge-based orthopedic examinations and may serve as useful tools for examination preparation and educational support. However, examination success should not be interpreted as evidence of clinical competence or readiness for independent surgical practice. Specialist certification and patient care remain dependent on human expertise, practical skills, and professional responsibility.",
-          "doi": "10.1007/s00402-026-06435-9",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Aug",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42573794/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06435-9",
-          "journal_key": "aots"
-        },
-        {
-          "pmid": "42573786",
-          "title": "Two-year outcomes following concomitant ACL and extra-articular ligament reconstruction: a nationwide analysis of over 5,000 patients.",
-          "authors": [
-            "Abid R",
-            "J Burkhart R",
-            "J Moyal A",
-            "M Adelstein J",
-            "Kodsy M",
-            "G Calcei J",
-            "E Voos J",
-            "M Apostolakos J"
-          ],
-          "abstract": "PURPOSE: The anterior cruciate ligament (ACL) is the most commonly injured and reconstruction ligament in the United States. Associated injuries are common, oftentimes including components of the extra-articular knee. However, complications following concomitant ACL and extra-articular ligaments (EAL) has not been defined in a large-scale, population-based sample. We aimed to analyze outcomes following concomitant ACL and EAL reconstruction using the TriNetX nationwide database.ep METHODS: Deidentified data from the TriNetX Collaborative Network was used to identify all patients who received ACL and EAL reconstruction on the same day. Demographic information including age, sex, race, and geographic data were collected. Rates of medical and orthopaedic complications were analyzed at 30, 90, and 180 days and at 2 years. A propensity matched sub-analysis comparing outcomes patients with concomitant and staged repair was performed. Patients were identified using Current Procedural Terminology (CPT) coding.\n\nRESULTS: We identified 5944 patients who received concomitant ACL and EAL reconstruction with postoperative outcomes available at 30, 90, and 180 days. 5040 patients had data available at 2 years. Serious medical complications like surgical site infection, deep vein thrombosis, acute kidney failure, and sepsis were rare at each point of follow-up. Rates of revision surgery were low at short-term follow-up but were prevalent for both procedures at 2 years (> 2%). The most common orthopaedic complications osteoarthritis, implant/graft failure, and knee instability. However, these incidences remained below 7.5% at each interval. Outcomes were similar for staged and concomitant reconstruction, but osteoarthritis, implant/graft failure, and knee instability were significantly more common in the former group at various points.\n\nCONCLUSIONS: Concomitant ACL and EAL reconstruction demonstrated negligible rates of serious medical complications. While rates of osteoarthritis, instability, and graft failure increased at each point, these were generally comparable to independent ACL and EAL procedures. While there was little difference in outcomes between staged and concomitant reconstruction, the latter should be preferred due to lower rates of osteoarthritis, graft failure, and instability.\n\nLEVEL OF EVIDENCE: Level III.",
-          "doi": "10.1007/s00402-026-06422-0",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Aug",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42573786/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06422-0",
-          "journal_key": "aots"
         }
       ]
     },
@@ -9846,6 +9850,35 @@
       "is_new": false,
       "count": 120,
       "articles": [
+        {
+          "pmid": "43055937",
+          "title": "Early arthroplasty versus conversion arthroplasty after failed PFNA in elderly patients with unstable intertrochanteric fractures: a multicenter matched cohort study.",
+          "authors": [
+            "Çiçek AC",
+            "Aksay MF",
+            "Aygün Ü",
+            "Şenocak E",
+            "Halaç O",
+            "Toy S"
+          ],
+          "abstract": "PURPOSE: In our study, the clinical and functional outcomes of early arthroplasty versus late conversion arthroplasty approaches were compared in individuals over 75 years of age who underwent PFNA for complex intertrochanteric fractures but whose treatment failed.\n\nMETHODS: This multicenter, retrospective cohort study analyzed data from 136 patients treated between January 2023 and March 2025. The cohort consisted of 62 patients who underwent conversion arthroplasty after failed PFNA fixation and 74 patients who received primary early arthroplasty. Demographic characteristics, surgical parameters, complications, and functional and rehabilitation outcomes were compared between groups.\n\nRESULTS: Early arthroplasty was associated with significantly better six-month functional outcomes, including higher Parker mobility and Merle d'Aubigné scores. The early arthroplasty group also demonstrated shorter times to effective weight-bearing and recovery of walking distance. Perioperative transfusion requirements and systemic complication rates were higher in the PFNA conversion group. However, the time to recovery of unassisted gait did not differ significantly between groups.\n\nCONCLUSION: Conclusion In elderly patients over 75 years of age with unstable intertrochanteric fractures, early arthroplasty was associated with better short-term functional outcomes, earlier effective weight-bearing and recovery of walking distance, and fewer systemic complications than conversion arthroplasty following failed PFNA. However, these findings should be interpreted in the context of the retrospective design and the functional deterioration that occurred between initial PFNA and subsequent conversion surgery. Primary arthroplasty may be a reasonable option in carefully selected patients with fracture patterns, poor bone quality, or clinical characteristics associated with a high risk of fixation failure.",
+          "doi": "10.1007/s00068-026-03384-1",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Multicenter Study",
+            "Comparative Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43055937/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03384-1",
+          "journal_key": "ejtes"
+        },
         {
           "pmid": "43052529",
           "title": "Predicting mortality in pediatric cases with severe traumatic brain injury: is the Eppendorf-Cologne Scale more reliable than Glasgow Coma Scale?",
@@ -13255,37 +13288,6 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42496906/",
           "doi_url": "https://doi.org/10.1007/s00068-026-03277-3",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42496898",
-          "title": "Trauma stabilization points in armed conflict: operational evolution and strategic reflections from mosul to Gaza.",
-          "authors": [
-            "Marta C",
-            "Luca P",
-            "Kai-Hsun H",
-            "Areej AF",
-            "Athanasios G",
-            "Wessam EG",
-            "Jonas Z",
-            "Johan VS",
-            "Luca R",
-            "Flavio S"
-          ],
-          "abstract": "BACKGROUND: Forward trauma care remains a critical gap in emergency responses to armed conflict, particularly where conventional medical evacuation is disrupted. Trauma Stabilization Points (TSPs) were introduced in previous conflicts to bring life-saving care closer to the point of injury. To improve standards and adaptability, the World Health Organization convened a Technical Working Group to develop operational guidance for TSPs, drawing on diverse field experiences, including the ongoing Gaza deployments.\n\nCASE PRESENTATION: Between February and July 2024, three TSPs were established in Gaza, managing over 4,000 consultations. Initially focused on trauma stabilization and referral, these sites quickly adapted to minor injuries and non-traumatic conditions, reflecting population needs and access challenges. Referral rates varied across sites due to hospital proximity, ambulance availability, and shifting frontlines. Security threats limited forward deployment and safe patient access, requiring high mobility and rapid relocation. Experience from Gaza highlighted key operational principles: locating TSPs near the point of injury; integrating within a functioning trauma referral pathway supported by evacuation capacity and hospital readiness; maintaining clear clinical functions and staffing standards; and using standardized documentation for quality assurance and continuity. Lessons from Gaza aligned with those from other conflict zones, emphasizing challenges such as insecurity, fragmented oversight, and disrupted referral systems. The guidance recognizes the need for adaptable models that balance mobility with advanced interventions, including damage control resuscitation in austere settings.\n\nCONCLUSIONS: The Gaza experience, together with lessons from other conflict settings, is shaping the development of flexible, context-sensitive operational guidance for TSPs. This guidance aims to support emergency care actors and national authorities in determining when and how to deploy TSPs in complex emergencies, balancing core trauma functions with the realities of modern warfare.",
-          "doi": "10.1007/s00068-026-03260-y",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42496898/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03260-y",
           "journal_key": "ejtes"
         }
       ]
