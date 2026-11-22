@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-21",
-  "generated_at": "2026-11-21T14:58:36Z",
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T14:56:51Z",
   "counts": {
-    "articles": 468,
+    "articles": 472,
     "journals_with_articles": 10,
     "journals_searched": 11,
     "new_issues": 0
@@ -9684,8 +9684,39 @@
       "pub_year": "2026",
       "pub_month": "Nov",
       "is_new": false,
-      "count": 5,
+      "count": 9,
       "articles": [
+        {
+          "pmid": "43067125",
+          "title": "Traumaplasty for acetabular fractures: Factors associated with additional fracture fixation.",
+          "authors": [
+            "Halvachizadeh S",
+            "Bell L",
+            "Starr AJ",
+            "Rüdiger HA",
+            "Hax J",
+            "Berk T",
+            "Hildebrand F",
+            "Sen RK",
+            "Pape HC",
+            "Pfeifer R"
+          ],
+          "abstract": "BACKGROUND: Acute hip arthroplasty with additional fracture fixation, termed fix and replace (FAR), is an established option for selected acetabular fractures. The factors associated with adding fixation remain incompletely defined. We examined treatment selection in a mixed adult acetabular fracture cohort.\n\nMETHODS: This retrospective single-centre study included 29 adults undergoing hip arthroplasty for acetabular fractures, including periprosthetic or peri-implant injuries. Sixteen received FAR and 13 received arthroplasty without separate fracture fixation, termed fracture joint replacement (FJR). Preoperative computed tomography was used to measure fracture displacement. An exploratory logistic regression included maximum fracture displacement and Paprosky grade, with 26 complete cases. A sensitivity model additionally included articular displacement.\n\nRESULTS: Mean age was 72.8 ± 13.3 years (range 36-94); 20 patients were male and 10 had periprosthetic or peri-implant fractures. Mean maximum fracture displacement was 19.95 ± 10.00 mm in FAR and 6.66 ± 5.84 mm in FJR. In the two-predictor model, greater displacement was associated with FAR (odds ratio [OR] 1.22 per mm, 95% confidence interval [CI] 1.03-1.46; p = 0.021). The Paprosky grade 3 estimate was imprecise (OR 4.41, 95% CI 0.47-41.85; p = 0.196). The model's 50% probability point was 9.7 mm when Paprosky grade was held at its cohort mean. Adding articular displacement attenuated the statistical evidence for the fracture-displacement association (p = 0.128).\n\nCONCLUSIONS: Greater fracture displacement was associated with additional fixation in an exploratory two-predictor model. The small, heterogeneous cohort and model sensitivity preclude a validated displacement threshold or a conclusion that fixation can safely be omitted. These findings require prospective validation.",
+          "doi": "10.1016/j.injury.2026.113919",
+          "journal_ta": "Injury",
+          "volume": "58",
+          "issue": "2",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43067125/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113919",
+          "journal_key": "injury"
+        },
         {
           "pmid": "43044292",
           "title": "Exposure technology and tissue protection in anterior and anterolateral thoracic/thoracolumbar fracture surgery: An international surgeon survey of retractor performance, mitigation strategies, and design priorities.",
@@ -9723,6 +9754,35 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43044292/",
           "doi_url": "https://doi.org/10.1016/j.injury.2026.113896",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "43067127",
+          "title": "Additional FiberTape-Cerclage® augmentation or \"Bumper-plate\" osteosynthesis for symphyseal arthrodesis - A biomechanical study.",
+          "authors": [
+            "Fritz T",
+            "Keßler J",
+            "Orth M",
+            "Pohlemann T",
+            "Pizanis A",
+            "Norrick S",
+            "Lioadiks E",
+            "Engel D"
+          ],
+          "abstract": "BACKGROUND: Chronic anterior pelvic instability may require symphyseal arthrodesis when conservative treatment and isolated plating fail. Therefore, dual plating has been clinically used to improve stability. As a novel augmentation FiberTape® cerclage may provide and alternative stabilization method with comparable mechanical stability, providing radiolucency for improved analysis of bone healing. Therefore, we conducted a biomechanical study to compare the effects of dual plating to a plate/ FiberTape® cerclage construct.\n\nMETHODS: Twenty-four synthetic pelvic models (n = 8 per group) were stabilized using symphyseal plating, dual plating, or plate-cerclage constructs. Cyclic axial loading (50-400 N) was applied in a unilateral stance and bilateral-leg stance biomechanical model.\n\nRESULTS: The plate-cerclage resulted in significantly higher compression force (131.5 ± 31.7 N) compared to plate-only fixation (88.2 ± 20.9 N; p = 0.019), corresponding to a 49% increase. Dual plating reduced contact area (p ≤ 0.049). No significant differences were observed in one-leg stance.\n\nCONCLUSION: Fiber-Tape cerclage augmentation significantly enhances distraction resistance and preserves contact area compared to dual plating. Furthermore, this technique will potentially allow improved radiological visualization of the area of interest in the pubic symphysis after arthrodesis to analyze bone healing and osteointegration.",
+          "doi": "10.1016/j.injury.2026.113905",
+          "journal_ta": "Injury",
+          "volume": "58",
+          "issue": "2",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43067127/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113905",
           "journal_key": "injury"
         },
         {
@@ -9812,6 +9872,35 @@
           "journal_key": "injury"
         },
         {
+          "pmid": "43067128",
+          "title": "History of operative pelvic ring fixation is associated with increased risk of cesarean delivery: A matched retrospective cohort study.",
+          "authors": [
+            "Scott J",
+            "Bukowinski AT",
+            "Lutgendorf MA",
+            "Romano CJ",
+            "Hall C",
+            "Gumbs GR",
+            "Conlin AMS",
+            "Wheatley BM"
+          ],
+          "abstract": "BACKGROUND: Pelvic ring injuries requiring surgical fixation are uncommon among women of childbearing age, and evidence to guide delivery in subsequent pregnancies is limited. Cesarean delivery (CD) is vital when indicated, but carries risk of complications, such as pulmonary and infectious complications in the child and an increased risk of infection, hysterectomy, and cardiac arrest in the mother. The purpose of this study was to compare the likelihood of CD in women with a history of pelvic fixation (HPF) and those with no history of pelvic injury (NPI) who were matched on factors related to CD.\n\nMETHODS: We conducted a retrospective review of live deliveries among military beneficiaries in Birth and Infant Health Research program data between 2002 and 2021. All patients with HPF prior to delivery were selected. A cohort of patients with NPI were randomly selected in a 10:1 ratio, matched on age, year of delivery, number of prior births, and history of CD. The primary outcome of interest was CD. The secondary outcome of interest was indication for CD among the HPF cohort.\n\nRESULTS: There were 79 patients with HPF who had a subsequent pregnancy that resulted in a live birth and 790 controls were selected based on the matching criteria, for a total of 869 patients. The average age at delivery was 26.8 years, 85% had no prior births, and 10% had a prior CD. Patients with HPF had higher prevalence of CD compared to those with NPI (54.4% vs 25.7%; risk ratio: 2.12; 95% confidence interval: 1.52-2.94). History of orthopedic fixation was the most common indication for CD in patients with HPF.\n\nCONCLUSION: HPF increased risk of CD, even when controlling for a history of CD. Women with HPF had approximately twice the prevalence of CD compared with matched women with NPI. Still, nearly half of women with HPF delivered vaginally, suggesting that prior pelvic fixation does not necessarily preclude vaginal delivery. Given that orthopedic fixation itself was frequently documented as an indication for CD, these findings highlight the need for individualized obstetric assessment and further evidence to guide delivery planning after pelvic fixation.\n\nLEVEL OF EVIDENCE: Prognostic Level III.",
+          "doi": "10.1016/j.injury.2026.113883",
+          "journal_ta": "Injury",
+          "volume": "58",
+          "issue": "2",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43067128/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113883",
+          "journal_key": "injury"
+        },
+        {
           "pmid": "43044290",
           "title": "Concomitant pelvic ring injury compromises acetabular reduction quality: A propensity score-matched analysis with surgical sequence subgroup study.",
           "authors": [
@@ -9835,6 +9924,33 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43044290/",
           "doi_url": "https://doi.org/10.1016/j.injury.2026.113880",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "43067126",
+          "title": "Optimizing success in scalp replantation for total scalp avulsion injuries: A systematic review and case series.",
+          "authors": [
+            "Datta S",
+            "Hanna SA",
+            "Haxho F",
+            "Lipa JE",
+            "Snell LJ"
+          ],
+          "abstract": "BACKGROUND: Total scalp avulsion is a rare injury often caused by hair entrapment in rotary machinery. The avulsed tissue can include the eyebrows, eyelids, auricles, and rarely deeper facial structures. Microsurgical replantation is the gold-standard for management. This report provides an up-to-date systematic review of total scalp revascularization in adults and outlines principles to optimize outcomes in this challenging reconstruction.\n\nMETHODS: We reviewed 162 cases from 70 studies published between January 1976 (the first successful total scalp microsurgical replantation) and January 2025. Inclusion criteria were patients aged ≥ 16 years with total, near-total, or ≥ 70% scalp avulsion injuries.\n\nRESULTS: Mean patient age was 31.4 years (range 17-64). Most patients were female (88.8%, n = 127). The average number of arterial and venous anastomoses was 1.8 and 2.5, respectively. The superficial temporal vessels were the most frequently utilized vessels for anastomosis and remain our preferred choice given their accessibility and suitability for reliable vascular reconstruction. Among articles reporting vein graft use, the average number was 1.7. Complete scalp survival (≥90%) was achieved in 64.2% of cases. Two patient cases from our trauma center are presented, along with technical recommendations.\n\nDISCUSSION: Total scalp avulsion requires urgent microsurgical replantation for optimal outcomes. Our review underscores the importance of prioritizing superficial temporal vessels and performing multiple venous anastomoses to establish adequate venous drainage, although an optimal anastomotic ratio has not been established. Minimizing vein grafts may shorten operative time and decrease complications. Despite inherent challenges, over 60% of cases achieve excellent scalp survival. Close postoperative monitoring, anticoagulation, and psychiatric support are critical to managing physical and psychological sequelae. These findings support the need for specialized microsurgical expertise and multidisciplinary care to improve outcomes in this rare but severe injury.",
+          "doi": "10.1016/j.injury.2026.113821",
+          "journal_ta": "Injury",
+          "volume": "58",
+          "issue": "2",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43067126/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113821",
           "journal_key": "injury"
         }
       ]
