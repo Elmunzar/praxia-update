@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T18:48:47Z",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T18:25:36Z",
   "counts": {
-    "articles": 472,
+    "articles": 475,
     "journals_with_articles": 10,
     "journals_searched": 11,
     "new_issues": 0
@@ -6360,6 +6360,63 @@
       "count": 120,
       "articles": [
         {
+          "pmid": "43073529",
+          "title": "Comparison of mold-based, handmade, and prefabricated articulating cement spacers in two-stage revision total knee arthroplasty for periprosthetic joint infection: a retrospective comparative study.",
+          "authors": [
+            "Aydın T",
+            "Kahve Y",
+            "Bingöl O",
+            "Ceyhan E",
+            "Özkurt B",
+            "Öken ÖF"
+          ],
+          "abstract": "INTRODUCTION: Periprosthetic joint infection (PJI) following total knee arthroplasty (TKA) is a devastating complication most commonly managed with two-stage revision. Articulating antibiotic-loaded cement spacers may be prepared using handmade, mold-based, or prefabricated techniques; however, high-quality comparative evidence is limited, and the 2025 International Consensus Meeting on Musculoskeletal Infection identified this as a knowledge gap. We aimed to compare a mold-based technique that uses a dedicated reusable sterile mold prepared from previously explanted components, used solely as a back-table molding tool and never reimplanted into the joint, with conventional handmade and commercially available prefabricated spacers.\n\nMATERIALS AND METHODS: We retrospectively analyzed 75 patients undergoing two-stage revision TKA for PJI (June 2019-August 2025), grouped by spacer technique: mold-based (n = 18), handmade (n = 36), and prefabricated (n = 21). PJI was diagnosed per the 2018 ICM criteria. The primary outcome was final range of motion (ROM). Secondary outcomes were KSS, WOMAC, Oxford Knee Score, infection eradication, complications, and per-patient cost. Groups were compared using Kruskal-Wallis and chi-square/Fisher tests with Bonferroni post-hoc correction.\n\nRESULTS: Baseline demographics and infection markers were comparable across groups. Final ROM tended to be highest in the mold group (105.8° ± 13.6°) compared with the handmade (99.3° ± 11.7°) and prefabricated (103.1° ± 11.1°) groups, without reaching statistical significance (p = 0.227). No significant differences were observed in KSS-Knee, KSS-Function, WOMAC, or Oxford scores. Infection eradication rates were 94.4% (mold), 94.4% (handmade), and 90.5% (prefabricated) (p = 0.826). Spacer-related complications occurred in 11.1%, 30.6%, and 14.3%, respectively (p = 0.168), with all spacer fractures (n = 4) confined to the handmade group. In our institutional setting, the direct material cost of the mold-based construct was approximately 46% of the prefabricated spacer construct cost (approximately 54% lower).\n\nCONCLUSIONS: The mold-based technique using explanted components yielded clinical outcomes that did not differ significantly from those of handmade and prefabricated spacers, with a lower direct material cost than the prefabricated spacer, and may represent a practical lower-cost alternative to prefabricated spacers in resource-limited settings. Larger prospective studies are needed to confirm these findings.\n\nLEVEL OF EVIDENCE: III-retrospective comparative study.",
+          "doi": "10.1007/s00402-026-06574-z",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Comparative Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43073529/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06574-z",
+          "journal_key": "aots"
+        },
+        {
+          "pmid": "43073416",
+          "title": "Forearm osteochondromas in the paediatric population with multiple hereditary exostoses-a scoping review.",
+          "authors": [
+            "Silva MDC",
+            "Cain ME",
+            "Hyde NK",
+            "Donnan L",
+            "Harris PC",
+            "Wang KK"
+          ],
+          "abstract": "INTRODUCTION: Forearm osteochondromas in the paediatric population can cause progressive deformity, functional impairment, growth disturbance, and cosmetic concerns. This scoping review aims to map and synthesise the contemporary evidence on the natural history, classification, and management of forearm osteochondromas in the paediatric population with multiple hereditary exostoses (MHE).\n\nMETHODS: Four databases: MEDLINE, Embase, Web of Science, and Cochrane were systematically searched for studies reporting on forearm osteochondromas in the paediatric population. Eligible studies included forearm osteochondromas with MHE in patients aged under 18 years reporting on natural history, classification or outcomes following any intervention. Two authors independently screened titles and abstracts, followed by the full-text review of potentially eligible studies. Disagreements regarding eligibility were resolved by a third reviewer. Data were extracted and synthesised descriptively.\n\nRESULTS: Twenty-eight studies were included. Most studies evaluated radiographic and functional outcomes of surgical interventions (n = 20). Eight observational studies (non-interventional studies) assessed other objectives, including classification systems, natural history, and risk factors for radial head dislocations. The Masada classification system was the most utilised for MHE (n = 17), while others used Jo or Gottschalk classifications. Current MHE classification systems are not sufficient for guiding management. Radiographic parameters may assist in identifying forearms at higher risk of radial head dislocation, such as increased radial shortening, ulnar shortening, radial blow, radial articular angle and the presence of distal and greater ulna osteochondromas. These findings are most evident on anteroposterior radiographs of the forearm.\n\nCONCLUSION: Clinical decision-making should take into account both functional outcomes and radiographic findings, not just the classification systems such as Masada classification. Gradual ulnar lengthening is the most commonly reported surgical intervention, with bone healing potentially improved by adjunct intramedullary fixation. Lower body mass index and smaller ulnar diameter likely predispose to delayed healing. Future research should prioritise developing a reliable classification system that guide management.",
+          "doi": "10.1007/s00402-026-06557-0",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Scoping Review",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43073416/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06557-0",
+          "journal_key": "aots"
+        },
+        {
           "pmid": "43058320",
           "title": "Prolonged prophylactic antibiotic regimens may reduce periprosthetic infection in megaprosthetic reconstruction: a case series.",
           "authors": [
@@ -9616,62 +9673,6 @@
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42573807/",
           "doi_url": "https://doi.org/10.1007/s00402-026-06459-1",
           "journal_key": "aots"
-        },
-        {
-          "pmid": "42573806",
-          "title": "Effect of distal screw number on axial deformation and fragment-specific stability in AO/OTA 2R3 C2.1 distal radius fractures.",
-          "authors": [
-            "Dietz L",
-            "Spiegel C",
-            "Kohler FC",
-            "Biedermann U",
-            "Zderic I",
-            "Feist A",
-            "Gueorguiev-Rüegg B",
-            "Lenz M",
-            "Weschenfelder W"
-          ],
-          "abstract": "PURPOSE: To investigate the biomechanical influence of distal screw number in palmar plate fixation of unstable intra-articular distal radius fractures with radiodorsal metaphyseal comminution.\n\nMETHODS: Nine matched pairs of cryopreserved human radii were prepared using a standardized AO/OTA 2R3 C2.1 fracture model with a defined radiodorsal metaphyseal defect zone. For each pair, specimens were randomized to palmar fixation using a 2.4-mm variable-angle locking plate with either four or six distal screws. After embedding, constructs were subjected to cyclic axial loading (150 N, 5,000 cycles) simulating early postoperative rehabilitation. Global axial deformation and fragment-specific three-dimensional interfragmentary motion were recorded using an optical motion-tracking system. Statistical analysis was performed using non-parametric tests (p < 0.05).\n\nRESULTS: Two specimens from one donor pair were excluded, leaving 16 radii (8 pairs) for analysis. Bone mineral density and initial construct stiffness did not differ between groups. The six-screw configuration showed significantly lower axial deformation after cyclic loading (p = 0.047) and lower radial fragment-shaft translation at both time points (p = 0.028; p = 0.045). Radial fragment-shaft rotation was lower in the six-screw group at baseline (p = 0.018), but no rotational difference remained after cyclic loading. In the overall cohort, axial deformation decreased after cyclic loading (p = 0.015).\n\nCONCLUSION: In this unstable intra-articular fracture model with radiodorsal metaphyseal comminution, six distal screws reduced post-cyclic axial deformation and radial fragment-shaft micromotion compared with four screws. The clinical relevance of these findings remains to be determined.",
-          "doi": "10.1007/s00402-026-06454-6",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Aug",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42573806/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06454-6",
-          "journal_key": "aots"
-        },
-        {
-          "pmid": "42573805",
-          "title": "Crowe severity and femoral stem geometry are associated with lower-limb alignment after total hip arthroplasty for unilateral developmental dysplasia of the hip-related secondary osteoarthritis: valgus alignment trajectories.",
-          "authors": [
-            "Afacan MY",
-            "Gurcinar MG",
-            "Davulcu CD",
-            "Unlu MC",
-            "Kaynak G"
-          ],
-          "abstract": "BACKGROUND: Total hip arthroplasty (THA) for secondary osteoarthritis related to developmental dysplasia of the hip (DDH) restores hip mechanics. We aimed to quantify pre-to-postoperative changes in ipsilateral knee and global lower-limb alignment after unilateral THA to determine whether alignment changes differ by Crowe classification and femoral stem geometry.\n\nMETHODS: This retrospective cohort study included 74 patients who underwent unilateral primary THA for DDH-related secondary osteoarthritis, with a mean follow-up of 45.4 months. The predefined primary radiographic outcome set comprised preoperative-to-postoperative changes and final follow-up values in coronal lower-limb alignment parameters, including mechanical and anatomic lateral distal femoral angles (mLDFA and aLDFA), mechanical medial proximal tibial angle (mMPTA), joint line convergence angle (JLCA), global offset (GO), hip-knee-ankle angle (HKA), knee mechanical axis deviation ratio (KMADR), and femoral mechanical-anatomic axis angle (FMMA). The contralateral reference limb was used for side-to-side radiographic comparison. Patients were stratified by Crowe classification (I-II vs. III-IV), and femoral stem geometry analyses were performed according to conical, wedge, and rectangular stem designs. Clinical outcomes included hip/knee visual analog scale, Harris Hip Score, Knee Society Score, Oxford Knee Score, KOOS, and WOMAC.\n\nRESULTS: Analysis of the predefined radiographic outcome set demonstrated divergent alignment profiles according to Crowe severity. In Crowe I-II, several preoperative-to-postoperative changes were nominally observed, but these did not remain statistically significant after FDR adjustment; postoperative side-to-side differences largely converged toward the contralateral reference limb. In Crowe III-IV, a more robust valgus-oriented postoperative profile was observed, with FDR-significant changes in mLDFA, aLDFA, mMPTA, JLCA, GO, HKA, and FMMA, and persistent postoperative asymmetry versus the contralateral reference limb for most parameters except GO. Between Crowe groups, postoperative HKA was significantly higher and FMMA significantly lower in Crowe III-IV after multiplicity adjustment, whereas mMPTA and KMADR showed nominal between-group differences. In exploratory stem-geometry analyses, postoperative between-group differences in mLDFA and FMMA remained significant after FDR adjustment, whereas aLDFA and HKA showed nominal differences only. Clinical outcomes improved substantially in both Crowe strata, and clinical scores were comparable across femoral stem geometry groups.\n\nCONCLUSIONS: In unilateral DDH-related osteoarthritis treated with THA, postoperative lower-limb alignment changes were associated with Crowe severity and showed only partial normalization relative to the contralateral reference limb. High-grade DDH demonstrated a more valgus-oriented postoperative radiographic profile, whereas low-grade DDH showed smaller changes with partial convergence toward the contralateral side. Stem geometry was associated with different postoperative radiographic profiles in exploratory analyses; however, because stem selection was not randomized and likely reflected underlying femoral morphology and reconstruction requirements, these findings should be interpreted as associative rather than causal. Radiographic differences were not accompanied by significant differences in mid-term clinical outcomes.\n\nLEVEL OF EVIDENCE: A level 3 retrospective cohort study.",
-          "doi": "10.1007/s00402-026-06462-6",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Aug",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42573805/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06462-6",
-          "journal_key": "aots"
         }
       ]
     },
@@ -9684,8 +9685,68 @@
       "pub_year": "2026",
       "pub_month": "Nov",
       "is_new": false,
-      "count": 9,
+      "count": 12,
       "articles": [
+        {
+          "pmid": "43072322",
+          "title": "Motorcycle gas-tank associated pelvic trauma: A scoping review of reported injury patterns, management and outcomes.",
+          "authors": [
+            "DI HH",
+            "Paraic C",
+            "Thomas M",
+            "Marzanne B",
+            "John Q",
+            "Michael L",
+            "Brendan O",
+            "Martin K"
+          ],
+          "abstract": "BACKGROUND: Motorcycle gas-tank contact has been implicated in pelvic ring injury, often as part of a broader polytrauma presentation. This scoping review mapped reported injury morphology, associated injuries, management and outcomes according to the strength of tank-contact evidence.\n\nMETHODS: This scoping review was conducted in accordance with PRISMA-ScR guidance. MEDLINE/PubMed, Embase, Scopus and Web of Science databases were searched from inception to 20 September 2026. English-language clinical and forensic reports linking gas-tank contact to individually extractable pelvic ring injuries were included. Aggregate studies provided separate contextual evidence. Four contact-evidence tiers were grouped into higher-certainty and lower-certainty or inferred contact. Findings were synthesised descriptively using assessable denominators.\n\nRESULTS: Twenty studies reported 27 patients: 10 with higher-certainty and 17 with lower-certainty evidence of gas tank contact. Posterior-ring involvement was documented in 92% (22/24) of assessable patients while combined anterior-posterior injury occurred in 75% (18/24) assessable patients. Urinary, genital or perineal/scrotal/groin injury was documented in all patients in each group. Definitive pelvic fixation was reported in 15 patients with status unreported in 9 patients. Three deaths were reported. Follow-up was reported in 52% (14/27) of patients; mean follow-up was 8.3 months.\n\nCONCLUSION: Published gas tank-associated cases show recurring combined anterior-posterior pelvic ring disruption with adjacent genital or perineal trauma. Although selective reporting and uncertain contact attribution prevent confirmation of a gas tank-specific mechanism, these findings highlight the extent of pelvic ring involvement and associated soft-tissue injury. These findings provide an anatomical basis for future studies linking injury morphology with independently documented road traffic collision mechanisms.",
+          "doi": "10.1016/j.injury.2026.113923",
+          "journal_ta": "Injury",
+          "volume": "58",
+          "issue": "2",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43072322/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113923",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "43072321",
+          "title": "Presentation and treatment differences between upper extremity and lower extremity fracture-related infections.",
+          "authors": [
+            "McIlwain RN",
+            "Litten RM",
+            "Alcaide D",
+            "Yeager M",
+            "Wilson AL",
+            "Carter K",
+            "Malhotra A",
+            "Johnson JP",
+            "Spitler CA"
+          ],
+          "abstract": "INTRODUCTION: Fracture-related infection (FRI) presents a significant challenge with high rates of treatment failure and subsequent complication rates. To develop more effective and specific therapies for FRI, the purpose of this study is to analyze presentation, treatment, and outcomes of upper vs. lower extremity FRI, which were hypothesized to have distinct clinical profiles.\n\nMETHODS: Retrospective cohort at a Level 1 Trauma Center. Adult patients with operatively managed FRI from 2013 to 2020 with at least 6 months follow-up were included. Total operations, operations to clear infection, implant exchange, retention, and removal were compared between upper and lower extremity FRIs.\n\nRESULTS: One hundred forty-six patients were included. Forty-six had upper extremity FRI; 100 had lower extremity FRI. Mean follow-up was 2.7 years (SD 3.2). Lower extremity FRIs were significantly more likely to present with higher-grade soft tissue impairments (I) (p = 0.010). Implant failure at presentation was more common in upper extremity FRI compared to lower extremity FRI (41.3% vs. 15.0%, p = 0.001). Upper extremity FRI were more likely to be infected with C. acnes (17% vs. 0%, p < 0.001). Patients with upper extremity FRI had a lower median number of reoperations until FRI resolution (2 (1-3) vs. 3 (2-4), p = 0.006). Debridement, antibiotics, and implant retention, removal, and exchange were performed similarly in upper vs. lower extremity FRI.\n\nCONCLUSION: Causative bacteria, presentation characteristics and operative interventions required were different between upper and lower extremity FRIs. Upper and lower extremity FRIs exhibit distinct clinical profiles and prospective studies may be useful to compare extremity-specific treatment protocols.\n\nLEVEL OF EVIDENCE: III.",
+          "doi": "10.1016/j.injury.2026.113922",
+          "journal_ta": "Injury",
+          "volume": "58",
+          "issue": "2",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43072321/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113922",
+          "journal_key": "injury"
+        },
         {
           "pmid": "43067125",
           "title": "Traumaplasty for acetabular fractures: Factors associated with additional fracture fixation.",
@@ -9806,6 +9867,33 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43044294/",
           "doi_url": "https://doi.org/10.1016/j.injury.2026.113906",
+          "journal_key": "injury"
+        },
+        {
+          "pmid": "43072323",
+          "title": "Molecular, histopathological, and biomechanical evaluation of cutaneous wound healing following topical application of xenogenic leukocyte- and platelet-rich plasma (L-PRP) in a rat excisional model.",
+          "authors": [
+            "Shaikhzadeh A",
+            "Naeini AT",
+            "Bigham-Sadegh A",
+            "Ebadi A",
+            "Nazifi S",
+            "Hosseinzadeh S"
+          ],
+          "abstract": "This study evaluated the effects of topical application of a xenogenic leukocyte- and platelet-rich fibrin (L-PRF) membrane on cutaneous wound healing in a rat excisional wound model. Forty-five adult male Sprague-Dawley rats were randomly assigned to L-PRF-treated, positive control (Mupirocin Ointment), and negative control groups. Full-thickness dorsal skin wounds were created, and treatments were applied for seven consecutive days. Wound healing was assessed through hydroxyproline content, expression of vascular endothelial growth factor (VEGF) and platelet-derived growth factor-B (PDGF-B), histopathology, and biomechanical testing. The L-PRF-treated group showed significantly higher hydroxyproline levels on days 7 and 14 compared with both control groups (p < 0.05). VEGF and PDGF-B expression was significantly upregulated, particularly during the early healing phase. Histopathological examination demonstrated improved granulation tissue formation, neovascularization, collagen maturation, and re-epithelialization by day 14 (p < 0.05). Biomechanical analysis revealed significantly greater yield point and ultimate tensile strength in L-PRF-treated wounds compared with controls (p < 0.05). Topical application of xenogenic L-PRF enhanced cutaneous wound healing by promoting angiogenesis, collagen synthesis, tissue remodeling, and mechanical strength. These findings support the potential of L-PRF as a regenerative biomaterial for improving wound repair.",
+          "doi": "10.1016/j.injury.2026.113805",
+          "journal_ta": "Injury",
+          "volume": "58",
+          "issue": "2",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43072323/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113805",
           "journal_key": "injury"
         },
         {
@@ -9966,6 +10054,36 @@
       "is_new": false,
       "count": 120,
       "articles": [
+        {
+          "pmid": "43071176",
+          "title": "Comparative validation of five early trauma scores for 24-hour in-hospital mortality in traumatic brain injury.",
+          "authors": [
+            "Chen T",
+            "Tu J",
+            "Sun H",
+            "Lu Y",
+            "Chen R",
+            "Huang H",
+            "Shen C"
+          ],
+          "abstract": "BACKGROUND: Early risk stratification after traumatic brain injury (TBI) is crucial to guide monitoring, escalation of care, and interfacility transfer within the first hours. Bedside scores, including the \"Revised Trauma Score (RTS),\" \"Glasgow Coma Scale, Age, and Systolic Blood Pressure score (GAP),\" \"modified Rapid Emergency Medicine Score (mREMS),\" \"Mechanism, Glasgow Coma Scale, Age, and Arterial Pressure score (MGAP),\" and \"Modified Early Warning Score (MEWS),\" are simple and widely available. Prior studies often use mixed trauma cohorts, later endpoints, and provide limited evaluation of calibration or threshold-level clinical utility. TBI-specific head-to-head evidence is therefore needed. The five scores summarize different clinical domains. RTS incorporates the Glasgow Coma Scale (GCS), systolic blood pressure (SBP), and respiratory rate; GAP incorporates GCS, age, and SBP; mREMS incorporates age, heart rate, respiratory rate, SBP, peripheral oxygen saturation, and GCS; MGAP incorporates injury mechanism, GCS, age, and arterial pressure; and MEWS incorporates routinely measured physiologic and neurologic variables, including blood pressure, heart rate, respiratory rate, temperature, and level of consciousness. Diastolic blood pressure is not a component of any of the five scores evaluated in this study. The component structure and clinical domains of each score are summarized in Supplementary Table S1.\n\nMETHODS: This study analyzed consecutive traumatic brain injury admissions in 2024 at a tertiary medical center in Nantong, China (n = 2,287; 24-hour mortality 7.3%). The five bedside scores were recalibrated with a single logistic equation. Performance was assessed using the area under the receiver operating characteristic curve (AUROC), the area under the precision-recall curve (AUPRC), the Brier score, and calibration intercept and slope, while clinical utility was evaluated as net benefit per 100 patients at 10% and 20% thresholds. All estimates were reported with 95% confidence intervals (CIs) from 1,000 bootstrap resamples, and precision-recall curves were referenced to the cohort prevalence.\n\nRESULTS: RTS and GAP showed the strongest discrimination, with mREMS close.\n\nAUROC: RTS 0.874 (95% CI 0.841-0.903), GAP 0.863 (0.831-0.898), mREMS 0.856 (0.826-0.883); MGAP and MEWS were lower (0.632, 0.606). AUPRCs were 0.465 (0.381-0.531) for RTS, 0.382 (0.308-0.453) for GAP, and 0.370 (0.280-0.424) for mREMS (MGAP 0.154 (0.112-0.199); MEWS 0.129 (0.098-0.159)). Brier scores were 0.050, 0.053, and 0.055 for RTS, GAP, and mREMS, respectively. After simple logistic recalibration, calibration intercepts were near 0 and slopes near 1, with observed-vs-predicted curves close to the 45° line across deciles. At 10% and 20% thresholds, RTS and GAP achieved the highest net benefit and more favorable trade-offs per 100 patients; mREMS was intermediate.\n\nCONCLUSION: RTS and GAP showed the best balance of discrimination, calibration, and net benefit at 10% and 20% thresholds; mREMS was comparable after simple recalibration. These findings support prioritizing RTS and GAP for early TBI risk stratification.",
+          "doi": "10.1007/s00068-026-03394-z",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Validation Study",
+            "Comparative Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43071176/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03394-z",
+          "journal_key": "ejtes"
+        },
         {
           "pmid": "43055937",
           "title": "Early arthroplasty versus conversion arthroplasty after failed PFNA in elderly patients with unstable intertrochanteric fractures: a multicenter matched cohort study.",
@@ -13372,38 +13490,6 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42507131/",
           "doi_url": "https://doi.org/10.1007/s00068-026-03283-5",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42496906",
-          "title": "A global contrast shortage: a descriptive study exploring IV contrast utilization and outcomes in trauma patients at a level I trauma center.",
-          "authors": [
-            "Zakaria H",
-            "Johansen C",
-            "Waldrop C",
-            "Wan B",
-            "Graham C",
-            "Fetzer D",
-            "Minei J",
-            "Bruns B",
-            "Ananthakrishnan L",
-            "Pepin E",
-            "Park C"
-          ],
-          "abstract": "PURPOSE: Computed Tomography (CT) with intravenous (IV) contrast is critical to the evaluation of the trauma patient. A pandemic-related lockdown occurred in Spring 2022 in the city where iohexol iodinated contrast media) is manufactured, resulting in a global shortage. We explored the potential impact of this shortage on contrast utilization and patient outcomes.\n\nMETHODS: A retrospective study was performed of all trauma patients who underwent CT between January and December 2022 at a level I trauma center. Pre-contrast conservation (PRE) period was defined as January to April 2022, and post-conservation (POST) as May to December 2022. Demographics, utilization rates (bolus/patient) and outcomes were evaluated. Chi-square tests were performed for categorical variables and Mann-Whitney U tests for continuous variables. Statistical significance was set at p < 0.05.\n\nRESULTS: 1,097 patients were included; 509 in the pre-shortage period, 588 post-shortage. 857 CTs with contrast (1.68 contrast bolus/patient) were performed pre-conservation and 979 post-conservation (1.66 contrast bolus/patient) (p = 0.04). Maximum Abbreviated Injury Scale (AIS) head, head/neck, and extremity were higher post-shortage (p < 0.05); however, mortality was higher in the pre-conservation group (p < 0.0012). There were 9 cases of Acute Kidney Injury (AKI, 8 PRE, 1 POST), 22 delayed diagnoses (14 PRE, 8 POST) and 2 missed injuries (PRE 2, POST 0).\n\nCONCLUSIONS: Despite a nationwide IV contrast shortage and volume of contrast utilization per patient, we did not observe an increase in delayed diagnoses, missed injuries or AKI although these events remain small with no clear adverse signal. This may reflect the proactive institutional measures deployed to decrease nonurgent contrast use in the inpatient and outpatient settings in order to conserve contrast for more emergent settings. Based on the limited data set and truncated pre-shortage periods we were not able to reach any meaningful conclusions regarding quality of care and impact on outcomes. Next steps may include multi-center analysis to determine the larger clinical impact of this shortage.",
-          "doi": "10.1007/s00068-026-03277-3",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42496906/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03277-3",
           "journal_key": "ejtes"
         }
       ]
