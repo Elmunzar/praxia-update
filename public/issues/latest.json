@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-24",
-  "generated_at": "2026-11-24T18:25:36Z",
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T17:40:25Z",
   "counts": {
-    "articles": 475,
+    "articles": 476,
     "journals_with_articles": 10,
     "journals_searched": 11,
     "new_issues": 0
@@ -6360,6 +6360,87 @@
       "count": 120,
       "articles": [
         {
+          "pmid": "43079127",
+          "title": "Long-term revision-free survival after unaugmented modified Broström-Gould repair for chronic lateral ankle instability: a single tertiary-centre series of 110 ankles.",
+          "authors": [
+            "Shetty CB",
+            "Wales K",
+            "Shah K"
+          ],
+          "abstract": "INTRODUCTION: Chronic lateral ankle instability failing non-operative treatment is commonly managed with the modified Broström-Gould repair. Whether the unaugmented repair remains durable long-term is unclear, as most published evidence is short- to mid-term. We report long-term survivorship of a consecutive series.\n\nMATERIALS AND METHODS: We retrospectively reviewed consecutive modified Broström-Gould procedures without augmentation for chronic lateral ankle instability at a tertiary centre (May 2013-January 2025). The primary endpoint was revision for recurrent lateral instability; the secondary endpoint was any further ipsilateral ankle surgery. Survivorship was estimated by the Kaplan-Meier method with complementary log-log 95% confidence intervals (CI).\n\nRESULTS: 110 ankles were included (mean age 37.3 years; 52 [47%] with a concomitant procedure). Median follow-up was 7.4 years (maximum 13.2). Three ankles underwent revision for recurrent lateral instability, none beyond 3.3 years. Instability-free survival was 97.0% (95% CI 90.9-99.0) at 5 years and unchanged at 10 years, although only 13 ankles remained at risk at 10 years. Freedom from further ankle surgery was 88.5% (95% CI 80.6-93.3) at 5 years and 81.8% (95% CI 70.1-89.3) at 10 years, later procedures being predominantly for degenerative or adjacent-joint pathology. Of 74 telephone responders (67%), 73% were satisfied or very satisfied, although 36% reported occasional subjective give-way. Mean FAAM scores were 72.2% (ADL) and 59.0% (Sports) in the 59 ankles for which they were available.\n\nCONCLUSIONS: Revision for recurrent instability after the unaugmented modified Broström-Gould repair was uncommon and confined to the first 3.3 years; estimates beyond this rest on few ankles at risk and should be interpreted cautiously. Most subsequent surgery reflected degenerative or adjacent-joint disease rather than repair failure. Freedom from reoperation does not equate to functional success, and these data do not establish whether augmentation confers additional benefit.",
+          "doi": "10.1007/s00402-026-06565-0",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43079127/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06565-0",
+          "journal_key": "aots"
+        },
+        {
+          "pmid": "43079113",
+          "title": "Conservative management of piriformis syndrome: a systematic review of rehabilitation approaches and clinical outcomes.",
+          "authors": [
+            "Aali S",
+            "Rezazadeh F",
+            "Moradzadeh N",
+            "Grosz WR",
+            "Elden Å",
+            "Ardigò LP",
+            "Badicu G"
+          ],
+          "abstract": "AIMS: To synthesize available evidence on the effectiveness of conservative rehabilitation strategies for piriformis syndrome, emphasizing pain reduction and functional improvement.\n\nMETHODS: Conducted per PRISMA 2020 guidelines and registered in PROSPERO (CRD420251154880), this review searched PubMed/MEDLINE, Scopus, Web of Science and PEDro for studies published between January 2015 and 2026. Eligible designs included randomized controlled trials (RCTs), non-randomized studies and case reports on rehabilitation interventions. Risk of bias and methodological quality were assessed using Cochrane RoB2, ROBINS-I, and the Downs and Black checklist. Evidence certainty was evaluated via the GRADE framework in accordance with SWiM guidelines. Due to heterogeneity, data were synthesized narratively.\n\nRESULTS: Forty-two studies (1,971 participants) met the inclusion criteria. Multimodal rehabilitation programs generally yielded better outcomes than single-modality approaches. Manual therapies, specifically myofascial release and muscle energy techniques, were more effective than stretching alone for pain and functional recovery. Exercises emphasizing hip abductor and extensor strengthening were crucial for successful management. In refractory cases, adjuncts like extracorporeal shockwave therapy, ultrasound-guided dry needling, and botulinum toxin injections provided potential benefits for sustained pain reduction. However, overall evidence strength remained limited due to small, heterogeneous studies with high or unclear risk of bias.\n\nCONCLUSION: Current evidence supports an active, multimodal rehabilitation approach for piriformis syndrome, prioritizing targeted manual therapy and strengthening exercises. While promising, the evidence base is limited by methodological shortcomings. High-quality, adequately powered RCTs with standardized protocols are required to establish definitive clinical recommendations.",
+          "doi": "10.1007/s00402-026-06571-2",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Systematic Review",
+            "Review"
+          ],
+          "section": "Systematic Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43079113/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06571-2",
+          "journal_key": "aots"
+        },
+        {
+          "pmid": "43079008",
+          "title": "Implant survival and the impact of inflammatory arthritis on revision risk following primary total knee arthroplasty: an 11-year single-center analysis.",
+          "authors": [
+            "Okur KT",
+            "Varış O",
+            "Abdioğlu AA",
+            "Altun İ",
+            "Güvercin Y",
+            "Peker G"
+          ],
+          "abstract": "PURPOSE: To estimate implant survival following primary total knee arthroplasty (TKA) over an 11-year period at a tertiary referral centre in the eastern Black Sea region of Türkiye, and to identify independent risk factors for revision, with particular attention to inflammatory arthritis (IA).\n\nMETHODS: In this retrospective cohort study, 3,364 patients who underwent primary TKA between 2015 and 2025 were identified from institutional records. The primary outcome was all-cause revision. Implant survival was estimated using the Kaplan-Meier method and compared between groups with the log-rank test. Deaths (n = 83) were treated as competing events; cumulative incidence functions were estimated with the Aalen-Johansen estimator, and multivariable cause-specific Cox and Fine-Gray subdistribution hazard models were fitted using four prespecified covariates (age, sex, IA, and diabetes mellitus). Firth penalized-likelihood regression was used as a sensitivity analysis.\n\nRESULTS: The median follow-up was 3.8 years, and 44 patients (1.31%) underwent revision. Kaplan-Meier institutional revision-free survival was 99.7%, 98.4%, and 97.6% at 1, 5, and 10 years, respectively. Patients with IA had significantly lower survival than those with osteoarthritis (10-year survival 91.7% vs. 97.7%; log-rank p = 0.012). IA was associated with an increased risk of revision in the cause-specific Cox model (hazard ratio 3.25, 95% CI 1.16-9.10; p = 0.025), with concordant estimates from the Fine-Gray and Firth models; this association, however, rested on four events and was statistically fragile (fragility index 1). On chart review, revisions in the IA group were predominantly attributable to aseptic loosening (three of four). Age, sex, and diabetes mellitus were not independently associated with revision.\n\nCONCLUSION: Over an 11-year calendar period with a median individual follow-up of 3.8 years, institutional revision-free survival was high (97.6% at 10 years). Inflammatory arthritis was associated with a higher revision risk, driven predominantly by aseptic loosening; given the small number of events, this should be regarded as a hypothesis-generating signal. Preoperative rheumatological optimisation may represent a modifiable pathway warranting prospective study.\n\nLEVEL OF EVIDENCE: III (retrospective prognostic cohort study).",
+          "doi": "10.1007/s00402-026-06563-2",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43079008/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06563-2",
+          "journal_key": "aots"
+        },
+        {
           "pmid": "43073529",
           "title": "Comparison of mold-based, handmade, and prefabricated articulating cement spacers in two-stage revision total knee arthroplasty for periprosthetic joint infection: a retrospective comparative study.",
           "authors": [
@@ -6408,10 +6489,9 @@
           "pages": "",
           "pub_types": [
             "Journal Article",
-            "Scoping Review",
-            "Review"
+            "Scoping Review"
           ],
-          "section": "Review",
+          "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43073416/",
           "doi_url": "https://doi.org/10.1007/s00402-026-06557-0",
           "journal_key": "aots"
@@ -9594,85 +9674,6 @@
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42579161/",
           "doi_url": "https://doi.org/10.1007/s00402-026-06473-3",
           "journal_key": "aots"
-        },
-        {
-          "pmid": "42579017",
-          "title": "Differences in the coronal plane alignment of the knee (CPAK) measurements using long-leg radiographs and computed tomography.",
-          "authors": [
-            "Kawaguchi K",
-            "Tay ML",
-            "Young S"
-          ],
-          "abstract": "INTRODUCTION: Coronal plane alignment of the knee (CPAK) parameters are increasingly used to characterize native coronal alignment and guide alignment strategies in total knee arthroplasty (TKA) based on long-leg radiographs (LLR). Computed tomography (CT) based robotic TKA software enables calculation of CPAK parameters based on anatomical reference points. However, potential differences in CPAK measurements between LLR and CT remain incompletely defined. This study compared CPAK coronal alignment parameters and phenotype distributions between LLR and CT, and evaluated factors associated with measurement discrepancies.\n\nMETHODS: This was a radiographic subanalysis of a prospective randomised controlled trial including 241 patients undergoing robotic-assisted TKA. Medial proximal tibial angle (MPTA) and lateral distal femoral angle (LDFA) were measured and arithmetic hip-knee-ankle-angle (aHKA), joint line obliquity (JLO) and CPAK phenotype distribution were calculated and classified from preoperative LLR and CT. Discrepancy groups were defined as LLR = CT (≤ 2°), LLR < CT (> 2°) and LLR > CT (> 2°). Associations between discrepancy groups and preoperative deformity and flexion contracture were assessed.\n\nRESULTS: Compared with LLR, CT demonstrated a more varus MPTA (mean 86.7° vs. 87.1°, p = 0.04), a more valgus LDFA (87.1° vs. 87.8°, p < 0.01) and a lower JLO (173.9° vs. 174.9°, p < 0.01). The aHKA did not differ between modalities. There was a higher overall proportion of apex distal phenotypes (Types I-III) on CT (p = 0.01), and in particular CPAK Type II phenotypes were more frequent on CT than LLR (45.2% vs. 33.2%; p < 0.01). For MPTA, the proportions of LLR = CT, LLR > CT, and LLR < CT were 66.0%, 21.6% and 12.4%, respectively; corresponding LDFA proportions were 84.6%, 13.3% and 2.1%. In MPTA discrepancy, LLR > CT groups showed more preoperative valgus alignment and LLR < CT group showed more preoperative varus alignment with knee flexion contracture.\n\nCONCLUSION: CPAK coronal alignment parameters and phenotype distributions differ depending on whether measurements are derived from LLR or CT. Discrepancies in MPTA are influenced by preoperative coronal knee alignment and flexion contracture. Surgeons should interpret CT- and LLR-based CPAK assessments with caution, particularly in patients with moderate deformity or flexion contracture.\n\nLEVEL III: Retrospective Cohort study.",
-          "doi": "10.1007/s00402-026-06463-5",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Aug",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Randomized Controlled Trial",
-            "Comparative Study"
-          ],
-          "section": "Randomized Trial",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42579017/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06463-5",
-          "journal_key": "aots"
-        },
-        {
-          "pmid": "42578991",
-          "title": "Conservative and surgical treatment of wrist osteoarthritis: a systematic review.",
-          "authors": [
-            "Boever J",
-            "Unglaub F",
-            "Wulf J",
-            "Spies CK",
-            "Langer MF",
-            "Kußmaul AC"
-          ],
-          "abstract": "INTRODUCTION: Wrist osteoarthritis leads to pain and functional impairment. Despite conservative treatment options, surgery remains a central therapeutic component. In Germany, the number of patients rose from over 472,000 cases in 2018 to more than 580,000 in 2024. This review examines the most common surgical treatment approaches, focusing on Proximal Row Carpectomy (PRC) and Four-Corner Fusion (4CF), discussing indications, contraindications and potential complications.\n\nMETHODS: A systematic and narrative literature review was conducted on treatment options for wrist osteoarthritis. The systematic review focusing on PRC and 4CF followed PRISMA guidelines and included searches in PubMed, Cochrane and Embase. Included were RCTs, systematic reviews and meta-analyses from January 2010 to May 2025 that compared both procedures in terms of pain, range of motion, grip strength, function, complication rates and reoperation rates.\n\nRESULTS: Eight studies were included. Both procedures significantly reduced pain and improved function. PRC showed advantages in range of motion and lower complication rates, while 4CF was associated with higher grip strength. Partial arthrodesis (e.g., scaphotrapeziotrapezoid (STT) arthrodesis or radioscapholunate (RSL)) arthrodesis may be selectively used but are linked to higher nonunion rates. Total wrist arthrodesis or wrist arthroplasty may be considered in case of contraindications and individual situations.\n\nCONCLUSION: PRC and 4CF are established motion-preserving procedures for wrist osteoarthritis, providing reliable pain relief and functional improvement, with current evidence favoring PRC in terms of range of motion and complication profile. Given the absence of high-quality comparative trials, procedure selection should be individualized, balancing disease severity, carpal stability requirements, and patient-specific functional demands.",
-          "doi": "10.1007/s00402-026-06423-z",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Aug",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Systematic Review"
-          ],
-          "section": "Systematic Review",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42578991/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06423-z",
-          "journal_key": "aots"
-        },
-        {
-          "pmid": "42573807",
-          "title": "Factors associated with selection of total hip arthroplasty versus hemiarthroplasty for femoral neck fracture in older adults: a nationwide analysis of 99,084 cases.",
-          "authors": [
-            "Maman D",
-            "Steinfield Y",
-            "Berkovich Y"
-          ],
-          "abstract": "BACKGROUND: Surgical management of displaced femoral neck fractures in older adults typically involves hemiarthroplasty or total hip arthroplasty (THA). Although clinical guidelines suggest that THA may be considered in selected healthier and cognitively intact patients, real-world procedure selection varies widely. This study evaluated patient factors associated with selection of THA versus hemiarthroplasty in a contemporary U.S.\n\nMETHODS: A retrospective cohort study was conducted using the 2022 Nationwide Readmissions Database (NRD). Patients ≥ 65 years hospitalized with femoral neck fracture were identified using ICD-10-CM codes. Those treated with internal fixation or non-arthroplasty procedures were excluded. Weighted analyses characterized demographics, comorbidities, and hospital utilization between THA and hemiarthroplasty groups. A multivariable logistic regression model identified factors independently associated with receiving THA. All analyses accounted for NRD survey design.\n\nRESULTS: Among 142,013 operative cases, 99,084 met inclusion criteria (81.8% hemiarthroplasty; 18.2% THA). Patients receiving THA were younger (76.6 vs. 81.9 years), had shorter length of stay (6.06 vs. 7.24 days), and were more frequently discharged home (17.5% vs. 6.2%). Metabolic conditions were associated with increased odds of THA, including obesity (OR 1.17) and sleep apnea (OR 1.12). Frailty-related conditions were associated with markedly reduced THA likelihood, including Alzheimer's disease (OR 0.48), Parkinson disease (OR 0.55), chronic kidney disease (OR 0.78), chronic lung disease (OR 0.72), and congestive heart failure (OR 0.77). Each additional year of age decreased the odds of THA by approximately 9%.\n\nCONCLUSION: In this nationwide cohort, selection of THA rather than hemiarthroplasty was associated with younger age and lower prevalence of frailty- and cognition-related comorbidities, while several metabolic comorbidities showed modest positive associations with THA use. These findings describe contemporary national selection patterns but do not establish treatment appropriateness, clinical benefit, or guideline concordance, as key factors such as pre-fracture mobility, functional independence, and living situation were not available in the dataset.\n\nLEVEL OF EVIDENCE: Level III.",
-          "doi": "10.1007/s00402-026-06459-1",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Aug",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Comparative Study"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42573807/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06459-1",
-          "journal_key": "aots"
         }
       ]
     },
@@ -9685,8 +9686,36 @@
       "pub_year": "2026",
       "pub_month": "Nov",
       "is_new": false,
-      "count": 12,
+      "count": 13,
       "articles": [
+        {
+          "pmid": "43077990",
+          "title": "Micromobility crashes: A review of the demographics, risk factors, injury patterns, and preventative strategies.",
+          "authors": [
+            "Villasi W",
+            "Korman A",
+            "Hakim T",
+            "Oginski D",
+            "Burstein J",
+            "Pfaff AC"
+          ],
+          "abstract": "Micromobility device use has rapidly expanded since the last several decades, largely driven by their flexibility and utility for short-distance travel. This growth has been accompanied by a corresponding rise in the rate of micromobility-related injuries and fatalities, yet the demographic patterns, risk factors, and injury characteristics associated with these incidents remain incompletely characterized. This narrative review synthesizes current evidence on micromobility user demographics, injury patterns, and modifiable risk factors and evaluates proposed strategies for improving rider and pedestrian safety. Injured riders are predominantly young and male, with alcohol use, helmet non-use, excessive speed, and nighttime riding as the most consistently identified risk factors. These behaviors frequently co-occur and may have compounding effects on injury severity. Falls represent the most common injury mechanism, though collisions with motor vehicles are associated with disproportionately severe outcomes, including traumatic brain injury. Injury rates and patterns vary meaningfully by device type, though comparisons across studies are complicated by inconsistent exposure measurements and the lack of a universally standardized definition of micromobility devices. Existing legislation on impaired riding, helmet use, and sidewalk riding varies widely across jurisdictions. Emerging evidence from cities that have implemented targeted regulatory interventions, including speed and nighttime restrictions, suggests that policy measures can meaningfully reduce injury incidence. Reducing the burden of micromobility-related injuries will require a coordinated, multifaceted approach integrating improved injury surveillance, appropriate infrastructure, rider and public education, and evidence-based policy implementation.",
+          "doi": "10.1016/j.injury.2026.113921",
+          "journal_ta": "Injury",
+          "volume": "58",
+          "issue": "2",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Review"
+          ],
+          "section": "Review",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43077990/",
+          "doi_url": "https://doi.org/10.1016/j.injury.2026.113921",
+          "journal_key": "injury"
+        },
         {
           "pmid": "43072322",
           "title": "Motorcycle gas-tank associated pelvic trauma: A scoping review of reported injury patterns, management and outcomes.",
@@ -10133,9 +10162,10 @@
           "pages": "",
           "pub_types": [
             "Journal Article",
-            "Multicenter Study"
+            "Multicenter Study",
+            "Observational Study"
           ],
-          "section": "Article",
+          "section": "Observational Study",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43052529/",
           "doi_url": "https://doi.org/10.1007/s00068-026-03382-3",
           "journal_key": "ejtes"
