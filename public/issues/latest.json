@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T17:23:05Z",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T17:01:52Z",
   "counts": {
     "articles": 544,
     "journals_with_articles": 10,
     "journals_searched": 11,
-    "new_issues": 1
+    "new_issues": 0
   },
   "groups": [
     {
@@ -6383,6 +6383,32 @@
       "count": 120,
       "articles": [
         {
+          "pmid": "43097160",
+          "title": "Trends in inpatient surgical treatment of multifragmentary proximal radius fractures in Germany, 2010-2024: a nationwide analysis of procedure statistics.",
+          "authors": [
+            "Saur M",
+            "Dausch V",
+            "Kirchner F",
+            "Minkner C",
+            "Kircher J"
+          ],
+          "abstract": "INTRODUCTION: Operative treatment of proximal radius fractures is reported to have increased, but it is unclear how much of the increase reflects demographic change and whether the balance between osteosynthesis and arthroplasty has shifted. We describe inpatient operative treatment of proximal radius fractures coded as multifragmentary in Germany, 2010-2024, and how coding, denominators and care setting affect its interpretation.\n\nMATERIALS AND METHODS: DRG procedure statistics of the Federal Statistical Office identified osteosynthesis of multifragmentary articular fractures of the proximal radius (OPS 5-794.*4) and radial head arthroplasty (OPS 5-824.3). Rates were modelled with quasi-Poisson, the arthroplasty proportion with quasi-binomial regression; Kitagawa decomposition separated demographic change. Sub-period analyses, alternative denominators and a coding-drift indicator were added.\n\nRESULTS: Procedures rose from 5,351 to 7,163 (+ 33.9%), mainly before 2020 (rate ratio 1.026 per year, 95% CI 1.017-1.035); demographic change explained 6-13%. The share of multifragmentary codes among open reductions rose from 64.1% to 70.0%. The proportion of arthroplasty rose from 13.8% to 16.8% between 2010 and 2013, stayed at 15.6-17.3% until 2022 without a trend (odds ratio 0.994 per year, 95% CI 0.986-1.002) and reached 19.9% in 2024, probably inflated by a shift of osteosynthesis to the outpatient sector.\n\nCONCLUSIONS: The data do not show a steady shift from osteosynthesis towards arthroplasty. Code counts depend on coding, denominators and care setting; without indication, fracture classification and outcome, the statistics cannot show whether treatment decisions changed.",
+          "doi": "10.1007/s00402-026-06573-0",
+          "journal_ta": "Arch Orthop Trauma Surg",
+          "volume": "146",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43097160/",
+          "doi_url": "https://doi.org/10.1007/s00402-026-06573-0",
+          "journal_key": "aots"
+        },
+        {
           "pmid": "43079127",
           "title": "Long-term revision-free survival after unaugmented modified Broström-Gould repair for chronic lateral ankle instability: a single tertiary-centre series of 110 ankles.",
           "authors": [
@@ -9666,36 +9692,6 @@
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42579172/",
           "doi_url": "https://doi.org/10.1007/s00402-026-06438-6",
           "journal_key": "aots"
-        },
-        {
-          "pmid": "42579161",
-          "title": "Accuracy and risk factors for poor cup orientation in total hip arthroplasty: a comparison between supine and lateral registration using a portable navigation system.",
-          "authors": [
-            "Matsumoto S",
-            "Tetsunaga T",
-            "Yamada K",
-            "Okuda R",
-            "Masada Y",
-            "Yamamoto T",
-            "Okazaki Y",
-            "Ozaki T"
-          ],
-          "abstract": "INTRODUCTION: Accurate acetabular cup orientation is essential in total hip arthroplasty (THA). Portable inertial navigation may improve reproducibility, but accuracy in lateral decubitus THA may depend on the pelvic registration workflow. We compared cup placement accuracy between supine and lateral registration workflows using NAVBIT (Smith & Nephew PLC) and explored factors associated with large navigation errors.\n\nMATERIALS AND METHODS: We retrospectively reviewed 110 consecutive primary cementless THAs performed in the lateral decubitus position using NAVBIT. The supine-registration workflow included 52 hips (supine pelvic registration followed by repositioning), and the lateral-registration workflow included 58 hips (registration and cup implantation in the lateral decubitus position). NAVBIT recorded radiographic inclination (RI) and radiographic anteversion (RA) intraoperatively; postoperative RI and RA were measured via computed tomography. Accuracy was defined as the absolute difference between navigation records and postoperative measurements. We compared navigation accuracy outcomes between propensity score-matched groups. Outliers were defined as an absolute error > 5° in RI or RA; factors associated with outliers were evaluated in the overall cohort.\n\nRESULTS: After propensity score matching, 46 matched pairs (n = 92) were analyzed. Postoperative cup orientation was similar between workflows (RI: 40.8°±3.4° vs. 40.3°±4.1°, p = 0.51; RA: 15.2°±3.3° vs. 14.6°±5.9°, p = 0.56). Mean absolute errors were smaller with supine registration for both RI and RA, with a significant reduction for RA (RI: 2.7°±2.3° vs. 3.4°±2.7°, p = 0.24; RA: 2.2°±1.5° vs. 4.1°±3.4°, p < 0.001). Bland-Altman analysis showed narrower limits of agreement with supine registration, particularly for RA. In the overall cohort, lateral registration increased the odds of outlier status (OR 3.11; 95% CI, 1.36-7.09; p = 0.007).\n\nCONCLUSIONS: For NAVBIT-assisted THA performed in the lateral decubitus position, standardized supine pelvic registration followed by repositioning reduced absolute navigation errors, particularly for anteversion, compared with lateral registration.",
-          "doi": "10.1007/s00402-026-06473-3",
-          "journal_ta": "Arch Orthop Trauma Surg",
-          "volume": "146",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Aug",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Comparative Study"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42579161/",
-          "doi_url": "https://doi.org/10.1007/s00402-026-06473-3",
-          "journal_key": "aots"
         }
       ]
     },
@@ -9707,7 +9703,7 @@
       "issue": "12",
       "pub_year": "2026",
       "pub_month": "Dec",
-      "is_new": true,
+      "is_new": false,
       "count": 80,
       "articles": [
         {
@@ -11972,6 +11968,58 @@
       "is_new": false,
       "count": 120,
       "articles": [
+        {
+          "pmid": "43097167",
+          "title": "Non-operative management of penetrating abdominal trauma in a low-volume environment: a single center experience.",
+          "authors": [
+            "Wistehube S",
+            "Dohner E",
+            "Müller M",
+            "Schnüriger B"
+          ],
+          "abstract": "INTRODUCTION: High-volume trauma centers report that selective non-operative management (NOM) in patients suffering from penetrating abdominal trauma (PAT) is a safe approach. Switzerland is a low-volume environment for PAT. We hypothesize that despite the low number of PAT cases, NOM is a feasible approach with comparable outcomes to those in high incidence environments for PAT.\n\nMETHODS: Retrospective analysis of patients aged > 16 years who were treated for PAT between January 1, 2013, and December 31, 2023 at a Level I trauma and academic tertiary referral center in a low-volume environment for PAT. The primary endpoint was the failure rate of NOM. Successful NOM was defined as completion of NOM without the need for surgical intervention. Secondary endpoints included the rates of non-therapeutic operations, hospital length of stay and mortality.\n\nRESULTS: In total, 57 patients were eligible, with 36 (63.1%) stab wounds (SW), 14 (24.6%) gunshot wounds (GSW) and seven (12.3%) impalements. Median age was 35 years (IQR 24-56) and 73.7% were male. Median ISS was 16 (IQR 4-25). In 28 patients (49.1%) NOM was attempted (23 SW, 1 GSW, 4 impalements). In these patients, median ISS was 4 (IQR 1-16.5), wound localizations were the anterior abdomen in 18 patients (64.3%), the back in 5 patients (17.9%) and the left flank in 4 patients (14.3%). A total of ten patients (35.7%) with NOM were treated as outpatients. In this small cohort there was no instance where this treatment approach had to be changed. In 29 patients (50.9%) primary operative management (POM) was performed (13 SW, 13 GSW, three impalements). Median ISS was 20 (IQR 15-32). There was one non-therapeutic laparotomy and two non-therapeutic laparoscopies. One patient died during surgery due to exsanguination caused by a high-grade liver injury with concomitant lesion of the Vena cava.\n\nCONCLUSION: Selective NOM in patients suffering from PAT appears to be a feasible treatment strategy with favorable outcomes also in a low-volume environment. However, established treatment algorithms, similar to high-volume centers, are required. Possible outpatient care is resource sparing and therefore increasingly important, however, further research is required to investigate its safety and patient selection.",
+          "doi": "10.1007/s00068-026-03398-9",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43097167/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03398-9",
+          "journal_key": "ejtes"
+        },
+        {
+          "pmid": "43097133",
+          "title": "Splenic artery embolization versus operative management in traumatic splenic injury: a nationwide trend analysis and hospital-level comparison from Germany, 2019-2025.",
+          "authors": [
+            "Schurr LA",
+            "Thiedemann C",
+            "Schlitt HJ",
+            "Scharf G",
+            "Wagner BJ"
+          ],
+          "abstract": "The spleen is the most frequently injured solid abdominal organ in blunt trauma, and its management has evolved substantially over recent decades towards non-operative strategies. Splenic artery embolization (SAE) is recommended by current guidelines as the preferred interventional approach in hemodynamically stable patients with higher-grade splenic injury. Despite this recommendation, national data on SAE utilization in Germany are rare and temporal trends as well as the influence of hospital size on treatment choice have not been systematically described. Nationwide German inpatient data were retrospectively analyzed using the InEK DatenBrowser (datenbrowser.inek.org), covering treatment years 2019 to 2025. All inpatient cases with traumatic splenic injury as the primary diagnosis (ICD-10-GM S36.00-S36.04, S36.08) were identified. Operative management was defined by OPS codes 5-413.* and 5-419.*, SAE by a combination of six OPS codes for selective embolization (particles, coils, and liquid agents). Non-operative management (NOM) comprised all remaining cases. Hospital bed-size categories served as proxies for care level and interventional radiology (IR) infrastructure. A chi-squared test assessed the association between hospital size and SAE utilization. A total of 14,422 inpatient splenic trauma cases were identified between 2019 and 2025 (mean 2,060 per year). SAE cases increased from 50 (4.3% of interventional cases) in 2019 to 81 (6.9%) in 2025, representing a 62% relative increase. Operative case volume remained stable throughout (- 0.9%). Hospital size was a highly significant determinant of SAE utilization (p < 0.001). SAE was effectively absent in hospitals with fewer than 150 beds, reached 2.6-2.7% in regional and secondary care centers, and 14.8% in maximal care and university hospitals. SAE utilization has increased by 62% in Germany between 2019 and 2025, yet remains substantially below guideline recommendations across all hospital categories. The absolute increase in SAE rate corresponded to 1.25% points as a proportion of all splenic trauma cases (95% CI 0.2-2.3 pp). The finding that even major centers with established IR achieved an SAE rate of 14.8% of interventional splenic trauma cases points to persistent structural and process-related barriers. These data support targeted efforts to integrate SAE pathways systematically into certified trauma center care.",
+          "doi": "10.1007/s00068-026-03402-2",
+          "journal_ta": "Eur J Trauma Emerg Surg",
+          "volume": "52",
+          "issue": "1",
+          "pub_year": "2026",
+          "pub_month": "Nov",
+          "pages": "",
+          "pub_types": [
+            "Journal Article",
+            "Comparative Study"
+          ],
+          "section": "Article",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43097133/",
+          "doi_url": "https://doi.org/10.1007/s00068-026-03402-2",
+          "journal_key": "ejtes"
+        },
         {
           "pmid": "43084081",
           "title": "Localised geographic and socioeconomic inequalities in prehospital trauma care access for road traffic collisions in England: a spatial autocorrelation analysis.",
@@ -15355,60 +15403,6 @@
           "section": "Article",
           "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42550258/",
           "doi_url": "https://doi.org/10.1007/s00068-026-03290-6",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42525279",
-          "title": "Patterns of patient worry following major emergency abdominal surgery: a 180-day follow-up study.",
-          "authors": [
-            "Parner MK",
-            "Jensen LR",
-            "Gamst-Jensen H",
-            "Burcharth J",
-            "Kokotovic D"
-          ],
-          "abstract": "PURPOSE: Major emergency abdominal surgery is associated with high postoperative morbidity and mortality. Beyond physical complications, patients experience psychological distress. This study aimed to describe the distribution of patient-reported worry across independent cross-sectional samples and its association with Days Alive and out of Hospital (DAOH) over 180 days postoperatively.\n\nMETHODS: Prospective cohort at Copenhagen University Hospital Herlev (March 30, 2023-March 31, 2024). Degree of Worry (DOW) was surveyed at discharge and postoperative day (POD) 30, 90, and 180, categorized as physical, mental, and physical-generic domains of worry. DAOH was computed cumulatively and incrementally for 0-30, 30-90, and 90-180 days. Associations between high DOW (hDOW) and subsequent DAOH were tested with Mann-Whitney U.\n\nRESULTS: hDOW was reported by 36.1% at discharge, 22.4% at POD 30, 45.0% at POD 90, and 32.0% at POD 180. Across 180 days, the most frequent worries were relapse (21.3%), disease (14.1%), functional level (12.0%) and daily living (9.1%). The proportion of physical worries was significantly higher at POD 30 than at discharge and significantly lower at POD 180; mental worries varied between time points without statistically significant differences. hDOW at POD 30 was associated with fewer cumulative DAOH by POD 90 (p = 0.008).\n\nCONCLUSION: Patient-reported worry following major emergency abdominal surgery demonstrates meaningful variation over time. Physical worries peak during early recovery, whereas mental worry varied across timepoints. hDOW at POD 30 is associated with reduced DAOH by POD 90, highlighting the relevance of monitoring patient-reported worry during early postoperative recovery.",
-          "doi": "10.1007/s00068-026-03287-1",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42525279/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03287-1",
-          "journal_key": "ejtes"
-        },
-        {
-          "pmid": "42525160",
-          "title": "Outcomes and complications of metallic vs. bioabsorbable screw fixation for displaced medial epicondylar fractures in pediatric and adolescent patients.",
-          "authors": [
-            "Jhala T",
-            "Scherer S",
-            "Esser M",
-            "Lieber J",
-            "Fuchs J",
-            "Dietzel M"
-          ],
-          "abstract": "PURPOSE: The use of bioabsorbable screws in orthopedics and trauma surgery is increasing. The major advantage of not having to remove the implant is of particular interest in pediatric surgery. Due to drawbacks, most notably implant fracture, bioabsorbable screw osteosynthesis has not yet surpassed the gold standard of metallic screw osteosynthesis. This single-centre study compares metallic screw and bioabsorbable screw osteosynthesis of medial humeral epicondyle fractures in children and adolescents over a two-year period.\n\nMATERIALS AND METHODS: Retrospective analysis of surgically treated (screw fixation with either bioabsorbable magnesium-based or metallic screw) patients with a medial humeral epicondyle fracture between 2020 and 2022 at the author's institution.\n\nRESULTS: Seventeen patients with medial epicondyle fractures underwent surgical treatment using either bioabsorbable screws (n = 8) or metallic screws (n = 9). Baseline characteristics, surgical approach, and postoperative care were similar between groups. Two complications (Clavien-Dindo I) occurred in the bioabsorbable group due to implant failure (screw breakage), though without clinical sequelae. These implant failures led to a significantly increased number of postoperative radiographs in the bioabsorbable group (median 4.8 vs. 2.5; p = 0.014). Functional outcomes (LOM, MEPI) and follow-up durations were comparable between groups.\n\nCONCLUSION: Bioabsorbable screws appear to be a promising alternative to conventional metallic fixation in the treatment of pediatric medial epicondyle fractures. Although screw breakage-and the associated increase in radiographic surveillance-remains a notable concern, advances in biomaterial technology may help reduce this complication in the future.",
-          "doi": "10.1007/s00068-026-03278-2",
-          "journal_ta": "Eur J Trauma Emerg Surg",
-          "volume": "52",
-          "issue": "1",
-          "pub_year": "2026",
-          "pub_month": "Jul",
-          "pages": "",
-          "pub_types": [
-            "Journal Article",
-            "Comparative Study"
-          ],
-          "section": "Article",
-          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42525160/",
-          "doi_url": "https://doi.org/10.1007/s00068-026-03278-2",
           "journal_key": "ejtes"
         }
       ]
